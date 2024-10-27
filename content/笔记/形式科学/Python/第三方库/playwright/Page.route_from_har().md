@@ -1,0 +1,15 @@
+##### Page.route_from_har()
+- `Page.route_from_har()` -> NoneType
+	- 
+	- `har`: `Union[str, pathlib.Path]`
+		- 
+	- `not_found`: `"abort"|"fallback" (optional)`
+		- 
+	- `update`: `bool (optional)`
+		- 
+	- `update_content`: `"embed"|"attach" (optional)`
+		- 
+	- `update_mode`: `"full"|"minimal" (optional)`
+		- 
+	- `url`: `str|Pattern (optional)`
+		- 

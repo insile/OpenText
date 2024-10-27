@@ -1,0 +1,13 @@
+##### Page.locator()
+- `Page.locator()` -> [[class Locator|Locator]]
+	- 
+	- `selector`: `str`
+		- 
+	- `has`: `Locator (optional)`
+		- 
+	- `has_not`: `Locator (optional)`
+		- 
+	- `has_not_text`: `str|Pattern (optional)`
+		- 
+	- `has_text`: `str|Pattern (optional)`
+		- 

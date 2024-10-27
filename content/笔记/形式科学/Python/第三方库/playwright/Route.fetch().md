@@ -1,0 +1,15 @@
+##### Route.fetch()
+- `Route.fetch()` -> [[class APIResponse|APIResponse]]
+	- 
+	- `headers`: `Dict[str, str] (optional)`
+		- 
+	- `max_redirects`: `int (optional)`
+		- 
+	- `method`: `str (optional)`
+		- 
+	- `post_data`: `str|bytes|Serializable (optional)`
+		- 
+	- `timeout`: `float (optional)`
+		- 
+	- `url`: `str (optional)`
+		- 

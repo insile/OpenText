@@ -1,0 +1,11 @@
+##### Selectors.register()
+- `Selectors.register()` -> NoneType
+	- 
+	- `name`: `str`
+		- 
+	- `script`: `str (optional)`
+		- 
+	- `content_script`: `bool (optional)`
+		- 
+	- `path`: `Union[str, pathlib.Path] (optional)`
+		- 

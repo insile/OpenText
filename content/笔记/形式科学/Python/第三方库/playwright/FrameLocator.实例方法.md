@@ -1,0 +1,11 @@
+##### FrameLocator.实例方法
+- [[FrameLocator.frame_locator()]]
+- [[FrameLocator.get_by_alt_text()]]
+- [[FrameLocator.get_by_label()]]
+- [[FrameLocator.get_by_placeholder()]]
+- [[FrameLocator.get_by_role()]]
+- [[FrameLocator.get_by_test_id()]]
+- [[FrameLocator.get_by_text()]]
+- [[FrameLocator.get_by_title()]]
+- [[FrameLocator.locator()]]
+- [[FrameLocator.nth()]]

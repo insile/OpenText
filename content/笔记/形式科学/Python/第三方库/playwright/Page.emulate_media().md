@@ -1,0 +1,11 @@
+##### Page.emulate_media()
+- `Page.emulate_media()` -> NoneType
+	- 
+	- `color_scheme`: `"light"|"dark"|"no-preference"|"null" (optional)`
+		- 
+	- `forced_colors`: `"active"|"none"|"null" (optional)`
+		- 
+	- `media`: `"screen"|"print"|"null" (optional)`
+		- 
+	- `reduced_motion`: `"reduce"|"no-preference"|"null" (optional)`
+		- 

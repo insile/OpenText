@@ -1,0 +1,11 @@
+##### Page.wait_for_function()
+- `Page.wait_for_function()` -> [[class JSHandle|JSHandle]]
+	- 
+	- `expression`: `str`
+		- 
+	- `arg`: `EvaluationArgument (optional)`
+		- 
+	- `polling`: `float|"raf" (optional)`
+		- 
+	- `timeout`: `float (optional)`
+		- 

@@ -1,0 +1,11 @@
+##### Page.add_script_tag()
+- `Page.add_script_tag()` -> [[class ElementHandle|ElementHandle]]
+	- 
+	- `content`: `str (optional)`
+		- 
+	- `path`: `Union[str, pathlib.Path] (optional)`
+		- 
+	- `type`: `str (optional)`
+		- 
+	- `url`: `str (optional)`
+		- 

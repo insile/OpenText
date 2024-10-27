@@ -1,0 +1,39 @@
+##### Page.事件
+- `Page.on("close")` - [[class Page|Page]]
+    - 监听页面关闭事件
+- `Page.on("console")` - [[class ConsoleMessage|ConsoleMessage]]
+    - 监听页面控制台消息事件
+- `Page.on("crash")` - [[class Page|Page]]
+    - 监听页面崩溃事件
+- `Page.on("dialog")` - [[class Dialog|Dialog]]
+    - 监听页面对话框事件
+- `Page.on("domcontentloaded")` - [[class Page|Page]]
+    - 监听页面 DOMContentLoaded 事件
+- `Page.on("download")` - [[class Download|Download]]
+    - 监听页面下载事件
+- `Page.on("filechooser")` - [[class FileChooser|FileChooser]]
+    - 监听页面文件选择器事件
+- `Page.on("frameattached")` - [[class Frame|Frame]]
+    - 监听页面 frame 附加事件
+- `Page.on("framedetached")` - [[class Frame|Frame]]
+    - 监听页面 frame 分离事件
+- `Page.on("framenavigated")` - [[class Frame|Frame]]
+    - 监听页面 frame 导航事件
+- `Page.on("load")` - [[class Page|Page]]
+    - 监听页面加载完成事件
+- `Page.on("pageerror")` - [[class Error|Error]]
+    - 监听页面错误事件
+- `Page.on("popup")` - [[class Page|Page]]
+    - 监听页面弹出窗口事件
+- `Page.on("request")` - [[class Request|Request]]
+    - 监听页面网络请求事件
+- `Page.on("requestfailed")` - [[class Request|Request]]
+    - 监听页面网络请求失败事件
+- `Page.on("requestfinished")` - [[class Request|Request]]
+    - 监听页面网络请求完成事件
+- `Page.on("response")` - [[class Response|Response]]
+    - 监听页面网络响应事件
+- `Page.on("websocket")` - [[class WebSocket|WebSocket]]
+    - 监听页面 WebSocket 连接事件
+- `Page.on("worker")` - [[class Worker|Worker]]
+    - 监听页面 Worker 事件

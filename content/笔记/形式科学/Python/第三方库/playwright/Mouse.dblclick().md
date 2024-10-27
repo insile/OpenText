@@ -1,0 +1,11 @@
+##### Mouse.dblclick()
+- `Mouse.dblclick()` -> NoneType
+	- 
+	- `x`: `float`
+		- 
+	- `y`: `float`
+		- 
+	- `button`: `"left"|"right"|"middle" (optional)`
+		- 
+	- `delay`: `float (optional)`
+		- 

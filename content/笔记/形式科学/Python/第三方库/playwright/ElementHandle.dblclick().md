@@ -1,0 +1,19 @@
+##### ElementHandle.dblclick()
+- `ElementHandle.dblclick()` -> NoneType
+	- 
+	- `button`: `"left"|"right"|"middle" (optional)`
+		- 
+	- `delay`: `float (optional)`
+		- 
+	- `force`: `bool (optional)`
+		- 
+	- `modifiers`: `List["Alt"|"Control"|"Meta"|"Shift"] (optional)`
+		- 
+	- `no_wait_after`: `bool (optional)`
+		- 
+	- `position`: `Dict (optional)`
+		- 
+	- `timeout`: `float (optional)`
+		- 
+	- `trial`: `bool (optional)`
+		- 

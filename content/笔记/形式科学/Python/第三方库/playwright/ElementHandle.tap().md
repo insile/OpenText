@@ -1,0 +1,15 @@
+##### ElementHandle.tap()
+- `ElementHandle.tap()` -> NoneType
+	- 
+	- `force`: `bool (optional)`
+		- 
+	- `modifiers`: `List["Alt"|"Control"|"Meta"|"Shift"] (optional)`
+		- 
+	- `no_wait_after`: `bool (optional)`
+		- 
+	- `position`: `Dict (optional)`
+		- 
+	- `timeout`: `float (optional)`
+		- 
+	- `trial`: `bool (optional)`
+		- 

@@ -1,0 +1,11 @@
+##### Response.实例方法
+- [[Response.all_headers()]]
+- [[Response.body()]]
+- [[Response.finished()]]
+- [[Response.header_value()]]
+- [[Response.header_values()]]
+- [[Response.headers_array()]]
+- [[Response.json()]]
+- [[Response.security_details()]]
+- [[Response.server_addr()]]
+- [[Response.text()]]

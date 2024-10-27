@@ -1,0 +1,17 @@
+##### ElementHandle.select_option()
+- `ElementHandle.select_option()` -> List[str]
+	- 
+	- `force`: `bool (optional)`
+		- 
+	- `no_wait_after`: `bool (optional)`
+		- 
+	- `timeout`: `float (optional)`
+		- 
+	- `element`: `ElementHandle|List[ElementHandle] (optional)`
+		- 
+	- `index`: `int|List[int] (optional)`
+		- 
+	- `value`: `str|List[str] (optional)`
+		- 
+	- `label`: `str|List[str] (optional)`
+		- 

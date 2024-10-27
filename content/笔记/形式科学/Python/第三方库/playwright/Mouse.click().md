@@ -1,0 +1,13 @@
+##### Mouse.click()
+- `Mouse.click()` -> NoneType
+	- 
+	- `x`: `float`
+		- 
+	- `y`: `float`
+		- 
+	- `button`: `"left"|"right"|"middle" (optional)`
+		- 
+	- `click_count`: `int (optional)`
+		- 
+	- `delay`: `float (optional)`
+		- 
