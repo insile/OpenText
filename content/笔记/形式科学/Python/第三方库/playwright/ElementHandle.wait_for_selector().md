@@ -1,0 +1,11 @@
+##### ElementHandle.wait_for_selector()
+- `ElementHandle.wait_for_selector()` -> NoneType|ElementHandle
+	- 
+	- `selector`: `str`
+		- 
+	- `state`: `"attached"|"detached"|"visible"|"hidden" (optional)`
+		- 
+	- `strict`: `bool (optional)`
+		- 
+	- `timeout`: `float (optional)`
+		- 

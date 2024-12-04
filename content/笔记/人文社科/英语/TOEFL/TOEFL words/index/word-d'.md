@@ -1,0 +1,122 @@
+---
+tags:
+  - English
+finished:
+---
+- [ ] dam
+- [ ] damp
+- [ ] date from
+- [ ] dated
+- [x] dawn
+- [ ] day in and day out
+- [ ] dealer
+- [ ] debris
+- [ ] debut
+- [x] deceive
+- [x] decent
+- [ ] deceptive
+- [ ] deciduous
+- [ ] decipher
+- [x] decompose
+- [ ] decorate
+- [ ] defect
+- [x] deficiency
+- [x] deform
+- [ ] delegate
+- [ ] deliberate
+- [x] delicate
+- [x] delight
+- [x] deliver
+- [ ] demanding
+- [ ] democrat
+- [ ] democratic
+- [ ] demolish
+- [x] denote
+- [ ] depart
+- [x] depend on
+- [ ] depict
+- [ ] deplete
+- [ ] deposit
+- [x] depression
+- [ ] deprive
+- [ ] derive from
+- [x] descend
+- [x] descent
+- [ ] deserted
+- [ ] designate
+- [ ] desolate
+- [ ] deter
+- [ ] deteriorate
+- [ ] detest
+- [ ] devastate
+- [x] devise
+- [x] devoid
+- [ ] devour
+- [ ] diagonal
+- [ ] dialect
+- [ ] diameter
+- [ ] dictate
+- [ ] diction
+- [ ] die away
+- [ ] differentiate
+- [x] diffuse
+- [x] digestive
+- [ ] dignity
+- [x] dilute
+- [x] diminish
+- [x] dinosaur
+- [x] dioxide
+- [ ] diplomat
+- [ ] director
+- [ ] discard
+- [ ] discern
+- [x] discharge
+- [ ] discipline
+- [ ] discount
+- [ ] discrete
+- [ ] discrimination
+- [ ] disguise
+- [ ] disintegrate
+- [x] dismal
+- [ ] dismay
+- [ ] disorder
+- [x] displace
+- [ ] dispute
+- [ ] disrupt
+- [ ] disseminate
+- [ ] dissolve
+- [ ] distinct
+- [x] distinguish
+- [x] distort
+- [ ] distract
+- [ ] distress
+- [x] distribute
+- [ ] disturbance
+- [ ] dive
+- [x] diverse
+- [ ] diversification
+- [ ] divert
+- [ ] division
+- [ ] do with
+- [ ] doctrine
+- [x] documentary
+- [ ] documentation
+- [ ] domestic
+- [ ] dormant
+- [ ] draft
+- [ ] drain
+- [ ] drastic
+- [ ] dress up
+- [ ] drift
+- [ ] drill
+- [ ] drop off
+- [ ] drop out
+- [ ] drought
+- [ ] dubious
+- [ ] ductile
+- [ ] dull
+- [ ] dump
+- [x] duplicate
+- [x] durable
+- [ ] dwarf
+- [ ] dwelling

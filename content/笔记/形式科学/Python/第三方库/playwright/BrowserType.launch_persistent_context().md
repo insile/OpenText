@@ -1,0 +1,101 @@
+##### BrowserType.launch_persistent_context()
+- `BrowserType.launch_persistent_context()` -> [[class BrowserContext|BrowserContext]]
+	- 
+	- `user_data_dir`: `Union[str, pathlib.Path]`
+		- 
+	- `accept_downloads`: `bool (optional)`
+		- 
+	- `args`: `List[str] (optional)`
+		- 
+	- `base_url`: `str (optional)`
+		- 
+	- `bypass_csp`: `bool (optional)`
+		- 
+	- `channel`: `str (optional)`
+		- 
+	- `chromium_sandbox`: `bool (optional)`
+		- 
+	- `color_scheme`: `"light"|"dark"|"no-preference"|"null" (optional)`
+		- 
+	- `device_scale_factor`: `float (optional)`
+		- 
+	- `devtools`: `bool (optional)`
+		- 
+	- `downloads_path`: `Union[str, pathlib.Path] (optional)`
+		- 
+	- `env`: `Dict[str, str|float|bool] (optional)`
+		- 
+	- `executable_path`: `Union[str, pathlib.Path] (optional)`
+		- 
+	- `extra_http_headers`: `Dict[str, str] (optional)`
+		- 
+	- `firefox_user_prefs`: `Dict[str, str|float|bool] (optional)`
+		- 
+	- `forced_colors`: `"active"|"none"|"null" (optional)`
+		- 
+	- `geolocation`: `Dict (optional)`
+		- 
+	- `handle_sighup`: `bool (optional)`
+		- 
+	- `handle_sigint`: `bool (optional)`
+		- 
+	- `handle_sigterm`: `bool (optional)`
+		- 
+	- `has_touch`: `bool (optional)`
+		- 
+	- `headless`: `bool (optional)`
+		- 
+	- `http_credentials`: `Dict (optional)`
+		- 
+	- `ignore_default_args`: `bool|List[str] (optional)`
+		- 
+	- `ignore_https_errors`: `bool (optional)`
+		- 
+	- `is_mobile`: `bool (optional)`
+		- 
+	- `java_script_enabled`: `bool (optional)`
+		- 
+	- `locale`: `str (optional)`
+		- 
+	- `no_viewport`: `bool (optional)`
+		- 
+	- `offline`: `bool (optional)`
+		- 
+	- `permissions`: `List[str] (optional)`
+		- 
+	- `proxy`: `Dict (optional)`
+		- 
+	- `record_har_content`: `"omit"|"embed"|"attach" (optional)`
+		- 
+	- `record_har_mode`: `"full"|"minimal" (optional)`
+		- 
+	- `record_har_omit_content`: `bool (optional)`
+		- 
+	- `record_har_path`: `Union[str, pathlib.Path] (optional)`
+		- 
+	- `record_har_url_filter`: `str|Pattern (optional)`
+		- 
+	- `record_video_dir`: `Union[str, pathlib.Path] (optional)`
+		- 
+	- `record_video_size`: `Dict (optional)`
+		- 
+	- `reduced_motion`: `"reduce"|"no-preference"|"null" (optional)`
+		- 
+	- `screen`: `Dict (optional)`
+		- 
+	- `service_workers`: `"allow"|"block" (optional)`
+		- 
+	- `slow_mo`: `float (optional)`
+		- 
+	- `strict_selectors`: `bool (optional)`
+		- 
+	- `timeout`: `float (optional)`
+		- 
+	- `timezone_id`: `str (optional)`
+		- 
+	- `traces_dir`: `Union[str, pathlib.Path] (optional)`
+		- 
+	- `user_agent`: `str (optional)`
+		- 
+	- `viewport`: `NoneType|Dict (optional)`
+		- 

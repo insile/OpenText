@@ -1,0 +1,13 @@
+##### Browser.实例方法
+- [[Browser.close()]]
+	- 关闭浏览器实例
+- [[Browser.new_browser_cdp_session()]]
+	- 创建一个新的浏览器 CDP 会话
+- [[Browser.new_context()]]
+	- 创建一个新的浏览器上下文
+- [[Browser.new_page()]]
+	- 创建一个新的页面实例
+- [[Browser.start_tracing()]]
+	- 开始跟踪浏览器操作
+- [[Browser.stop_tracing()]]
+	- 停止跟踪浏览器操作

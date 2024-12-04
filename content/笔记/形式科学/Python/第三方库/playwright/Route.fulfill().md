@@ -1,0 +1,17 @@
+##### Route.fulfill()
+- `Route.fulfill()` -> NoneType
+	- 
+	- `body`: `str|bytes (optional)`
+		- 
+	- `content_type`: `str (optional)`
+		- 
+	- `headers`: `Dict[str, str] (optional)`
+		- 
+	- `json`: `Serializable (optional)`
+		- 
+	- `path`: `Union[str, pathlib.Path] (optional)`
+		- 
+	- `response`: `APIResponse (optional)`
+		- 
+	- `status`: `int (optional)`
+		- 

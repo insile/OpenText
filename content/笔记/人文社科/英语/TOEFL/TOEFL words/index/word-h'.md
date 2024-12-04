@@ -1,0 +1,90 @@
+---
+tags:
+  - English
+finished: true
+---
+- [ ] habitat
+- [ ] hail
+- [x] hammer
+- [ ] hamper
+- [x] hand out
+- [ ] hands down
+- [ ] handy
+- [ ] hang around
+- [ ] hang on to
+- [x] hang out
+- [ ] harbor
+- [x] hardware
+- [ ] hardy
+- [x] harmony
+- [ ] harness
+- [ ] harsh
+- [x] haste
+- [ ] hatch
+- [x] haul
+- [ ] haunt
+- [ ] have in mind
+- [x] have nothing to do with
+- [x] haven
+- [ ] hawk
+- [ ] hay
+- [ ] hazard
+- [ ] head and shoulders above
+- [x] heading
+- [ ] hear from
+- [ ] heed
+- [ ] help out
+- [x] hemisphere
+- [ ] henceforth
+- [ ] herald
+- [ ] herb
+- [ ] herd
+- [ ] heritage
+- [ ] hibernation
+- [x] hide
+- [ ] hierarchy
+- [ ] hieratic
+- [ ] hieroglyph
+- [ ] highlight
+- [x] hike
+- [ ] hind
+- [ ] hinder
+- [x] hint
+- [ ] hinterland
+- [ ] hit the ceiling
+- [ ] hitherto
+- [x] hive
+- [ ] hockey
+- [ ] hold back
+- [x] hold on
+- [ ] hold one's breath
+- [ ] hold up
+- [x] hollow
+- [ ] homestead
+- [ ] homing
+- [ ] hominid
+- [ ] homogeneous
+- [x] hook
+- [x] horizon
+- [x] horizontal
+- [ ] hormone
+- [ ] horn
+- [ ] hospitable
+- [x] host
+- [ ] hostile
+- [ ] household
+- [ ] hover
+- [ ] huddle
+- [ ] hue
+- [ ] hum
+- [x] humanity
+- [ ] humid
+- [ ] hummingbird
+- [ ] hunt for
+- [ ] hurl
+- [ ] hurricane
+- [ ] husk
+- [ ] hydrogen
+- [ ] hydrothermal
+- [ ] hygiene
+- [x] hypothesize

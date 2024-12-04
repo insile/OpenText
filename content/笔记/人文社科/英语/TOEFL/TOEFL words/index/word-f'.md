@@ -1,0 +1,133 @@
+---
+tags:
+  - English
+finished:
+---
+- [ ] fabric
+- [ ] fabricate
+- [ ] facade
+- [ ] facial
+- [ ] facilitate
+- [ ] facility
+- [x] factor
+- [ ] factual
+- [x] faculty
+- [x] fade
+- [ ] fade away
+- [ ] Fahrenheit
+- [ ] faint
+- [x] fair
+- [ ] fairly
+- [ ] fall apart
+- [x] fall asleep
+- [ ] fall back on
+- [x] familiarize
+- [x] fancy
+- [x] fantasy
+- [ ] fare
+- [x] fascinate
+- [x] fashion
+- [ ] fasten
+- [ ] fatal
+- [x] fatigue
+- [ ] faucet
+- [x] fault
+- [ ] fauna
+- [ ] favorable
+- [ ] favored
+- [ ] feasible
+- [ ] feat
+- [ ] federal
+- [ ] feeble
+- [ ] feed on
+- [ ] fellow
+- [ ] fellowship
+- [ ] female
+- [ ] feminist
+- [ ] ferment
+- [ ] fertile
+- [ ] fertilize
+- [ ] feudal
+- [ ] fiber
+- [ ] fiction
+- [ ] findelity
+- [x] figure out
+- [x] file
+- [x] fill in
+- [x] fill out
+- [ ] fill up
+- [x] filter
+- [ ] fin
+- [x] finance
+- [ ] finch
+- [x] find out
+- [x] firm
+- [ ] fit in
+- [x] fitness
+- [x] flag
+- [ ] flagellum
+- [ ] flake
+- [x] flame
+- [ ] flap
+- [x] flask [completion:: 2024-09-12 11:22:19]
+- [ ] flat
+- [ ] flavoring
+- [x] flexible
+- [ ] flint
+- [x] float
+- [ ] flora
+- [ ] flourish
+- [ ] fluctuate
+- [ ] flux
+- [x] focus on
+- [x] fold
+- [ ] foliage
+- [ ] folklore
+- [ ] foment
+- [ ] for instance
+- [ ] for sure
+- [ ] for the sake of
+- [ ] forage
+- [ ] forecast
+- [ ] forefront
+- [ ] foremost
+- [ ] foreshorten
+- [x] formal
+- [x] format
+- [x] formation
+- [ ] former
+- [ ] formidable
+- [ ] [[formulate]]
+- [ ] fort
+- [ ] fortuitous
+- [ ] fortune
+- [ ] fossil
+- [ ] foster
+- [ ] fountain
+- [x] fraction
+- [x] fracture
+- [x] fragile
+- [x] fragment
+- [x] fragrant
+- [ ] frame
+- [ ] fray
+- [ ] freight
+- [ ] frenzy
+- [ ] fresco
+- [ ] friction
+- [ ] frigid
+- [ ] from now on
+- [ ] from time to time
+- [x] from top to bottom
+- [x] frost
+- [ ] frugal
+- [x] frustrate
+- [ ] fulfill
+- [x] function
+- [ ] fund
+- [x] fundamental
+- [ ] funding
+- [x] fungus
+- [ ] furnace
+- [ ] furnish
+- [x] fuse

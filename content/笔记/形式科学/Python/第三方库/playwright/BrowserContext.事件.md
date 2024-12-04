@@ -1,0 +1,23 @@
+##### BrowserContext.事件
+- `BrowserContext.on("backgroundpage")` - [[class Page|Page]]
+	- 监听浏览器上下文的后台页面事件
+- `BrowserContext.on("close")` - [[class BrowserContext|BrowserContext]]
+	- 监听浏览器上下文关闭事件
+- `BrowserContext.on("console")` - [[class ConsoleMessage|ConsoleMessage]]
+	- 监听浏览器上下文的控制台消息事件
+- `BrowserContext.on("dialog")` - [[class Dialog|Dialog]]
+	- 监听浏览器上下文的对话框事件
+- `BrowserContext.on("page")` - [[class Page|Page]]
+	- 监听浏览器上下文的页面事件
+- `BrowserContext.on("request")` - [[class Request|Request]]
+	- 监听浏览器上下文的网络请求事件
+- `BrowserContext.on("requestfailed")` - [[class Request|Request]]
+	- 监听浏览器上下文的网络请求失败事件
+- `BrowserContext.on("requestfinished")` - [[class Request|Request]]
+	- 监听浏览器上下文的网络请求完成事件
+- `BrowserContext.on("response")` - [[class Response|Response]]
+	- 监听浏览器上下文的网络响应事件
+- `BrowserContext.on("serviceworker")` - [[class Worker|Worker]]
+	- 监听浏览器上下文的 Service Worker 事件
+- `BrowserContext.on("weberror")` - [[class WebError|WebError]]
+	- 监听浏览器上下文的 Web 错误事件

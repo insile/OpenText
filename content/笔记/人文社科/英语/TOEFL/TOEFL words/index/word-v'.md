@@ -1,0 +1,59 @@
+---
+tags:
+  - English
+finished: true
+---
+- [ ] vacant
+- [ ] vacate
+- [ ] vaccine
+- [ ] vacuum
+- [ ] vagus
+- [x] valid
+- [x] valve
+- [x] vanish
+- [x] vapor
+- [x] variable
+- [x] varied
+- [ ] varnish
+- [ ] vascular
+- [ ] vault
+- [ ] vegetarian
+- [x] vehicle
+- [ ] vein
+- [ ] velocity
+- [ ] vent
+- [ ] venture
+- [ ] verbal
+- [ ] versatile
+- [ ] verse
+- [x] version
+- [ ] vertebrate
+- [x] vertical
+- [ ] vessel
+- [ ] veto
+- [ ] viable
+- [x] vibrate
+- [x] vibration
+- [ ] vice
+- [ ] vicinity
+- [ ] vigorous
+- [x] violent
+- [x] violently
+- [x] viral
+- [x] virtually
+- [ ] virtue
+- [x] virus
+- [x] visible
+- [ ] vista
+- [x] visual
+- [ ] vital
+- [x] vivid
+- [x] vocal
+- [ ] vocation
+- [ ] volatile
+- [x] volcano
+- [x] volume
+- [x] volunteer
+- [x] vote for
+- [x] voyage
+- [ ] vulnerable

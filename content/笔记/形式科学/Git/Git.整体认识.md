@@ -1,0 +1,57 @@
+##### 整体认识
+- 整体认识
+	- 远程仓库
+		- 使用一个包含 `README.md` 的[GitHub 仓库](https://github.com/new), 这代表已经被[[Git.仓库|初始化]]可以被克隆
+			- `https://github.com/<user>/<repository>.git`
+	- 克隆仓库
+		- 首先将[[Git.仓库|远程仓库]][[git clone|克隆]]到本地, 并进入目录
+			- `git clone https://github.com/<user>/<repository>.git`
+			- `cd repository`
+	- 创建新分支
+		- 为了避免直接在 `main` [[Git.分支|主分支]]上进行开发, 通常会[[git branch|创建]]一个新的分支, 并[[git switch|切换]]到这个新分支然后设置上游分支, 可以[[git branch|查看]]分支信息
+			- `git branch new-readme`
+			- `git branch -vv`
+			- `git switch new-readme`
+			- `git branch -vv`
+			- `git branch -u origin/main`
+	- 编辑工作区
+		- 在[[Git.分区|工作区]]中进行编辑, 为 `README.md` 新增内容, 可[[git status|查看]]文件状态
+			- `echo 说明 >> README.md` 
+			- `git status`
+	- 暂存文件
+		- 将修改过的文件[[git add|添加]]到[[Git.分区|暂存区]], 以便进行下一步的提交操作
+			- `git add README.md`
+		- 或者添加所有修改的文件
+			- `git add .`
+	- 提交更改
+		- 将暂存区的更改[[git commit|提交]]到[[Git.分区|版本库]], 并添加提交信息, 可[[git log|查看]]提交记录
+			- `git commit -m "Add new readme"`
+			- `git log`
+	- 拉取最新更改
+		- 在推送本地更改之前, 最好从远程仓库[[git pull|拉取]]最新的更改, 以避免[[Git.分支|冲突]], 因为远程仓库可能先被别人更新
+			- `git pull origin main`
+	- 推送更改
+		- 将本地的提交[[git push|推送]]到远程仓库 `main` 分支
+			- `git push origin HEAD:main`
+		- 更新本地主分支, 如果不再需要新功能分支, 可以将其[[git branch|删除]]
+			- `git switch main`
+			- `git pull origin main`
+			- `git branch -d new-readme`
+- 分叉仓库
+	- 分叉仓库
+		- 如果远程仓库是别人项目仓库的分叉 `fork`, 则可以通过拉取请求 Pull Request (PR) 对项目做出贡献
+	- 分叉拉取最新更改
+		- 这首先需要与被分叉的仓库保持同步, 首先新[[git remote|添加]]被分叉仓库的上游跟踪, 然后[[git pull|拉取]]更改
+			- `git remote add upstream <forkurl>`
+			- `git pull upstream main`
+	- 推送更改
+		- 将本地的提交[[git push|推送]]到远程仓库 `main` 分支
+			- `git push origin HEAD:main`
+	- 拉取请求
+		- 在 GitHub 上创建 PR, 邀请团队成员进行代码审查. PR 合并后, 你的更改就会合并到项目分支. 不能像自己仓库一样直接推送
+	- 合并更改
+		- 在 PR 审核通过并合并后, 可以将被分叉远程仓库的主分支[[git pull|合并]]到本地主分支
+			- `git switch main`
+			- `git pull origin upstream`
+			- `git branch -d new-readme`
+

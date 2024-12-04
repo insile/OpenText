@@ -1,0 +1,37 @@
+##### BrowserType.launch()
+- `BrowserType.launch()` -> [[class Browser|Browser]]
+	- 
+	- `args`: `List[str] (optional)`
+		- 
+	- `channel`: `str (optional)`
+		- 
+	- `chromium_sandbox`: `bool (optional)`
+		- 
+	- `devtools`: `bool (optional)`
+		- 
+	- `downloads_path`: `Union[str, pathlib.Path] (optional)`
+		- 
+	- `env`: `Dict[str, str|float|bool] (optional)`
+		- 
+	- `executable_path`: `Union[str, pathlib.Path] (optional)`
+		- 
+	- `firefox_user_prefs`: `Dict[str, str|float|bool] (optional)`
+		- 
+	- `handle_sighup`: `bool (optional)`
+		- 
+	- `handle_sigint`: `bool (optional)`
+		- 
+	- `handle_sigterm`: `bool (optional)`
+		- 
+	- `headless`: `bool (optional)`
+		- 
+	- `ignore_default_args`: `bool|List[str] (optional)`
+		- 
+	- `proxy`: `Dict (optional)`
+		- 
+	- `slow_mo`: `float (optional)`
+		- 
+	- `timeout`: `float (optional)`
+		- 
+	- `traces_dir`: `Union[str, pathlib.Path] (optional)`
+		- 

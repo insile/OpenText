@@ -1,0 +1,151 @@
+---
+tags:
+  - English
+finished: true
+---
+- [ ] earn one's living
+- [x] ease
+- [x] Easter
+- [ ] eccentric
+- [x] eclipse
+- [x] ecology
+- [x] economy
+- [x] ecosystem
+- [ ] edible
+- [ ] edifice
+- [ ] editorial
+- [x] eject
+- [ ] elaborate
+- [ ] electricity
+- [x] elegant
+- [x] element
+- [ ] elementary
+- [ ] elevate
+- [ ] elicit
+- [ ] eligible
+- [ ] eliminate
+- [ ] elliptical
+- [ ] elm
+- [ ] eloquent
+- [ ] elusive
+- [x] embarrass
+- [ ] embellish
+- [ ] emblem
+- [ ] embody
+- [ ] embrace
+- [ ] embryo
+- [ ] emerald
+- [ ] emerge
+- [ ] eminent
+- [ ] emission
+- [ ] emit
+- [x] emotion
+- [ ] emotional
+- [ ] emphasize
+- [ ] enactment
+- [ ] encase
+- [ ] enclose
+- [ ] encompass
+- [x] encounter
+- [x] encourage
+- [ ] encroach
+- [ ] end up
+- [ ] endangered
+- [ ] endeavor
+- [ ] endow
+- [ ] endure
+- [ ] enforce
+- [ ] engaging
+- [x] engine
+- [ ] engraving
+- [ ] engulf
+- [ ] enhance
+- [ ] enlightenment
+- [ ] enormous
+- [ ] enrich
+- [ ] enroll
+- [ ] entail
+- [ ] enterprise
+- [ ] enterprising
+- [ ] entertain
+- [ ] enthusiasm
+- [ ] entitle
+- [ ] entry
+- [ ] envelop
+- [ ] enzyme
+- [ ] ephemeral
+- [x] epic
+- [ ] epidemic
+- [ ] episode
+- [ ] epitomize
+- [ ] epoch
+- [x] equal
+- [ ] equator
+- [ ] equivalent
+- [x] era
+- [ ] erect
+- [x] erode
+- [ ] errand
+- [x] erupt
+- [x] escape from
+- [x] essay
+- [x] essence
+- [x] essential
+- [x] establish
+- [ ] estate
+- [x] estimate
+- [x] eternal
+- [x] ethics
+- [ ] ethnic
+- [ ] evacuation
+- [x] evaluate
+- [ ] evaporate
+- [x] even
+- [x] even if
+- [ ] every other
+- [x] evidence
+- [ ] evident
+- [ ] evoke
+- [x] evolve
+- [ ] exaggerate
+- [ ] exalted
+- [ ] excavate
+- [ ] exceed
+- [x] except for
+- [x] excess
+- [x] exchange
+- [x] exclude
+- [ ] excursion
+- [x] execute
+- [ ] exemplary
+- [ ] exempt
+- [ ] exert
+- [ ] exhale
+- [x] exhaust
+- [x] exhibit
+- [ ] exhilarating
+- [ ] exotic
+- [x] expand
+- [ ] expedition
+- [x] expel
+- [ ] expertise
+- [ ] expire
+- [ ] explicit
+- [ ] explode
+- [ ] exploit
+- [x] explore
+- [ ] exponent
+- [ ] exposition
+- [x] exposure
+- [x] extend
+- [x] extension
+- [ ] extent
+- [ ] exterior
+- [x] external
+- [ ] extinct
+- [ ] extol
+- [x] extract
+- [ ] extraordinary
+- [ ] extravagant
+- [x] extreme
+- [ ] exuberant

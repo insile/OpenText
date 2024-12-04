@@ -1,0 +1,11 @@
+##### LocatorAssertions.to_have_text()
+- `LocatorAssertions.to_have_text()` -> NoneType
+	- 
+	- `expected`: `str|Pattern|List[str]|List[Pattern]|List[str|Pattern]`
+		- 
+	- `ignore_case`: `bool (optional)`
+		- 
+	- `timeout`: `float (optional)`
+		- 
+	- `use_inner_text`: `bool (optional)`
+		- 

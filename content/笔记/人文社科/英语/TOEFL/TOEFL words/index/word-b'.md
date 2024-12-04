@@ -1,0 +1,87 @@
+---
+tags:
+  - English
+datetime: 2024-04-06 17:15:14
+finished:
+---
+- [ ] back and front
+- [ ] backlighting
+- [x] balcony
+- [ ] barb
+- [ ] barge
+- [ ] barn
+- [ ] barren
+- [ ] barter
+- [ ] basin
+- [x] be absorbed in
+- [x] be accustomed to
+- [x] be addicted to
+- [x] be aware of 
+- [ ] be bound to
+- [ ] be bound up with
+- [ ] be capable of 
+- [ ] be characteristic of
+- [ ] be comparable to
+- [ ] be eager to
+- [ ] be engaged in
+- [ ] be essential to
+- [ ] be exposed to
+- [ ] be familiar with
+- [x] be involved in
+- [ ] be obliged to
+- [ ] be on edge
+- [x] be related to
+- [x] be relevant to
+- [ ] be responsible for
+- [ ] be similar to
+- [ ] be subjected to
+- [ ] be superior to
+- [ ] be supposed to
+- [x] be tired of
+- [ ] be traced to
+- [x] beaver
+- [ ] before long
+- [ ] benign
+- [ ] besiege
+- [x] biography
+- [ ] bland
+- [ ] bleach
+- [ ] blip
+- [x] blizzard
+- [x] board
+- [ ] bog
+- [ ] bold
+- [x] bond
+- [ ] botany
+- [ ] boulder
+- [ ] bound
+- [x] boundary
+- [ ] brass
+- [x] break down
+- [x] break through
+- [x] brighten
+- [x] bring up
+- [ ] brittle
+- [ ] brush
+- [ ] bubble
+- [ ] buck
+- [ ] buckle
+- [x] bud
+- [x] budget
+- [x] build up
+- [ ] bulb
+- [ ] bulk
+- [ ] bulletin
+- [ ] bump
+- [ ] bureau
+- [ ] burgeon
+- [ ] burrow
+- [ ] burst out
+- [x] by accident
+- [ ] by all means
+- [ ] by and by
+- [x] by chance
+- [ ] by far
+- [ ] by means of
+- [ ] by no means
+- [ ] by virtue of

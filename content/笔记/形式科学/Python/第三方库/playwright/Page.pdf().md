@@ -1,0 +1,33 @@
+##### Page.pdf()
+- `Page.pdf()` -> bytes
+	- 
+	- `display_header_footer`: `bool (optional)`
+		- 
+	- `footer_template`: `str (optional)`
+		- 
+	- `format`: `str (optional)`
+		- 
+	- `header_template`: `str (optional)`
+		- 
+	- `height`: `str|float (optional)`
+		- 
+	- `landscape`: `bool (optional)`
+		- 
+	- `margin`: `Dict (optional)`
+		- 
+	- `outline`: `bool (optional)`
+		- 
+	- `page_ranges`: `str (optional)`
+		- 
+	- `path`: `Union[str, pathlib.Path] (optional)`
+		- 
+	- `prefer_css_page_size`: `bool (optional)`
+		- 
+	- `print_background`: `bool (optional)`
+		- 
+	- `scale`: `float (optional)`
+		- 
+	- `tagged`: `bool (optional)`
+		- 
+	- `width`: `str|float (optional)`
+		- 

@@ -1,0 +1,74 @@
+---
+tags:
+  - English
+  - TOEFL
+finished:
+---
+- [x] oak
+- [ ] oasis
+- [ ] obedience
+- [ ] object to
+- [x] oblivious
+- [ ] obsess
+- [ ] obsolete
+- [x] obstacle
+- [ ] obstruct
+- [x] obtain
+- [x] occasional
+- [x] occupy
+- [x] occur
+- [ ] oceanographer
+- [ ] octopus
+- [x] odd
+- [ ] odor
+- [ ] offensive
+- [ ] offspring
+- [ ] olfactory
+- [ ] on account of
+- [x] on behalf of
+- [ ] on the basis of
+- [ ] on the whole
+- [ ] once and for all
+- [ ] one after another
+- [ ] onslaught
+- [ ] ooze
+- [ ] opal
+- [ ] opaque
+- [ ] opponent
+- [x] opportunity
+- [ ] oppose
+- [ ] opposite
+- [x] optical
+- [ ] optimal
+- [ ] optimistic
+- [ ] oral
+- [x] orbit
+- [x] orchestra
+- [ ] orchid
+- [ ] ore
+- [x] organic
+- [ ] orientation
+- [x] original
+- [x] originate
+- [ ] ornament
+- [ ] other than
+- [ ] out of date
+- [ ] outcome
+- [ ] outfit
+- [x] outgas
+- [x] outline
+- [x] output
+- [ ] outrageously
+- [ ] outspoken
+- [x] overall
+- [x] overcome
+- [ ] overhaul
+- [ ] overlap
+- [ ] overlook
+- [x] overseas
+- [x] overwhelm
+- [ ] owing to
+- [ ] owl
+- [ ] oxide
+- [ ] oyster
+- [ ] ozone

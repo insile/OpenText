@@ -1,0 +1,13 @@
+##### pandas.方法
+- 很多 DataFrame  方法与 Series 方法或者顶层 pandas 函数相同不重复说明
+- [[pandas.轴]]
+- [[Series.访问器方法]]
+- [[pandas.类型转换]]
+- [[pandas.索引,迭代,选择,标签]]
+- [[pandas.二元操作及运算符]]
+- [[pandas.函数,窗口,分组]]
+- [[pandas.计算,描述性统计]]
+- [[pandas.缺失数据处理]]
+- [[pandas.整形,排序]]
+- [[pandas.组合,比较,连接,合并]]
+- [[pandas.时间序列]]

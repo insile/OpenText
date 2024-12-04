@@ -1,0 +1,11 @@
+##### BrowserType.connect_over_cdp()
+- `BrowserType.connect_over_cdp()` -> [[class Browser|Browser]]
+	- 
+	- `endpoint_url`: `str`
+		- 
+	- `headers`: `Dict[str, str] (optional)`
+		- 
+	- `slow_mo`: `float (optional)`
+		- 
+	- `timeout`: `float (optional)`
+		- 

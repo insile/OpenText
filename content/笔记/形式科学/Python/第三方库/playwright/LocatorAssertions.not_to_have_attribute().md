@@ -1,0 +1,11 @@
+##### LocatorAssertions.not_to_have_attribute()
+- `LocatorAssertions.not_to_have_attribute()` -> NoneType
+	- 
+	- `name`: `str`
+		- 
+	- `value`: `str|Pattern`
+		- 
+	- `ignore_case`: `bool (optional)`
+		- 
+	- `timeout`: `float (optional)`
+		- 

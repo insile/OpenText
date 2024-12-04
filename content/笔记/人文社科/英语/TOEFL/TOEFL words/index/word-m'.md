@@ -1,0 +1,173 @@
+---
+tags:
+  - English
+finished: true
+---
+- [ ] machinery
+- [ ] maglev
+- [ ] magma
+- [ ] magnesium
+- [x] magnet
+- [x] magnetic
+- [ ] magnificent
+- [ ] magnify
+- [ ] magnitude
+- [x] maintain
+- [ ] maintenance
+- [x] major
+- [ ] make a point
+- [ ] make do with
+- [ ] make ends meet
+- [ ] make out
+- [ ] make sense
+- [ ] make sure
+- [ ] make the most of
+- [ ] make up 
+- [x] male
+- [ ] mammal
+- [ ] mammoth
+- [x] manage
+- [ ] maneuver
+- [x] mania
+- [ ] manifest
+- [ ] manipulate
+- [x] manner
+- [ ] mansion
+- [ ] mantle
+- [x] manual
+- [x] manufacture
+- [ ] marble
+- [ ] march
+- [ ] margin
+- [ ] marine
+- [ ] maritime
+- [x] marked
+- [x] market
+- [ ] marrow
+- [ ] marsh
+- [ ] marvel
+- [x] mask
+- [ ] mason
+- [x] mass
+- [ ] mast
+- [ ] mat
+- [x] match
+- [x] mate
+- [x] material
+- [x] mathematics
+- [x] mature
+- [ ] maturity
+- [x] maximum
+- [ ] meager
+- [ ] meantime
+- [x] measure
+- [ ] mechanic
+- [x] mechanism
+- [ ] mechanist
+- [ ] mechanize
+- [ ] medal
+- [x] media
+- [ ] mediate
+- [ ] medieval
+- [ ] medium
+- [ ] melodic
+- [ ] melodie
+- [x] melody
+- [x] melt
+- [x] melting
+- [ ] membrane
+- [x] mental
+- [x] mention
+- [x] menu
+- [ ] mercantile
+- [ ] merchandise
+- [ ] merchant
+- [x] mercury
+- [x] mercy
+- [ ] mere
+- [ ] merit
+- [ ] metabolic
+- [ ] metallic
+- [x] meteor
+- [ ] meteorite
+- [ ] meteorology
+- [ ] methane
+- [x] method
+- [ ] meticulous
+- [ ] metric
+- [ ] metropolis
+- [ ] microbe
+- [ ] microorganism
+- [ ] microprocessor
+- [x] microscope
+- [x] microwave
+- [ ] might as well
+- [ ] mighty
+- [ ] migrate
+- [ ] mild
+- [ ] military
+- [ ] millennium
+- [ ] mime
+- [ ] mimic
+- [x] mine
+- [ ] mineral
+- [x] minimal
+- [x] minimize
+- [x] minimum
+- [x] minor
+- [ ] minority
+- [ ] mint
+- [x] minute
+- [x] miracle
+- [x] miserable
+- [x] mission
+- [x] mobile
+- [ ] mock
+- [ ] mode
+- [ ] modeling
+- [ ] modem
+- [ ] moderate
+- [ ] modest
+- [x] modify
+- [ ] modulate
+- [x] moist
+- [x] moisture
+- [ ] mold
+- [ ] molecule
+- [x] molten
+- [ ] monarch
+- [x] monitor
+- [ ] monopolize
+- [ ] monotonous
+- [x] monster
+- [ ] monumental
+- [x] moral
+- [ ] morale
+- [ ] mosaic
+- [ ] mosquito
+- [ ] most of all
+- [ ] moth
+- [ ] motif
+- [x] motion
+- [ ] motivate
+- [x] motive
+- [x] motor
+- [ ] mottled
+- [ ] mount
+- [ ] mountainous
+- [x] multiple
+- [x] multiply
+- [x] multitude
+- [ ] mundane
+- [ ] municipal
+- [ ] mural
+- [x] muscle
+- [x] mushroom
+- [x] musical
+- [x] musician
+- [x] musicologist
+- [ ] mutual
+- [ ] myriad
+- [x] myth
+- [x] mythical
+- [x] mythology

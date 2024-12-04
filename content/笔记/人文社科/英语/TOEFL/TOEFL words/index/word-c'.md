@@ -1,0 +1,264 @@
+---
+tags:
+  - English
+finished:
+---
+- [ ] cabin
+- [ ] cabinet
+- [ ] cable
+- [ ] cactus
+- [ ] cafeteria
+- [ ] calibration
+- [x] candidate
+- [ ] cannibalism
+- [x] canopy
+- [x] canvas
+- [x] cape
+- [ ] capillary
+- [ ] captive
+- [x] carbon
+- [ ] cardiac
+- [ ] cardinal
+- [x] care for
+- [ ] caribou
+- [ ] carnivore
+- [ ] carp
+- [x] carry on
+- [ ] carry out
+- [ ] cart
+- [ ] cartilage
+- [ ] cascade
+- [ ] cassette
+- [x] catalog
+- [ ] catalyst
+- [ ] catastrophe
+- [ ] catch on
+- [x] category
+- [ ] caterpillar
+- [ ] cavity
+- [ ] cease
+- [x] celestial
+- [x] cell
+- [ ] census
+- [ ] centennial
+- [ ] ceramic
+- [ ] certificate
+- [ ] chafe
+- [ ] chamber
+- [ ] champion
+- [x] channel
+- [x] chapel
+- [x] characteristic
+- [ ] charcoal
+- [x] chart
+- [ ] charter
+- [ ] check in
+- [x] check out
+- [x] cheer up
+- [x] chief
+- [x] chill
+- [x] chilled
+- [ ] chip
+- [x] choir
+- [ ] cholesterol
+- [ ] choreographer
+- [ ] chromosome
+- [x] chronical
+- [ ] circular
+- [ ] circulation
+- [ ] circumference
+- [x] circumstance
+- [x] claim
+- [ ] clam
+- [ ] clamor
+- [x] clarify
+- [ ] clay
+- [ ] clear up
+- [x] client
+- [ ] cliff
+- [ ] cling
+- [ ] cling to
+- [x] clinical
+- [ ] clipper
+- [ ] closet
+- [x] clue
+- [ ] clump
+- [ ] clumsy
+- [ ] cluster
+- [ ] clutch
+- [ ] coarse
+- [ ] coax
+- [x] code
+- [ ] coexist
+- [ ] cognition
+- [x] coherent
+- [ ] cohesion
+- [ ] coil
+- [x] coincide
+- [x] collaborator
+- [x] collapse
+- [x] collect
+- [ ] collectively
+- [ ] collide
+- [ ] collide with
+- [ ] colonize
+- [x] colony
+- [x] column
+- [ ] combat
+- [x] combination
+- [x] combine
+- [x] combine with
+- [ ] combustible
+- [ ] come along
+- [ ] come down with
+- [x] come from
+- [x] come in
+- [x] come out
+- [x] come to the point
+- [x] come up
+- [ ] comet
+- [ ] comic
+- [ ] commemorate
+- [x] comment
+- [ ] commentary
+- [ ] commerce
+- [ ] commission
+- [ ] committee
+- [ ] commodity
+- [ ] communal
+- [ ] commute
+- [ ] compact
+- [x] companion
+- [ ] comparable
+- [x] compare to
+- [x] compare with
+- [x] comparison
+- [ ] compass
+- [ ] compatible
+- [x] compel
+- [x] compensate
+- [ ] compete
+- [ ] compete with
+- [ ] competence
+- [x] compile
+- [ ] complement
+- [ ] complementary
+- [ ] complicated
+- [ ] compliment
+- [ ] composition
+- [ ] compound
+- [ ] compress
+- [ ] comprise
+- [ ] compromise
+- [ ] compulsory
+- [ ] conceal
+- [ ] concede
+- [ ] conceive
+- [x] concentrate on
+- [ ] concise
+- [x] conclusive
+- [ ] condensation
+- [ ] conductivity
+- [ ] confederacy
+- [ ] confer
+- [ ] conference
+- [x] configuration
+- [ ] conform
+- [ ] conform to
+- [ ] congenial
+- [ ] congestion
+- [x] congress
+- [ ] consequently
+- [x] conservation
+- [x] conserve
+- [x] considerable
+- [ ] considerate
+- [x] consist of
+- [ ] consonant
+- [ ] consort
+- [ ] constellation
+- [ ] constituent
+- [ ] constitude
+- [ ] constitution
+- [ ] constrain
+- [ ] constricted
+- [x] consult
+- [ ] consumption
+- [ ] contagious
+- [x] contain
+- [ ] contaminate
+- [ ] contemporary
+- [ ] content
+- [ ] contest
+- [ ] context
+- [ ] continent
+- [x] continuation
+- [x] continuum
+- [x] contour
+- [ ] contract
+- [ ] contrast
+- [x] contrast with
+- [x] contribute to
+- [ ] controversy
+- [ ] convection
+- [ ] convention
+- [ ] conventional
+- [ ] converge
+- [x] conversation
+- [ ] converse
+- [x] convert
+- [ ] convey
+- [x] cool down
+- [ ] cooperative
+- [ ] coordinate
+- [ ] cope with
+- [ ] copper
+- [ ] coral
+- [ ] corporate
+- [ ] correspond
+- [ ] correspondence
+- [ ] corrosion
+- [ ] corrosive
+- [ ] costume
+- [ ] counseling
+- [ ] counselor
+- [x] count in
+- [ ] count on
+- [ ] count out
+- [ ] counteract
+- [ ] counterpart
+- [ ] coupon
+- [ ] court
+- [ ] crab
+- [ ] cramped
+- [ ] crater
+- [ ] crawl
+- [x] creativity
+- [ ] credential
+- [x] credit
+- [ ] crest
+- [ ] crew
+- [ ] crippling
+- [ ] crisscross
+- [ ] criterion
+- [x] critic
+- [ ] crow
+- [x] crown
+- [x] crucial
+- [ ] crude
+- [ ] crusade
+- [ ] crush
+- [ ] crust
+- [ ] crustacean
+- [ ] cue
+- [ ] cultivated
+- [ ] cumbersome
+- [ ] cuneiform
+- [x] curiosity
+- [x] current
+- [ ] curriculum
+- [ ] cushion
+- [x] cut away
+- [ ] cut down
+- [x] cut off
+- [x] cylinder

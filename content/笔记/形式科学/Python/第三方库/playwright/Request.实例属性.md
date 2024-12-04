@@ -1,0 +1,27 @@
+##### Request.实例属性
+- `Request.failure` -> NoneType|str
+	- 
+- `Request.frame` -> [[class Frame|Frame]]
+	- 
+- `Request.headers` -> Dict[str, str]
+	- 
+- `Request.is_navigation_request` -> bool
+	- 
+- `Request.method` -> str
+	- 
+- `Request.post_data` -> NoneType|str
+	- 
+- `Request.post_data_buffer` -> NoneType|bytes
+	- 
+- `Request.post_data_json` -> NoneType|Serializable
+	- 
+- `Request.redirected_from` -> NoneType|Request
+	- 
+- `Request.redirected_to` -> NoneType|Request
+	- 
+- `Request.resource_type` -> str
+	- 
+- `Request.timing` -> Dict
+	- 
+- `Request.url` -> str
+	- 

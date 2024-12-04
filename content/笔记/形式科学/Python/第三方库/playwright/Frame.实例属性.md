@@ -1,0 +1,75 @@
+##### Frame.实例属性
+- `Frame.child_frames` -> List[Frame]
+	- 
+- `Frame.is_detached` -> bool
+	- 
+- `Frame.name` -> str
+	- 
+- `Frame.page` -> [[class Page|Page]]
+	- 
+- `Frame.parent_frame` -> NoneType|Frame
+	- 
+- `Frame.url` -> str
+	- 
+- `Frame.check` -> NoneType
+	- 
+- `Frame.click` -> NoneType
+	- 
+- `Frame.dblclick` -> NoneType
+	- 
+- `Frame.dispatch_event` -> NoneType
+	- 
+- `Frame.eval_on_selector` -> Serializable
+	- 
+- `Frame.eval_on_selector_all` -> Serializable
+	- 
+- `Frame.expect_navigation` -> EventContextManager[Response]
+	- 
+- `Frame.fill` -> NoneType
+	- 
+- `Frame.focus` -> NoneType
+	- 
+- `Frame.get_attribute` -> NoneType|str
+	- 
+- `Frame.hover` -> NoneType
+	- 
+- `Frame.inner_html` -> str
+	- 
+- `Frame.inner_text` -> str
+	- 
+- `Frame.input_value` -> str
+	- 
+- `Frame.is_checked` -> bool
+	- 
+- `Frame.is_disabled` -> bool
+	- 
+- `Frame.is_editable` -> bool
+	- 
+- `Frame.is_hidden` -> bool
+	- 
+- `Frame.is_visible` -> bool
+	- 
+- `Frame.press` -> NoneType
+	- 
+- `Frame.query_selector` -> NoneType|ElementHandle
+	- 
+- `Frame.query_selector_all` -> List[ElementHandle]
+	- 
+- `Frame.select_option` -> List[str]
+	- 
+- `Frame.set_checked` -> NoneType
+	- 
+- `Frame.set_input_files` -> NoneType
+	- 
+- `Frame.tap` -> NoneType
+	- 
+- `Frame.text_content` -> NoneType|str
+	- 
+- `Frame.type` -> NoneType
+	- 
+- `Frame.uncheck` -> NoneType
+	- 
+- `Frame.wait_for_selector` -> NoneType|ElementHandle
+	- 
+- `Frame.wait_for_timeout` -> NoneType
+	- 

@@ -1,0 +1,13 @@
+##### APIResponse.实例属性
+- `APIResponse.headers` -> Dict[str, str]
+	- 
+- `APIResponse.headers_array` -> List[Dict]
+	- 
+- `APIResponse.ok` -> bool
+	- 
+- `APIResponse.status` -> int
+	- 
+- `APIResponse.status_text` -> str
+	- 
+- `APIResponse.url` -> str
+	- 

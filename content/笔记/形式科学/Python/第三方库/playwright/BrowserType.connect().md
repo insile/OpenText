@@ -1,0 +1,13 @@
+##### BrowserType.connect()
+- `BrowserType.connect()` -> [[class Browser|Browser]]
+	- 
+	- `ws_endpoint`: `str`
+		- 
+	- `expose_network`: `str (optional)`
+		- 
+	- `headers`: `Dict[str, str] (optional)`
+		- 
+	- `slow_mo`: `float (optional)`
+		- 
+	- `timeout`: `float (optional)`
+		- 

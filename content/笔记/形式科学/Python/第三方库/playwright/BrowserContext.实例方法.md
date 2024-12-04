@@ -1,0 +1,51 @@
+##### BrowserContext.实例方法
+- [[BrowserContext.add_cookies()]]
+	- 向浏览器上下文添加 cookies
+- [[BrowserContext.add_init_script()]]
+	- 向浏览器上下文添加初始化脚本，该脚本将在页面加载时执行
+- [[BrowserContext.clear_cookies()]]
+	- 清除浏览器上下文的所有 cookies
+- [[BrowserContext.clear_permissions()]]
+	- 清除浏览器上下文的所有权限
+- [[BrowserContext.close()]]
+	- 关闭浏览器上下文
+- [[BrowserContext.cookies()]]
+	- 获取浏览器上下文的 cookies
+- [[BrowserContext.expect_console_message()]]
+	- 等待浏览器上下文中的控制台消息
+- [[BrowserContext.expect_event()]]
+	- 等待浏览器上下文中的特定事件
+- [[BrowserContext.expect_page()]]
+	- 等待浏览器上下文中的新页面
+- [[BrowserContext.expose_binding()]]
+	- 向浏览器上下文公开 Python 绑定
+- [[BrowserContext.expose_function()]]
+	- 向浏览器上下文公开 JavaScript 函数
+- [[BrowserContext.grant_permissions()]]
+	- 授予浏览器上下文的权限
+- [[BrowserContext.new_cdp_session()]]
+	- 创建一个新的 CDP 会话
+- [[BrowserContext.new_page()]]
+	- 在浏览器上下文中创建一个新的页面实例
+- [[BrowserContext.route()]]
+	- 拦截和修改浏览器上下文中的网络请求和响应
+- [[BrowserContext.route_from_har()]]
+	- 使用 HAR 文件配置浏览器上下文的路由
+- [[BrowserContext.set_default_navigation_timeout()]]
+	- 设置浏览器上下文的默认导航超时时间
+- [[BrowserContext.set_default_timeout()]]
+	- 设置浏览器上下文的默认操作超时时间
+- [[BrowserContext.set_extra_http_headers()]]
+	- 设置浏览器上下文的额外 HTTP 标头
+- [[BrowserContext.set_geolocation()]]
+	- 设置浏览器上下文的地理位置
+- [[BrowserContext.set_offline()]]
+	- 设置浏览器上下文的离线状态
+- [[BrowserContext.storage_state()]]
+	- 获取浏览器上下文的存储状态
+- [[BrowserContext.unroute()]]
+	- 取消对浏览器上下文中特定路由的拦截
+- [[BrowserContext.unroute_all()]]
+	- 取消对浏览器上下文中所有路由的拦截
+- [[BrowserContext.wait_for_event()]]
+	- 等待浏览器上下文中的特定事件

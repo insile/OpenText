@@ -1,0 +1,6 @@
+- [ ] [[yacht]]
+- [ ] [[yearn]]
+- [ ] [[yearning]]
+- [ ] [[yeast]]
+- [ ] [[yoke]]
+- [ ] [[yolk]]

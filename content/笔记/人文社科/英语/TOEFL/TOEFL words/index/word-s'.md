@@ -1,0 +1,362 @@
+---
+tags: 
+  - English
+---
+- [ ] sac
+- [ ] sacred
+- [x] sake
+- [ ] salamander
+- [ ] salient
+- [ ] salmon
+- [ ] salon
+- [x] sample
+- [ ] sanitation
+- [ ] sapphire
+- [ ] satellite
+- [ ] satire
+- [ ] satiric
+- [ ] saturate
+- [x] Saturn
+- [ ] sauce
+- [x] save
+- [x] save up
+- [x] scale
+- [x] scan
+- [x] scar
+- [ ] scarce
+- [x] scatter
+- [ ] scavenger
+- [ ] scenery
+- [ ] scent
+- [x] schedule
+- [ ] scheme
+- [x] scholar
+- [x] scope
+- [ ] scorch
+- [x] score
+- [ ] scout
+- [ ] scrape
+- [x] scratch
+- [x] screen
+- [x] script
+- [ ] scrub
+- [ ] scruffy
+- [ ] scuba
+- [x] sculpt
+- [x] sculpture
+- [ ] scurry
+- [ ] seal
+- [x] secondary
+- [ ] secrete
+- [x] section
+- [x] secure
+- [ ] sedentary
+- [ ] sediment
+- [ ] see to
+- [ ] seep
+- [ ] segment
+- [ ] segregate
+- [ ] seismic
+- [ ] seismograph
+- [ ] seismology
+- [x] semester
+- [ ] seminar
+- [ ] Senate
+- [x] senior
+- [x] sensible
+- [x] sensitive
+- [x] sensory
+- [ ] sentimental
+- [x] separate
+- [x] sequence
+- [ ] sequoia
+- [x] series
+- [ ] serve as
+- [ ] session
+- [ ] set about
+- [ ] set aside
+- [ ] set on fire
+- [ ] set out
+- [ ] set up
+- [x] setting
+- [ ] settle down
+- [ ] settlement
+- [x] severe
+- [ ] sew
+- [ ] sewage
+- [x] shade
+- [ ] shallow
+- [x] shatter
+- [x] shear
+- [ ] shed
+- [ ] sheer
+- [x] shelter
+- [x] shield
+- [x] shift
+- [ ] shore
+- [ ] shortly
+- [ ] shovel
+- [ ] show off
+- [ ] show up
+- [x] shower
+- [ ] shrimp
+- [ ] shroud
+- [ ] shrub
+- [ ] shuttle
+- [ ] sieve
+- [x] significantly
+- [ ] signify
+- [ ] silica
+- [ ] silt
+- [x] similar
+- [ ] simmer
+- [x] simply
+- [x] simulate
+- [ ] simultaneous
+- [ ] sinuous
+- [x] situated
+- [ ] skeletal
+- [ ] skeleton
+- [ ] skeptical
+- [ ] sketch
+- [x] skip
+- [ ] skull
+- [ ] skyscraper
+- [ ] sled
+- [ ] sledding
+- [ ] slender
+- [x] slice
+- [x] slide
+- [ ] slight
+- [ ] slip
+- [ ] slog
+- [ ] slope
+- [ ] sloth
+- [ ] slumber
+- [x] smoothely
+- [ ] smother
+- [x] snack
+- [ ] snap
+- [ ] so far
+- [ ] so-called
+- [x] soccer
+- [x] sociology
+- [x] soda
+- [x] soft
+- [x] solar
+- [ ] solder
+- [ ] sole
+- [ ] solicit
+- [x] solid
+- [ ] solitary
+- [x] solo
+- [ ] soluble
+- [x] solution
+- [ ] somewhat
+- [ ] soothe
+- [ ] sophisticated
+- [ ] soprano
+- [ ] sore
+- [ ] sort out
+- [x] sound
+- [ ] sour
+- [ ] souvenir
+- [ ] sow
+- [ ] soybean
+- [x] space
+- [x] span
+- [ ] spare
+- [x] spark
+- [ ] sparse
+- [x] spawn
+- [x] special
+- [x] specialize
+- [x] specialized
+- [ ] species
+- [ ] specify
+- [ ] speciment
+- [ ] spectacle
+- [ ] spectacular
+- [ ] spectator
+- [x] spectrum
+- [ ] speculate
+- [ ] spew
+- [x] sphere
+- [x] spice
+- [ ] spill
+- [x] spin
+- [ ] spinning
+- [ ] spiny
+- [ ] spiral
+- [ ] splash
+- [ ] split
+- [ ] spoil
+- [ ] sponge
+- [x] sponsor
+- [ ] spontaneity
+- [ ] spontaneous
+- [ ] spot
+- [ ] sprawl
+- [ ] spray
+- [x] spread
+- [x] spring
+- [x] spring up
+- [ ] sprout
+- [ ] spun
+- [ ] spur
+- [x] square
+- [ ] squash
+- [ ] squeeze
+- [ ] squid
+- [ ] squirrel
+- [ ] squirt
+- [x] stable
+- [x] stack
+- [ ] stadium
+- [x] staff
+- [x] stage
+- [ ] stagecoach
+- [ ] staggered
+- [ ] staggering
+- [ ] stain
+- [ ] stake
+- [ ] stalk
+- [ ] stand for
+- [ ] stand up for
+- [x] standard
+- [ ] staple
+- [ ] starch
+- [ ] stark
+- [ ] start out
+- [ ] startling
+- [ ] stash
+- [x] state
+- [ ] statesman
+- [ ] static
+- [ ] station
+- [ ] stationary
+- [x] statistical
+- [ ] statue
+- [ ] stature
+- [ ] status
+- [x] stay up
+- [ ] steady
+- [ ] steep
+- [ ] steer
+- [ ] stellar
+- [ ] stem
+- [ ] stem from
+- [x] stereo
+- [ ] sterile
+- [ ] stew
+- [ ] stick
+- [ ] stick to
+- [ ] stick with
+- [ ] stiff
+- [x] stimulate
+- [ ] sting
+- [ ] stir
+- [x] storage
+- [ ] stout
+- [ ] straighten up
+- [ ] strain
+- [ ] strand
+- [ ] strap
+- [ ] strategy
+- [ ] stratum
+- [x] stream
+- [ ] stress
+- [ ] stretch
+- [ ] stretch out
+- [ ] strict
+- [ ] stride
+- [x] strike
+- [ ] string
+- [ ] strip
+- [ ] stripe
+- [ ] strive
+- [ ] stroke
+- [x] studio
+- [x] stun
+- [ ] stunt
+- [ ] sturdy
+- [ ] stylish
+- [ ] stylistic
+- [ ] stylized
+- [ ] subdue
+- [ ] subject
+- [ ] submarine
+- [ ] submerge
+- [x] submit
+- [ ] subsequent
+- [ ] subsidize
+- [ ] subsidy
+- [ ] subsist
+- [ ] subspecies
+- [ ] substance
+- [ ] substantial
+- [ ] substantiate
+- [ ] substitute
+- [ ] subtle
+- [ ] subtract
+- [ ] suburb
+- [ ] successive
+- [x] suffer from
+- [ ] sufficient
+- [ ] suffragist
+- [ ] suitcase
+- [x] sulfur
+- [x] sum
+- [x] sum up
+- [x] summary
+- [ ] summit
+- [ ] sunlit
+- [x] sunset
+- [ ] superficial
+- [ ] superintendent
+- [ ] superior
+- [ ] supervise
+- [ ] supplant
+- [ ] supplement
+- [x] suppose
+- [ ] suppress
+- [ ] supreme
+- [ ] surge
+- [x] surgeon
+- [ ] surpass
+- [ ] surplus
+- [x] surrender
+- [ ] survey
+- [x] survive
+- [ ] susceptible
+- [ ] suspect
+- [ ] suspend
+- [ ] suspension
+- [ ] sustain
+- [x] sustained
+- [ ] sustenance
+- [x] swallow
+- [ ] swamp
+- [ ] swan
+- [ ] swarm
+- [ ] swear
+- [ ] sweat
+- [ ] sweep
+- [ ] sweeping
+- [ ] swell
+- [ ] swift
+- [ ] swing
+- [x] switch
+- [ ] syllable
+- [x] symbol
+- [x] symbolic
+- [ ] symmetry
+- [ ] sympathetic
+- [x] sympathy
+- [x] symphony
+- [ ] symptom
+- [ ] synonym
+- [ ] synthesize
+- [ ] synthetic
+- [ ] syrup
+- [x] systematic

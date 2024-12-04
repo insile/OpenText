@@ -1,0 +1,24 @@
+---
+tags:
+  - English
+finished: true
+---
+- [ ] jar
+- [ ] jaw
+- [ ] jeans
+- [ ] jelly
+- [ ] jeopardize
+- [ ] jewelry
+- [ ] jibe with
+- [x] jog
+- [x] joint
+- [ ] jolt
+- [ ] journal
+- [x] juice
+- [ ] jumble
+- [ ] junction
+- [x] Jupiter
+- [ ] just about
+- [x] justice
+- [ ] justify
+- [ ] juvenile

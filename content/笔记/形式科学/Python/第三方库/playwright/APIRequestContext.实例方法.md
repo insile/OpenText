@@ -1,0 +1,10 @@
+##### APIRequestContext.实例方法
+- [[APIRequestContext.delete()]]
+- [[APIRequestContext.dispose()]]
+- [[APIRequestContext.fetch()]]
+- [[APIRequestContext.get()]]
+- [[APIRequestContext.head()]]
+- [[APIRequestContext.patch()]]
+- [[APIRequestContext.post()]]
+- [[APIRequestContext.put()]]
+- [[APIRequestContext.storage_state()]]

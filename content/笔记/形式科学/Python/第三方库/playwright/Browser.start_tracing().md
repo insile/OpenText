@@ -1,0 +1,11 @@
+##### Browser.start_tracing()
+- `Browser.start_tracing()` -> NoneType
+	- 
+	- `page`: `Page (optional)`
+		- 
+	- `categories`: `List[str] (optional)`
+		- 
+	- `path`: `Union[str, pathlib.Path] (optional)`
+		- 
+	- `screenshots`: `bool (optional)`
+		- 

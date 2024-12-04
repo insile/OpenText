@@ -1,0 +1,13 @@
+##### Tracing.start()
+- `Tracing.start()` -> NoneType
+	- 
+	- `name`: `str (optional)`
+		- 
+	- `screenshots`: `bool (optional)`
+		- 
+	- `snapshots`: `bool (optional)`
+		- 
+	- `sources`: `bool (optional)`
+		- 
+	- `title`: `str (optional)`
+		- 

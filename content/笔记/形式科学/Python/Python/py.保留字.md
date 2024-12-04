@@ -1,0 +1,24 @@
+##### 保留字
+- 保留字
+	- 保留字是被编程语言内部定义保留使用的[[py.标识符|标识符]], 用到再看
+		- 类与函数
+			- [[py.class|class]]，[[py.def|def]]，[[py.lambda|lambda]]
+			- [[py.global|global]]，[[py.nonlocal|nonlocal]]
+			- [[py.return|return]]，[[py.yield|yield]]
+			- [[py.await|await]]，[[py.async|async]]
+			- [[py.with|with]]
+		- 条件循环
+			- [[py.if|if]]，[[py.elif|elif]]，[[py.else|else]]
+			- [[py.for|for]]，[[py.while|while]]，[[py.break|break]]，[[py.continue|continue]]
+		- 异常
+			- [[py.try|try]]，[[py.except|except]]，[[py.finally|finally]]
+			- [[py.assert|assert]]，[[py.raise|raise]]
+		- 包
+			- [[py.import|import]]，[[py.from|from]]，[[py.as|as]]
+		- 运算
+			- [[py.and|and]]，[[py.or|or]]，[[py.not|not]]，[[py.is|is]]，[[py.in|in]]
+			- [[py.del|del]]，[[py.pass|pass]]
+		- 类型
+			- [[py.False|False]]，[[py.True|True]]，[[py.None|None]]
+		- 模式匹配
+			- [[py.match|match]]

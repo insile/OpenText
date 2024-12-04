@@ -1,0 +1,43 @@
+---
+tags:
+  - English
+finished:
+---
+- [ ] wagon
+- [ ] wait for
+- [ ] wait in line
+- [ ] walnut
+- [ ] wane
+- [x] ware
+- [ ] warehouse
+- [x] warm up
+- [ ] warp
+- [ ] wary
+- [ ] wasp
+- [ ] watercourse
+- [x] wax
+- [ ] wear and tear
+- [ ] wear away
+- [ ] wear out
+- [ ] weathering
+- [ ] weed
+- [x] weird
+- [ ] welfare
+- [ ] wholesome
+- [ ] wick
+- [ ] willful
+- [ ] willow
+- [ ] wind up
+- [ ] wipe out
+- [ ] wispy
+- [ ] with respect to
+- [x] with the exception of
+- [ ] with draw
+- [ ] wither
+- [ ] withstand
+- [x] wool
+- [ ] work on
+- [ ] work out
+- [ ] work up
+- [ ] wrap
+- [ ] wreck

@@ -1,0 +1,11 @@
+##### Locator.filter()
+- `Locator.filter()` -> [[class Locator|Locator]]
+	- 
+	- `has`: `Locator (optional)`
+		- 
+	- `has_not`: `Locator (optional)`
+		- 
+	- `has_not_text`: `str|Pattern (optional)`
+		- 
+	- `has_text`: `str|Pattern (optional)`
+		- 

@@ -1,0 +1,11 @@
+##### ConsoleMessage.实例属性
+- `ConsoleMessage.args` -> List[JSHandle]
+	- 
+- `ConsoleMessage.location` -> Dict
+	- 
+- `ConsoleMessage.page` -> NoneType|Page
+	- 
+- `ConsoleMessage.text` -> str
+	- 
+- `ConsoleMessage.type` -> str
+	- 

@@ -1,0 +1,6 @@
+- [ ] [[jargon]]
+- [ ] [[jewellery]]
+- [ ] [[judicial]]
+- [ ] [[jug]]
+- [ ] [[junction]]
+- [ ] [[juvenile]]

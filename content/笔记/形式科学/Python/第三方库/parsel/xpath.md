@@ -1,0 +1,28 @@
+##### xpath
+- xpath 是一门在 XML 文档中查找信息的语言
+- xpath 节点选择
+	- `节点名` 选取根节点下的节点
+	- `/` 从根节点开始选取（绝对路径）
+	- `//` 从任意位置的节点开始
+	- `.` 选取当前节点
+	- `..` 选取当前节点的父节点
+	- `@` 选取属性
+	- `[]` 条件选取节点
+		- `node[1]` 第一个node节点
+		- `node[last()]` 最后一个node节点
+		- `node[last()-1]` 倒数第二个node节点
+		- `node[position()<3]` 前两个node节点
+		- `node[@class]` 带有class属性的node节点
+		- `node[@class="main"]` class属性为main的node节点
+		- `node[price>30]` price元素大于30的node节点
+	- `*` 所有子节点
+	- @* 所有有属性的节点
+	- `|` 或
+	- `text()` 节点文本
+	- `comment()` 节点注释
+- xpath 函数
+	- `string()` 返回节点字符串 
+	- `contains()` 条件包含
+	- `starts-with()` 条件开头
+	- `not()` 条件不含
+

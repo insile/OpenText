@@ -1,0 +1,11 @@
+##### JS.声明
+- JS.声明
+	- [[JS.let|let]]
+	- [[JS.const|const]]
+	- [[JS.function|function]]
+	- [[JS.function`|function*]]
+	- [[JS.async function|async function]]
+	- [[JS.async function`|async function*]]
+	- [[JS.class|class]]
+	- [[JS.export|export]]（备注：它只能出现在模块的顶层）
+	- [[JS.import|import]]（备注：它只能出现在模块的顶层）

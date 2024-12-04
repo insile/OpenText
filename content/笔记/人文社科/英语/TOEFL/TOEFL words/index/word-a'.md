@@ -1,0 +1,112 @@
+---
+tags:
+  - English
+finished:
+---
+- [x] a couple of
+- [x] abandon
+- [x] abbreviate
+- [x] abnormal
+- [x] abolition
+- [x] abort
+- [ ] abound
+- [ ] abound in
+- [x] abrasion
+- [x] abreast
+- [x] abrupt
+- [x] absence
+- [x] absolutely
+- [x] absorb
+- [x] abstract
+- [x] absurd
+- [x] access to
+- [ ] accessory
+- [x] accommodate
+- [x] according to
+- [ ] account for
+- [x] acting
+- [x] action
+- [x] adapt to
+- [x] add to
+- [x] add up
+- [x] adequate
+- [x] adhere
+- [x] adjust to
+- [x] admission
+- [x] advent
+- [x] advertise
+- [ ] aerobic
+- [x] affirm
+- [x] after all
+- [x] agency
+- [ ] airborne
+- [ ] all around
+- [ ] all but
+- [ ] all in all
+- [ ] allegory
+- [ ] allow for
+- [ ] amateur
+- [ ] ammonia
+- [ ] amnesia
+- [x] amuse
+- [x] analogy
+- [x] anthropology
+- [x] antibiotic
+- [ ] anything but
+- [ ] apart from
+- [x] apparent
+- [x] appeal to
+- [ ] apply for
+- [x] apply to
+- [ ] apprentice
+- [x] approach
+- [ ] appropriate
+- [ ] aquatic
+- [ ] arbitrary
+- [ ] archaeology
+- [ ] architect
+- [ ] arid
+- [ ] arithmetic
+- [x] arrange for
+- [ ] articulate
+- [ ] artisan
+- [ ] artistic
+- [x] as a result of
+- [ ] as a rule
+- [ ] as a whole
+- [x] as long as
+- [ ] as to
+- [ ] as well as
+- [ ] aside from
+- [x] associate
+- [x] associate with
+- [x] astronomy
+- [ ] at a loss
+- [ ] at a time
+- [ ] at any rate
+- [ ] at best
+- [ ] at intervals
+- [ ] at large
+- [x] at least
+- [x] at one time
+- [ ] at one's disposal
+- [ ] at the mercy of
+- [ ] at the moment
+- [x] at times
+- [ ] at will
+- [x] attach
+- [x] attach to
+- [ ] attorney
+- [x] auction
+- [ ] auditorium
+- [x] augment
+- [x] automobile
+- [ ] avalanche
+- [x] avenue
+- [ ] aviation
+- [x] avoid
+- [x] aware
+- [x] awareness
+- [x] awful
+- [x] awkward
+- [x] axis

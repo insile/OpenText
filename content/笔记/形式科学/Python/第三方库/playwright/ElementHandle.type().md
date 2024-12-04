@@ -1,0 +1,11 @@
+##### ElementHandle.type()
+- `ElementHandle.type()` -> NoneType
+	- 
+	- `text`: `str`
+		- 
+	- `delay`: `float (optional)`
+		- 
+	- `no_wait_after`: `bool (optional)`
+		- 
+	- `timeout`: `float (optional)`
+		- 

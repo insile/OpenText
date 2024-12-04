@@ -1,0 +1,21 @@
+##### Frame.drag_and_drop()
+- `Frame.drag_and_drop()` -> NoneType
+	- 
+	- `source`: `str`
+		- 
+	- `target`: `str`
+		- 
+	- `force`: `bool (optional)`
+		- 
+	- `no_wait_after`: `bool (optional)`
+		- 
+	- `source_position`: `Dict (optional)`
+		- 
+	- `strict`: `bool (optional)`
+		- 
+	- `target_position`: `Dict (optional)`
+		- 
+	- `timeout`: `float (optional)`
+		- 
+	- `trial`: `bool (optional)`
+		- 

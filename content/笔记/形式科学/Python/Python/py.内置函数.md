@@ -1,0 +1,26 @@
+##### 内置函数
+- 计算统计
+	- [[py.abs()|abs()]]、[[py.divmod()|divmod()]]、[[py.pow()|pow()]]、[[py.round()|round()]]
+	- [[py.sum()|sum()]]、[[py.min()|min()]]、[[py.max()|max()]]、[[py.len()|len()]]、[[py.sorted()|sorted()]]、[[py.reversed()|reversed()]]
+- 特殊类型
+	- [[py.print()|print()]]、[[py.input()|input()]]、[[py.id()|id()]]、[[py.hash()|hash()]]、[[py.repr()|repr()]]、[[py.format()|format()]]
+- 作用域和命名空间
+	- [[py.vars()|vars()]]、[[py.locals()|locals()]]、[[py.globals()|globals()]]、[[py.dir()|dir()]]
+- 迭代处理
+	- [[py.iter()|iter()]]、[[py.next()|next()]]
+	- [[py.map()|map()]]、[[py.filter()|filter()]]、[[py.zip()|zip()]]、[[py.enumerate()|enumerate()]]、[[py.range()|range()]]
+- 数据类型
+	- [[py.int()|int()]]、[[py.float()|float()]]、[[py.bool()|bool()]]、[[py.complex()|complex()]]
+	- [[py.str()|str()]]、[[py.list()|list()]]、[[py.tuple()|tuple()]]、[[py.bytes()|bytes()]]、[[py.bytearray()|bytearray()]]
+	- [[py.dict()|dict()]]、[[py.set()|set()]]、[[py.frozenset()|frozenset()]]
+	- [[py.open()|open()]]、[[py.slice()|slice()]]
+- 逻辑判断
+	- [[py.all()|all()]]、[[py.any()|any()]]、[[py.callable()|callable()]]
+- 进制编码
+	- [[py.bin()|bin()]]、[[py.oct()|oct()]]、[[py.hex()|hex()]]、[[py.ord()|ord()]]、[[py.chr()|chr()]]
+- 类与对象
+	- [[py.object()|object()]]、[[py.type()|type()]]、[[py.isinstance()|isinstance()]]、[[py.issubclass()|issubclass()]]
+	- [[py.setattr()|setattr()]]、[[py.getattr()|getattr()]]、[[py.delattr()|delattr()]]、[[py.hasattr()|hasattr()]]、[[py.property()|property()]]、[[py.super()|super()]]
+	- [[py.staticmethod()|staticmethod()]]、[[py.classmethod()|classmethod()]]
+- 代码执行
+	- [[py.compile()|compile()]]、[[py.eval()|eval()]]、[[py.exec()|exec()]]

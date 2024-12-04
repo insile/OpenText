@@ -1,0 +1,13 @@
+##### HTML 说明
+- HTML 说明
+	- HTML 指的是超文本标记语言: HyperText Markup Language, 是用来描述网页的一种语言, HTML 不是一种编程语言, 而是一种标记语言, 标记语言是一套标记标签 (markup tag), HTML 使用标记标签来描述网页, 其文档包含了HTML 标签及文本内容, 文档也叫做 web 页面
+- HTML 标签
+	- HTML 标签是由尖括号包围的关键词, 比如 `<html>`, 通常是成对出现的，比如`<b>` 和 `</b>`. 标签对中的第一个标签是开始标签, 第二个标签是结束标签, 开始和结束标签也被称为开放标签和闭合标签, 如 `<标签>内容</标签>`
+- HTML 元素
+	- "HTML 标签" 和 "HTML 元素" 通常都是描述同样的意思, 但是严格来讲, 一个 HTML 元素包含了开始标签与结束标签, 如 `<p>这是一个段落</p>`
+- HTML 属性
+	- HTML 元素可以设置属性, 属性可以在元素中添加附加信息, 一般描述于开始标签, 属性总是以键值对的形式出现, 如 `name="value"`
+- HTML 官方与文档
+	- HTML 标准由万维网联盟 (World Wide Web Consortium, W3C) 开发维护, 最新标准为 HTML5
+		- https://html.spec.whatwg.org/multipage/
+		- https://developer.mozilla.org/en-US/docs/Web/HTML

@@ -1,0 +1,19 @@
+##### APIRequest.new_context()
+- `APIRequest.new_context()` -> [[class APIRequestContext|APIRequestContext]]
+	- 
+	- `base_url`: `str (optional)`
+		- 
+	- `extra_http_headers`: `Dict[str, str] (optional)`
+		- 
+	- `http_credentials`: `Dict (optional)`
+		- 
+	- `ignore_https_errors`: `bool (optional)`
+		- 
+	- `proxy`: `Dict (optional)`
+		- 
+	- `storage_state`: `Union[str, pathlib.Path]|Dict (optional)`
+		- 
+	- `timeout`: `float (optional)`
+		- 
+	- `user_agent`: `str (optional)`
+		- 

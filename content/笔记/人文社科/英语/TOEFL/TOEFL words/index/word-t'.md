@@ -1,0 +1,116 @@
+---
+tags:
+  - English
+finished: true
+---
+- [ ] tactic
+- [ ] take a chance
+- [ ] take adventage of
+- [ ] take it easy
+- [ ] take over
+- [ ] take place
+- [ ] take sfh.into account
+- [ ] take time off
+- [ ] take up
+- [x] talent
+- [ ] tally
+- [ ] tangle
+- [ ] tariff
+- [ ] tarnish
+- [x] tecnique
+- [x] technological
+- [ ] tectonics
+- [ ] tedium
+- [ ] teem
+- [ ] teem with
+- [ ] telegraph
+- [ ] telescope
+- [ ] temperate
+- [ ] temporary
+- [ ] tenant
+- [ ] tendency
+- [ ] tendon
+- [ ] tenement
+- [x] tension
+- [ ] tentacle
+- [ ] tenuous
+- [x] terminal
+- [ ] terminology
+- [ ] termite
+- [ ] terrain
+- [ ] terrestrial
+- [ ] territory
+- [ ] testimony
+- [ ] textile
+- [x] texture
+- [x] thanks to
+- [ ] thaw
+- [x] theme
+- [x] theoretical
+- [ ] therapy
+- [ ] thorn
+- [ ] thorough
+- [ ] thrifty
+- [ ] thrive
+- [ ] throw away
+- [ ] throw out
+- [ ] thwart
+- [ ] tile
+- [ ] timber
+- [ ] tissue
+- [ ] to some extent
+- [x] tolerant
+- [ ] tolerate
+- [ ] topography
+- [ ] topsoil
+- [ ] tornado
+- [ ] torrent
+- [ ] tournament
+- [ ] tow
+- [ ] towering
+- [x] toxic
+- [x] trace
+- [ ] tract
+- [x] tragedy
+- [x] tragic
+- [ ] trait
+- [x] transcend
+- [x] transfer
+- [x] transform
+- [ ] transit
+- [x] transition
+- [x] translucent
+- [ ] transmit
+- [ ] transparent
+- [ ] transplant
+- [x] trash
+- [ ] tread
+- [ ] tremendous
+- [ ] trench
+- [x] trend
+- [x] triangle
+- [ ] tribal
+- [ ] tributary
+- [x] trigger
+- [x] trivial
+- [ ] tropic
+- [ ] troupe
+- [ ] try on
+- [ ] try out
+- [ ] tube
+- [ ] tug
+- [ ] tuition
+- [ ] tundra
+- [ ] tunnnel
+- [ ] turbulent
+- [x] turkey
+- [ ] turn out
+- [ ] turn up
+- [ ] turnpike
+- [x] turtle
+- [ ] tutor
+- [ ] twig
+- [ ] twine
+- [ ] twinkling
+- [x] twist
+- [ ] tycoon

@@ -1,0 +1,69 @@
+##### Browser.new_context()
+- `Browser.new_context()` -> [[class BrowserContext|BrowserContext]]
+	- 
+	- `accept_downloads`: `bool (optional)`
+		- 
+	- `base_url`: `str (optional)`
+		- 
+	- `bypass_csp`: `bool (optional)`
+		- 
+	- `color_scheme`: `"light"|"dark"|"no-preference"|"null" (optional)`
+		- 
+	- `device_scale_factor`: `float (optional)`
+		- 
+	- `extra_http_headers`: `Dict[str, str] (optional)`
+		- 
+	- `forced_colors`: `"active"|"none"|"null" (optional)`
+		- 
+	- `geolocation`: `Dict (optional)`
+		- 
+	- `has_touch`: `bool (optional)`
+		- 
+	- `http_credentials`: `Dict (optional)`
+		- 
+	- `ignore_https_errors`: `bool (optional)`
+		- 
+	- `is_mobile`: `bool (optional)`
+		- 
+	- `java_script_enabled`: `bool (optional)`
+		- 
+	- `locale`: `str (optional)`
+		- 
+	- `no_viewport`: `bool (optional)`
+		- 
+	- `offline`: `bool (optional)`
+		- 
+	- `permissions`: `List[str] (optional)`
+		- 
+	- `proxy`: `Dict (optional)`
+		- 
+	- `record_har_content`: `"omit"|"embed"|"attach" (optional)`
+		- 
+	- `record_har_mode`: `"full"|"minimal" (optional)`
+		- 
+	- `record_har_omit_content`: `bool (optional)`
+		- 
+	- `record_har_path`: `Union[str, pathlib.Path] (optional)`
+		- 
+	- `record_har_url_filter`: `str|Pattern (optional)`
+		- 
+	- `record_video_dir`: `Union[str, pathlib.Path] (optional)`
+		- 
+	- `record_video_size`: `Dict (optional)`
+		- 
+	- `reduced_motion`: `"reduce"|"no-preference"|"null" (optional)`
+		- 
+	- `screen`: `Dict (optional)`
+		- 
+	- `service_workers`: `"allow"|"block" (optional)`
+		- 
+	- `storage_state`: `Union[str, pathlib.Path]|Dict (optional)`
+		- 
+	- `strict_selectors`: `bool (optional)`
+		- 
+	- `timezone_id`: `str (optional)`
+		- 
+	- `user_agent`: `str (optional)`
+		- 
+	- `viewport`: `NoneType|Dict (optional)`
+		- 

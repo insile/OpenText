@@ -1,0 +1,26 @@
+##### Page.实例属性
+- `Page.context` -> [[class BrowserContext|BrowserContext]]
+    - 返回页面所属的浏览器上下文对象
+- `Page.frames` -> List[Frame]
+    - 返回页面中的所有 frame 对象的列表
+- `Page.is_closed` -> bool
+    - 返回页面是否已关闭的布尔值
+- `Page.keyboard` -> [[class Keyboard|Keyboard]]
+    - 返回页面的键盘对象，用于模拟键盘输入
+- `Page.main_frame` -> [[class Frame|Frame]]
+    - 返回页面的主 frame 对象
+- `Page.mouse` -> [[class Mouse|Mouse]]
+    - 返回页面的鼠标对象，用于模拟鼠标操作
+- `Page.request` -> [[class APIRequestContext|APIRequestContext]]
+    - 返回页面的 API 请求上下文对象
+- `Page.touchscreen` -> [[class Touchscreen|Touchscreen]]
+    - 返回页面的触摸屏对象，用于模拟触摸操作
+- `Page.url` -> str
+    - 返回页面的 URL
+- `Page.video` -> NoneType|[[class Video|Video]]
+    - 返回页面的视频对象，如果未录制视频，则返回 None
+- `Page.viewport_size` -> NoneType|Dict
+    - 返回页面的视口大小
+- `Page.workers` -> List[Worker]
+    - 返回页面中的所有 Worker 对象的列表
+

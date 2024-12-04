@@ -1,0 +1,25 @@
+##### Locator.screenshot()
+- `Locator.screenshot()` -> bytes
+	- 
+	- `animations`: `"disabled"|"allow" (optional)`
+		- 
+	- `caret`: `"hide"|"initial" (optional)`
+		- 
+	- `mask`: `List[Locator] (optional)`
+		- 
+	- `mask_color`: `str (optional)`
+		- 
+	- `omit_background`: `bool (optional)`
+		- 
+	- `path`: `Union[str, pathlib.Path] (optional)`
+		- 
+	- `quality`: `int (optional)`
+		- 
+	- `scale`: `"css"|"device" (optional)`
+		- 
+	- `style`: `str (optional)`
+		- 
+	- `timeout`: `float (optional)`
+		- 
+	- `type`: `"png"|"jpeg" (optional)`
+		- 

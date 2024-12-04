@@ -1,0 +1,13 @@
+##### Locator.实例属性
+- `Locator.first` -> [[class Locator|Locator]]
+    - 返回定位器匹配的第一个元素
+- `Locator.last` -> [[class Locator|Locator]]
+    - 返回定位器匹配的最后一个元素
+- `Locator.page` -> [[class Page|Page]]
+    - 返回定位器所属的页面对象
+- `Locator.element_handle` -> [[class ElementHandle|ElementHandle]]
+    - 返回定位器匹配的元素句柄
+- `Locator.element_handles` -> List[ElementHandle]
+    - 返回定位器匹配的所有元素句柄的列表
+- `Locator.type` -> NoneType
+    - 返回定位器的类型

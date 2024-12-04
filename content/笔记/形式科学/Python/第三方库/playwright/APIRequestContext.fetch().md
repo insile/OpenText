@@ -1,0 +1,25 @@
+##### APIRequestContext.fetch()
+- `APIRequestContext.fetch()` -> [[class APIResponse|APIResponse]]
+	- 
+	- `url_or_request`: `str|Request`
+		- 
+	- `data`: `str|bytes|Serializable (optional)`
+		- 
+	- `fail_on_status_code`: `bool (optional)`
+		- 
+	- `form`: `Dict[str, str|float|bool] (optional)`
+		- 
+	- `headers`: `Dict[str, str] (optional)`
+		- 
+	- `ignore_https_errors`: `bool (optional)`
+		- 
+	- `max_redirects`: `int (optional)`
+		- 
+	- `method`: `str (optional)`
+		- 
+	- `multipart`: `Dict[str, str|float|bool|[ReadStream]|Dict] (optional)`
+		- 
+	- `params`: `Dict[str, str|float|bool] (optional)`
+		- 
+	- `timeout`: `float (optional)`
+		- 

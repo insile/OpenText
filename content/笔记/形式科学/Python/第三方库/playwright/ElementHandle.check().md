@@ -1,0 +1,13 @@
+##### ElementHandle.check()
+- `ElementHandle.check()` -> NoneType
+	- 
+	- `force`: `bool (optional)`
+		- 
+	- `no_wait_after`: `bool (optional)`
+		- 
+	- `position`: `Dict (optional)`
+		- 
+	- `timeout`: `float (optional)`
+		- 
+	- `trial`: `bool (optional)`
+		- 

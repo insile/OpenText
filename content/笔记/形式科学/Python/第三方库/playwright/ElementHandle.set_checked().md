@@ -1,0 +1,15 @@
+##### ElementHandle.set_checked()
+- `ElementHandle.set_checked()` -> NoneType
+	- 
+	- `checked`: `bool`
+		- 
+	- `force`: `bool (optional)`
+		- 
+	- `no_wait_after`: `bool (optional)`
+		- 
+	- `position`: `Dict (optional)`
+		- 
+	- `timeout`: `float (optional)`
+		- 
+	- `trial`: `bool (optional)`
+		- 
