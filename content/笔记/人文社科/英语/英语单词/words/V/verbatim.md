@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/vɜːˈbeɪtɪm/； 美：/vɜːrˈbeɪtɪm/
 - #词性/adj #词性/adv  逐字的/地；一字不差的/地
 - #词性/n  一字不差的报道；逐字翻译
-# 例句
+##### 例句
 - It was nothing but a verbatim translation .
 	- 这只不过是逐字的直译罢了。
 - The official published verbatim report of the proceedings of a parliamentary body ; originally of the British parliament .

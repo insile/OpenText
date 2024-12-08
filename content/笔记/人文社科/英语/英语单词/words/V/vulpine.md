@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvʌlpaɪn/； 美：/ˈvʌlpaɪn/
 - #词性/adj  狐狸的；狡猾的；狐狸似的
-# 例句
+##### 例句
 - Effect of Reactive Oxygen Species on Activity of Antioxidant Enzymes in Leaf Disks of Vitis vulpine
 	- 活性氧对河岸葡萄叶圆片抗氧化酶活性的影响
 - Sometimes one came near to my window , attracted by my light , barked a vulpine curse at me , and then retreated .

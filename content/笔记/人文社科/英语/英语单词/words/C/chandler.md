@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtʃɑːndlə(r)/； 美：/ˈtʃændlər/
 - #词性/n  经销商；船用杂货商(或杂货店)
-# 例句
+##### 例句
 - The Chandler twins were coming round to the same opinion .
 	- 钱德勒家的这对双胞胎也最终统一了意见。
 - As baseball commissioner , Chandler was instrumental in making Jackie Robinson the first black player in the major leagues .

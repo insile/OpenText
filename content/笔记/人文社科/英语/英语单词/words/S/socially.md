@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'səʊʃ(ə)li/； 美：/'soʊʃ(ə)li/
 - #词性/adv  社会上；交际上；和睦地
-# 例句
+##### 例句
 - Children must learn socially acceptable behaviour .
 	- 儿童必须学会社会上认可的行为举止。
 - Socially responsible investors are already pouring in .

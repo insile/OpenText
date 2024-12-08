@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsplæʃi/； 美：/ˈsplæʃi/
 - #词性/adj  鲜明醒目的；华丽而招摇的；张大声势的
-# 例句
+##### 例句
 - I like those people who are deep , not splashy and wise .
 	- 我喜欢那种深沉的，内敛的、睿智的人。
 - We dreamed of doing something big and splashy , something significant .

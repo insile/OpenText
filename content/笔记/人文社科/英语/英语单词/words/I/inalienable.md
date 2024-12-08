@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈeɪliənəbl/； 美：/ɪnˈeɪliənəbl/
 - #词性/adj  不可剥夺(或分割)的
-# 例句
+##### 例句
 - He said the republic now had an inalienable right to self-determination .
 	- 他说共和国现在拥有不可剥夺的自决权。
 - Personal freedom , the inalienable right to do anything you want .

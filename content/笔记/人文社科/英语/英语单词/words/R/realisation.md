@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  实现
-# 例句
+##### 例句
 - Let 's pull together for the early realisation of the four modernizations .
 	- 为了早日实现四个现代化，让我们齐心协力地干吧
 - An Analysis on the Realisation of Moral Education Approaches

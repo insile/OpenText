@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkɜːvətʃə(r)/； 美：/ˈkɜːrvətʃər/
 - #词性/n  曲率；弯曲；曲度
-# 例句
+##### 例句
 - He suffered from curvature of the spine .
 	- 脊柱弯曲使他痛苦不堪。
 - The iHunch can result in permanent curvature of the spine2 and is the underlying3 problem of most neck and back issues and up to 50 percent of headaches .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfleɪɡrənt/； 美：/ˈfleɪɡrənt/
 - #词性/adj  公然的；骇人听闻的；罪恶昭彰的
-# 例句
+##### 例句
 - This was a high profile case yet there are thousands of job applications every year with discrepancies ranging from little white lies to flagrant omissions .
 	- 这个案件比较高调，然而每年都会有数千份存在矛盾的工作申请，它们要么有少许无关紧要的谎言，要么有公然的疏漏。
 - Many travelers , embittered by encounters with this flagrant discrimination , left China with impressions that were not as favorable as they might have been .

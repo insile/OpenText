@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈneɪdɪə(r)/； 美：/ˈneɪdɪr/
 - #词性/n  最低点；最糟糕的时刻
-# 例句
+##### 例句
 - The demand for this product will reach its nadir within two years .
 	- 对此产品的需求在两年内将达到最低点。
 - The SP 500 would not have sunk to 682 ( its nadir last March ) .

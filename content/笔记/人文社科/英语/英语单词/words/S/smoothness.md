@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsmuːðnəs/； 美：/ˈsmuːðnəs/
 - #词性/n  平滑；平稳
-# 例句
+##### 例句
 - Study on Influence Factors of the Smoothness of Tipping Base Paper
 	- 水松原纸平滑度影响因素的研究
 - Proposed the concept of curve smoothness and gives calculation method . (?)

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpəʊstˈdɒktərəl/； 美：/ˌpoʊstˈdɑːktərəl/
 - #词性/adj  博士后的
-# 例句
+##### 例句
 - Three years often corresponds to the length of a grant that pays the postdoctoral fellowship , so the grant may define the duration .
 	- 而且三年往往是给博士后发工资的学术基金的长度，所以学术基金的长度决定了博士后的长度。
 - In the past seventeen years , Chinese Postdoctoral Science Foundation has played an active role in giving supports to postdoctoral researchers and in fostering these potential scholars .

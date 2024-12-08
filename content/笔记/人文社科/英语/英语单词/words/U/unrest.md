@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈrest/； 美：/ʌnˈrest/
 - #词性/n  动荡；动乱；骚动
-# 例句
+##### 例句
 - The government failed to stifle the unrest .
 	- 政府没有制止住动乱。
 - They accused him of fomenting political unrest .

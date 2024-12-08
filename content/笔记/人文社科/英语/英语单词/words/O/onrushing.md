@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɒnrʌʃɪŋ/； 美：/ˈɑnˌrʌʃɪŋ/
 - #词性/adj  汹涌的；猛冲的
-# 例句
+##### 例句
 - He was killed by an onrushing locomotive .
 	- 他被飞驰而来的火车头撞死了。
 - The wild animals took flight before the onrushing fire .

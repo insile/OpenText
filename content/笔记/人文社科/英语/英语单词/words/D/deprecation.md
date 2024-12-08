@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  反对；贬低；祈免
-# 例句
+##### 例句
 - In this last discussion , we use the concept of deprecation .
 	- 在最后的这部分中，我们将使用弃用的概念。
 - I decide to try a bit of deprecation myself .

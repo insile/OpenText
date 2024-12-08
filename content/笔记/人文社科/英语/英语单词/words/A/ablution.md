@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈbluːʃ(ə)n/； 美：/əb'lʊʃən/
 - #词性/n  洗礼；(对人手、人体、圣器等的)沐浴仪式；净器(仪式)
-# 例句
+##### 例句
 - Through stormy ablution , internet industry of China or more will mature .
 	- 经过暴风雨的洗礼，中国的互联网行业或将更加成熟。
 - It acts like performing ablution to a plain dramatic tale and making it to be solemn , mysterious and meaningful .

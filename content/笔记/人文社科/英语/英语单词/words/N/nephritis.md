@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/nɪˈfraɪtɪs/； 美：/neˈfraɪtɪs/
 - #词性/n  肾炎
-# 例句
+##### 例句
 - A Study of the Change of Fibrinolytic Function in Child Patients with Nephritis
 	- 小儿肾炎患者纤溶功能的改变
 - Application of Removing Heat from the Bladder in Treating Acute Nephritis

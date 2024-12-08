@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  彩虹色
-# 例句
+##### 例句
 - You can see the iridescence on their faces .
 	- 你可以看到他们脸上的彩虹色
 - Instead , the researchers found that surface variations in chitinfiltered out the iridescence .

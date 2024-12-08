@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈwɪtɪŋ/； 美：/ʌnˈwɪtɪŋ/
 - #词性/adj  不知情的；无意的；糊里糊涂的
-# 例句
+##### 例句
 - So they created the Dark City , to observe and manipulate the unwitting humans .
 	- 因此，他们创造了黑暗中的城市，去观察和操纵不知情的人。
 - An unwitting subject in an experiment .

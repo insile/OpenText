@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈpləʊməsi/； 美：/dɪˈploʊməsi/
 - #词性/n  外交；(处理人际关系的)手腕，手段，策略；外交手腕；外交技巧
-# 例句
+##### 例句
 - He knew how to win by craft and diplomacy what he could not gain by force .
 	- 他擅长于通过计谋和外交手腕赢得他用武力无法得到的东西。
 - Settling the dispute required great tact and diplomacy .

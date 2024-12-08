@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  盐碱化；土壤盐渍化；盐化；盐化作用
-# 例句
+##### 例句
 - Advances in Study on Remote Sensing Application of Soil Salinization
 	- 土壤盐碱化遥感应用研究进展
 - Rapid Survey of Land Salinization Based on Multi-Source Remote Sensing Data

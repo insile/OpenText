@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈneɪmli/； 美：/ˈneɪmli/
 - #词性/adv  即；也就是
-# 例句
+##### 例句
 - We need to concentrate on our target audience , namely women aged between 20 and 30 .
 	- 我们须针对我们的听众对象，即年龄在20到30岁之间的妇女。
 - They were hardly aware of the challenge facing them , namely , to re-establish prosperity .

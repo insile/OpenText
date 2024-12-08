@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈfɔːml/； 美：/ɪnˈfɔːrml/
 - #词性/adj  非正式的；非正规的；日常的；随便的；不拘礼节的；口语体的；友好随便的
-# 例句
+##### 例句
 - Her ceremonious manner was rather inappropriate for our informal party .
 	- 她那郑重客套的举止实在和我们不拘礼节的晚会不符。
 - Many companies organize events or games for their employees to encourage informal interaction .

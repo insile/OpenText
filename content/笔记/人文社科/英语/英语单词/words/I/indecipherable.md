@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪndɪˈsaɪfrəbl/； 美：/ˌɪndɪˈsaɪfrəbl/
 - #词性/adj  难以辨认(或弄懂)的
-# 例句
+##### 例句
 - He uttered little indecipherable sounds .
 	- 他声音很小，听不清楚。
 - Maggie 's writing was virtually indecipherable

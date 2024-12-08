@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmedɪtətɪv/； 美：/ˈmedɪteɪtɪv/
 - #词性/adj  沉思的；深思的
-# 例句
+##### 例句
 - She stood looking at him with meditative eyes .
 	- 她站着用沉思的目光打量他。
 - After five minutes , the models broke into two groups and walked towards each other in slow meditative steps .

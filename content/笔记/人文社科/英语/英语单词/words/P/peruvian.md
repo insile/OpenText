@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pəˈruːviən/； 美：/pəˈruːviən/
 - #词性/n  秘鲁；秘鲁人；
 - #词性/adj  秘鲁的；秘鲁人的
-# 例句
+##### 例句
 - 300 tons of Peruvian mangoes were kept from entering France .
 	- 300吨秘鲁芒果被禁止进入法国。
 - Waters off the Peruvian coast become unusually warm , destroying the local anchovy fishing industry .

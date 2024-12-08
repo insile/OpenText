@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnkəˈmjuːnɪkətɪv/； 美：/ˌʌnkəˈmjuːnɪkətɪv/
 - #词性/adj  寡言少语的；缄默的；不爱说话的
-# 例句
+##### 例句
 - My daughter is very difficult , uncommunicative and moody .
 	- 我女儿很难相处，不愿跟人交流，又非常情绪化。
 - The hobby may cause a person from the silence uncommunicative trend optimistic upward ;

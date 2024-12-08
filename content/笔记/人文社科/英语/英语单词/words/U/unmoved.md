@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈmuːvd/； 美：/ˌʌnˈmuːvd/
 - #词性/adj  无动于衷的；冷漠的；无同情心的
-# 例句
+##### 例句
 - Dean Corso : [ expels a lungful of smoke , unmoved ] Ten .
 	- 迪安科索：[无动于衷的吸了一口烟]一成。
 - " She was there too , I think ," said quilp , still perfectly unmoved .

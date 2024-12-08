@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prɪˈdɒmɪnəns/； 美：/prɪˈdɑːmɪnəns/
 - #词性/n  (数量上的)优势；主导地位；支配地位；霸业
-# 例句
+##### 例句
 - Another interesting note was the predominance of London club players .
 	- 另一个有趣的现象是，伦敦俱乐部的球员在数量上占优势。
 - Since the former is most common among those inclined towards indifferent relationships , their predominance can bolster individuals ' sense of self-worth .

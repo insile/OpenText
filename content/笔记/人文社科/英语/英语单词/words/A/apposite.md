@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈæpəzɪt/； 美：/ˈæpəzɪt/
 - #词性/adj  合适的；很合适；很恰当
-# 例句
+##### 例句
 - Recent events have made his central theme even more apposite
 	- 新近发生的事情使得他的中心主题显得更加有的放矢。
 - She thought in both languages , and selected the most apposite phrase from either .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnɔːweɪ/； 美：/ˈnɔrˌweɪ/
 - #词性/n  挪威
-# 例句
+##### 例句
 - Do you remember when we went to Norway ? That was a good trip .
 	- 你记得我们去挪威的情形吗？那次旅行真不错。
 - His name was Hansen , a common name in Norway

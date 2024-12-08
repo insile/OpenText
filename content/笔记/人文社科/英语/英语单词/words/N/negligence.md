@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈneɡlɪdʒəns/； 美：/ˈneɡlɪdʒəns/
 - #词性/n  疏忽； 过失；失职；失误
-# 例句
+##### 例句
 - The accident was the result of negligence .
 	- 这次事故是由于疏忽所致。
 - The traffic accident was allegedly due to negligence .

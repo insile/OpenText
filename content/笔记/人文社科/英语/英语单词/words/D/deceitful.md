@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈsiːtfl/； 美：/dɪˈsiːtfl/
 - #词性/adj  欺骗的；骗人的；不诚实的
-# 例句
+##### 例句
 - Cowardly deceitful person ( esp one who informs on others )
 	- 怯懦而惯于欺骗的人（尤指告密者）。
 - Spend time learning to understand the people close to you , so that when they say or do something which is hurtful or deceitful , you can figure out why .

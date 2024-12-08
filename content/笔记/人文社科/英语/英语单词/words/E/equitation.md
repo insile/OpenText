@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌekwɪˈteɪʃn/； 美：/ˌekwɪˈteɪʃn/
 - #词性/n  骑马；骑术；养马
-# 例句
+##### 例句
 - A review of concepts , basic equitation and analytic models of two phases fluid .
 	- 介绍了两相流的基本概念、两相流的基本方程及解析模型基本方程。
 - Then make use of multiple linear regression and variance equitation to test price influence factors under tow models and explain the differences of price mechanism between them .

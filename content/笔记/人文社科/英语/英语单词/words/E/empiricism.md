@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈpɪrɪsɪzəm/； 美：/ɪmˈpɪrɪsɪzəm/
 - #词性/n  经验主义；经验论；实证论
-# 例句
+##### 例句
 - Empiricism : the history of development of Chinese trust and investment companies and the control of law ;
 	- 其二，实证论：我国信托业的发展历史及其法律控制；
 - Some are obviously tinged with relatively unalloyed empiricism .

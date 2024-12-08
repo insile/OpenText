@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɑːdjuəs/； 美：/ˈɑːrdʒuəs/
 - #词性/adj  艰苦的；艰难的
-# 例句
+##### 例句
 - We must have patience in doing arduous work .
 	- 我们做艰苦的工作要有耐性。
 - As one of the vocal language arts , speech is an arduous labour .

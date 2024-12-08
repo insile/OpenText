@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəˈməʊdiəs/； 美：/kəˈmoʊdiəs/
 - #词性/adj  宽敞的
-# 例句
+##### 例句
 - A commodious , clean , bright environment .
 	- 宽敞的，干净的，和明亮的环境。
 - A commodious harbor ; a commodious building suitable for conventions ; ( ` convenient ' is archaic in this sense ) .

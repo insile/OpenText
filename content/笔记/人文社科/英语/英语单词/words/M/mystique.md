@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/mɪˈstiːk/； 美：/mɪˈstiːk/
 - #词性/n  神秘性
-# 例句
+##### 例句
 - The mystique surrounding the monarchy has gone for ever .
 	- 王室的神秘性已经一去不复返。
 - The Mystique of the Modern Calculus Utility in View of the Culture History

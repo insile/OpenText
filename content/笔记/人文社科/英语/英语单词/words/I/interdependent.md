@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪntədɪˈpendənt/； 美：/ˌɪntərdɪˈpendənt/
 - #词性/adj  (各部分)相互依存的，相互依赖的
-# 例句
+##### 例句
 - We are interdependent personalities24 who need one another 's presence in order to fulfill our destiny .
 	- 我们是相互依存的，为了完成自己的使命，需要对方的存在。
 - China occupies an important place in an interdependent world .

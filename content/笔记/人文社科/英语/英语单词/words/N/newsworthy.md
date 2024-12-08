@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnjuːzwɜːði/； 美：/ˈnuːzwɜːrði/
 - #词性/adj  有新闻价值的；值得报道的
-# 例句
+##### 例句
 - Get some newsworthy information about yourself or your staff , and hand it to the local media .
 	- 收集你和员工们有新闻价值的信息，交给当地的媒体报道。
 - Press agentry is creating newsworthy stories and events to attract media attention and to gain public notice .

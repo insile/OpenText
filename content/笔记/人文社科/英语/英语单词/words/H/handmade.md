@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌhændˈmeɪd/； 美：/ˌhændˈmeɪd/
 - #词性/adj  手工制作的
-# 例句
+##### 例句
 - The beads they use are handmade in the Jura mountains in central France
 	- 他们用的珠子是法国中部的侏罗山山民手工制作的。
 - These traditional Chinese toys are usually handmade from parents or grandparents .

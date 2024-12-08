@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'peɪnzteɪkɪŋlɪ/； 美：/ˈpeɪnsˌtekɪŋlɪ/
 - #词性/adv  极力地
-# 例句
+##### 例句
 - Doctors painstakingly pieced together the broken bones .
 	- 医生们精心地把碎骨拼合起来。
 - The cause they contrived so painstakingly also ended in failure .

@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈnaʊnd/； 美：/rɪˈnaʊnd/
 - #词性/adj  著名的；闻名的；有名的；受尊敬的
-# 例句
+##### 例句
 - Or walked around a sculpture renowned as a classic , struggling to see what the fuss is about ?
 	- 或者你是否曾绕着一个著名的经典雕塑走,试图弄清楚它的稀奇所在?
 - Renowned cardiovascular investigators will assist you in developing a plan for integrating an academic career with research , teaching and patient care obligations .

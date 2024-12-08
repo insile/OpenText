@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsiːweɪ/； 美：/ˈsiːweɪ/
 - #词性/n  海道(大型海轮可航行的通海河道)
-# 例句
+##### 例句
 - The New Madrid Fault line in fact runs up along the Seaway .
 	- 新马德里断层带实际沿着海道向上而行。
 - A Civil river Shipment Seaway Ship Assignment Model and Its Algorithm

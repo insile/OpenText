@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪɡnəˈmɪniəs/； 美：/ˌɪɡnəˈmɪniəs/
 - #词性/adj  耻辱的；不光彩的；可耻的
-# 例句
+##### 例句
 - Act out an ignominious role in the scheme
 	- 在那个阴谋中扮演可耻的角色
 - And the only foreseeable outcomes are triumph , glorious triumph , or abject , ignominious defeat .

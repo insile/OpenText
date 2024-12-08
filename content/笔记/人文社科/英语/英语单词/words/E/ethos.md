@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈiːθɒs/； 美：/ˈiːθɑːs/
 - #词性/n  风气；(某团体或社会的)道德思想，道德观
-# 例句
+##### 例句
 - The whole ethos of the hotel is effortless service .
 	- 该酒店的全部理念就是提供轻松的服务。
 - He has rightly praised " huckleberry finn ", and mark twain 's great incidental achievement , in it and his another work , of creating a prose-style suited to the American ethos .

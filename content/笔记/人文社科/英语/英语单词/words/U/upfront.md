@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌpˈfrʌnt/； 美：/ˌʌpˈfrʌnt/
 - #词性/adj  预付的；坦率的；诚实的；直爽的；预交的
 - #词性/adv  预付地，先期支付地
-# 例句
+##### 例句
 - " I like her , she is really an upfront lady . "
 	- “我喜欢她，她实在是一位坦率的女士。”
 - He 's very upfront about discussing his family life .

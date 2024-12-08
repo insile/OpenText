@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈblændɪʃmənts/； 美：/ˈblændɪʃmənts/
 - #词性/n  (因有所求而)说的好话(或做的好事)，讨人欢心
-# 例句
+##### 例句
 - At first Lewis resisted their blandishments .
 	- 起初，刘易斯并没有听信他们的甜言蜜语。
 - Despite the salesperson 's blandishments , the customer did not buy the outfit .

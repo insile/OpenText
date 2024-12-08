@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəmˈpetətɪvnəs/； 美：/kəmˈpetətɪvnəs/
 - #词性/n  竞争力；竞技水平； 竞争能力； 竞争性
-# 例句
+##### 例句
 - The French are on solid ground when they argue that competitiveness is no reason for devaluation
 	- 法国人认为不能以提高竞争力为由进行贬值，他们是有道理的。
 - These figures exaggerate the loss of competitiveness

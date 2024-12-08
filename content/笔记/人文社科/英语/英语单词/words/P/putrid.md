@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpjuːtrɪd/； 美：/ˈpjuːtrɪd/
 - #词性/adj  腐烂的；腐臭的；令人厌恶(或恶心)的
-# 例句
+##### 例句
 - Putrid smelling breath – even if the teeth look perfect – can be a sign of acute necrotising periodontitis .
 	- 即使牙齿看上去很完美，呼出腐臭的气味也可能是急性坏死性牙周炎的迹象。
 - A putrid smell drove us from the room .

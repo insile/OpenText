@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnjuːtrɪtɪv/； 美：/ˈnutrətɪv/
 - #词性/adj  营养的;滋养的
 - #词性/n  富于营养的食物
-# 例句
+##### 例句
 - Coconut milk has little nutritive value .
 	- 椰子汁没什么营养价值。
 - Now the nutritive value of the forage is reduced .

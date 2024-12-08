@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  大二的；幼稚的；一知半解的；一知半解
-# 例句
+##### 例句
 - " Reaching conclusions based on just three days of trading is sophomoric ," he writes .
 	- 仅凭3天的交易情况就得出结论，未免太过幼稚。
 - Do you really believe that sophomoric argument ?

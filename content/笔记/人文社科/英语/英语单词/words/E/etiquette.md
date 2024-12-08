@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈetɪkət/； 美：/ˈetɪkət/
 - #词性/n  礼仪；(社会或行业中的)礼节；规矩
-# 例句
+##### 例句
 - The impolite act violates the basic rules of etiquette .
 	- 这种不礼貌的举动违反了基本的礼仪规则。
 - We 've surveyed business communication consultants and etiquette experts to come up with the following guidelines for effectively using the alternative ways of delivering difficult messages .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhaɪpətekst/； 美：/ˈhaɪpərtekst/
 - #词性/n  超文本
-# 例句
+##### 例句
 - Research on Pass Design Expert System for Hypertext Knowledge Base
 	- 基于超文本知识库的孔型设计专家系统的研究
 - Research of Adaptive Learning Mechanism of Hypertext Web Based on Concept Map

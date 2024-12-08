@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  惩罚的；报应；报应性
-# 例句
+##### 例句
 - Retributive Theory in Zhi Yuan 's Buddhism Ideology
 	- 智圆佛学思想中的报应论
 - After rethinking the traditional idea of retributive punishment , modern criminal policies have made some turnings .

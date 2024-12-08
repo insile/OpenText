@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪsˈɑːməmənt/； 美：/dɪsˈɑːrməmənt/
 - #词性/n  裁军，裁减军备(尤指核武器)
-# 例句
+##### 例句
 - The next government will play an energetic role in seeking multilateral nuclear disarmament .
 	- 下届政府将积极寻求多边核裁军。
 - The declaration deals with disarmament and the non-proliferation of nuclear weapons .

@@ -5,8 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
-# 例句
+##### 词义
+- #词性/n  琵琶
+##### 例句
 - Only after a thousand entreaties does she appear , her face half hidden behind the pipa in her arms .
 	- 千呼万唤始出来，犹抱琵琶半遮面。（白居易《琵琶行》）
 - In the ancient years , Pipa is widely used , especially in South of China .

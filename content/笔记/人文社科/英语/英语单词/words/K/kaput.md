@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəˈpʊt/； 美：/kəˈpʊt/
 - #词性/adj  坏；完蛋；运转不正常
-# 例句
+##### 例句
 - The truck 's kaput .
 	- 卡车坏了。
 - ' What 's happened to your car ? — 'It 's kaput . '

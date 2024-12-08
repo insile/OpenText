@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnjuːmərəl/； 美：/ˈnuːmərəl/
 - #词性/n  数字；数码
 - #词性/adj  数的；表示数的
-# 例句
+##### 例句
 - This numeral means a onefold increase in production .
 	- 这个数字意味着产量提高了一倍。
 - Numeral Dynamic Real Time Emulate System used in Transformer Protection Test

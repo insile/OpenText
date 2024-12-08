@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fəˈsɪlɪˈteɪʃən/； 美：/fəˌsɪləˈteɪʃən/
 - #词性/n  促进；便利；容易；简化；助长；易化作用
-# 例句
+##### 例句
 - APEC carries out work in three main areas : trade and investment liberalization , business facilitation , and economic and technical cooperation .
 	- APEC主要在三个领域开展工作：贸易与投资自由化、商业促进、经济和技术合作。
 - The control group underwent facilitation technique therapy only .

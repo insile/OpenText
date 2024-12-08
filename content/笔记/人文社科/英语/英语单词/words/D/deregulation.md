@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdiːˌreɡjuˈleɪʃn/； 美：/ˌdiːˌreɡjuˈleɪʃn/
 - #词性/n  解除管制;放松管制；违规
-# 例句
+##### 例句
 - Since deregulation , banks are permitted to set their own interest rates .
 	- 管制撤销之后，银行可以自行设定利率。
 - They say the industry is flat out lying about the effects of deregulation .

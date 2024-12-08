@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈpenɪtənt/； 美：/ɪmˈpenɪtənt/
 - #词性/adj  不悔改的，无悔意的；不感到羞愧的
 - #词性/adj  不知悔改的人，无悔意的人
-# 例句
+##### 例句
 - We need to remember that God 's wrath does burn against impenitent sinners .
 	- 我们必须铭记上帝的愤怒曾烧死了不知悔改的恶人。
 - His impenitent attitude is really annoying .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  友好地；友好地，友善地，温和地
-# 例句
+##### 例句
 - Say no amicably to everything that doesnt support your values or help you achieve your goals .
 	- 友好地对那些不符合自己价值观或无法帮你实现目标的事情说不。
 - The Russians and the Chinese were able to come to a final agreement quite amicably without serious contradictions .

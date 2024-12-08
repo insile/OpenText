@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnkənˈsɜːnd/； 美：/ˌʌnkənˈsɜːrnd/
 - #词性/adj  漠不关心的；不关心的；漫不经心的；冷淡的；漠视的；无兴趣的
-# 例句
+##### 例句
 - We have suddenly become an insular people , unconcerned with the underdeveloped countries .
 	- 我们突然变成了对于不发达国家漠不关心的与世隔绝的民族了。
 - In a composed and unconcerned manner . having your composure disturbed .

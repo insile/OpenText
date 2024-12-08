@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌprɛməˈtjʊəli/； 美：/ˌpriməˈtʃʊrli/
 - #词性/adv  早熟地
-# 例句
+##### 例句
 - Her hair became prematurely white .
 	- 她的头发过早地苍白了。
 - The child was born prematurely .

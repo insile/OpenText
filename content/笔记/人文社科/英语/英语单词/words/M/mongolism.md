@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  先天愚型；伸舌样白痴
-# 例句
+##### 例句
 - Kindergarten level of high school students , congenital Mongolism frog head !
 	- 幼稚园程度的高中生，先天蒙古症的青蛙头！
 - The comprehensive evaluation on fuzzy mathematics of the curative effect of electrotherapy on mongolism

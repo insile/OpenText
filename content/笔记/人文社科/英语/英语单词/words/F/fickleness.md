@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  变化无常；浮躁
-# 例句
+##### 例句
 - People get into the fickleness and turbulence and noisy life , would lose direction and do not know right and wrong .
 	- 人长期陷入浮躁、动荡、嘈杂的生活中，会迷失方向、不辨是非。
 - Wine Market Refuse Fickleness

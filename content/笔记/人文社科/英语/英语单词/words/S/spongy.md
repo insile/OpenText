@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈspʌndʒi/； 美：/ˈspʌndʒi/
 - #词性/adj  海绵状；海绵似的；柔软吸水的
-# 例句
+##### 例句
 - Spongy rubber ; made by introducing air bubbles before vulcanization .
 	- 海绵状橡胶，制造过程中在硫化前加入了空气气泡。
 - Spongy tissue disease occurred at the late stage of fruit development , 15 days before fruit matured .

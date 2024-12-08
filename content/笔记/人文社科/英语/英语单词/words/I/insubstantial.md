@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnsəbˈstænʃl/； 美：/ˌɪnsəbˈstænʃl/
 - #词性/adj  虚幻的；非实体的；不重要的；不大的；不坚固的；非真实的
-# 例句
+##### 例句
 - Objcts with no collision data are insubstantial and the train will pass through them .
 	- 没有碰撞数据的物体，在游戏中将被认为是虚幻的，如果碰撞在一起，列车将穿过它们。
 - He moved though the house , as silent and insubstantial as a shadow .

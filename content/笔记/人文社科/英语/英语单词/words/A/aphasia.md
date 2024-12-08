@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈfeɪziə/； 美：/əˈfeɪziə/
 - #词性/n  失语(症)；失语症
-# 例句
+##### 例句
 - My wife is in b-four , stroke and aphasia .
 	- 妻子住在b-4房间，患的是中风和失语症。
 - Design and clinical application of computer assessing system for aphasia

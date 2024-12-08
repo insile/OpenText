@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌfɪləˈsɒfɪk/； 美：/ˌfɪləˈsɑfɪk/
 - #词性/adj  哲学的；同 philosophical
-# 例句
+##### 例句
 - To Fulfill Philosophic Value in the Formation of History
 	- 在历史的生成中实现哲学的价值
 - The origin of the universe has always been the basic questions of philosophic problem since ancient times .

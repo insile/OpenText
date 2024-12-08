@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈtaɪərɪŋ/； 美：/ʌnˈtaɪərɪŋ/
 - #词性/adj  坚持不懈的；孜孜不倦的；不知疲劳的
-# 例句
+##### 例句
 - Chinese boxing people for decades of untiring effort to finally return in the Olympic Games marked the emergence of the Chinese boxing 's all-round rise .
 	- 中国拳击人几十年孜孜不倦的努力终于有了回报，在本次奥运会上的异军突起标志着中国拳击的全面崛起。
 - But for Miss Sullivan 's genius , untiring perseverance and devotion , I could not have progressed as far as I have toward natural speech .

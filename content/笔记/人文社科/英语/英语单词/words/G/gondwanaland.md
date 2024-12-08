@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  冈瓦纳大陆；冈瓦纳古陆；冈瓦那古陆
-# 例句
+##### 例句
 - The Expansion of the Rotating Earth and the Breakup of Gondwanaland
 	- 地球旋转膨胀与冈瓦纳古陆裂解
 - Recognition of the northern boundary of Gondwanaland using modern stratigraphic techniques

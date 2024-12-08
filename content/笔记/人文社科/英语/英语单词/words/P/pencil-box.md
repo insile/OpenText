@@ -5,9 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpensl bɒks/； 美：/ˈpensl bɑːks/
-# 例句
+- #词性/n  铅笔盒
+##### 例句
 - I do not like this pencil-box , please show me another .
 	- 我不喜欢这个铅笔盒，请再给我拿一个看看。
 - Is that your pencil-box ? Put it away , please .

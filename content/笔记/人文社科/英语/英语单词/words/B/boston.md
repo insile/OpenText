@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbɒstən/； 美：/ˈbɑstən/
 - #词性/n  波士顿
-# 例句
+##### 例句
 - The bus broke down en route from Boston to New York .
 	- 公共汽车在从波士顿到纽约的途中抛锚了。
 - The Prince will visit Boston on the last leg of his American tour .

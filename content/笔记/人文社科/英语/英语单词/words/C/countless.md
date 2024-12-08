@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkaʊntləs/； 美：/ˈkaʊntləs/
 - #词性/adj  无数的；数不胜数的；数不尽的
-# 例句
+##### 例句
 - She brought joy to countless people through her music
 	- 她用音乐给无数的人带来欢乐。
 - The past has been scarred by countless perversions of justice .

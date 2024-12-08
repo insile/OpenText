@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˌliːvɪˈeɪʃ(ə)n/； 美：/əˌliviˈeɪʃən/
 - #词性/n  减轻；缓解；缓和；镇痛物
-# 例句
+##### 例句
 - The cost reduction achieved in this way will benefit patients and the society in burden alleviation .
 	- 集中招标采购降低的采购成本要让利于患者，减轻社会负担
 - Even if rice prices were to plummet , other brakes on poverty alleviation remain .

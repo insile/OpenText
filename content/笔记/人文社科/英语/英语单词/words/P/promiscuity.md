@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  滥交；混杂；混乱；乱交；性乱交
-# 例句
+##### 例句
 - Campbell says in the June issue of the journal Human Nature that the findings suggest women are not well adapted to promiscuity .
 	- 坎贝尔说发表在六月版人性杂志上的研究结果表明女人不能很好地适应这种混乱的男女关系。
 - Investors will tolerate a measure of strategic promiscuity if it comes from a company like BHP , where operating cash flows after interest and tax were more than twice the sum of dividends and net debt in June .

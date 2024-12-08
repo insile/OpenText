@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  翻天覆地的；惊天动地；惊天动地的
-# 例句
+##### 例句
 - Such an earthshaking change must have far-reaching effects .
 	- 像这样翻天覆地的变化一定会产生深远的影响。
 - That reform will also be a change , and an earthshaking one .

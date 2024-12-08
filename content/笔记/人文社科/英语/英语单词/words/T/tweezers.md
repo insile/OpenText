@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtwiːzəz/； 美：/ˈtwiːzərz/
 - #词性/n  镊子；小夹钳
-# 例句
+##### 例句
 - Remove the bee sting with tweezers .
 	- 用镊子拔掉蜜蜂的螫刺。
 - A scalpel and tweezers are the only tools needed .

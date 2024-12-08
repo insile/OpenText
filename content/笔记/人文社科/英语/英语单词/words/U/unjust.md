@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈdʒʌst/； 美：/ˌʌnˈdʒʌst/
 - #词性/adj  不公正的；不公平的；非正义的
-# 例句
+##### 例句
 - He submitted to the unjust treatment .
 	- 他屈服于这种不公平的待遇。
 - He got an unjust punishment .

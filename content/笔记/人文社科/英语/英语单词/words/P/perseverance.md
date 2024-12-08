@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpɜːsəˈvɪərəns/； 美：/ˌpɜːrsəˈvɪrəns/
 - #词性/n  毅力；不屈不挠的精神；韧性
-# 例句
+##### 例句
 - They showed great perseverance in the face of difficulty .
 	- 他们面对困难表现了坚强的毅力。
 - The achievement of her goals relied mainly on her perseverance .

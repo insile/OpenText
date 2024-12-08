@@ -9,11 +9,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/preˈstiːʒ/； 美：/preˈstiːʒ/
 - #词性/n  声望；威望；威信
 - #词性/adj  重要的；名贵的；贵重的；受尊重的；令人敬仰的；讲究派头的
-# 例句
+##### 例句
 - He has high prestige among the masses .
 	- 他在群众中威信很高。
 - Perhaps when enough bureaucratic prestige has been invested in a policy it is easier to see it fail than to abandon it .

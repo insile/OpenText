@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  简洁；简明；简约；简洁性；简洁性原则
-# 例句
+##### 例句
 - Compared with traditional systems , the system shows the advantages of concision , maneuverability and agility .
 	- 与传统系统构成相比，本系统的构成更简洁，操作性和灵活性更强。
 - The modern design strives for concision ," minimalist " is popular .

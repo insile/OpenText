@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdebriː/； 美：/dəˈbriː/
 - #词性/n  碎片；残骸；垃圾；废弃物；残渣；破片
-# 例句
+##### 例句
 - Survivors clung to pieces of floating debris .
 	- 生还者紧紧抱住一块块漂浮在水面上的残骸。
 - Forensic experts carried out a painstaking search of the debris .

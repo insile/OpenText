@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmɪnərəlaɪˈzeɪʃən/； 美：/ˌmɪnərələˈzeɪʃən/
 - #词性/n  矿化（作用）；无机化作用
-# 例句
+##### 例句
 - Chromite and \/ or magnesite mineralization is usually related to the ophiolite .
 	- 铬铁矿及（或）菱镁矿化通常是与蛇绿岩有关。
 - Extracting Mineralization Information by Hyperspectral Analysis Based on Rough Set Theory

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  被动地
-# 例句
+##### 例句
 - Control exerted ( actively or passively ) by group action .
 	- 通过集体行动外露的控制（积极地或被动地）。
 - Network probes are small hardware devices that are designed to passively collect data .

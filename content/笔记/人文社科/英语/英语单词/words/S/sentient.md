@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsentiənt/； 美：/ˈsentiənt/
 - #词性/adj  有感觉能力的；有知觉力的
 - #词性/n  意识；心；有知觉[感觉(力)]的人[物]
-# 例句
+##### 例句
 - Man is a sentient being .
 	- 人是有感觉的生物。
 - It teaches us to love all sentient beings equally .

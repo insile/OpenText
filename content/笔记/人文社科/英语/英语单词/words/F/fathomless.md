@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfæðəmlɪs/； 美：/ˈfæðəmləs/
 - #词性/adj  深不可测的；无法理解的
-# 例句
+##### 例句
 - I know of a fathomless well .
 	- 我知道一口深不可测的井。
 - She looked at him with calm , fathomless eyes .

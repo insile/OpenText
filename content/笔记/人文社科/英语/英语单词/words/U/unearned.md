@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈɜːnd/； 美：/ˌʌnˈɜːrnd/
 - #词性/adj  非劳动所得的
-# 例句
+##### 例句
 - Declare all unearned income .
 	- 一切非劳动所得的收入都要申报。
 - Reduction in the tax on unearned income could be a boost for small businesses .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnɪmˈplɔɪmənt/； 美：/ˌʌnɪmˈplɔɪmənt/
 - #词性/n  失业；失业人数；没有工作；无业
-# 例句
+##### 例句
 - If these measures also reduce unemployment , that is all to the good .
 	- 要是这些措施也能降低失业率，那就不失为好事。
 - Rising unemployment is a political time bomb for the government .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  弯脚的
-# 例句
+##### 例句
 - Research on the static-load test and move-load test of the variable cross-section diagonal bowlegged box girder bridge
 	- 变截面斜弯箱梁桥的静动载试验与研究
 - A bowlegged blond beast basically leapt out of her arms and into our hearts .

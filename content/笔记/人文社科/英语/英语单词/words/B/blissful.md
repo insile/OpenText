@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈblɪsfl/； 美：/ˈblɪsfl/
 - #词性/adj  幸福的；极乐的
-# 例句
+##### 例句
 - And if you do look to your need , life can become a blissful existence , because needs are not much .
 	- 如果你确实关注你的需要，生命将成为一种极乐的存在，因为需要并不多。
 - Bring back lots of blissful memories of the austerities of my youthful days in Vraja .

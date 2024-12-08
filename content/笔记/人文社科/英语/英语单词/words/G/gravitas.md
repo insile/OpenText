@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡrævɪtɑːs/； 美：/ˈɡrævɪtɑːs/
 - #词性/n  庄严；严肃
-# 例句
+##### 例句
 - But although the job title suggests experience and gravitas , the truth is anyone can call themselves a consultant .
 	- 虽然这项工作需要经验和严肃的派头，但事实是任何人都可以自称顾问。
 - Terry Pratchett 's Discworld might not have the gravitas of other fantasy works , but it makes our list by virtue of being pure fun .

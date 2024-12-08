@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  不敏感；钝性；不灵敏性
-# 例句
+##### 例句
 - The failure of the talks was mainly due to insensitivity and mistiming .
 	- 会谈失败主要是由于反应迟钝和时机不对。
 - The government has behaved with crass insensitivity

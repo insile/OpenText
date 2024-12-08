@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdɛnsli/； 美：/ˈdɛnsli/
 - #词性/adv  密集的；密集地
-# 例句
+##### 例句
 - Scales densely covered with narrowly to broadly lanceolate spinules in somewhat convergent rows ;
 	- 鳞片浓密地狭窄地对在略微趋集于一点的列中宽广矛尖形的小刺覆盖著了；
 - A highly localized , specialized piece of substrate is densely overgrown .

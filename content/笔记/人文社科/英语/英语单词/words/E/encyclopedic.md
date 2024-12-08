@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˌsaɪkləˈpiːdɪk/； 美：/ɪnˌsaɪkləˈpiːdɪk/
 - #词性/adj  百科全书的；百科知识的；博学的；知识渊博的；包含各种学科的
-# 例句
+##### 例句
 - She has an encyclopedic knowledge of natural history .
 	- 她具有广博的自然史知识。
 - The Functions of Schematized Encyclopedic Information in the Process of Natural Language Understanding

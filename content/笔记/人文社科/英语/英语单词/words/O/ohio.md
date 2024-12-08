@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əʊˈhaɪəʊ/； 美：/oʊˈhaɪoʊ/
 - #词性/n  俄亥俄州(美国中东部州，首府哥伦布）
-# 例句
+##### 例句
 - A snow warning was posted for Ohio .
 	- 俄亥俄州已发出大雪警报。
 - It is no easy job to run against John Glenn , Ohio 's Democratic senator

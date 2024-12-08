@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pəˈsɪpiənt/； 美：/pərˈsɪpiənt/
 - #词性/adj  敏锐的；理解透彻的；明察秋毫的
 - #词性/n  感觉灵敏的人；洞察；感觉者
-# 例句
+##### 例句
 - As the more percipient local residents may have realized .
 	- 正如目光比较敏锐的当地居民可能已认识到的那样。
 - I always appreciate your percipient comments on my work .

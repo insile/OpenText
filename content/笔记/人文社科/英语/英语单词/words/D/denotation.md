@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdiːnəʊˈteɪʃn/； 美：/ˌdiːnoʊˈteɪʃn/
 - #词性/n  外延；指称；指称意义；指称之物
-# 例句
+##### 例句
 - He thought that these problems provide a kind of judging tool for denotation in philosophy .
 	- 而且，他声称，这些矛盾为哲学上的指称理论的充分性提供了一种检验的工具。
 - The social nature emphasize that language is the product of society as denotation on semiotics .

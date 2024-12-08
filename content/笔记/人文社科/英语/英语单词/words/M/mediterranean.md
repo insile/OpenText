@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmedɪtəˈreɪniən/； 美：/ˌmedɪtəˈreɪniən/
 - #词性/adj  地中海的
 - #词性/n  地中海；地中海地区的居民；地中海沿岸的高加索人
-# 例句
+##### 例句
 - Britain bakes in a Mediterranean heatwave .
 	- 地中海的热浪炙烤着英国。
 - Then his voice rises and falls like the Mediterranean Sea .

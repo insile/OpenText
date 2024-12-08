@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmʌltiˈkʌltʃərəl/； 美：/ˌmʌltiˈkʌltʃərəl/
 - #词性/adj  多元文化的；多种文化融合的
-# 例句
+##### 例句
 - We live in a multicultural society .
 	- 我们生活在一个多元文化的社会中。
 - In multicultural America , Filipino Americans are not absolute Filipinos , and neither are complete Americans .

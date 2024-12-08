@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  不赞成的；反对的；恳求的
-# 例句
+##### 例句
 - From frank 's deprecatory remarks about the money " people " owed him , she had imagined the sums to be small .
 	- 从弗兰克不愿意提起“人们”欠他钱的态度来看，她一直以为这笔钱为数不多。
 - Belittling comments ; managed a deprecating smile at the compliment ; deprecatory remarks about the book ; a slighting remark .

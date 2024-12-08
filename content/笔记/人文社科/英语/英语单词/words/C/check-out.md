@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/tʃek aʊt/； 美：/tʃek aʊt/
 - #词性/n  退房；(超市的)收款处，收银台
-# 例句
+##### 例句
 - Writes down the Late Check-out time onto the Due Out list .
 	- 在预期离店表上写下延迟退房的时间。
 - The check-out time can be extended for one hour later and some member points , etc.

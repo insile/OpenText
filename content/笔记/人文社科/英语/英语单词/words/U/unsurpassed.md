@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnsəˈpɑːst/； 美：/ˌʌnsərˈpæst/
 - #词性/adj  无比的；卓绝的；出类拔萃的
-# 例句
+##### 例句
 - Who on this battlefield displayed heroism unsurpassed sacrificing all in support of their cause .
 	- 他们在这块战场上显示了无比的英雄气概并为理想而献身。
 - A person or thing of unsurpassed excellence or beauty ; a paragon . None of emotional relationships are perfect , neither any one of human beings .

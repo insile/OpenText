@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  不确定；缺乏自信
-# 例句
+##### 例句
 - Chapter 4 , according to the shortage of the algorithm provided in the chapter 3 and removing the influence of unsureness sensors information , a feasible mixed approach of path planning is discussed .
 	- 第四章针对第三章提出算法的缺点，排出不确定传感器信息的影响，试验一种随机规划与局部路径规划相结合的混合路径规划方法。
 - Distribution system is the important part of marketing , which has the nature of slow-establish process , long-term efficiency and unsureness of control .

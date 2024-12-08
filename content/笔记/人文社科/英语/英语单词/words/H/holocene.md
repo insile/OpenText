@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  全新世；全新统；全新纪
 - #词性/adj  全新纪的
-# 例句
+##### 例句
 - The planet 's history contains many less stable and clement eras than the holocene .
 	- 地球的历史包含着许多不如全新世稳定与温和的地质时期。
 - Historical Climate Change s of the West China in the Holocene

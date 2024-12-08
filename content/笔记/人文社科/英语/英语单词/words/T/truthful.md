@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtruːθfl/； 美：/ˈtruːθfl/
 - #词性/adj  真实的；诚实的；诚实；如实的；讲真话；坦率
-# 例句
+##### 例句
 - She could not give him a truthful answer .
 	- 她不能给他一个诚实的答案。
 - Ruth is always truthful and anything she says will be accredited .

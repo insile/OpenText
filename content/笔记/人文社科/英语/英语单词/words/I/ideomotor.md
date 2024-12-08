@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  观念运动的
-# 例句
+##### 例句
 - Besides , ideomotor theory also stressed the important position of goal and anticipation .
 	- 此外，观念运动理论还强调了目标和预期的重要地位。
 - As we all know , ideomotor action is a term of psychology .

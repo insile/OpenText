@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmænəˈdʒɪəriəl/； 美：/ˌmænəˈdʒɪriəl/
 - #词性/adj  管理的；经理的
-# 例句
+##### 例句
 - He also thought of his managerial position .
 	- 他又想到了他的经理的职位。
 - Impressional management measurement and managerial job performance

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pɔːk/； 美：/pɔːrk/
 - #词性/n  猪肉
-# 例句
+##### 例句
 - Place the sliced pork fillet on top and pour a little sauce over it .
 	- 把切成片的猪肉里脊放在上面，再往上浇点调味汁。
 - Pork is also the most versatile of meats . It can be roasted whole or in pieces

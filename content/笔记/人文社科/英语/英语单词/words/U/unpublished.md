@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈpʌblɪʃt/； 美：/ʌnˈpʌblɪʃt/
 - #词性/adj  未发表的；未公开的；未出版的
-# 例句
+##### 例句
 - Ian Fleming 's original unpublished notes are to go under the hammer at London auctioneers Sotheby 's.
 	- 伊恩·弗莱明未出版的原版笔记将在伦敦的苏富比拍卖行进行拍卖。
 - I was handled full manuscripts of unpublished books by indigenous writers .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈməʊʃnləs/； 美：/ˈmoʊʃnləs/
 - #词性/adj  一动不动的；静止的
-# 例句
+##### 例句
 - Some young man sat motionless outside the office , waiting for the interview .
 	- 一些年青人一动不动的座在办公室外等待着面试。
 - On the lonely , lifeless landscape of the moon , a strange-looking vehicle squats motionless under the sun 's glaring rays .

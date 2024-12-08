@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/vɪˈveɪʃəs/； 美：/vɪˈveɪʃəs/
 - #词性/adj  活泼的；可爱的；动人的
-# 例句
+##### 例句
 - She is an artless , vivacious girl .
 	- 她是一个天真活泼的女孩。
 - A vibrant group that challenged the system ; a charming and vivacious hostess ; a vivacious folk dance .

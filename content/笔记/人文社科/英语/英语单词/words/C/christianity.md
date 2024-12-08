@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkrɪstiˈænəti/； 美：/ˌkrɪstiˈænəti/
 - #词性/n  基督教
-# 例句
+##### 例句
 - He converted from Christianity to Islam .
 	- 他由基督教改信伊斯兰教。
 - Christianity has stood the test of time , so there must be something in it

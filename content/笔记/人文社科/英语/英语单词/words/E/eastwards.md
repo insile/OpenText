@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈiːstwədz/； 美：/ˈiːstwərdz/
 - #词性/adv  向东；朝东
-# 例句
+##### 例句
 - They were pressing on eastwards towards the city 's small airfield .
 	- 他们继续向东朝该市的小机场推进。
 - The medical unit made its way eastwards .

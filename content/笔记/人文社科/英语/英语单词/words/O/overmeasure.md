@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  高估；余量；裕度；剩余；留量；容差,估量过大
-# 例句
+##### 例句
 - Moreover , this monitor can display the limit speed , temporary speed and the temporary overmeasure time .
 	- 监测仪还动态显示路段限速值，当前时速和当前提前或滞后的时间裕量。
 - Analytic conclusion thinks , industrial structure has overmeasure effect to outstanding achievement of finance affairs of whole of state owned industry .

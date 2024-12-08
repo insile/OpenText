@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdʒenətaɪp/； 美：/ˈdʒenətaɪp/
 - #词性/n  基因型
-# 例句
+##### 例句
 - Objective Study on hair bulb for human genotype analyses .
 	- 目的探讨毛球微量标本在人类基因型研究中的价值。
 - Study on Nitrogen Efficiency on Different Genotype Soybean

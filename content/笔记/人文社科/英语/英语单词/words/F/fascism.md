@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfæʃɪzəm/； 美：/ˈfæʃɪzəm/
 - #词性/n  法西斯主义
-# 例句
+##### 例句
 - The uneasy coupling of fascism and conservatism spawned a new kind of political regime
 	- 法西斯主义和保守主义这种令人不安的结合产生了一种新政权。
 - Fascism was an international movement that took different forms in different countries .

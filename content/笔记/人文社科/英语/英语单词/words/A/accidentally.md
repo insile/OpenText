@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌæksɪˈdɛntəli/； 美：/ˌæksəˈdɛntəli/
 - #词性/adv  意外地；出其不意地；不知不觉地
-# 例句
+##### 例句
 - It appears the names were accidentally erased from computer disks .
 	- 看起来那些名字被意外地从计算机磁盘上删除了。
 - Every time you make a change to a file , you run the risk of accidentally making more mistakes .

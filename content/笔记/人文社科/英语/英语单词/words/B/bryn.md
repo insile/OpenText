@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  布林；布莱恩
-# 例句
+##### 例句
 - Does Bryn Mawr have a law school ?
 	- 布林茅尔有法学院吗
 - For example , earlier this year Bryn Mawr College in Pennsylvania its plans to open a campus in Abu Dhabi .

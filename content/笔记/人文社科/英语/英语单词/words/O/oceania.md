@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌəʊsiˈɑːniə/； 美：/ˌoʊʃiˈɑːniə/
 - #词性/n  大洋洲
-# 例句
+##### 例句
 - They christened the boat ' Oceania ' .
 	- 他们把这条船命名为“大洋洲号”。
 - Eventually , they crossed the whole Oceania and arrived in Australia .

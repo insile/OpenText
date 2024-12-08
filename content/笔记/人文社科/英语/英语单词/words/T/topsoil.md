@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtɒpsɔɪl/； 美：/ˈtɑːpsɔɪl/
 - #词性/n  表土；表土层
-# 例句
+##### 例句
 - A thin layer of topsoil was swept away .
 	- 薄薄的一层表土被冲走了。
 - Application of Blasting Technology to Inclined Topsoil Construction

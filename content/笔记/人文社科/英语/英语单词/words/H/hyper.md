@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhaɪpə(r)/； 美：/ˈhaɪpər/
 - #词性/adj  精力过旺的；既兴奋又紧张的
 - #词性/n  宣传人员
-# 例句
+##### 例句
 - I was incredibly hyper . I couldn 't sleep .
 	- 我太亢奋了，根本无法入睡。
 - Coffee makes you hyper , but coffee shops are designed for people to chill , whereas alcohol is a depressant but bars and clubs are designed for people to be energetic .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈherəldɪd/； 美：/ʌnˈherəldɪd/
 - #词性/adj  突如其来的；未曾提及的；突然发生的
-# 例句
+##### 例句
 - The complete reversal of this policy was unheralded .
 	- 事先没有听到一点儿风声要彻底推翻这项政策。
 - They are inviting talented , but unheralded film-makers to submit examples of their work .

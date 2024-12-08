@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌfʌndəˈmentəli/； 美：/ˌfʌndəˈmentəli/
 - #词性/adv  (表示最重要的方面)根本上；(引入话题时说)从根本上说，基本上；完全地
-# 例句
+##### 例句
 - But more than that , supporters see the GM opposition of many environmentalists as fundamentally anti-science , no different than those who question the basics of man-made climate change .
 	- 但除此之外,支持者认为,许多环保人士反对转基因的立场从根本上讲是反科学的,与那些质疑人为气候变化基本原理的人没有什么不同。
 - Fundamentally , the development of modern society in China is a matter of modernization .

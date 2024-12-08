@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkriːeɪˈtɪvəti/； 美：/ˌkriːeɪˈtɪvəti/
 - #词性/n  创造性；创造力
-# 例句
+##### 例句
 - Creativity and originality are more important than technical skill .
 	- 创造力和独创性比专门技术更为重要。
 - There may be a link between madness and creativity .

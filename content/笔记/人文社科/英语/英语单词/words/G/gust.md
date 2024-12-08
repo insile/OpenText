@@ -8,18 +8,18 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɡʌst/； 美：/ɡʌst/
 - #词性/n  一阵狂风；一阵强风；(感情的)迸发，爆发，发作
 - #词性/vi  猛刮；劲吹
-# 例句
+##### 例句
 - " I thought a large gust of wind had hit the hotel ," he said .
 	- 他说：「我以为是一阵强风吹到这家旅馆。」
 - A sudden gust of wind blew her into the arms of him .
 	- 一阵强风把她推进他的怀里。
 - A gust of wind blew his hat off .
 	- 一阵狂风把他的帽子刮掉了。
-# 形态
+##### 形态
 - #形态/word_third gusts
 - #形态/word_ing gusting
 - #形态/word_done gusted

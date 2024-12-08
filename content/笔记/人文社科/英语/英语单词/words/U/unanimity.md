@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌjuːnəˈnɪməti/； 美：/ˌjuːnəˈnɪməti/
 - #词性/n  一致同意；全体赞同
-# 例句
+##### 例句
 - All decisions would require unanimity .
 	- 所有决定都需要全体一致同意。
 - By contrast , the traditional long-term budget requires unanimity .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌrektɪfɪˈkeɪʃn/； 美：/ˌrektɪfɪˈkeɪʃn/
 - #词性/n  纠正；校正；矫正；修正
-# 例句
+##### 例句
 - Defects of New Public Management Theory and Its Rectification
 	- 新公共管理理论的缺陷及其纠正
 - The Welding Deformation of Steel Structure and It 's Control and Rectification

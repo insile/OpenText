@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdʒɜːnəˈlɪstɪk/； 美：/ˌdʒɜːrnəˈlɪstɪk/
 - #词性/adj  新闻工作(者)的；新闻业的
-# 例句
+##### 例句
 - I know what they say about me : no journalistic experience .
 	- 我知道他们怎么谈论我：没有新闻业的经验。
 - We have to maintain journalistic integrity .

@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈliːniənt/； 美：/ˈliːniənt/
 - #词性/adj  (惩罚或执法时)宽大的，宽容的，仁慈的
-# 例句
+##### 例句
 - Many Indians were disappointed at the lenient terms ;
 	- 很多印度人对于宽大的判罚感到失望；
 - The local court gave Zhou a lenient sentence due to the teenager 's age and frank confession of the crime , according to the report .

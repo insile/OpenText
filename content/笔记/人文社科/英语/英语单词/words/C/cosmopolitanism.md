@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  世界主义；四海一家
-# 例句
+##### 例句
 - Cosmopolitanism became difficult to disentangle from its overtones of anti-nationalism .
 	- 世界主义很难摆脱反爱国主义的色彩。
 - You might even say that the internet is cosmopolitanism by nature .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌhɜːkjuˈliːən/； 美：/ˌhɜːrkjuˈliːən/
 - #词性/adj  赫拉克勒斯的；力大无比的；困难的赫拉克勒斯的
-# 例句
+##### 例句
 - To be fair , Herculean progress has already been made .
 	- 老实说，巴西已经取得了巨大的进步。
 - You must make a Herculean effort not to talk to them about it .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  不充分的；不充足地，不适当地，不足胜任地
-# 例句
+##### 例句
 - Schools in the area are still inadequately resourced .
 	- 本地区的学校仍然没有足够的资金。
 - You see young people going to school inadequately dressed for the weather

@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rekˈtæŋɡjələ(r)/； 美：/rekˈtæŋɡjələr/
 - #词性/adj  矩形的；长方形的
-# 例句
+##### 例句
 - Construct a set of rectangular axes and resolve any inclined forces into rectangular components .
 	- 作一组直角坐标轴，把各力都分解成正交分量。
 - He put a rectangular box on the table .

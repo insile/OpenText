@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪndiəm/； 美：/ˈɪndiəm/
 - #词性/n  铟
-# 例句
+##### 例句
 - The mines for elements such as indium , for example , which is used to make touch screens , will be exhausted3 within a century .
 	- 例如，用于制造触摸屏幕的铟等元素的矿藏将在一个世纪内枯竭。
 - Extraction and application of indium and development of its new products

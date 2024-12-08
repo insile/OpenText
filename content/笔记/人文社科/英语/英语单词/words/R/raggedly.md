@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  破烂的；破烂地；粗糙地
-# 例句
+##### 例句
 - She was breathing raggedly .
 	- 她急促地呼吸着。
 - The crowd was shouting raggedly now , instead of in chorus as at first .

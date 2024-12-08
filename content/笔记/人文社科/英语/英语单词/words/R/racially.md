@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  种族地；按人种地，人种上
-# 例句
+##### 例句
 - Few people will admit to being racially prejudiced .
 	- 很少有人会承认自己有种族偏见。
 - The attacks were not racially motivated .

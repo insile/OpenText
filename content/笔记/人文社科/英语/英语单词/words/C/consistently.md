@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈsɪstəntli/； 美：/kənˈsɪstəntli/
 - #词性/adv  始终如一地；一贯地
-# 例句
+##### 例句
 - Her work has been of a consistently high standard .
 	- 她的工作一直是高水准的。
 - We have argued consistently for a change in the law .

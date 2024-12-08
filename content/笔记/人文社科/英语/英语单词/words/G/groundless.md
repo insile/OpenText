@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡraʊndləs/； 美：/ˈɡraʊndləs/
 - #词性/adj  无根据的；无理由的
-# 例句
+##### 例句
 - Then there must be no doubt in your mind , the charge is groundless .
 	- 在你的想法里，毫无疑问，指控是无根据的。
 - Facts have proved these worries groundless .

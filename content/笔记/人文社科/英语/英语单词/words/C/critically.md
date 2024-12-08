@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'krɪtɪkli/； 美：/ˈkrɪtɪkli/
 - #词性/adv  批判地；批判性地；危急地；严重地
-# 例句
+##### 例句
 - She 's critically ill , on life support .
 	- 她病情危急，靠机器来维持生命。
 - This has given him a disposition to consider our traditions critically

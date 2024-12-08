@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhɑːtləs/； 美：/ˈhɑːrtləs/
 - #词性/adj  无情的；狠心的
-# 例句
+##### 例句
 - The heartless shows the writer 's negation and criticism of society to a supreme degree .
 	- 无情的人性则显示出作者对社会最大程度的否定和批判；
 - Without hesitation he released therainy south wind and called upon the heartless Poseidon to help .

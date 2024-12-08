@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  必定成功的;十拿九稳的
-# 例句
+##### 例句
 - The novel is a surefire eyepopper .
 	- 这小说定能令人惊奇。
 - Philosophy - Want a surefire way to be a great youth coach ?

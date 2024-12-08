@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwʊdn/； 美：/ˈwʊdn/
 - #词性/adj  木制的；木头的；呆板的；木讷的；死板的；木头似的
-# 例句
+##### 例句
 - A wooden table is a concrete object .
 	- 一张木制的桌子是一件实在的东西。
 - He moved to Wales with his family and built a wooden eco-house .

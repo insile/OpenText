@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈkuːpərətɪv/； 美：/rɪˈkuːpərətɪv/
 - #词性/adj  有助于恢复的
-# 例句
+##### 例句
 - Human beings have great recuperative powers .
 	- 人类具有很强的自我康复能力。
 - The Development of Recuperative High Temperature Ceramic Heat Exchangers

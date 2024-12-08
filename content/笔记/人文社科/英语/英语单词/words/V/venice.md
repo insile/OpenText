@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɛnɪs/； 美：/ˈvɛnəs/
 - #词性/n  威尼斯
-# 例句
+##### 例句
 - Venice is a beautiful city full of culture and history .
 	- 威尼斯是一座具有深厚文化和历史底蕴的美丽城市。
 - Venice was once a city of rich merchants .

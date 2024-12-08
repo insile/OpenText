@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkruːdəti/； 美：/ˈkruːdəti/
 - #词性/n  粗糙；粗鲁(的事例)；粗俗；简陋
-# 例句
+##### 例句
 - Excuse me , for the crudity of this model .
 	- 抱歉，这模型有点粗糙。
 - She has revealed the truth of the common marriage : helplessness and endurance , crudity and warmth .

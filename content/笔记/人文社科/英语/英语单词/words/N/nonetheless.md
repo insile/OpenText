@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌnʌnðəˈles/； 美：/ˌnʌnðəˈles/
 - #词性/adv  尽管如此
-# 例句
+##### 例句
 - Nonetheless , it 's smart to exercise caution .
 	- 尽管如此,谨慎行事是明智的做法。
 - Nonetheless , physicians say that they look at the collective data and a clear picture emerges : that the salt , sugar , fat and processed foods in the American diet contribute to the nation 's high rates of obesity , diabetes and heart disease .

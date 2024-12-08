@@ -5,9 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌbaɪəʊˈlɒdʒɪkəli/； 美：/baɪəˈlɑdʒɪkli/
-# 例句
+- #词性/adv  生物学上
+##### 例句
 - Hair and skincare brands must adapt their products to Asian skin and hair , which differs biologically from that of western customers , and cosmetics brands must adjust to the mainland cultural practice of wearing little or no make-up .
 	- 护发和护肤品牌必须调整产品，使之更适合亚洲人的肤质与发质&他们与西方消费者存在生物学上的差异。而化妆品品牌则必须适应内地淡妆或不化妆的文化习俗。
 - Nutrition is biologically comprehensive and supports the natural order of things .

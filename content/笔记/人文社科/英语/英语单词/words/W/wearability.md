@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  耐磨性；耐磨损性，穿着性能
-# 例句
+##### 例句
 - Research into the Wearability of Involute & Cycloid Composite Gear Tooth Profile
 	- 渐开线&摆线复合齿形耐磨损性的研究
 - Influence of degumming technology on Wearability of silk fabric

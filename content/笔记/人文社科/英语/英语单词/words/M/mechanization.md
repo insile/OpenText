@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmekənaɪˈzeɪʃn/； 美：/ˌmekənəˈzeɪʃn/
 - #词性/n  机械化
-# 例句
+##### 例句
 - The breathtaking potentialities of mechanization set the minds of manufacturers and merchants on fire
 	- 机械化的惊人潜力使制造厂和商人们激动不已。
 - The fundamental way out for agriculture lies in mechanization .

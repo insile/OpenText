@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmenənaɪt/； 美：/ˈmenənaɪt/
 - #词性/n  门诺派教徒
-# 例句
+##### 例句
 - The Mennonite Church in North America is not large , but its history goes back to the Reformation period .
 	- 北美的门诺会并不大，但其历史却可以追溯到十六世纪的教会改革时期。
 - The religion , a variety of the Mennonite faith , provides the principal mechanism for maintaining orders .

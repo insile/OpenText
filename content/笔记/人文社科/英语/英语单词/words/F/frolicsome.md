@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfrɒlɪksəm/； 美：/ˈfrɑːlɪksəm/
 - #词性/adj  嬉戏的；欢闹的
-# 例句
+##### 例句
 - Frolicsome students celebrated their graduation with parties and practical jokes .
 	- 爱玩闹的学生们举行聚会，制造各种恶作剧来庆祝毕业。
 - The game was played in a friendly , high-spirited way , with frolicsome behaviour on both sides .

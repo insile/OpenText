@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/təˈrenʃl/； 美：/təˈrenʃl/
 - #词性/adj  倾盆的；倾泻的；如注的
-# 例句
+##### 例句
 - The torrential rains in the month of April , give rise to the glorious flowers in the month of May .
 	- 四月倾泻的大雨，迎来五月绚丽夺目的花朵。
 - The game was cancelled owing to torrential rain .

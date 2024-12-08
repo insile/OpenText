@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtʃiːfli/； 美：/ˈtʃiːfli/
 - #词性/adv  主要地；首要地
-# 例句
+##### 例句
 - Changes in society are due chiefly to the development of the internal contradictions in society .
 	- 社会的变化，主要地是由于社会内部矛盾的发展。
 - Apollonius is chiefly noted for his work on conic sections .

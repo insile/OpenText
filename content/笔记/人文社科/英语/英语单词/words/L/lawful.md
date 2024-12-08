@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlɔːfl/； 美：/ˈlɔːfl/
 - #词性/adj  合法的；法定的；法律承认的
-# 例句
+##### 例句
 - In essence , patent rights is of lawful monopoly and is a legal monopoly power .
 	- 专利权本身具有法定的垄断性，是一种合法的垄断权。
 - It was lawful for the doctors to treat her in whatever way they considered was in her best interests

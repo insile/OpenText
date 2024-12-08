@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈʃəʊmənʃɪp/； 美：/ˈʃoʊmənʃɪp/
 - #词性/n  演艺才能；主持演出的技巧；善于表演的技能
-# 例句
+##### 例句
 - it 's good , uh it 's good showmanship really .
 	- 这真的很棒，嗯，这真的是一种非常棒的演讲技巧.
 - What does Amateur Class mean in reference to Junior Showmanship ?

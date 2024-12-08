@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  洛马斯（女子名）
-# 例句
+##### 例句
 - It is still their bestseller , says Lomas , who is also a consultant for the brand .
 	- 洛马斯说，他同时兼任这家品牌的顾问。
 - James Dagg and Jeremy Lomas have both notched up three America 's Cup campaigns and will be joined by Olympic silver medalist Glen Ashby as tactician .

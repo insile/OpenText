@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kwɪnˈtesns/； 美：/kwɪnˈtesns/
 - #词性/n  精髓；精华；典范；范例
-# 例句
+##### 例句
 - John is the quintessence of good manners .
 	- 约翰是礼貌的典范。
 - He looked at her quite tenderly , for she was the quintessence of a certain type of feminine beauty .

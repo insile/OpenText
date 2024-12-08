@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  小旅馆；客栈；旅馆
-# 例句
+##### 例句
 - What 's the name and number of the auberge ?
 	- 那家宾馆的名字和电话是什么？
 - Drinks at " Coq d'or " - dinner at the " Auberge " - a ring and a promise given .

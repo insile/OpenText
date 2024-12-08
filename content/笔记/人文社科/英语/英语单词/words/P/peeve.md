@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/piːv/； 美：/piːv/
 - #词性/n  生气；气恼；激怒
 - #词性/v  使气恼；使焦躁
-# 例句
+##### 例句
 - She was in a peeve over it .
 	- 她对这很气恼。
 - The situation put him into a peeve .

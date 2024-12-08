@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpleθərə/； 美：/ˈpleθərə/
 - #词性/n  过多；过剩；过量
-# 例句
+##### 例句
 - Classes with a plethora of imports have many unique types .
 	- 具有过多导入的类会有许多惟一类型。
 - A plethora of problems [ rice ]

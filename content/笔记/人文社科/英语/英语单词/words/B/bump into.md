@@ -5,9 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/bʌmp ˈɪntə/； 美：/bʌmp ˈɪntə/
-# 例句
+- #词性/vt  撞到；碰到
+##### 例句
 - Actually , let 's just read this little bit where you 've made them bump into each other .
 	- 这样吧，我们就只读你让他们偶遇这一小段吧。
 - Joanna heard him bump into the table and curse again .

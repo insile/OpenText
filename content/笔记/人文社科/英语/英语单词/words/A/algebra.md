@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈældʒɪbrə/； 美：/ˈældʒɪbrə/
 - #词性/n  代数
-# 例句
+##### 例句
 - He would allow John slyly to copy his answers to impossibly difficult algebra questions
 	- 他会让约翰偷偷抄下自己对一些极难的代数题的解答。
 - She is fascinated by algebra while he considers it meaningless nonsense .

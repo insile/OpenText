@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɑːkɪəˈlɒdʒɪkəl/； 美：/ˌɑrkiəˈlɑdʒɪkəl/
 - #词性/adj  考古的；考古学的；考古学上的
-# 例句
+##### 例句
 - The area is a treasure house of archaeological relics .
 	- 这个地区是古文物遗迹的宝库。
 - Archaeological finds have been made one after another .

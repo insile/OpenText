@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈtrænzɪdʒəns/； 美：/ɪnˈtrænzɪdʒəns/
 - #词性/n  不妥协；不让步；不调和
-# 例句
+##### 例句
 - Yet for North Korea , intransigence is the norm .
 	- 不过对朝鲜来说，决不妥协是其一贯作风。
 - For various reasons not least , Republican intransigence those hopes have been disappointed .

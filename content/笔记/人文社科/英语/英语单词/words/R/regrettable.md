@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈɡretəbl/； 美：/rɪˈɡretəbl/
 - #词性/adj  令人遗憾的；可惜的；令人惋惜的
-# 例句
+##### 例句
 - This designers and enterprises to be described as a regrettable thing .
 	- 这对于设计师和企业而言，不能不说是一件令人惋惜的事情。
 - One regrettable consequence of this is that onlookers often conclude that religion causes the violence done in its name .

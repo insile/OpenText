@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  闪烁体；闪光；发出荧光
-# 例句
+##### 例句
 - The research on the system of Gaogouli Capital City evolution and protection , have leading meaning , Gaogouli Capital City will again scintillate the energy .
 	- 都城演变体系研究对今天探讨高句丽都城保护与更新有着指导意义，使高句丽都城再度焕发青春活力。
 - Her eyes scintillate anger .

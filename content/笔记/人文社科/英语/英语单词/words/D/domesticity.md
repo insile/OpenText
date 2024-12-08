@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdəʊmeˈstɪsəti/； 美：/ˌdoʊmeˈstɪsəti/
 - #词性/n  家庭生活
-# 例句
+##### 例句
 - And withdrawal from employment to complete domesticity is a far less threatening experience for older women than it is for men .
 	- 退出就业，完全过着家庭生活对年纪较大的妇女来说，并不像男子一样是一个可怕的变动。
 - It is particularly interesting because it alternates the male world of the bush with the female realm of domesticity and romantic love .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  重新发布；重新出版；重新发表；再次发布；再出版；基本特征
-# 例句
+##### 例句
 - To republish specific task assignments , select the assigned tasks you want .
 	- 若要重新发布特定工作分配，请选择所需的分配任务。
 - To republish all task assignments , no selection is needed .

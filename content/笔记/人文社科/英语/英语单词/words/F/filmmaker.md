@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɪlmˌmeɪkə/； 美：/ˈfɪlˌmeɪkər/
 - #词性/n  电影制作人
-# 例句
+##### 例句
 - He 's the kind of filmmaker who doesn 't hesitate to over-sentimentalize .
 	- 他是那种煽起情来不遗余力的电影制作人。
 - Written , directed by and co-starring female filmmaker Jia Ling , Hi , Mom has received the best user review ratings by far of the seven tentpoles currently on release .

@@ -8,11 +8,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlætərəl/； 美：/ˈlætərəl/
 - #词性/adj  横向的；侧面的；向侧面移动的
 - #词性/n  边音(如lie一词中 /l/ 的发音)
-# 例句
+##### 例句
 - The whole article is all around for daddy stop smoking this matter to write articles , highlighted the center , lateral expressed you to dad 's care .
 	- 整篇文章都是围绕着为爸爸戒烟这件事来写，突出了文章的中心，也侧面的表达了你对爸爸的关心。
 - The rocket then took a lateral course straight for the Moon .

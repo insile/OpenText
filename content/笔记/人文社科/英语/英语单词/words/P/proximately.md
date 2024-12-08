@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  近似地；最近地
-# 例句
+##### 例句
 - Feasibility of Microwave Coagulation Proximately to Major Hepatic Vein : Experimental Study
 	- 肝静脉主干旁经皮微波凝固可行性的实验研究
 - The relationship between B and the die length-diameter ratio was proximately inverse proportion .

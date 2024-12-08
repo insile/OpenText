@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  偶然地；偶然地，偶然发生地；幸运地，意外地
-# 例句
+##### 例句
 - We won 't do anything fortuitously in view of the final , we really want to become World champions .
 	- 为比赛考虑我们不能出任何意外，我们非常希望加冕世界冠军。
 - As the advantageous condition appeared fortuitously in the innovative activity , the opportunity plays an important part in gaining the result of innovation .

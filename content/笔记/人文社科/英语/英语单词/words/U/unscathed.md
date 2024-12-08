@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈskeɪðd/； 美：/ʌnˈskeɪðd/
 - #词性/adj  毫发无损的；未受伤害；未受伤
-# 例句
+##### 例句
 - The hostages emerged from their ordeal unscathed .
 	- 各人质历尽磨难后安然生还。
 - The tobacco industry escaped unscathed from its toughest legal challenge .

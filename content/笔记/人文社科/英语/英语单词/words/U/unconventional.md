@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnkənˈvenʃənl/； 美：/ˌʌnkənˈvenʃənl/
 - #词性/adj  新奇的；不因循守旧的；不因袭的
-# 例句
+##### 例句
 - The vaccine had been produced by an unconventional technique
 	- 该疫苗是用非传统工艺生产的。
 - He had rather unconventional work habits , preferring to work through the night .

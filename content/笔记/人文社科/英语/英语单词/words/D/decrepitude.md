@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈkrepɪtjuːd/； 美：/dɪˈkrepɪtuːd/
 - #词性/n  衰老；破旧；老朽
-# 例句
+##### 例句
 - The Research on the Anti - Decrepitude Mechanism of Taijiquan
 	- 试论太极拳抗衰老的机理
 - A Comparative Research of Ancient and Modern Mechanism about Athletic Exercise Staving off Decrepitude

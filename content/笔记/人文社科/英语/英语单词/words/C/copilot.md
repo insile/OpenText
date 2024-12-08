@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkəʊˌpaɪlət/； 美：/ˈkoʊˌpaɪlət/
 - #词性/n  （飞机的）副驾驶员；缩写词为coplt
-# 例句
+##### 例句
 - The second was as Roger Murdock , the copilot from Airplane !
 	- 第二部是在电影《飞机》里面饰演一名叫RogerMurdock的副驾驶员。
 - To contain seats for the pilot , copilot and passengers

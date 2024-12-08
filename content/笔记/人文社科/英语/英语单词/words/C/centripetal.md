@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsentrɪˈpiːtl/； 美：/senˈtrɪpɪtl/
 - #词性/adj  向心的
-# 例句
+##### 例句
 - Centripetal xylem differentiates from the outside toward the center , and a centripetal inflorescence ( e.g.the capitulum ) is one in which the outer flowers open before those in the center .
 	- 向心的木质部的分化是从外向内的，向心式的花序是外面的花比中央的花先开放。
 - We show that the intermediate-range force at centrical region of a spheric shell is centrifugal or centripetal , thus this region is the vacuum region or the region of the simple harmonic vibration of the particle whose vibrational frequency is an observable value ;

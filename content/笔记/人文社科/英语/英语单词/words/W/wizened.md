@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwɪznd/； 美：/ˈwɪznd/
 - #词性/adj  干瘪的；(由于年老)多皱的，干枯的
-# 例句
+##### 例句
 - A wizened little man wriggled through the line of soldiers standing guard .
 	- 有个一身干瘪的小个子男人，拐弯抹角混过了执行警戒的士兵队列。
 - The only food they could find in the house was some stale bread and a few wizened apples .

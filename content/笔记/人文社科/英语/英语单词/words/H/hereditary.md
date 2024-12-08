@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/həˈredɪtri/； 美：/həˈredɪteri/
 - #词性/adj  <数>（集合）遗传性的；遗传性的；（疾病或品质）遗传的；（称号或权利）承袭的，世袭的；祖传的，传统的；有世袭身份（或头衔）的
-# 例句
+##### 例句
 - Because of the ( hereditary ) factor , he and his father have same temper .
 	- 因为遗传的原因，他和父亲的脾气很相似。
 - On the other hand , changes of enterprise population may have a great influence upon the environment ; making property rights of enterprises structure produce new restructuring and dissociation on hereditary basis .

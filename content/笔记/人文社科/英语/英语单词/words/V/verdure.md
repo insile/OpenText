@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɜːdʒə(r)/； 美：/ˈvɜːrdʒər/
 - #词性/n  青葱的草木；郁郁葱葱的植物
-# 例句
+##### 例句
 - Methods : Select 44 cases of ALL verdure bone marrow smears .
 	- 方法：选取44例急性淋巴细胞白血病患者的新鲜骨髓涂片。
 - Ever green mountains verdure the accompanying distance between us .

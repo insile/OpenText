@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ ˌsemɪˈærɪd/； 美：/ ˌsemiˈærɪd /
 - #词性/adj  半干旱；半干旱性；半干燥的
-# 例句
+##### 例句
 - Study and application of semiarid area water bearing capacity
 	- 半干旱地区水资源承载力研究及应用
 - Study on geographic information resources in arid and semiarid regions of China

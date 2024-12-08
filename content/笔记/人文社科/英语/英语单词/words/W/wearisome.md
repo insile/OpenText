@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwɪərisəm/； 美：/ˈwɪrisəm/
 - #词性/adj  厌倦的；乏味的；使人厌倦的；令人疲劳的
-# 例句
+##### 例句
 - A wearisome book [ lecture ]
 	- 乏味的书[演讲]
 - He had followed others , belonged to many wearisome groups and organizations , and at last found himself identified with this particular person .

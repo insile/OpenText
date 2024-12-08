@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɔːrəs/； 美：/ˈpɔːrəs/
 - #词性/adj  多孔的；透气的；透水的
-# 例句
+##### 例句
 - porous Glass is not porous ; it doesn 't allow liquid to pass through .
 	- adj.多孔的玻璃是毫无空隙的，液体无法透过它。
 - Experiments showed that the porous titanium dioxide has a certain absorption capacity , and has a good catalytic ability .

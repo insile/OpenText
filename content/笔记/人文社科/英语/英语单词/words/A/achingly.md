@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈeɪkɪŋli/； 美：/ˈeɪkɪŋli/
 - #词性/adv  (因得不到而)渴望地，痛苦地
-# 例句
+##### 例句
 - The song is achingly beautiful .
 	- 那首歌有种哀婉动人的美。
 - This achingly tender love story , read out loud by an elderly man every morning for a woman that has no idea what it means , won ’ t end with the closing credits . It will follow you , leaving a bittersweet aftertaste ;

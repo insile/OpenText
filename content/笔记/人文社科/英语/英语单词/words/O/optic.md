@@ -7,11 +7,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɒptɪk/； 美：/ˈɑːptɪk/
 - #词性/adj  视觉的；眼的
 - #词性/n  奥普蒂克量杯(酒吧用以量烈性酒)
-# 例句
+##### 例句
 - The recognition of the geometric figure is the basis of the pattern recognition and the computer optic , moreover the recognition of lines , rectangles and circles are the basis of the figure recognition .
 	- 图形识别是模式识别和计算机视觉的基础，而直线、矩形、圆的识别又是图形识别的基础。
 - SR ( which can be seen a inverse process of optic ) reconstruct super ( high ) resolution image of one or set by using low resolution images ( which have strong relationship between each other ) without noise and aliasing .

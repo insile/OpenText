@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/braɪtnəs/； 美：/ˈbraɪtnəs/
 - #词性/n  亮度；鲜明；光泽；光辉；白度
-# 例句
+##### 例句
 - The star varies in brightness by about three magnitudes .
 	- 星体的亮度大约分三个星等。
 - The Application Research and Development of High Brightness LED in Green Lighting Engineering

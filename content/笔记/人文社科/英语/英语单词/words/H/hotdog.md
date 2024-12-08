@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  热狗
 - #词性/v  （在作冲浪或滑雪运动时）卖弄（花式动作）
-# 例句
+##### 例句
 - A : Would you like the hotdog with the works ?
 	- A：您的热狗所有的配料都要加吗？
 - First , you need a long piece of bread called a hotdog roll .

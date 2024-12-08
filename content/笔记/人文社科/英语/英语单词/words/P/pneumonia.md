@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/njuːˈməʊniə/； 美：/nuːˈmoʊniə/
 - #词性/n  肺炎
-# 例句
+##### 例句
 - Most people do not have to be hospitalized for asthma or pneumonia .
 	- 大多数哮喘或肺炎患者无需住院。
 - The new drug lessens the severity of pneumonia episodes .

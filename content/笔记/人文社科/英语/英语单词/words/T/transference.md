@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtrænsfərəns/； 美：/trænsˈfɜːrəns/
 - #词性/n  转移；转让；调动；转递
-# 例句
+##### 例句
 - His transference of devotion from Nicola to Susan was complete .
 	- 他对妮古拉的挚爱完全转移到了苏珊身上。
 - Research on Industry Regional Transference and Absorption : Theory and Empirical Analysis

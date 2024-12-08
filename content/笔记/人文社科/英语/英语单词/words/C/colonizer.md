@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  殖民者；移民；殖民主
-# 例句
+##### 例句
 - After a10-year resistance against French colonizer , Haiti became the first independent Black and Latin-American country .
 	- 历经十年对法国殖民者的抵抗，海地成为第一个独立的黑人国家和拉丁美洲国家。
 - Veranda style is invented by Occident colonizer in Indian for the climate .

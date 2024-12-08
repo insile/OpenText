@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  使和好，使愉快，使柔和
-# 例句
+##### 例句
 - Therefore , expressing one to the color phase request of kitchen furniture hue is clean , stimulation appetite and make the body dulcify of character .
 	- 因此，对厨房家具色彩的色相要求能够表现出干净、刺激食欲和能够使人愉悦的特征。
 - Dulcify festival in this sever winter , wish this very small card distant of book to wish you , peaceful , happiness !

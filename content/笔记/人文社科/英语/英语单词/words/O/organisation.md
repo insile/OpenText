@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɔːɡənaɪˈzeɪʃn/； 美：/ˌɔːrɡənəˈzeɪʃn/
 - #词性/n  组织；团体；机构
-# 例句
+##### 例句
 - The organisation would provide a forum where problems could be discussed .
 	- 这个组织将提供一个可以讨论问题的平台。
 - The country has also been granted membership of the World Trade Organisation

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌhaɪbɜːˈneɪʃən/； 美：/ˌhaɪbərˈneɪʃən/
 - #词性/n  冬眠；越冬；蛰伏；冬蛰
-# 例句
+##### 例句
 - The tortoise spends the winter months in hibernation .
 	- 乌龟在冬眠中度过寒冬季节。
 - Artificial Hibernation and Lower Temperature The Treatment and Secondary Brain Injury

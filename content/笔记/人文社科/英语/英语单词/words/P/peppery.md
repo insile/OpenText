@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpepəri/； 美：/ˈpepəri/
 - #词性/adj  辣的；胡椒味的；脾气不好的；爱发火的
-# 例句
+##### 例句
 - I like peppery food .
 	- 我爱吃辣的。
 - We are not used to very peppery food .

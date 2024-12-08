@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmɪsˈmænɪdʒmənt/； 美：/ˌmɪsˈmænɪdʒmənt/
 - #词性/n  管理不善；处置不当
-# 例句
+##### 例句
 - His economic mismanagement has lost him the support of the general public .
 	- 他对经济的管理不善使他失去了广大民众的支持。
 - For many , the sewage crisis is emblematic of the corruption and mismanagement that have long hobbled Latin America 's largest country .

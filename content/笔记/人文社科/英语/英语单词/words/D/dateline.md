@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  国际日期变更线,日界线,日期栏；书信或新闻通信稿上所注明的书写（发稿）日期与地点；（新闻）日期项
-# 例句
+##### 例句
 - I opened the letter and saw a return address and dateline ... 1924 .
 	- 我打开这封信，看见了寄信人的地址和落款日期：1924年。
 - Bill : Let 's hear all about it in Dateline USA.

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  使受精；施肥于；施肥；授精；使肥沃
-# 例句
+##### 例句
 - Thanks for watching video How To Fertilise Roses .
 	- 感谢收看“怎样为玫瑰施肥”视频节目。
 - This should be carried out in late Winter or early Spring , so fertilise your roses successfully with our help .

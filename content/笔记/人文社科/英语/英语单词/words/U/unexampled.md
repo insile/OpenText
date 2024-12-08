@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  前所未有的；空前的；无先例的；无比的；例外的
-# 例句
+##### 例句
 - SoC has the unexampled advantages whether in development period or in system functions and performances .
 	- SoC不论在开发周期，还是在系统功能、性能方面，均具有无可比拟的优点。
 - Matlab is an engineering calculation language and has unexampled advantage of graphics and image processing .

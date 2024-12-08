@@ -7,11 +7,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpeɪnzteɪkɪŋ/； 美：/ˈpeɪnzteɪkɪŋ/
 - #词性/adj  艰苦的；辛苦的；需细心的；需专注的
 - #词性/n  苦干
-# 例句
+##### 例句
 - This , of course , involves certain difficulties [ painstaking work ] .
 	- 这当然会带来一些困难[需要进行艰苦的工作]。
 - It is a painstaking business that few are willing to do .

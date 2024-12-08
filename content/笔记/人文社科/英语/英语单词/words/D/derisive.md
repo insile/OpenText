@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈraɪsɪv/； 美：/dɪˈraɪsɪv/
 - #词性/adj  嘲笑的；嘲弄的；取笑的
-# 例句
+##### 例句
 - He flushed hotly under the derisive grins of the bulldozer drivers .
 	- 这时，他看到了推土机司机们嘲弄的笑容，脸一下子变得通红。
 - Derisive laughter , booing , etc.

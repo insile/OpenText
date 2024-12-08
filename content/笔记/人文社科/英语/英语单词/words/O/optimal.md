@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɒptɪməl/； 美：/ˈɑːptɪməl/
 - #词性/adj  最佳的；最优的
-# 例句
+##### 例句
 - Optimal one to many parallel routing algorithm in n star networks
 	- N-Star网络中最优的点到多点平行路由算法
 - On the optimal conditions , it can reduce sludge by 16 % .

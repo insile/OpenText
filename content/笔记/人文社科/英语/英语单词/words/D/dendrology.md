@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/denˈdrɒlədʒi/； 美：/denˈdrɑːlədʒi/
 - #词性/n  树木学
-# 例句
+##### 例句
 - Research and Practice on Teaching Method Reform of Landscape Dendrology
 	- 《园林树木学》教学方法改革的研究与实践
 - Discussion on Cultivating Vocational Core Ability through Landscape Dendrology Learning

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prɪˈsaɪs/； 美：/prɪˈsaɪs/
 - #词性/adj  精确的；准确的；确切的；明确的；精细的；(强调时间或方式等)就，恰好；细致的；认真的；一丝不苟的
-# 例句
+##### 例句
 - She gave me clear and precise directions .
 	- 她给了我清晰而准确的指示。
 - It was difficult to measure the precise impact of the labor action .

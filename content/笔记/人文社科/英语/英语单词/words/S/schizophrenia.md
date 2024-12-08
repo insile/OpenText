@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌskɪtsəˈfriːniə/； 美：/ˌskɪtsəˈfriːniə/
 - #词性/n  精神分裂症
-# 例句
+##### 例句
 - One of the most common symptoms of schizophrenia is hearing imaginary voices .
 	- 精神分裂症的最常见的一个症状就是幻听。
 - Despite its prevalence , schizophrenia has existed behind a wall of secrecy for years .

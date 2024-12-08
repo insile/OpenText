@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌntəˈwɔːd/； 美：/ʌnˈtɔːrd/
 - #词性/adj  不幸的；意外的；异常的；棘手的；不祥的
-# 例句
+##### 例句
 - Untoward circumstances prevent me from being with you on this festive occasion .
 	- 有些不幸的事件使我不能在这欢庆的时刻和你在一起
 - That 's the plan ─ unless anything untoward happens .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  网状；网眼；网状物
-# 例句
+##### 例句
 - Automatically Generated The Parameter of Reticulation Route Calculated Base Point and Base Line Surgical approaches of pheochromocytoma
 	- 网状径路计算基点基线参数自动形成的研究
 - For the thin and reticulation characteristics of many cracks , a target extraction algorithm based on node characteristics is put forward .

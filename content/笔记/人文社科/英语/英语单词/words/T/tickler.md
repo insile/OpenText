@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  难题；备忘录；挠痒痒的人；瑞典；棘手的问题；初始器
-# 例句
+##### 例句
 - He 's meeting the tickler successfully .
 	- 他在顺利地处理着这难题。
 - The dressing of oxidized ore of zinc and lead in Lanping has been a tickler for a long time .

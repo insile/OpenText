@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  无证件的；无正式文件的，无事实证明的
-# 例句
+##### 例句
 - Gutierrez supports immigration reforms , including an end to deporting undocumented , immigrant college students .
 	- LuisGutierrez支持移民改革，包括终止驱逐无正式文件的移民大学生。
 - Importantly , Lee notes that as the " first immigrants to be excluded from the United States , Asians became the first undocumented immigrants " ;

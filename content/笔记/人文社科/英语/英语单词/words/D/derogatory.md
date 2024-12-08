@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈrɒɡətri/； 美：/dɪˈrɑːɡətɔːri/
 - #词性/adj  贬义的；贬低的
-# 例句
+##### 例句
 - A derogatory term used by Jews to refer to non-Jewish women .
 	- 犹太人对非犹太女子的贬低的称呼。
 - Special Snowflake ( syndrome ) is a derogatory term widely used to describe someone who often whines1 about deserving special treatment or sees oneself as exceptionally unique for no apparent reason .

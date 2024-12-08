@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɒdz/； 美：/ɑːdz/
 - #词性/n  几率；可能性；机会；(事物发生的)概率；逆境；投注赔率；不利条件；掣肘的事情
-# 例句
+##### 例句
 - What are the odds he won 't turn up ?
 	- 他不会露面的可能性有多大？
 - What are the odds of finding a parking space right outside the door ?

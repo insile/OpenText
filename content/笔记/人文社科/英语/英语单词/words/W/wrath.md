@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɒθ/； 美：/ræθ/
 - #词性/n  愤怒；怒火；震怒；盛怒
-# 例句
+##### 例句
 - She falls in love and incurs the wrath of her father .
 	- 她恋爱了，这引起了父亲的愤怒。
 - His silence marked his wrath .

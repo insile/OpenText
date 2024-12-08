@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  似鸟的；敏捷轻快的
-# 例句
+##### 例句
 - Its birdlike appearance is completed by the roof that spreads out like red wings 。
 	- 教堂的屋顶延伸出去，看上去仿佛红色的翅膀，让这种教堂的整体外观更像一只小鸟。
 - Predatory dinosaurs appear to have developed birdlike respiratory systems able to take in large amounts of oxygen .

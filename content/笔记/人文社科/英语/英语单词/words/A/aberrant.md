@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/æˈberənt/； 美：/æˈberənt/
 - #词性/adj  异常的；反常的；违反常规的
-# 例句
+##### 例句
 - I saw that the insects and spiders were displaying the same kind of aberrant behavior .
 	- 我看到昆虫和蜘蛛正在表现出相同反常的行为。
 - Many Europeans would certainly like to believe that Iraq was the product of aberrant neo-conservative ideas about foreign policy and that a traditional America lies just around the corner .

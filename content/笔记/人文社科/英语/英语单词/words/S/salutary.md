@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsæljətri/； 美：/ˈsæljəteri/
 - #词性/adj  有益的(尽管往往让人不愉快)
-# 例句
+##### 例句
 - This has not been a salutary week for European corporate governance .
 	- 对欧洲的公司治理来说，3月底的一周可不是有益的一周。
 - The experiences of World Bank Load forestry program in Yunnan province provided a salutary lesson for effective forestry management and high benefit .

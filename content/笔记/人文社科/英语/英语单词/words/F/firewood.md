@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfaɪəwʊd/； 美：/ˈfaɪərwʊd/
 - #词性/n  柴火；木柴
-# 例句
+##### 例句
 - He was chopping logs for firewood .
 	- 他在把原木劈成柴火。
 - Two young girls were collecting firewood

@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdɪzməl/； 美：/ˈdɪzməl/
 - #词性/adj  阴沉的；凄凉的；忧郁的；<口>软弱无力的
 - #词性/n 令人忧郁的事；<古>低落的情绪，忧郁
-# 例句
+##### 例句
 - That is a rather dismal melody .
 	- 那是一支相当忧郁的歌曲。
 - And night came on with black and dismal looks .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhəʊmsɪk/； 美：/ˈhoʊmsɪk/
 - #词性/adj  想家的；思乡的；患怀乡病的
-# 例句
+##### 例句
 - Like a flock of homesick cranes flying night and day back to their mountain nests let all my life take its voyage to its eternal home in one salutation to thee .
 	- 像一群思乡的鹤鸟，日夜飞向他们的山巢，在我向你合十膜拜之中，让我全部的生命，启程回到它永久的家乡。
 - This animated short is about the beauty of the prairie , the pang of being homesick and the folly of living dangerously out of context .

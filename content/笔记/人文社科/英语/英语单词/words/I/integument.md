@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈtɛgjʊmənt/； 美：/ɪnˈtɛgjəmənt/
 - #词性/n  覆盖物；外皮；角皮；壳荚；果皮；体被（壁），皮（肤）
-# 例句
+##### 例句
 - The first protector against the entry of microorganisms is the integument .
 	- 抗御微生物进入体内的第一道防线是皮肤。
 - In addition , the inner integument cells developed into endothelium .

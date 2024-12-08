@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vt  限制；使……穷困；使……为难
 - #词性/vi  变窄；变紧
-# 例句
+##### 例句
 - Your going to go down and straiten out those chair people .
 	- 你要去和椅店的人协调清楚。
 - Therefore , first I asked him if his circumstances admitted him to spare so much money at that time , and if it would not straiten him .

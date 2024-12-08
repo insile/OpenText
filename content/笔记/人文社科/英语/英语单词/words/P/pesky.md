@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpeski/； 美：/ˈpeski/
 - #词性/adj  讨厌的；恼人的
-# 例句
+##### 例句
 - With the excitement of awards season , the Super Bowl , and that pesky polar vortex , we almost forgot to be crazy excited about the impending Olympics .
 	- 在经历了激动人心的颁奖季、超级碗及恼人的极地涡旋后，我们似乎失了对奥运会那份迫切期盼的心。
 - Restructuring all of its debt into bonds issued under local law would be one way of thumbing its nose at the pesky holdouts and the US courts .

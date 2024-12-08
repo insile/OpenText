@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌepɪˈdɜːmɪs/； 美：/ˌepɪˈdɜːrmɪs/
 - #词性/n  表皮
-# 例句
+##### 例句
 - The external layer of skin is called the epidermis .
 	- 皮肤的外层叫表皮。
 - The epidermis consists of a single cells .

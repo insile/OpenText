@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡluːtəmeɪt/； 美：/ˈɡluːtəmeɪt/
 - #词性/n  谷氨酸；谷氨酸盐（酯、根）
-# 例句
+##### 例句
 - On-line Glucose Concentration Prediction and Control for Improving Glutamate Fermentation Performance
 	- 在线推定和控制葡萄糖浓度改善谷氨酸发酵性能
 - An On-line Automatic Feeding Control and Fault Diagnosis System for Glutamate Fermentation Process

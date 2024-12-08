@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈprəʊsɛst/； 美：/ənˈprɔˌsɛst/
 - #词性/adj  未加工；未被加工（处理的）
-# 例句
+##### 例句
 - The government slapped a ban on the export of unprocessed logs
 	- 政府贸然禁止出口未加工过的原木。
 - ( used especially of commodities ) in the natural unprocessed condition .

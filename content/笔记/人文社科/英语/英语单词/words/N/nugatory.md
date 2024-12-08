@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnjuːɡətəri/； 美：/ˈnuːɡətɔːri/
 - #词性/adj  无价值的；无目的的
-# 例句
+##### 例句
 - These are all nugatory comment .
 	- 这些都是空洞的评论。
 - A nugatory idea , argument , proposal , etc.

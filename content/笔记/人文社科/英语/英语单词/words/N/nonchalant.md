@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnɒnʃələnt/； 美：/ˌnɑːnʃəˈlɑːnt/
 - #词性/adj  漠不关心的；若无其事的；冷静的
-# 例句
+##### 例句
 - He immediately remarked with the most nonchalant air .
 	- 他接着就装出十分冷静的模样说了话。
 - ‘ It 'll be fine , ’ she replied , with a nonchalant shrug .

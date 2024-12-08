@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/suːˈpriːmli/； 美：/suːˈpriːmli/
 - #词性/adv  极其；极为
-# 例句
+##### 例句
 - They managed it all supremely well .
 	- 这件事他们干得极其出色。
 - Iris Murdoch was regarded by many as a supremely good and serious writer .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/mɪd ˈɔːtəm ˈfestɪvl/； 美：/mɪd ˈɔːtəm ˈfestɪvl/
 - #词性/n  中秋节
-# 例句
+##### 例句
 - The Mid-Autumn Festival is coming .
 	- 中秋节就要到了。
 - B : Yes , and I 'm going to stay longer to see how the Mid-Autumn Festival is celebrated here .

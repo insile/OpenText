@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈreɪdiəm/； 美：/ˈreɪdiəm/
 - #词性/n  镭
-# 例句
+##### 例句
 - Radium is discovered by Madame Curie .
 	- 镭是由居里夫人发现的。
 - Radium can be fixed some distance from its original source .

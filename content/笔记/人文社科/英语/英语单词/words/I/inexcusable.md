@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnɪkˈskjuːzəbl/； 美：/ˌɪnɪkˈskjuːzəbl/
 - #词性/adj  不可宽恕的；无法原谅的
-# 例句
+##### 例句
 - Mr treatment of you was thoughtless , inexcusable !
 	- 我以前对你的态度是轻率的，不可宽恕的。
 - We thought it was inexcusable for him to leave so early .

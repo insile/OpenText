@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtræktəbl/； 美：/ˈtræktəbl/
 - #词性/adj  易处理的；易驾驭的
-# 例句
+##### 例句
 - Not tractable ; difficult to manage or mold .
 	- 不易处理的；难以管理或塑造。
 - Tractable young minds ; gold is tractable ; the natives * Being * Of an intelligent tractable disposition-samuel butler .

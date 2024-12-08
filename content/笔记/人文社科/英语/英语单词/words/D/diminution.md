@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdɪmɪˈnjuːʃn/； 美：/ˌdɪmɪˈnuːʃn/
 - #词性/n  减少；降低；缩减；缩小；减少量；缩小量
-# 例句
+##### 例句
 - The progress of science has seemed to mean the enlargement of the material universe and the diminution of man 's importance .
 	- 科学的进步似乎意味着把物质的宇宙扩大，把人的重要性缩小了。
 - BACKGROUND The curative effect is satisfactory for adult patients with spasticity of lower limbs treated with selective posterior rhizotomy and peripheral nerve micro diminution .

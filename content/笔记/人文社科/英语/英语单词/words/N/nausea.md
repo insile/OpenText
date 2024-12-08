@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnɔːziə/； 美：/ˈnɔːziə/
 - #词性/n  恶心；反胃；作呕
-# 例句
+##### 例句
 - Minor toxicities of this drug include nausea and vomiting .
 	- 这种药的轻微毒性反应包括恶心和呕吐。
 - Nausea and vomiting are common symptoms .

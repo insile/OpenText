@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈlɪʃəs/； 美：/dɪˈlɪʃəs/
 - #词性/adj  美味的；可口的；芬芳的；宜人的；令人愉快的；令人开心的
-# 例句
+##### 例句
 - Delicious potted shrimps and prawns were once the stock-in-trade of the harbourside cafe .
 	- 美味的火锅虾曾经是海港周围咖啡馆的招牌菜。
 - These mushrooms would make a delicious side dish .

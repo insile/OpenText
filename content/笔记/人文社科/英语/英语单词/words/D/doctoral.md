@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdɒktərəl/； 美：/ˈdɑːktərəl/
 - #词性/adj  博士的；博士学位的
-# 例句
+##### 例句
 - In my studies toward a doctoral degree , I hope to examine more closely the relationship between high and folk literature .
 	- 在我的向一个博士的程度研究，我希望更接近调查高度和人们文学之间的关系。
 - In the 2006-07 academic year , for instance , the average number of new entrants to business doctoral programmes was 12 , compared with 14 in 2002-03 .

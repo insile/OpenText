@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌəʊvəˈdjuː/； 美：/ˌoʊvərˈduː/
 - #词性/adj  逾期的；过期的；(到期)未付的，未做的，未还的；早该发生的；早应完成的
-# 例句
+##### 例句
 - Take time to catch up on overdue correspondence .
 	- 花时间来处理逾期的信函也是必要的。
 - The freedom between lovers is like an overdue check that you can own it forever but can not turn it in cash .

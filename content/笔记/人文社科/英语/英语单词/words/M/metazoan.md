@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  后生动物；多细胞动物；后生动物的；多细胞动物的
 - #词性/adj  【动物；动物学】后生动物的
-# 例句
+##### 例句
 - The development process of metazoan was once regarded as an irreversible process .
 	- 后生动物的细胞发育过程曾经认为是一个不可逆的过程。
 - These genes may be closely related to the early evolution of metazoan .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  据称；根据(人们)宣称
-# 例句
+##### 例句
 - He lost his job for allegedly being incapable .
 	- 据说他由于软弱无能而丢掉了工作。
 - The police report stated that he was arrested for allegedly assaulting his wife

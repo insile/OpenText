@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈprɒflɪɡət/； 美：/ˈprɑːflɪɡət/
 - #词性/adj  挥霍的；浪费的
 - #词性/n  放荡的人；恣意挥霍的人
-# 例句
+##### 例句
 - Much of the money that fueled the speculative boom came from profligate Spanish banks .
 	- 在助推投机性繁荣的资金当中，有许多来自肆意挥霍的西班牙银行。
 - But China and the continental European countries , led by Germany , argue it is all the fault of profligate deficit countries .

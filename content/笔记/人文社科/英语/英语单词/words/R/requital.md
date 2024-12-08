@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  回报；报复；报仇
-# 例句
+##### 例句
 - At present , the investment distribution and requital is a question concerned by enterprises .
 	- 当前，一个令企业非常关注的问题，就是企业信息化的投资分配和投资回报问题。
 - A full requital of his striving pain .

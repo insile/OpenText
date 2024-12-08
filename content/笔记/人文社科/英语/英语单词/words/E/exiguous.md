@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/eɡˈzɪɡjuəs/； 美：/eɡˈzɪɡjuəs/
 - #词性/adj  稀少的；微小的；不够的
-# 例句
+##### 例句
 - The rest of the old man 's exiguous savings are donated to that boy .
 	- 那老人微薄积蓄中的剩余部分都捐赠给了那个男孩。
 - The value regulation that market economy needs is the value theory that can mirror exiguous sex .

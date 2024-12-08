@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈeksərəbl/； 美：/ɪnˈeksərəbl/
 - #词性/adj  不可阻挡的；无法改变的
-# 例句
+##### 例句
 - about the fear of inevitable , inexorable racial , gender and sexual evolution ;
 	- 知道不可避免、不可阻挡的种族、性别和性革命；
 - Some see the start of an inexorable decline . Others are less sure .

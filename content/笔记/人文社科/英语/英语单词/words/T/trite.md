@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/traɪt/； 美：/traɪt/
 - #词性/adj  陈腐的；老生常谈的；老一套的
-# 例句
+##### 例句
 - A trite or obvious remark . ideas that are presentable in simple language
 	- 陈腐的或显而易见的言词。能以简朴语言陈述的思想
 - It is a trite simile to compare her teeth to pearls .

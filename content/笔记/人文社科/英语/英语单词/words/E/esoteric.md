@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌesəˈterɪk/； 美：/ˌesəˈterɪk/
 - #词性/adj  秘传的；机密的, 隐秘的；只有内行才懂的；具神秘教义的
-# 例句
+##### 例句
 - Cale has ploughed a more esoteric furrow as a recording artist
 	- 作为一名录音艺人，凯尔走了一条较为冷僻的道路。
 - The quantum theory is not just an esoteric addendum .

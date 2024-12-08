@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkrɒnəˈlɒdʒɪkl/； 美：/ˌkrɑːnəˈlɑːdʒɪkl/
 - #词性/adj  按时间顺序的；按发生时间顺序排列的；按时间计算的(年龄)(相对于身体、智力或情感等方面的发展而言)
-# 例句
+##### 例句
 - The facts should be presented in chronological order .
 	- 这些事实应按时间先后顺序陈述。
 - The chronological sequence gives the book an element of structure .

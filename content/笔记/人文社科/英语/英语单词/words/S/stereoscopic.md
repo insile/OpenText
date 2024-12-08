@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsteriəˈskɒpɪk/； 美：/ˌsteriəˈskɑːpɪk/
 - #词性/adj  有立体视觉的；有立体效果的
-# 例句
+##### 例句
 - Research and Application of Stereoscopic Display Technology for Virtual Design
 	- 立体显示技术在产品虚拟设计中的应用与研究
 - A Research and Design of Embedded Identification System Based on Stereoscopic Display Technology

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmjuːtəbl/； 美：/ˈmjuːtəbl/
 - #词性/adj  可变的；会变的
-# 例句
+##### 例句
 - Not only must you avoid typical JavaBeans-inspired setXXX methods , but you must also be careful not to return mutable object references .
 	- 您不仅要避免典型的受JavaBeans启发的setXXX方法，还必须注意不要返回可变的对象引用。
 - Now , the porters take up their burdens , and carry the mutable feast back to the unquenchable young .

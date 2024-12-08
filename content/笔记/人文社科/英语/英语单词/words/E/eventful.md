@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈventfl/； 美：/ɪˈventfl/
 - #词性/adj  多变故的；充满大事的；多事故的
-# 例句
+##### 例句
 - Her eventful life included holding senior positions in the Colonial Service
 	- 她一生经历丰富，曾在殖民服务局担任高级职位。
 - Our next journey was longer and much more eventful .

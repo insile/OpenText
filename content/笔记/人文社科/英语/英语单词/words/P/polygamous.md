@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pəˈlɪɡəməs/； 美：/pəˈlɪɡəməs/
 - #词性/adj  (尤指)一夫多妻的；多配偶(制)的
-# 例句
+##### 例句
 - If 10 seconds into watching a newly discovered type of primate you see that males are twice the size of females and have flashing neon noses , the issue is settled : it 's a polygamous species .
 	- 对于新发现的灵长类物种，只需要看10秒钟，如果其雄性的体形是雌性的两倍，而且有发亮的红鼻子，那么毋庸置疑，这是一个多配偶的物种。
 - Moreover , compared with , say , monogamous gibbons , human males have bigger testes and higher sperm counts ... but pale in comparison to polygamous chimps .

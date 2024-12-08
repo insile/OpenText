@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌaɪsəˈleɪʃn/； 美：/ˌaɪsəˈleɪʃn/
 - #词性/n  隔离，分离；孤立，孤独，孤寂，孤立无援；〈物〉隔绝，绝缘；脱离；〈化〉离析（作用）；孤立状态
-# 例句
+##### 例句
 - This patient needs to be in isolation for a week .
 	- 这个病人要隔离1周。
 - early detection and early isolation

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdrʌdʒəri/； 美：/ˈdrʌdʒəri/
 - #词性/n  苦工；单调乏味的苦差事；繁重无聊的工作
-# 例句
+##### 例句
 - People want to get away from the drudgery of their everyday lives .
 	- 人们想摆脱日常生活中单调乏味的工作。
 - To promote the development of the development zone , and a staff members have more drudgery and refine system , a vigil for more than a year , hard work , and achieved great success .

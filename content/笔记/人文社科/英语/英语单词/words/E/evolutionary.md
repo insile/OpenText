@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌiːvəˈluːʃənri/； 美：/ˌiːvəˈluːʃəneri/
 - #词性/adj  进化的；演变的；逐渐发展的
-# 例句
+##### 例句
 - It is a part of your natural , evolutionary process .
 	- 它是你的天性的一部份，进化的程序。
 - It 's a story , first , of evolutionary change .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈsɪdʒuəs/； 美：/dɪˈsɪdʒuəs/
 - #词性/adj  落叶的，脱落性的；<口>(树等)阔叶的；非永久的, 暂时的
-# 例句
+##### 例句
 - Evergreen or deciduous trees of tropical Africa and India .
 	- 热带非洲和印度的长绿或每年落叶的乔木。
 - Pergolas covered with deciduous vines provide self adjusting seasonal shading .

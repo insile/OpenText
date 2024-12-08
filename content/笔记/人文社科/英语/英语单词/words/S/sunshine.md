@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsʌnʃaɪn/； 美：/ˈsʌnʃaɪn/
 - #词性/n  阳光；日光；欢乐；幸福；(友好地称呼某人，有时显得不礼貌)朋友，老兄
-# 例句
+##### 例句
 - This afternoon 's sunshine could nudge the temperature above freezing .
 	- 今天下午的阳光可使温度达到冰点以上。
 - They had three weeks of glorious sunshine .

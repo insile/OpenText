@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsəʊʃəlɪzəm/； 美：/ˈsoʊʃəlɪzəm/
 - #词性/n  社会主义
-# 例句
+##### 例句
 - He had decided long ago that he would put his trust in socialism when the time came
 	- 很久以前他就决定时机成熟时会寄希望于社会主义。
 - The British brand of socialism was more interested in reform than revolution .

@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/mæˈmeɪliən/； 美：/mæˈmeɪliən/
 - #词性/adj  哺乳动物的；哺乳类的
 - #词性/n  温血动物；哺乳类动物
-# 例句
+##### 例句
 - Both of these receptors are commonly found in mammalian skin .
 	- 上面这两种受器在哺乳类的皮肤上都很容易发现。
 - In mammalian species , a variety of chromosomal rearrangements are known to exist .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˌdʒenə'reɪʃ(ə)n/； 美：/rɪˌdʒenəˈreɪʃn/
 - #词性/n  再生；回收；改造；悔悟
-# 例句
+##### 例句
 - Recombinant human augmenter of liver regeneration may prevent the formation of immuno complex induced liver fibrosis .
 	- 结论：重组人肝再生增强因子可预防免疫损伤性肝纤维化的形成。
 - Influence of end organs on peripheral regeneration : an experimental study

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  消除，使摆脱，使解脱
-# 例句
+##### 例句
 - Disencumber oneself of financial responsibilities , social commitments .
 	- 摆脱经济负担、社会义务。
 - I often am trouble of a few things , how can you disencumber ?

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˌlekˈtrɒnɪkli/； 美：/ɪˌlekˈtrɑːnɪkli/
 - #词性/adv  用电子装置；用电子方法
-# 例句
+##### 例句
 - Passengers can now be ticketed electronically .
 	- 旅客现在可以电子购票。
 - The information is electronically transmitted to schools and colleges

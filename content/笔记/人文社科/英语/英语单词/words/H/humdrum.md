@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhʌmdrʌm/； 美：/ˈhʌmdrʌm/
 - #词性/adj  单调的；乏味的
 - #词性/n  单调；无聊的话；无聊的人
-# 例句
+##### 例句
 - Humdrum office life was briefly interrupted with a little drama .
 	- 单调的办公室生活被一场小小的剧目短暂打断了。
 - She led a humdrum existence-all work and no play .

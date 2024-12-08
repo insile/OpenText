@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsfɪərɔɪd/； 美：/ˈsfɪrɔɪd/
 - #词性/n  球(状)体；椭球体；扁球体
-# 例句
+##### 例句
 - The Research Status of High - precision Spheroid Lapping Methods
 	- 高精密球体研磨方式的研究
 - Simple Method for Preparation and Culture of Multi - cellular Tumor Spheroid

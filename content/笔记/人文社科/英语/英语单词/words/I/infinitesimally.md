@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  无穷小的；无限小地
-# 例句
+##### 例句
 - The radiation leak had been infinitesimally small .
 	- 泄漏的放射物几近于零。
 - The chances of Tokyo abandoning nuclear power are , as some might put it , infinitesimally small .

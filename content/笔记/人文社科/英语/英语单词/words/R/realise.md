@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  实现；意识到；了解，认识到；变卖，赚得
-# 例句
+##### 例句
 - I don 't think you realise the gravity of the situation .
 	- 我认为你没有意识到形势的严重性。
 - No one seems to realise the magnitude of this problem .

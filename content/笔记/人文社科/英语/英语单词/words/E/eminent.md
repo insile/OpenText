@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈemɪnənt/； 美：/ˈemɪnənt/
 - #词性/adj  杰出的；(尤指在某专业中)卓越的，著名的，显赫的；非凡的
-# 例句
+##### 例句
 - Churchil was one of the world 's most eminent statesmen .
 	- 例句邱吉尔是世界上最卓越的政治家之一。
 - You have demonstrated eminent good sense in reporting this incident to me .

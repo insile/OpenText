@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəʊˈtɜːmɪnəs/； 美：/koʊˈtɜːrmɪnəs/
 - #词性/adj  毗连；接壤；几乎一致；差不多相同；享有共同边界
-# 例句
+##### 例句
 - China and thailand is coterminous .
 	- 中国和泰国是毗连的。
 - The leases are coterminous . Before the lessor signs the lease , the lessee must receive a copy of the contract .

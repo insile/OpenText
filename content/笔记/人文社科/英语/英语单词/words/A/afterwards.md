@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɑːftəwədz/； 美：/ˈæftərwərdz/
 - #词性/adv  之后；后来；以后
-# 例句
+##### 例句
 - Shortly afterwards he met her again .
 	- 不久之后，他又遇到了她。
 - You can go home afterwards and watch Inspector Morse in colour .

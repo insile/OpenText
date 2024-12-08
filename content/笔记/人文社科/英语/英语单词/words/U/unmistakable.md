@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnmɪˈsteɪkəbl/； 美：/ˌʌnmɪˈsteɪkəbl/
 - #词性/adj  毫无疑问的；不会弄错的；确定无疑的；清楚明白的
-# 例句
+##### 例句
 - He succeeds , though here and there his own wry presence is unmistakable .
 	- 他成功了，尽管很多地方他自己的陈述是不会弄错的。
 - His opposition to slavery was unmistakable .

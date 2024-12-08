@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪndɪˈdʒestʃən/； 美：/ˌɪndɪˈdʒestʃən/
 - #词性/n  消化不良(症)
-# 例句
+##### 例句
 - Indigestion is a catch-all term for any kind of stomach distress .
 	- “消化不良”是个笼统的术语，可以指各种胃部不适。
 - the occasional twinge of indigestion .

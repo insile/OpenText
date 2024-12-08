@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/sɪˈdɪʃn/； 美：/sɪˈdɪʃn/
 - #词性/n  煽动叛乱的言论(或行动)
-# 例句
+##### 例句
 - He also faces separate charges of sedition and insulting the king .
 	- 此外，他还面临煽动叛乱和亵渎国王的指控。
 - of which we shall speak , in handling sedition .

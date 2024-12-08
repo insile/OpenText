@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈprɒspərəs/； 美：/ˈprɑːspərəs/
 - #词性/adj  繁荣的；成功的；兴旺的
-# 例句
+##### 例句
 - The division between the prosperous west and the impoverished east remains .
 	- 繁荣的西部和贫穷的东部之间的差距仍然存在。
 - Prosperous economy and superior natural environment provide precondition for sustainable development of Shaoxing garden .

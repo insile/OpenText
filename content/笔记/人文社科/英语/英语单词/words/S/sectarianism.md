@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/sekˈteəriənɪzəm/； 美：/sekˈteriənɪzəm/
 - #词性/n  宗派主义
-# 例句
+##### 例句
 - Not only will the problem of sectarianism be solved , but many other problems as well .
 	- 不但宗派主义的问题可以解决，其他的许多问题也都可以解决了。
 - Sectarianism is an expression of subjectivism in organizational relations ;

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkəʊltɪʃ/； 美：/ˈkoʊltɪʃ/
 - #词性/adj  活跃但笨拙的
-# 例句
+##### 例句
 - I feel big to the shoe makes me coltish .
 	- 我觉得大鞋让我不受拘束。
 - Jo , fifteen , was tall , thin , and coltish , and gloried in an unconcealed scorn of polite conventions.15

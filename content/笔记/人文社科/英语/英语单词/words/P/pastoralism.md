@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɑːstərəlɪzəm/； 美：/ˈpæstərəlɪzəm/
 - #词性/n  游牧(牧者带着牲口逐水草而居)
-# 例句
+##### 例句
 - The essential difference between nomadic pastoralism and animal industry decides on the alignment for the nomadic pastoralism reform .
 	- 游牧业与养畜业的本质区别决定了游牧改革的走向。
 - Pastoralism remains a way of life in East Africa .

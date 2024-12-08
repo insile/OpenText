@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhɑːvəd/； 美：/ˈhɑrvərd/
 - #词性/n  哈佛（John，1607—1638，移居美国之英国牧师，为哈佛大学之主要创办人）；美国哈佛大学
-# 例句
+##### 例句
 - The Landscape Architecture Master Degree Programs at Harvard University
 	- 论美国哈佛大学风景园林硕士学位的教学工作
 - Comparing with the CMT solution of Harvard University , their results are similar .

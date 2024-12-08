@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌresɪˈprɒsəti/； 美：/ˌresɪˈprɑːsəti/
 - #词性/n  互惠；互助；互换
-# 例句
+##### 例句
 - In the 1980s this concept was used to buttress several so-called sectoral reciprocity proposals . 80
 	- 年代这一原则曾被用来支持几个所谓部分互惠建议
 - For the commercial activities the principle of reciprocity shall apply .

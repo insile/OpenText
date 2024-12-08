@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  水文的；水道测量的；水文地理的
-# 例句
+##### 例句
 - A study of water level control for hydrographic survey
 	- 海道测量水位控制方法研究
 - Study of Cross Section Design of City Road in Hydrographic Net

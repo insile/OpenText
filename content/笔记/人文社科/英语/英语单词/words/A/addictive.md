@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈdɪktɪv/； 美：/əˈdɪktɪv/
 - #词性/adj  上瘾的；使人入迷的
-# 例句
+##### 例句
 - No business likes to admit that it sells addictive poison as a lifestyle choice .
 	- 没行业会承认其销售会使人上瘾的毒品作为生活方式的选择。
 - Facebook and Instagram have told the BBC that their apps are designed to bring people together and that they never set out to create addictive products .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɜːmənəntli/； 美：/'pɜːmənəntli/
 - #词性/adv  长期；永久地；永远；一直
-# 例句
+##### 例句
 - Individual users can also permanently delete the control .
 	- 单个用户还可以永久地删除该控件。
 - Individual operations record the associated state changes permanently .

@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈstrɪbjətɪv/； 美：/dɪˈstrɪbjətɪv/
 - #词性/adj  分销的；经销的
 - #词性/n  【语】个体词
-# 例句
+##### 例句
 - Reorganization is necessary on the distributive side of this industry .
 	- 就这个行业的配销方面来说，重组是必要的。
 - Distributive Method for Water Environment System Based on Monitoring Sample Information

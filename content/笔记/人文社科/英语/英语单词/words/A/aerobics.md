@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/eəˈrəʊbɪks/； 美：/eˈroʊbɪks/
 - #词性/n  有氧运动(经常分班组伴随音乐进行的增强心肺功能的健身活动)
-# 例句
+##### 例句
 - I 'd like to join an aerobics class to improve my fitness .
 	- 我想参加有氧运动训练班来增强体质。
 - She teaches swimming , lifesaving and water aerobics .

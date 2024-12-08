@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  塔尔博特；塔尔伯特；塔尔波特；大宝
-# 例句
+##### 例句
 - Conn é table Talbot is the second wine of Chateau Talbot .
 	- 大宝王子是大宝庄园之副牌酒。
 - Talbot was presented with 80 potential avenues of investigation

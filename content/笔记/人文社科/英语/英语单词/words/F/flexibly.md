@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  灵活地；有弹性地；柔软地；易曲地
-# 例句
+##### 例句
 - His poor method of learning by rote made him unable to deal with the problems in his work flexibly .
 	- 他死记硬背的学习方法使他在工作中不能灵活处理问题。
 - You can deal with it flexibly as you see fit .

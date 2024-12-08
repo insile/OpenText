@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  使商业化
-# 例句
+##### 例句
 - The team plan to commercialise the product and are looking for investors .
 	- 这一小组计划将该产品商业化，目前正在寻找投资者。
 - A second tier of labs commercialise new technologies .

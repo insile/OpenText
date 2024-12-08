@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkræŋki/； 美：/ˈkræŋki/
 - #词性/adj  古怪的；怪异的；脾气坏的
-# 例句
+##### 例句
 - The Front has often been dismissed as a cranky fringe group .
 	- 艺术家联盟常被认为是一个古怪的边缘组织。
 - Vegetarianism has shed its cranky image

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈiːɡəʊɪzəm/； 美：/ˈiːɡoʊɪzəm/
 - #词性/n  利己主义；自我主义；自负；自高自大
-# 例句
+##### 例句
 - Egoism is the core of aim of life of exploiting classes .
 	- 利己主义是剥削阶级人生目的的核心。
 - Psychological egoism can be accused of using circular logic .

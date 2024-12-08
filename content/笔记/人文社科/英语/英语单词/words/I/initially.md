@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈnɪʃəli/； 美：/ɪˈnɪʃəli/
 - #词性/adv  开始；最初；起初
-# 例句
+##### 例句
 - Initially , the system worked well .
 	- 开始时系统运转良好。
 - Initially , they were wary of Simon .

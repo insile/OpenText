@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  水文的
-# 例句
+##### 例句
 - Of the negative impact , the changes of urban climate and hydrologic system are two major aspects .
 	- 其中，城市气候和水文的变化是城市环境变化的两个主要类型。
 - Overall , the hydrologic environment changed a lot in the study area . ( 2 ) Hydrology experiment study on a small urbanized watershed and comparative watersheds with different underlying surfaces is carried out in the study area .

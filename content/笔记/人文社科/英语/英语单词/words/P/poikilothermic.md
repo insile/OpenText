@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  变温的
-# 例句
+##### 例句
 - Comparative Morphology of Pineal Complex of Four Poikilothermic Animals
 	- 4种变温动物松果腺复合体的形态结构比较
 - Climate change will often lead to the fluctuation of insect populations , because insect is poikilothermic animals .

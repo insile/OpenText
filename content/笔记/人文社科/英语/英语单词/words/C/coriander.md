@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkɒriˈændə(r)/； 美：/ˌkɔːriˈændər/
 - #词性/n  香菜；芫荽
-# 例句
+##### 例句
 - Study on Content and Composition of Essential Oil of Different Varieties of Coriander Seeds
 	- 不同品种芫荽籽的精油含量与成分分析
 - Effect of Coriander Extract on Germination and Growth of Vegetables

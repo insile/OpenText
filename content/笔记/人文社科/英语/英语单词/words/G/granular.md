@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡrænjələ(r)/； 美：/ˈɡrænjələr/
 - #词性/adj  含颗粒的；由颗粒构成的；似颗粒状的
-# 例句
+##### 例句
 - Cotton candy is filamentous , but it is a granular crystal-sugar produced .
 	- 棉花糖虽然是丝状的，但是它是用一种颗粒状的晶体--蔗糖制作而成。
 - The photosphere has a granular structure .

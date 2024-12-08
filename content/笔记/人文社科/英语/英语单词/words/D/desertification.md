@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˌzɜːtɪfɪˈkeɪʃn/； 美：/dɪˌzɜːrtɪfɪˈkeɪʃn/
 - #词性/n  沙漠化
-# 例句
+##### 例句
 - Study on Human Activities in the Process of Land Desertification
 	- 论土地沙漠化过程中的人类活动
 - Model construction of regional desertification degree assessment based on landscape pattern analysis

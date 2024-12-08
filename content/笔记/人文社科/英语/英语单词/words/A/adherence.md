@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ədˈhɪərəns/； 美：/ədˈhɪrəns/
 - #词性/n  坚持；遵守；遵循
-# 例句
+##### 例句
 - His rigid adherence to old-fashioned ideas made him unpopular .
 	- 他顽固坚持旧观念使得他不受欢迎。
 - Transformation of the Mode of Thinking and Adherence to Being Objective

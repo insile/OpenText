@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪsˈdʒɔɪntɪd/； 美：/dɪsˈdʒɔɪntɪd/
 - #词性/adj  支离破碎的；不连贯的；杂乱无章的
-# 例句
+##### 例句
 - A disjointed account of the accident .
 	- 对事故支离破碎的描述。
 - The play finally jerks its disjointed and bitty way to an arbitrary conclusion ( Martin Hoyle )

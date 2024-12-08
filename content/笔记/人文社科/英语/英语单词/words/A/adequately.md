@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  充分；充分地；足够地；适当地
-# 例句
+##### 例句
 - Are you adequately insured ?
 	- 你保够了险吗？
 - Firstly , they must make certain that their pension needs are adequately catered for

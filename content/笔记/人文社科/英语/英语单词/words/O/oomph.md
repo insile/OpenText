@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʊmf/； 美：/ʊmf/
 - #词性/n  精力；特质；气质
-# 例句
+##### 例句
 - The government seems to be running out of oomph .
 	- 政府似乎已经耗尽精力了。
 - He gave it all the extra oomph he could .

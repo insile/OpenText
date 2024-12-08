@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnɪkˈstrɪkəbli/； 美：/ˌɪnɪkˈstrɪkəbli/
 - #词性/adv  密不可分地；不可分开地
-# 例句
+##### 例句
 - His name was inextricably linked with the environmental movement .
 	- 他的名字和环境运动密不可分地联系在一起了。
 - All forms of life on the earth , including animals and plants are inextricably connected .

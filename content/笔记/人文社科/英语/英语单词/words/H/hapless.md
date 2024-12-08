@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhæpləs/； 美：/ˈhæpləs/
 - #词性/adj  不幸的；倒运的
-# 例句
+##### 例句
 - Some hapless programmer is then pulled off useful work and forced to work on this new feature .
 	- 然后，一些不幸的程序员将会被强制停止有用的工作，并着手添加这个新的特性。
 - Happy with that hapless man ?

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  特大城市；特大都市，大城市
-# 例句
+##### 例句
 - Configuration of Traffic Modes Between Megacity and its Satellite City Based on SWOT and Entropy Weight Decision-making
 	- 基于SWOT分析和熵权决策的大城市-卫星城间交通模式配置研究
 - People with ambition and money often head to the megacity , crimping housing demand in Changzhou .

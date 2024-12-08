@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ləˈbɔːrɪəsli/； 美：/ləˈbɔriəsli/
 - #词性/adv  费力地；辛苦地；不流畅地
-# 例句
+##### 例句
 - McGinnis pushed himself laboriously out of the chair and waddled to the window
 	- 麦金尼斯吃力地从椅子上站起来，摇摇晃晃地走到了窗前。
 - She is laboriously copying out an old manuscript .

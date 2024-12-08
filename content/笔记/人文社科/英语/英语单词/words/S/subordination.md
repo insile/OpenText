@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  从属；次等；被放在次级
-# 例句
+##### 例句
 - The degree of subordination of an item in an hierarchic arrangement .
 	- 分层结构中，一个项的从属级别。
 - The means we used is mainly the principle of subordination .

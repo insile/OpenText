@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪkˌsaɪtəˈbɪlɪti/； 美：/ɪkˌsaɪtəˈbɪlɪti/
 - #词性/n  （可）激励性；（可）激发性；可激励性
-# 例句
+##### 例句
 - Effects of aluminum on action potentials and excitability of myocardial cells
 	- 铝对心肌细胞动作电位及其兴奋性的影响
 - Speech production increased the excitability of hand motor cortex .

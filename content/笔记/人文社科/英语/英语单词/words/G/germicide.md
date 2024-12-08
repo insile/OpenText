@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdʒɜːmɪsaɪd/； 美：/ˈdʒɜːrmɪsaɪd/
 - #词性/n  杀菌剂
-# 例句
+##### 例句
 - Study on Synthesis and Mechanism of Germicide for Sulfate Reduction Bacteria
 	- 硫酸盐还原菌杀菌剂的合成及机理探讨
 - Control Effect of a New Germicide CC on Citrus Canker Disease

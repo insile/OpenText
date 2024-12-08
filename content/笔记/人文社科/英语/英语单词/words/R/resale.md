@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈriːseɪl/； 美：/ˈriːseɪl/
 - #词性/n  转售；转卖
-# 例句
+##### 例句
 - Immovable property acquired or constructed for resale ;
 	- 为转卖目的购置或建造的不动产；
 - To sell in large quantities for resale . The shop is having a sale to clear old stocks .

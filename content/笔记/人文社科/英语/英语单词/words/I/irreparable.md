@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈrepərəbl/； 美：/ɪˈrepərəbl/
 - #词性/adj  无法弥补的；不可恢复的；不能修复的
-# 例句
+##### 例句
 - Countless facts show that , once transgressions , it will cause irreparable psychological trauma .
 	- 无数事实说明，一旦越轨，就会造成无法弥补的心理创伤。
 - This is a better method . However , it should avoid causing irreparable damage in the use of carbon-tungsten .

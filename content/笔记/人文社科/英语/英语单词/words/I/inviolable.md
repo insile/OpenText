@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈvaɪələbl/； 美：/ɪnˈvaɪələbl/
 - #词性/adj  不可侵犯的；不容破坏的；不容亵渎的
-# 例句
+##### 例句
 - Yesterday 's resolution says the present Polish border is ' inviolable ' .
 	- 昨天的决议称现在的波兰边界是“不可侵犯的”。
 - Alibaba is big and important but it is not inviolable .

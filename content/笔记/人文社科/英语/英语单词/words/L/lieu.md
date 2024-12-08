@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/luː/； 美：/luː/
 - #词性/n  辽，燎
-# 例句
+##### 例句
 - Uni-moon is a vacation taken separately by each person in a newly married couple in lieu of a honeymoon .
 	- Uni-moon指的是新婚的夫妇两人分别安排自己的婚后蜜月假期时间，用来代替传统的honeymoon（蜜月假期）。
 - We get extra time off in lieu of payment for working overtime .

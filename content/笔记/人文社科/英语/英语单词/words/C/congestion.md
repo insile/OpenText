@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈdʒestʃən/； 美：/kənˈdʒestʃən/
 - #词性/n  (交通)拥塞；充血；淤血；塞车
-# 例句
+##### 例句
 - Design of Congestion Control Service Unit Based on Micro Communication Element System
 	- 微通信元系统构架下拥塞控制服务元的设计
 - Network Congestion Control Strategy based on the Improved Model

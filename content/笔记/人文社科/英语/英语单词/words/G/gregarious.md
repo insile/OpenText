@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɡrɪˈɡeəriəs/； 美：/ɡrɪˈɡeriəs/
 - #词性/adj  群居的；交际的；合群的
-# 例句
+##### 例句
 - A gregarious person , he loves just talking with people .
 	- 他是一个爱交际的人，爱与人聊天。
 - Rodney was a cheerful , elegant and gregarious if rather contentious man .

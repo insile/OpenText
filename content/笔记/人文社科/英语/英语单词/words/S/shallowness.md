@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  肤浅；浅薄
-# 例句
+##### 例句
 - In like the cases , shallowness can be a delightful alternative .
 	- 这时间，肤浅没出国疑问是唯一愉快的挑选。
 - In his book , Mr Chapelle argues that we cannot ascribe the vogue for bottled water to mere shallowness .

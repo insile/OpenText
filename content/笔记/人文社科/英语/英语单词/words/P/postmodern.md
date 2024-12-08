@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpəʊstˈmɒdn/； 美：/ˌpoʊstˈmɑːdərn/
 - #词性/adj  后现代主义的；受后现代主义影响的
-# 例句
+##### 例句
 - The second cognitive revolution is a postmodern one and it results in the establishment of social constructionism .
 	- 第二次认知革命是后现代主义的革命。它的直接结果是促进了社会建构论的产生。
 - Black humor novel , the most important postmodern school , greatly influenced American literature in the 20th century .

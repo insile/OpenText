@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌædjuˈleɪtəri/； 美：/ˈædʒələtɔːri/
 - #词性/adj  谄媚的；奉承的；恭维的
-# 例句
+##### 例句
 - Husband ( one face is adulatory ) : Hey , do not want to eat .
 	- 老公（一脸谄媚）：嘿嘿，不想吃。
 - Many of these adulatory characterizations were attributed to unnamed sources .

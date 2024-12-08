@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmɪnɪˈsəʊtə/； 美：/ˌmɪnɪˈsoʊtə/
 - #词性/n  明尼苏达州；明尼苏达（美国中北部之一州，略作Minn．）
-# 例句
+##### 例句
 - Many people in Minnesota and Tennessee have noticeable regional accents .
 	- 明尼苏达州和田纳西州的许多人都有明显的地区口音。
 - The Minnesota Vikings signed Herschel Walker from the Dallas Cowboys

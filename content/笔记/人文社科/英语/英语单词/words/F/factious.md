@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  拉帮结派的；宗派性的；好搞宗派活动的；因搞宗派而产生的
-# 例句
+##### 例句
 - Many of the old puritan colonist retain their factious temperament in the new world .
 	- 许多清教徒殖民者在新大陆仍保持他们好争论的脾气。
 - By contrast the American progressive tradition has been enormously factious , fragmented , and often self defeating ;

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  伙食；采买权；王室食物征发权
-# 例句
+##### 例句
 - The conclusions are as following : The fluctuation of purveyance production is related with grain yield , especially the production of maize is the dominant factor .
 	- 研究发现：这种波动与主要粮食作物的产量密切相关，其中玉米产量的影响最大；
 - The purveyance of supplies for the army

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɪdʒɪləns/； 美：/ˈvɪdʒələns/
 - #词性/n  警惕；警醒（症）；失眠症
-# 例句
+##### 例句
 - She stressed the need for constant vigilance .
 	- 她强调必须时常保持警惕。
 - Constant vigilance is necessary in order to avoid accidents .

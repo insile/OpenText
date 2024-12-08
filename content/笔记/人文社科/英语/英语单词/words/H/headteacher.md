@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  (中小学的)校长；班主任
-# 例句
+##### 例句
 - To Explore an Effective Way to Environmental Education by the Headteacher
 	- 班主任开展环境教育的有效途径探讨
 - Talking about the Art of a Headteacher in the New Times

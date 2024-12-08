@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈtrɪnzɪk/； 美：/ɪnˈtrɪnzɪk/
 - #词性/adj  内在的；固有的；本身的
-# 例句
+##### 例句
 - However , intrinsic radioresistance of cancer cells limits therapeutic efficacy .
 	- 但是肿瘤细胞固有的放射抵抗性降低了放射治疗的效果。
 - Generally , there are some intrinsic stem cells in the respiratory system responsible for tissue repair .

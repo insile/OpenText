@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtɒlərənt/； 美：/ˈtɑːlərənt/
 - #词性/adj  容忍的；宽容的；忍受的；能耐…的；能在困难条件下生存(或操作)的
-# 例句
+##### 例句
 - Other changes include more tolerant attitudes to unmarried couples having children .
 	- 其他变化包括对非婚夫妇生育更为宽容的态度。
 - But things develop ceaselessly , so we ought to treat rule of law with tolerant attitude .

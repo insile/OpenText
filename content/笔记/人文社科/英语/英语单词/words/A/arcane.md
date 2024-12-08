@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɑːˈkeɪn/； 美：/ɑːrˈkeɪn/
 - #词性/adj  神秘的；晦涩难懂的
-# 例句
+##### 例句
 - She has access to all manner of arcane knowledge that even I do not .
 	- 她知道各种神秘的知识，很多我都没听说过。
 - Arcane architecture terms like SOA , WOA and REST become less relevant as tools to support the technologies blur distinctions .

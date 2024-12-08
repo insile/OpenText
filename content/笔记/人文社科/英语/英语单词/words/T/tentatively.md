@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtɛntətɪvli/； 美：/ˈtɛntətɪvli/
 - #词性/adv  初步；尝试性地；暂时性地
-# 例句
+##### 例句
 - All three structures dated to the third century and were tentatively identified as shrines .
 	- 这3座建筑都建于3世纪，并且初步鉴定为神庙。
 - The paper also tentatively analyses causes and provides solutions to the problems .

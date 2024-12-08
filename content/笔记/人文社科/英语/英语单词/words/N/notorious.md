@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/nəʊˈtɔːriəs/； 美：/noʊˈtɔːriəs/
 - #词性/adj  臭名昭著的；声名狼藉的
-# 例句
+##### 例句
 - He was a notorious anti-Semite .
 	- 他是臭名昭著的反犹主义者。
 - Hitler is a notorious dictator .

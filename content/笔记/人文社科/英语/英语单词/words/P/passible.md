@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  易动情的
-# 例句
+##### 例句
 - This has been made passible through a mathematical model in which the plan theory is used to optimize gas distribution , and a high speed computer with a programme worked out in BASIC language .
 	- 现通过建立一种数学模型，运用规划理论优化输配气方案，并借助计算机的高速运算功能，用BASIC语言编制的程序，实现了这一目的。
 - In inspecting the performance of GPS receivers , it is necessary to decrease as far as passible the GPS satellite errors and propagation errors of GPS signals , so as to show objectively the receiver 's own property from inspection results .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'peɪʃntlɪ/； 美：/ˈpeɪʃəntlɪ/
 - #词性/adv  耐心；耐心地；憨厚地
-# 例句
+##### 例句
 - She sat patiently waiting for her turn .
 	- 她耐心地坐着等候轮到自己。
 - They just have to wait patiently for the next post .

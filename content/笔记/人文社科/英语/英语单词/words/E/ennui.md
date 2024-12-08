@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɒnˈwiː/； 美：/ɑːnˈwiː/
 - #词性/n  倦怠；无聊；厌倦
-# 例句
+##### 例句
 - Took up a hobby to relieve the ennui of retirement .
 	- 养成一种嗜好以消除退休后的无聊。
 - You too would suffer from ennui if you bad to spend months in a hospital bed .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɔːsaɪn/； 美：/ˈpɔːrsaɪn/
 - #词性/adj  猪的；像猪的
-# 例句
+##### 例句
 - Porcine interferon has broad-spectrum anti-viral , anti-tumor and immune regulation , has become a research hotspot in recent years .
 	- 猪的干扰素具有广谱的抗病毒、抗肿瘤及免疫调节作用，已成为近年来研究的热点。
 - To date , porcine xenografts have been shown to sustain the life of nonhuman primates for several months .

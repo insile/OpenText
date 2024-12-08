@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  镶嵌；曲面细分；细分曲面
-# 例句
+##### 例句
 - Design and implementation of chain enterprise logistics distribution system based on voronoi tessellation
 	- Voronoi分割模式下连锁企业物流配送系统的设计与实现
 - Algorithm of Voronoi Tessellation Based Data Compression over Sensor Networks

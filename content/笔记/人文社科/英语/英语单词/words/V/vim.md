@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/vɪm/； 美：/vɪm/
 - #词性/n  活力；精力；力量
-# 例句
+##### 例句
 - Arguing with his usual vim ;
 	- 以他往常的精力争辩；
 - Another compares his approach to banking to the way he used to box while a student – with vim and vigour .

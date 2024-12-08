@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtɪmərəs/； 美：/ˈtɪmərəs/
 - #词性/adj  胆怯的；羞怯的；畏怯的
-# 例句
+##### 例句
 - He is a reclusive , timorous creature .
 	- 他是个离群索居、胆小羞怯的家伙。
 - Like a timorous bird you fly to my breast with eager love .

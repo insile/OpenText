@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  奉承；谄媚；哄诱
-# 例句
+##### 例句
 - He gave us the travel brochure which is full of the blandishment .
 	- 他给了我们尽是吹捧之词的旅行宣传手册。
 - They would not in the end abandon their vital interests by succumbing to Soviet blandishment .

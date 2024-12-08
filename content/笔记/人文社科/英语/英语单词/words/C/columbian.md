@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəˈlʌmbiən/； 美：/kəˈlʌmbiən/
 - #词性/adj  哥伦比亚的；美国的；哥伦布的；美洲的
-# 例句
+##### 例句
 - The British Columbian city is consistently voted as one of the most desirable cities in the world to live .
 	- 英国哥伦布市是世界上最适宜居住城市票选排行榜上的常客。
 - And the Columbian exchange of foodstuffs between the Old and New Worlds was second in importance in food history only to the adoption of agriculture .

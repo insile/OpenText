@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈselsiəs/； 美：/ˈselsiəs/
 - #词性/adj  摄氏的
 - #词性/n  摄氏
-# 例句
+##### 例句
 - It will be a mild night , around nine degrees Celsius .
 	- 晚间天气温和，温度约九摄氏度。
 - The star 's surface temperature is reckoned to be minus 75 degrees Celsius

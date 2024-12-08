@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈluːdɪkrəs/； 美：/ˈluːdɪkrəs/
 - #词性/adj  荒谬的；不合理的；不能当真的
-# 例句
+##### 例句
 - It was ludicrous to think that the plan could succeed .
 	- 认为此计划会取得成功是荒唐的。
 - It was ludicrous to suggest that the visit could be kept secret

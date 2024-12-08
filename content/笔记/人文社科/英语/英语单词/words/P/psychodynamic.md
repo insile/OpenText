@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  以心理动力学；心理动力；精神动力；精神动力学；精神动态
-# 例句
+##### 例句
 - The Role of Nurses in Pain Assessment from Psychodynamic Point of View
 	- 应用心理动力护理理论探讨护士在癌症疼痛评估中的作用
 - Psychodynamic heavily affects man 's behaviors , and is even decisive sometimes .

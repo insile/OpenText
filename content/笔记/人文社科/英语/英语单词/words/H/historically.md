@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/hɪsˈtɒrɪkəli/； 美：/hɪˈstɔrɪkəli/
 - #词性/adv  从历史上看；历史上地；从历史观点上说
-# 例句
+##### 例句
 - Historically , there has always been a great deal of rivalry between the two families .
 	- 这两个家族世世代代对立斗争。
 - The book is historically inaccurate .

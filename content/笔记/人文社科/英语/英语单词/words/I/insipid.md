@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈsɪpɪd/； 美：/ɪnˈsɪpɪd/
 - #词性/adj  平淡的；枯燥乏味的；淡而无味的；无味道的；没有趣味的
-# 例句
+##### 例句
 - As insipid perfume , between the indistinct , giving a flowing ;
 	- 正如平淡的香水，在似有似无之间，给人一种飘逸；
 - Ornament is not in itself bad , only when it 's camouflage on insipid form .

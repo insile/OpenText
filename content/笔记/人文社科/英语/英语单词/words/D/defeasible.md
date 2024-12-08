@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  可废止的
-# 例句
+##### 例句
 - This includes defeasible reasoning for the approach method of legal logic .
 	- 这其中就包含了以可辩驳推理为进路的法律逻辑方法。
 - Defeasible reasoning broaden the vision of legal reasoning research .

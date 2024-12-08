@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈtʌtʃt/； 美：/ʌnˈtʌtʃt/
 - #词性/adj  未受影响；原封未动；未动；未改变；未被损害；未食用(或饮用)；未修改
-# 例句
+##### 例句
 - Vested interests were left untouched .
 	- 既得利益未受影响。
 - The remote , untouched islands ' unique biosphere was designated an International Biosphere Reserve in 1980 .

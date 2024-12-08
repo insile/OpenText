@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhɒki/； 美：/ˈhɑːki/
 - #词性/n  曲棍球
-# 例句
+##### 例句
 - What other sports do you play besides hockey ?
 	- 除了玩曲棍球你还做哪些运动？
 - She was captain of the hockey team at school .

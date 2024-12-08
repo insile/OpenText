@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈserid/； 美：/ˈserid/
 - #词性/adj  密集的；(行列)密排的；靠拢的
-# 例句
+##### 例句
 - The soldiers marched in serried ranks towards the depot .
 	- 士兵排成密集的队列向兵站进发。
 - The trees grew in serried ranks .

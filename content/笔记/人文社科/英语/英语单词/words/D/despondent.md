@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈspɒndənt/； 美：/dɪˈspɑːndənt/
 - #词性/adj  沮丧的；失望的；泄气的；苦恼的
-# 例句
+##### 例句
 - A despondent loser , mood , look
 	- 沮丧的失败者、情绪、神情
 - A good way to get despondent is to look at Ukrainian statistics .

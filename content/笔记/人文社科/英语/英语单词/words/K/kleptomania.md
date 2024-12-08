@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkleptəˈmeɪniə/； 美：/ˌkleptəˈmeɪniə/
 - #词性/n  偷窃癖；偷窃狂
-# 例句
+##### 例句
 - The millionaire who was caught shoplifting was found to be suffering from kleptomania .
 	- 那个因逛街时顺手牵羊而被捉到的百万富翁，被发现有盗窃癖。
 - Let us discuss , first , five of the most common manias : kleptomania , pyromania , dipsomania , megalomania , and monomania .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnkəmˈpetətɪv/； 美：/ˌʌnkəmˈpetətɪv/
 - #词性/adj  无竞争力的；竞争力弱的
-# 例句
+##### 例句
 - This is making Chinese imports even cheaper for Europeans-good news for consumers and companies making products in China for export to Europe , but bad news for exporters and uncompetitive industries in Europe itself .
 	- 这使得欧洲人从中国的进口变得更加便宜－对消费者和中国的生产出口到欧洲的产品的公司来说这是好消息，但是对欧洲的出口企业和无竞争力的行业来说是坏消息。
 - Moreover , with average inflation of 2 per cent in the eurozone and , say , zero inflation in currently uncompetitive countries , adjustment would take Portugal and Greece 15 years , Spain 10 years and Italy five to 10 years .

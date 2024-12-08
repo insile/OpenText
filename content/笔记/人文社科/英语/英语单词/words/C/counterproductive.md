@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkaʊntəprəˈdʌktɪv/； 美：/ˌkaʊntərprəˈdʌktɪv/
 - #词性/adj  事与愿违；适得其反；产生相反效果
-# 例句
+##### 例句
 - Some Americans think excessive homework for children may be counterproductive .
 	- 有的老美认为给孩子太多的家庭作业，可能产生相反效果。
 - In her opening address , Rice said moves to trim foreign aid and protect home markets are understandable under the circumstances , but in the long run , counterproductive .

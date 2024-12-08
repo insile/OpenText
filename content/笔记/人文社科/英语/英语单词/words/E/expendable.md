@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪkˈspendəbl/； 美：/ɪkˈspendəbl/
 - #词性/adj  可消耗的；可牺牲的；可毁灭的
 - #词性/n  (战争中的)消耗品
-# 例句
+##### 例句
 - My humanoid body is expendable .
 	- 我的人类躯体是可牺牲的。
 - During the recession , training budgets were seen as an expendable luxury .

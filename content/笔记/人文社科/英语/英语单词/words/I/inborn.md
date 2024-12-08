@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnˈbɔːn/； 美：/ˌɪnˈbɔːrn/
 - #词性/adj  天生的；先天的
-# 例句
+##### 例句
 - We have our native inborn talent , yet we hardly use it .
 	- 我们有天生的才能，但我们却几乎未曾使用过。
 - The accounting information in the market economy has the inborn economic consequences .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  营养不良
-# 例句
+##### 例句
 - Ruel says countries may take different approaches to reducing child undernutrition .
 	- 鲁埃尔说每个国家为减少儿童营养不良现象采取的方式可能不同。
 - The lognitudinal study of undernutrition and overnutrition coexistence within the same household in China

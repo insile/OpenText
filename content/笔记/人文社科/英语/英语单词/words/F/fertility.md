@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fəˈtɪləti/； 美：/fərˈtɪləti/
 - #词性/n  富饶；丰产；想象力丰富；可繁殖性；能生育性
-# 例句
+##### 例句
 - The Preliminary Research on Correctional Technology of Agricultural Fertility in Slope Land
 	- 山坡地农业丰产配套技术初步研究
 - Talking about the fertility project , Yuan could not stop being excited .

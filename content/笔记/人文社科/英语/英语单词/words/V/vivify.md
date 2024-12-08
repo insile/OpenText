@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
   - #词性/vt  使生动；使活跃；给与生气
-# 例句
+##### 例句
 - China should actively meet the challenge of globalization and vivify the traditional oriental culture .
 	- 面对全球化的挑战，中国文化应当积极应对，让古老的东方文明重现生机。
 - A smile may vivify a face .

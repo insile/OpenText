@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsiːsaɪd/； 美：/ˈsiːsaɪd/
 - #词性/n  (尤指人们游玩、度假的)海边；海滨
 - #词性/adj  海边的；海滨的
-# 例句
+##### 例句
 - I went to spend a few days at the seaside
 	- 我去海滨玩了几天。
 - Seaside resorts such as Blackpool and Brighton are preparing for a tourist invasion .

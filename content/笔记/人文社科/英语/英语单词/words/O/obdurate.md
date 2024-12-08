@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɒbdjərət/； 美：/ˈɑːbdərət/
 - #词性/adj  顽固的；固执的；执拗的
-# 例句
+##### 例句
 - All but the most obdurate sceptics must recognise that the probability of irreversible climate change is much greater than zero .
 	- 除了最顽固的怀疑主义者以外，所有人都必须认识到，不可逆气候变化的发生几率远远大于零。
 - Mixed with obdurate pride and steadfast hate :

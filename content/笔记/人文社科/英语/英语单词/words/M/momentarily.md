@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈməʊməntrəli/； 美：/ˌmoʊmənˈterəli/
 - #词性/adv  立即；马上；短促地；片刻地
-# 例句
+##### 例句
 - I 'll be making some announcements momentarily .
 	- 我将立即发布一些通知。
 - A request to stop e-mail address generation has been received . This process will be stopped momentarily , upon completion of address generation for the recipient currently in progress .

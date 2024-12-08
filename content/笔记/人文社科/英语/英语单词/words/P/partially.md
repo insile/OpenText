@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɑːʃəli/； 美：/ˈpɑːrʃəli/
 - #词性/adv  部分地；不完全地
-# 例句
+##### 例句
 - For several days traffic fromthe Naples airfields was partially interrupted .
 	- 那不勒斯机场的对外交通部分地停顿了数天
 - But even in these pilot programs the personal accounts have been only partially funded .

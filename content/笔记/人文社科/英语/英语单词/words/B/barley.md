@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbɑːli/； 美：/ˈbɑːrli/
 - #词性/n  大麦；大麦粒
-# 例句
+##### 例句
 - The cattle are fed barley .
 	- 这些牛要喂大麦。
 - The substance that 's causing the problem comes from the barley .

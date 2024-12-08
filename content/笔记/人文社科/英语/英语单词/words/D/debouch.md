@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  汇入；（使）流出（from）；前进
 - #词性/n  河口；出口
-# 例句
+##### 例句
 - Debouch bar is its main and better reservoir type .
 	- 河口砂坝砂体是其主要和良好的储层类型。
 - Reservoir Heterogeneity and Remaining Oil Distribution of Debouch Bar Reservoir

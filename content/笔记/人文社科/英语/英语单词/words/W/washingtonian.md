@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  （美国）华盛顿市（或州）人
 - #词性/adj  华盛顿市（或州）的
-# 例句
+##### 例句
 - As one shrewd Washingtonian told me , Mr Obama stopped behaving like a prime minister and acted instead like a president .
 	- 一位精明的华盛顿人对我说，奥巴马不再表现得像一位总理，而开始像一位总统那样行事了。
 - By skirting that truth , " house of cards " , for all its dramatic tension and clever dialogue , amounts to a kind of Washingtonian escapism .

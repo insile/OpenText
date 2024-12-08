@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɜːk/； 美：/dɜːrk/
 - #词性/n  (旧时苏格兰人用的)长匕首
-# 例句
+##### 例句
 - Nancy wasn 't sure if Dirk was making a pass at her .
 	- 南希不确定德克是不是在勾引她。
 - As soon as they were safely back to shore , Dirk raced for the nearest phone .

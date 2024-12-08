@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈæksiəl/； 美：/ˈæksiəl/
 - #词性/adj  轴的；轴线的
-# 例句
+##### 例句
 - When the deposition temperature was 600 ℃, the graphite with a higher degree of ordered carbon was produced and the graphitic layers grew along the axial direction .
 	- 而600℃沉积得到的碳具有高度的有序性。600℃时纤维的石墨层是沿着轴的方向。
 - The Treatment of Axial Hunting for Large Electric Machines and Practical Meaning of Developing New Shaft Coupling

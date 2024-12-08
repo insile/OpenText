@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkrɒkəri/； 美：/ˈkrɑːkəri/
 - #词性/n  陶器；(烤箱用的)碟，盘，杯，碗；瓦器
-# 例句
+##### 例句
 - Chinese crockery is very popular in the world .
 	- 中国陶器非常受欢迎的世界。
 - The box was full of crockery , much of it broken .

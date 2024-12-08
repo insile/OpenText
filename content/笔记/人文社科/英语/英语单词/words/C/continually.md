@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈtɪnjʊəli/； 美：/kənˈtɪnjuəli/
 - #词性/adv  不断地；不停地；持续地
-# 例句
+##### 例句
 - The other kids continually taunted him about his size .
 	- 其他孩子不断地耻笑他的个头儿。
 - The horses were continually pestered by flies .

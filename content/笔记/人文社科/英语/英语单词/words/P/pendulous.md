@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpendjələs/； 美：/ˈpendʒələs/
 - #词性/adj  悬垂摆动的
-# 例句
+##### 例句
 - Dynamic Performance Analysis and Experiment Study of a Vibration Machine with Pendulous Motor
 	- 摆式电机振动机械动特性分析与实验研究
 - Pendulous Angle 's Affect to Error in Compound Pendulum Experiment System

@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡɒsəmə(r)/； 美：/ˈɡɑːsəmər/
 - #词性/n  薄纱；蛛丝；精细织物
 - #词性/adj  薄弱的；幻影似的
-# 例句
+##### 例句
 - In the early morning the lawn was covered with gossamer .
 	- 草地在大清早时被蛛丝覆盖看。
 - In some angiosperm the seeds are equipped with gossamer wings , like the dandelion and milkweed seeds .

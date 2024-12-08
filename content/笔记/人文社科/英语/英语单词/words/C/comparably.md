@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  可比较地；同等；同等地
-# 例句
+##### 例句
 - Top public sector pay , even allowing for defined benefit pension schemes , is lower than in comparably sized listed companies .
 	- 公共部门的最高收入（即使算上固定收益养老金计划），要低于同等规模的上市公司。
 - Game consoles enjoyed an edge for players , especially " core " gamers , because their specialized graphics and computing hardware outperformed comparably priced PCs or Macs .

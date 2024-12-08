@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈtrʌstwɜːði/； 美：/ʌnˈtrʌstwɜːrði/
 - #词性/adj  不可靠的；不能信赖(或信任)的
-# 例句
+##### 例句
 - You can 't go by what he says , he 's very untrustworthy .
 	- 你不能根据他的话判断，他是很不可靠的。
 - None of us could persuade him out of lending his money to that untrustworthy man .

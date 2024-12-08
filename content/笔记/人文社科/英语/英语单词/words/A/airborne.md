@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈeəbɔːn/； 美：/ˈerbɔːrn/
 - #词性/adj  空降的；空气传播的；空运的；升空
-# 例句
+##### 例句
 - For one thing , the airborne share of trade is declining as the efficiency of seaborne trade grows .
 	- 首先，随着海运贸易效率的提高，空运的贸易份额正在下降。
 - Do not leave your seat until the plane is airborne .

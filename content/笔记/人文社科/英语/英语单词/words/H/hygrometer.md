@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/haɪˈgrɒmɪtə/； 美：/haɪˈgrɑmətər/
 - #词性/n  湿度计（表）
-# 例句
+##### 例句
 - An electronic hygrometer for measuring drilling fluid activity is developed .
 	- 研制了一种测量钻井液活度的电子湿度计。
 - Applying of Piezoelectric Type Soil Hygrometer in Agriculture Automation

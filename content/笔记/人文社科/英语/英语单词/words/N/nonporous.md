@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  无孔；无孔的，无孔隙的
-# 例句
+##### 例句
 - The material is nonporous and seamless , making it easy to clean and minimizing the chances for mold , mildew or bacteria to grow .
 	- 这些材料无孔无缝，容易清洁，并将发霉、生长细菌的概率最小化。
 - As homogeneous-phase compact nonporous membrane , silicon rubber membrane selectively permeates a large number of organic molecular and is widely applied in the process of membrane extraction .

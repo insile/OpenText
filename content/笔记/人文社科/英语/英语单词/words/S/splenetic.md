@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/spləˈnetɪk/； 美：/spləˈnetɪk/
 - #词性/adj  脾气坏的；常发怒的
 - #词性/n  生脾病的人；脾气坏的人；脾病药
-# 例句
+##### 例句
 - Experience of Retained Spleen Treatment of 32 Cases with Splenetic Injury
 	- 脾脏损伤32例保脾治疗体会
 - Distribution of the kinetic energy released in Chinese hamster splenetic cells for incident ultrasoft X rays from a poit sours

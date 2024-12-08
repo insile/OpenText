@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɑːɡjumənˈteɪʃn/； 美：/ˌɑːrɡjumənˈteɪʃn/
 - #词性/n  论据；论证；推论
-# 例句
+##### 例句
 - Water resources argumentation is basic work for the water permit system .
 	- 建设项目水资源论证是取水许可制度服务的，是一项科学性很强的工作。
 - Logic is also commonly used today in argumentation theory .

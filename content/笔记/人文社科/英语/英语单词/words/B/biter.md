@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  咬人的动物，骗子
-# 例句
+##### 例句
 - This is a case of the biter bit with a vengeance .
 	- 这就是害人反害己的例子。
 - I know that sword ! It is the Goblin-cleaver ! The Biter !

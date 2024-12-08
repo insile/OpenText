@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  无威胁的；没有威胁性的
-# 例句
+##### 例句
 - That cute waiter guy that looks like a nonthreatening Ray Liotta ?
 	- 那个长得像雷李欧塔亲切版的帅哥服务生？
 - Speak in a calm , nonthreatening , nonjudgmental way .

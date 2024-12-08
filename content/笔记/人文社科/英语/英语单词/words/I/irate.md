@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/aɪˈreɪt/； 美：/aɪˈreɪt/
 - #词性/adj  暴怒的；极其愤怒的
-# 例句
+##### 例句
 - Her irate husband was hunting him with a gun .
 	- 她暴怒的丈夫正拿着一把枪追杀他。
 - The speech was designed to pacify the irate crowd .

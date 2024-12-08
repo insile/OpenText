@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpɒpjuˈlærəti/； 美：/ˌpɑːpjuˈlærəti/
 - #词性/n  流行；受欢迎；普及；人气
-# 例句
+##### 例句
 - The president 's popularity nationally is at an all-time low
 	- 总统在全国的人气目前正处于历史最低点。
 - However , over the last 30 years , ramps popularity has grown quickly .

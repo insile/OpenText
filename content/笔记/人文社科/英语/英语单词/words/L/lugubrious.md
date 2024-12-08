@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ləˈɡuːbriəs/； 美：/ləˈɡuːbriəs/
 - #词性/adj  阴郁的；凄凉的；悲伤的
-# 例句
+##### 例句
 - He plays some passages so slowly that they become lugubrious .
 	- 有些段落他演奏得异常徐缓，听上去有些忧伤。
 - Why are you looking so lugubrious ?

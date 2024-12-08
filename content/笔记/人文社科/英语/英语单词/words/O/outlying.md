@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈaʊtlaɪɪŋ/； 美：/ˈaʊtlaɪɪŋ/
 - #词性/adj  边远的；偏远的；远离市镇的
-# 例句
+##### 例句
 - The outlying systems you must sweep .
 	- 你们也要检查一下边远的星系。
 - However , outlying ESB segments are connected only to a Broker ESB , not directly connected to one another .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsteriəˈtɪpɪkl/； 美：/ˌsteriəˈtɪpɪkl/
 - #词性/adj  老一套的;刻板化的;模式化的
-# 例句
+##### 例句
 - Dara challenges our stereotypical ideas about gender and femininity .
 	- 达拉对我们老一套的性别和女性特质观念提出了异议。
 - That statement comes not , as you might imagine , from a stereotypical tree-hugging , save-the-world greenie , but from Gordon Brown , a politician with a reputation for rigor , thoroughness and above all , caution .

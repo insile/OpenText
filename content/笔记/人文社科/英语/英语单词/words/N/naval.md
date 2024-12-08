@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈneɪvl/； 美：/ˈneɪvl/
 - #词性/adj  海军的
-# 例句
+##### 例句
 - To make Rules for the Government and Regulation of the land and naval Forces ;
 	- 制定统辖和管理陆海军的条例；
 - There was a discussion on the relative naval strengths of the two countries .

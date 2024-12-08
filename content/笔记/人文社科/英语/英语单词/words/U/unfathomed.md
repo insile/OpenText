@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  深不可测的；（刑事案件等）未解决的；（人的性格）难理解的
-# 例句
+##### 例句
 - The unfathomed problems of how to optimize the fuzzy rule base are discussed .
 	- 对其结构进行分析，并对模糊控制理论未解决的规则选取问题进行探讨。
 - How to establish creep model of under change loads are unfathomed contents in theory studies and applications of wood rheology .

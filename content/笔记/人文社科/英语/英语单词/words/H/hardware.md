@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhɑːdweə(r)/； 美：/ˈhɑːrdwer/
 - #词性/n  硬件；(家庭及园艺用)工具，设备，五金制品；硬件设备；机器；车辆
-# 例句
+##### 例句
 - His major is the hardware of a computer .
 	- 他的专业是电脑硬件。
 - Companies that have long focused on hardware now have to think of ecosystems instead to give consumers practical solutions to their everyday problems .

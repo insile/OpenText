@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/tɛmz/； 美：/tɛmz/
 - #词性/n  泰晤士
-# 例句
+##### 例句
 - Thames television announced a re-run of the Benny Hill Show .
 	- 泰晤士电视台宣布重播《班尼·希尔秀》。
 - Please enclose your remittance , making cheques payable to Thames Valley Technology .

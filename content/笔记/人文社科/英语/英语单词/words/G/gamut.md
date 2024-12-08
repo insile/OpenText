@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'ɡæmət/； 美：/'ɡæmət/
 - #词性/n  全部；全范围
-# 例句
+##### 例句
 - Calibrated display information , including the measured color gamut , grayscale color tracking , Delta-E and luminance values , are shown at the end of each monitor calibration .
 	- 被校准的显示信息，包括被测量的颜色全部、灰色极谱颜色跟踪，三角洲E和光亮价值，被显示在各显示器定标的结尾。
 - Ernst & Young spent years asking partners to identify the skills needed for a gamut of roles , each of which carries a rating from one for beginner to five for a master .

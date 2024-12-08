@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  粗暴地；唐突地；直率地
-# 例句
+##### 例句
 - ' What 's your name ? ' he asked brusquely .
 	- “你叫什么名字？”他唐突地问道。
 - He cut off the laughing brusquely with a gesture .

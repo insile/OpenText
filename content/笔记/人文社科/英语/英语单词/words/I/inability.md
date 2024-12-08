@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnəˈbɪləti/； 美：/ˌɪnəˈbɪləti/
 - #词性/n  不能；无力；无能
-# 例句
+##### 例句
 - The inability to respond to affective changes in your interpersonal environment .
 	- 对外界环境的变化无能做出反应。
 - His lack of control , his inability Disorganized labor .

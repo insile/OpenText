@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpiː ˈiː/； 美：/ˌpiː ˈiː/
 - #词性/n  体育教育， 体育课（physical education）；专业工程师（Professional Engineer）；首席长老 （Presiding Elder）；<统计>概差，可能误差（probable error）
-# 例句
+##### 例句
 - We 'll have an hour of pe ( physical education ) this afternoon .
 	- 今天下午有一节体育课。
 - Last month , many boys entered the 1000-metre race in the PE test .

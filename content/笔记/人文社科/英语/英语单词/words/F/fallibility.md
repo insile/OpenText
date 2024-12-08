@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  易错性；不可靠性
-# 例句
+##### 例句
 - The fallibility of human perceptions
 	- 人类感觉的不可靠性
 - The problem is so common and the fallibility of any model so real , that when you have someone who is deviant and recognize a cause unlike the norm , then that justifies early treatment .

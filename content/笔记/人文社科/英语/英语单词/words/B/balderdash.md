@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbɔːldədæʃ/； 美：/ˈbɔːldərdæʃ/
 - #词性/n  胡说；废话
-# 例句
+##### 例句
 - What a load of balderdash !
 	- 一派胡言！
 - Speaking of her love , has become a romantic balderdash .

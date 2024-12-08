@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈneɡlɪdʒəbl/； 美：/ˈneɡlɪdʒəbl/
 - #词性/adj  可以忽略不计的；微不足道的；不重要的；不值一提的
-# 例句
+##### 例句
 - But in Nepal the number is negligible .
 	- 然而这尼泊尔，这个数字是可以忽略不计的。
 - Even on the most optimistic of forecasts , the contribution of electric vehicles to sales volumes will be negligible for years .

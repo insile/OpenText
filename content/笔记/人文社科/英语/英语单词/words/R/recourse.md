@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈkɔːs/； 美：/ˈriːkɔːrs/
 - #词性/n  求助；依靠；依赖
-# 例句
+##### 例句
 - Your only recourse is legal action .
 	- 你的唯一依靠就是诉诸法律。
 - We hope a settlement can be reached without recourse to legal action .

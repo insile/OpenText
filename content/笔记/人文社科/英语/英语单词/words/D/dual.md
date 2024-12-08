@@ -8,11 +8,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdjuːəl/； 美：/ˈduːəl/
 - #词性/adj  双的；双重的；二重的；两部分的
 - #词性/n  对偶；双数
-# 例句
+##### 例句
 - Its influence upon development is dual .
 	- 城乡差别对发展的影响是二重的。
 - dual The training airplane has dual controls , one set for the learner and one for the teacher .

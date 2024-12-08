@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌskændɪˈneɪviə/； 美：/ˌskændɪˈneɪviə/
 - #词性/n  斯堪的纳维亚(欧洲西北部文化区，包括挪威、瑞典和丹麦，有时也包括冰岛、芬兰和法罗群岛)
-# 例句
+##### 例句
 - Her other business interests include a theme park in Scandinavia and hotels in the West Country .
 	- 她其他的公司股权包括斯堪的纳维亚的一个主题游乐园和英格兰西南部的几家酒店。
 - Similar customs were known in widely divergent cultures such as Ancient Egypt and Scandinavia .

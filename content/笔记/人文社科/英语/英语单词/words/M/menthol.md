@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmenθɒl/； 美：/ˈmenθɔːl/
 - #词性/n  薄荷醇
-# 例句
+##### 例句
 - Inhalations of menthol may do the trick .
 	- 吸入薄荷醇或许可以起到作用。
 - Advanced Research on Penetration Enhancing Effect of Menthol

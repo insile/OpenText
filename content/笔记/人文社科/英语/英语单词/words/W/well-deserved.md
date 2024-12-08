@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/wel dɪˈzɜːvd/； 美：/wel dɪˈzɜːrvd/
 - #词性/adj  当之无愧；当之无愧的；应得的
-# 例句
+##### 例句
 - The Park Hotel has a well-deserved reputation .
 	- 帕克旅馆的名声当之无愧。
 - The radio spectrum is a well-deserved basic support resource in the existence and development of The Internet of Things .

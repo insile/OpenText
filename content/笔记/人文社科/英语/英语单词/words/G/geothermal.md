@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdʒiːəʊˈθɜːml/； 美：/ˌdʒiːoʊˈθɜːrml/
 - #词性/adj  地热的
-# 例句
+##### 例句
 - Effect of Application of Line Source TEM to Geothermal Exploration
 	- 线源TEM在腾冲热水塘寻找地热的应用效果
 - The status of geothermal energy and development of its application are analyzed in this article .

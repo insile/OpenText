@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈvekʃn/； 美：/kənˈvekʃn/
 - #词性/n  对流；(热通过气体或液体的)运流
-# 例句
+##### 例句
 - These fires create convection funnels , and throw a lot of particles into the upper atmosphere .
 	- 这些火焰造成了对流漏斗，把许多微粒抛向上层大气。
 - Group Theory Analysis of Mixed Convection over a Horizontal Moving Plate

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  菲尔德斯通；大卵石；散石
-# 例句
+##### 例句
 - Custom finishes include stamped or tinted concrete , and finishes that mimic granite , fieldstone , slate , brick , and wood .
 	- 自定义装饰可以是模压混凝土或彩色混凝土，也可以是模仿花岗岩，大卵石，石板，砖，木头。
 - Doctor Marcia Fieldstone : What are you going to do ?

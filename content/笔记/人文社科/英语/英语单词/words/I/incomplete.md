@@ -7,11 +7,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnkəmˈpliːt/； 美：/ˌɪnkəmˈpliːt/
 - #词性/adj  不完整的；不完全的；不完善的
 - #词性/n  (学业成绩评分)未修毕，未完成
-# 例句
+##### 例句
 - Spoken language contains many incomplete sentences .
 	- 口语中有很多不完整的句子。
 - The PivotTable list " % 1 " contains incomplete or damaged information .

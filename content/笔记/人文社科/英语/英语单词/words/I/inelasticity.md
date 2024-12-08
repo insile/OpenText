@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  无弹性；不适应性；坚硬性；无弹力
-# 例句
+##### 例句
 - The Traditional knowledge education pattern discovers its inelasticity and limitation .
 	- 以知识教育为核心的教育模式，日益暴露出其不适应时代要求的局限性。
 - Non-Linear stiffness matrix of Single Member Considering P - ⊿ Effect and Inelasticity

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈænɪməs/； 美：/ˈænɪməs/
 - #词性/n  敌意；仇恨；愤怒
-# 例句
+##### 例句
 - When you have an animus against a person , you should give it up .
 	- 当你对别人怀有敌意时，你应当放弃这种想法。
 - He may have some kind of animus against you .

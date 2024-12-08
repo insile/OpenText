@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  无常；暂时（性）；非永久（性）
-# 例句
+##### 例句
 - Light reveals the subtle alteration of things , the sly or calamitous impermanence or mortal life .
 	- 事物的细微变动，人生的狡猾，倏忽无常，一一都在光中显露出来。
 - This impermanence is reflected in society in many subtle ways .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  零星；偶发地
-# 例句
+##### 例句
 - Fighting continued sporadically for two months .
 	- 战斗断断续续地进行了两个月。
 - She attended lectures only sporadically .

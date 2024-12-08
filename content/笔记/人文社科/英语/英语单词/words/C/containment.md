@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈteɪnmənt/； 美：/kənˈteɪnmənt/
 - #词性/n  控制；(对另一个国家力量的)遏制；抑制
-# 例句
+##### 例句
 - The American Economic Containment Strategy and the High Technology Transfer Restrictions
 	- 美国经济遏制战略与高新技术转让限制
 - China might well view this as the start of a containment policy .

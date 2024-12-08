@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtɒlərəbl/； 美：/ˈtɑːlərəbl/
 - #词性/adj  可接受的；可容忍的；还可以的；可忍受的；过得去的；尚好的
-# 例句
+##### 例句
 - Is there anywhere tolerable to eat in town ?
 	- 城里有什么过得去的地方可以吃饭吗？
 - That level of warming , while potentially producing dire effects on agriculture , sea level and the natural world , might at least be tolerable , some experts believe .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbɪdəbl/； 美：/ˈbɪdəbl/
 - #词性/adj  顺从的；听话的
-# 例句
+##### 例句
 - Yet some foreigners claimed that the Olympics would make Chinese foreign policy more biddable .
 	- 可有些外国人却声称，奥运会将使中国的外交政策更加顺从。
 - The arc of golf was perhaps no more biddable than the sad trajectory of his life .

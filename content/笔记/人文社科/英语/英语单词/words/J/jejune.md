@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dʒɪˈdʒuːn/； 美：/dʒɪˈdʒuːn/
 - #词性/adj  空洞的；不成熟的；单调的；枯燥无味的；太幼稚的；头脑简单的
-# 例句
+##### 例句
 - They were of great service in correcting my jejune generalizations .
 	- 他们纠正了我不成熟的泛泛之论，帮了我大忙。
 - We knew we were in for a pretty long , jejune evening .

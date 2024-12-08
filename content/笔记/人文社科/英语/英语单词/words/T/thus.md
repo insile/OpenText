@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ðʌs/； 美：/ðʌs/
 - #词性/adv  因此；从而；这样；所以；如此；以此方式
-# 例句
+##### 例句
 - Thus , he aided reaction and thwarted progress .
 	- 因此，他帮助反动派阻挠进步。
 - Sex education is a sensitive area for some parents , and thus it should remain optional .

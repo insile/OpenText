@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪsˈrʌptɪv/； 美：/dɪsˈrʌptɪv/
 - #词性/adj  破坏性的；引起混乱的；扰乱性的
-# 例句
+##### 例句
 - A mode of this kind does not need disruptive " big bang " changes at all .
 	- 这个模式根本不需要会引起混乱的大改动。
 - But standing in its way is a handful of former allies who are unwilling to support another disruptive battle in the Middle East .

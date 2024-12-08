@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpesɪmɪzəm/； 美：/ˈpesɪmɪzəm/
 - #词性/n  悲观；悲观主义；悲观情绪
-# 例句
+##### 例句
 - Pessimism seems to be the order of the day .
 	- 悲观失望似乎是当今司空见惯的情形。
 - There is a mood of pessimism in the company about future job prospects .

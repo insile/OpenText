@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/haɪˈdrɒlɪk/； 美：/haɪˈdrɔːlɪk/
 - #词性/adj  (通过水管等)液压的；水力的；液压驱动的；与水利(或液压)系统有关的
-# 例句
+##### 例句
 - Hydraulic and mechanical performance guarantees shall be based on water testing .
 	- 水力的和机械的运转保证将以水测试为基础。
 - Developing steam power device simulator needs to calculate the thermal - hydraulic value of system . On the basis of this , a model was established and mainly used to develop the system simulation software .

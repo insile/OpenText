@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈrekəɡnaɪzəbl/； 美：/ˈrekəɡnaɪzəbl/
 - #词性/adj  易于识别的；容易认出的
-# 例句
+##### 例句
 - Therefore , whenever possible , you should use a clear naming convention for assigning different and easily recognizable names for everything associated with each application .
 	- 因此，在可能情况下，您应该使用一个清楚的命名约定，为与每个应用程序关联的每项内容分配不同的并且易于识别的名称。
 - This paper emphasizes the natural , notable and recognizable marker that is the emergence of a continental volcanic arc on the East Asia margin , which represents the conversion of the geodynamic systems .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  勇敢；意气
-# 例句
+##### 例句
 - Spiritedness is the central , psychological quality of the Republic .
 	- 意志是《理想国》的核心，与精神质量。
 - Wang has very personal reasons for her newfound sense of public spiritedness .

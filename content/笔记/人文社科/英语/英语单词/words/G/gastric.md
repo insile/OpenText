@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡæstrɪk/； 美：/ˈɡæstrɪk/
 - #词性/adj  胃的；胃部的
-# 例句
+##### 例句
 - Gastric acidity would not prevent the organism from passing into the gut .
 	- 胃的酸度不能防止细菌进入肠道。
 - Gastric electro-mechanical activity ( GEMA ) is foundation to complete its normal functions .

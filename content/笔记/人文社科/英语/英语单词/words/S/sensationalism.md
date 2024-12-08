@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/senˈseɪʃənəlɪzəm/； 美：/senˈseɪʃənəlɪzəm/
 - #词性/n  (指行文或报道)耸人听闻，哗众取宠
-# 例句
+##### 例句
 - Some sensationalism did come from intense competition , but it merely reflect a stage in the evolution of American journalism .
 	- 一些耸人听闻的新闻报道确实来自激烈的竞争之中，但它只不过反映了美国新闻事业发展史上的一个阶段。
 - The tabloids relied on sensationalism to maintain their circulation .

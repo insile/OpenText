@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈmætʃt/； 美：/ˌʌnˈmætʃt/
 - #词性/adj  无比的；无双的
-# 例句
+##### 例句
 - Although blind by the explosion , he faced the future with unmatched courage .
 	- 他虽然因爆炸而失明，但仍然能以无比的勇气面对未来。
 - Plays with a chip on his shoulder and bring unmatched intensity to the defensive end .

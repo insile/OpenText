@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/mənˈrəʊ/； 美：/mənˈroʊ/
 - #词性/n  梦露；门罗；孟禄；蒙罗；美国第五任总统
-# 例句
+##### 例句
 - Monroe described the financial aspect as crucial .
 	- 门罗认为金融方面至关重要。
 - Monroe has been fierce in defence of the present system .

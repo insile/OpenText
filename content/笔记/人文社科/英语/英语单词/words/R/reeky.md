@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  热气腾腾的，烟雾弥漫的；散发臭气的
-# 例句
+##### 例句
 - That reeky cup of coffee on the desk makes her feels warm and cozy .
 	- 咖啡就放到了桌子上，热气腾腾的，让人看了很暖和也很温馨。
 - Gates is incompact poured a cup of reeky coffee slow to oneself , behavioral comparing is patted slow at ordinary times , because he is unemployed .

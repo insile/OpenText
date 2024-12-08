@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈbjuːsɪv/； 美：/əˈbjuːsɪv/
 - #词性/adj  虐待的；辱骂的；毁谤的；恶语的
-# 例句
+##### 例句
 - Use foul or abusive language towards .
 	- 用污秽或辱骂的语言骂。
 - If your partner is abusive and alcoholic , then you have a part of your unconscious that is abusive and alcoholic .

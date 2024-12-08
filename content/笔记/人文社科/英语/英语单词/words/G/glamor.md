@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  魅力，诱惑力
 - #词性/v  迷惑
-# 例句
+##### 例句
 - His performance fully displayed the infinite glamor of Chinese dance .
 	- 他的表演充分展示了中华舞蹈的无穷魅力。
 - The culture props the glamor and the cultural Beijing makes a collection world .

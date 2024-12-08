@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  使现代化
-# 例句
+##### 例句
 - There is a pressing need to modernise our electoral system .
 	- 我们的选举制度迫切需要现代化。
 - Romania badly needs aid to modernise its outmoded industries

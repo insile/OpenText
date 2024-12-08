@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈæltruɪzəm/； 美：/ˈæltruɪzəm/
 - #词性/n  利他；利他主义；无私
-# 例句
+##### 例句
 - An important feature of moral behaviour is altruism .
 	- 道德行为一个重要特点就是利他主义。
 - Altruism is crucial for social cohesion .

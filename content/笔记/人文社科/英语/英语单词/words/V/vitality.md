@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/vaɪˈtæləti/； 美：/vaɪˈtæləti/
 - #词性/n  活力；生命力；热情
-# 例句
+##### 例句
 - An artificial language has no vitality .
 	- 人为的语言缺乏生命力。
 - An Analysis on the Dynamic System of the Enterprise Vitality Sustainability

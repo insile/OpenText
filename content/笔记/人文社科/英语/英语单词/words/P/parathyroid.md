@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  副甲状腺的
 - #词性/n  甲状旁腺
-# 例句
+##### 例句
 - Parathyroid Hormone Related Protein and its Potential Prospect of Clinical Application
 	- 甲状旁腺素相关蛋白及其临床意义
 - Gene Expression of Human Parathyroid Hormone and Preliminary Study on Its Activity

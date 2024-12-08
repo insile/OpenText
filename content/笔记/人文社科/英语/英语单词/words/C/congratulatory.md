@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˌɡrætʃuˈleɪtəri/； 美：/kənˈɡrætʃələtɔːri/
 - #词性/adj  祝贺的；恭贺的
-# 例句
+##### 例句
 - From the minute it ended , the White House switchboard was clogged with congratulatory phone calls .
 	- 从它结束的那一分钟开始，白宫的电话总机就由于祝贺的电话太多而应接不暇。
 - The day after her victory , Rolex posted her picture with congratulatory text on the homepage of its website .

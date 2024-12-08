@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪntəpleɪ/； 美：/ˈɪntərpleɪ/
 - #词性/n  相互作用；相互影响(或作用)
-# 例句
+##### 例句
 - The interplay between the new politics and the modern media will unbalance the political process and inhibit its workings .
 	- 新政治和现代媒体之间的相互作用将会扰乱政治进程，妨碍其正常运作。
 - Signaling Pathways and Interplay in Plant Disease Resistance

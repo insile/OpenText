@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvæskjələ(r)/； 美：/ˈvæskjələr/
 - #词性/adj  血管的；维管的；脉管的
-# 例句
+##### 例句
 - Objective To provide cells resource for experimental study on vascular tissue engineering .
 	- 目的为培养组织工程化血管的实验研究提供细胞来源。
 - EPCs in vascular repair and production process plays an important role .

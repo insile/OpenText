@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌelɪˈfæntaɪn/； 美：/ˌelɪˈfæntiːn/
 - #词性/adj  庞大的；笨重的；似象一样的
-# 例句
+##### 例句
 - His legs were elephantine .
 	- 他的腿很粗壮。
 - Their daughter be quite plump but their son be positively elephantine

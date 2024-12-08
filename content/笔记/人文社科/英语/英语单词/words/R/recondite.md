@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈrekəndaɪt/； 美：/ˈrekəndaɪt/
 - #词性/adj  深奥的；晦涩的
-# 例句
+##### 例句
 - Recondite principles [ knowledge , studies ]
 	- 深奥的原理[学识，研究]
 - Some recondite problem in historiography ( Walter Laqueur ) .

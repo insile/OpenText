@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwaɪəri/； 美：/ˈwaɪəri/
 - #词性/adj  瘦而结实的；硬而结实的；像金属丝的
-# 例句
+##### 例句
 - His body is wiry and athletic .
 	- 他长得清瘦而结实，体格健美。
 - Her wiry hair was pushed up on top of her head in an untidy bun .

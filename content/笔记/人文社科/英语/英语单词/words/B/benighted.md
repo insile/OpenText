@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/bɪˈnaɪtɪd/； 美：/bɪˈnaɪtɪd/
 - #词性/adj  落后的；愚昧无知的；未开发的
-# 例句
+##### 例句
 - The benighted person often chooses the past events which lets make the mistake to be possible not to be again wrong .
 	- 愚昧无知的人往往选择让过去做错的往事可以不要再错。
 - The benighted Chechens were not the only victims of the amorality .

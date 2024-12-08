@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'æfrɪkə/； 美：/ˈæfrəkə/
 - #词性/n  非洲
-# 例句
+##### 例句
 - Living in Africa was very different from home and quite an experience .
 	- 生活在非洲完全不同于在家里，那真是一次不同寻常的经历。
 - Many years later I returned to Africa but that 's another story .

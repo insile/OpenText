@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkʌstədi/； 美：/ˈkʌstədi/
 - #词性/n  保管；(尤指在候审时的)拘留；羁押；监护；监护权；拘押；保管权
-# 例句
+##### 例句
 - The judge directed that the mother be given custody of the children .
 	- 法官判决孩子由母亲监护。
 - The divorce court awarded custody to the child 's mother .

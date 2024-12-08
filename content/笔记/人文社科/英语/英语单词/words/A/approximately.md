@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈprɒksɪmətli/； 美：/əˈprɑːksɪmətli/
 - #词性/adv  大约；大概；约莫
-# 例句
+##### 例句
 - At approximately 11:30 p.m. , Pollard finally gave his consent to the search
 	- 大概晚上11点半的时候，波拉德最终同意进行搜查。
 - Dudok alone shaped most 21th century Hilversum and approximately 75 buildings still bear his unique characteristics , His masterpiece , Hilversum Town Hall , was built in 1928-1931 .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  省力；节省劳力的；省力化；省工
-# 例句
+##### 例句
 - Spread and application of laborsaving discharge valve in small-scale reservoir
 	- 省力放水阀在小型水库管理中的推广应用
 - Adam invented love at first sight , one of the greatest laborsaving machine the world ever saw .

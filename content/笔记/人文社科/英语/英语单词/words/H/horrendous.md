@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/həˈrendəs/； 美：/həˈrendəs/
 - #词性/adj  可怕的；骇人的；令人震惊的；讨厌得难以容忍的
-# 例句
+##### 例句
 - He described it as the most horrendous experience of his life
 	- 他形容这是自己一生中最可怕的经历。
 - Once certain damage is done , we will have to suffer from the horrendous consequences .

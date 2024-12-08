@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/nɪl/； 美：/nɪl/
 - #词性/n  (数码)零；无；(体育比赛中的)0分
-# 例句
+##### 例句
 - Application stationary dynamic nil - power compensation system
 	- 静式动态无功补偿系统的应用
 - In this paper , the nil ' principle and it 's variation are introduced .

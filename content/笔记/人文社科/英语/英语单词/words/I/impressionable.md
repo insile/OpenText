@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈpreʃənəbl/； 美：/ɪmˈpreʃənəbl/
 - #词性/adj  易受影响的
-# 例句
+##### 例句
 - The child is at an impressionable age .
 	- 这孩子正处于易受影响的年龄。
 - It relates the story of an impressionable adolescent , Holden Caulfield , making his first movement into an adult world .

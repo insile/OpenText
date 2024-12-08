@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpiːki/； 美：/ˈpiːki/
 - #词性/adj  憔悴的；苍白的；有病的
-# 例句
+##### 例句
 - Liu looked a bit peaky when she left .
 	- 刘走的时候看起来有些憔悴。
 - He is going5 to the doctor because he is feeling a bit peaky .

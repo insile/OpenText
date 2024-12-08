@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  天然井；沼穴；地下河出口；溶井；天然水井
-# 例句
+##### 例句
 - the world 's deepest hydrothermal spring at Cenote Zacaton in northern Mexico .
 	- 墨西哥北部萨卡通石灰岩洞的世界最深温泉。
 - The article integrated example of engineering , put forward the construction method of cenote sidewall 's freezing crust under 500 - 600 meters .

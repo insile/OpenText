@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdʌtʃmən/； 美：/ˈdʌtʃmən/
 - #词性/n  荷兰人；荷兰船；补缺块；接缝处塞孔补缺的木块
-# 例句
+##### 例句
 - The programme opened with the overture to Wagner 's Flying Dutchman .
 	- 节目以瓦格纳的歌剧《漂泊的荷兰人》的序曲开场。
 - The Dutchman let out a terrible scream as the horse leapt toward him at a full gallop5 . He took to his heels , running as fast as he could , making for the bridge since he knew that ghosts and evil spirits did not care to cross running water .

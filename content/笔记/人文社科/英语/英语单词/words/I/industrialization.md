@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˌdʌstrɪəlaɪˈzeɪʃən/； 美：/ɪnˌdʌstriəlɪˈzeɪʃən/
 - #词性/n  工业化
-# 例句
+##### 例句
 - In other parts of the world , increasing agricultural productivity and industrialization went together .
 	- 在世界其他地方，不断提高的农业生产力和工业化进程是相辅相成的。
 - Since industrialization , maintaining such a slow cultural metabolism has been much harder , with the long midday meal shrinking to whatever could be stuffed into a lunch bucket or bought at a food stand .

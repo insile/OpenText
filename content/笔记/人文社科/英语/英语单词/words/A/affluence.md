@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈæfluəns/； 美：/ˈæfluəns/
 - #词性/n  富裕；富足
-# 例句
+##### 例句
 - Pockets of affluence coexist with poverty
 	- 少数富裕地区与贫困地区并存。
 - Realizing Common Affluence as the Important Value of the Socialist Society

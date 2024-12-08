@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  小气的人，吝啬鬼
 - #词性/adj  〈诗〉吝啬的
-# 例句
+##### 例句
 - On Niggard Image in Both Chinese and Foreign Literature
 	- 论中外文学中的吝啬鬼形象
 - They created personal niggard characters by the similar means , which gave us rich artistic enjoyment and permanent rational thought .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈdæptəbl/； 美：/əˈdæptəbl/
 - #词性/adj  能适应的；有适应能力的
-# 例句
+##### 例句
 - Humans are a tough and adaptable species .
 	- 人类是一个坚强而又有适应能力的物种。
 - " They said fish were the most ancient of the major vertebrate groups , giving them " ample time " to evolve complex , adaptable and diverse behaviour patterns that rivalled those of other vertebrates . "

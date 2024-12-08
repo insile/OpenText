@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/juː'niːkli/； 美：/ju'nikli/
 - #词性/adv  唯一地；独特地
-# 例句
+##### 例句
 - However , we have not addressed several key goals : managing data in each page every time the page is submitted and displaying the data uniquely for each page using page templates .
 	- 然而，我们还没有考虑几个关键问题：管理每个页面提交的数据，使用页面模板为每个页面独特地显示数据。
 - The Royal Canadian Mint was tasked with bringing the vision of local artists Corrine Hunt and Omer Arbel to life in a way that uniquely represents Canada .

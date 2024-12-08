@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fəˈnɒm/； 美：/fəˈnɑːm/
 - #词性/n  非凡的人(或事物)；了不起的人(或事物)
-# 例句
+##### 例句
 - The deal values the social networking phenom at $ 66.5 billion , according to news reports .
 	- 据报道，根据这笔交易计算的Facebook估值为665亿美元。
 - Though the phenom has been studied for nearly thirty years , its nature is still controversial .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlɑːnsɪt/； 美：/ˈlænsɪt/
 - #词性/n  柳叶刀；(医生用的)小刀
-# 例句
+##### 例句
 - The growing problem is underlined in the latest issue of the Lancet
 	- 最近一期的《柳叶刀》杂志中强调了这一日益严重的问题。
 - Much larger trials are needed but the results reported in the Lancet Infectious Diseases journal show the new antibiotic appears to be as effective as current treatments .

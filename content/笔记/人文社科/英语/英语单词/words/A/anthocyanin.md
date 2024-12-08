@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  花青素；花青苷；花色素苷
-# 例句
+##### 例句
 - Content of anthocyanin was zero in different culture condition .
 	- 花青素在不同培养条件下含量都为0。
 - The progress of anthocyanin gene engineering was studied in Part I .

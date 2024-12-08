@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  骨架；综合结构
-# 例句
+##### 例句
 - Study on Marketing Strategy Compages of Customizing Type Enterprises
 	- 定制型企业营销策略组合研究
 - Use the matrix picture of compages of product of Boston , analyse the compages of product of FTM company and products line .

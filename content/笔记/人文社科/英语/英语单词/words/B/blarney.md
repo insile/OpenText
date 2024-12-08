@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈblɑːni/； 美：/ˈblɑːrni/
 - #词性/n  花言巧语；谄媚
-# 例句
+##### 例句
 - The Irish castle now is famous for its Blarney stone .
 	- 爱尔兰城堡现在因它谄媚之石而闻名。
 - One who has kissed the Blarney stone , so the story goes , can speak words of praise so smoothly and sweetly that you believe them , even when you know they are false .

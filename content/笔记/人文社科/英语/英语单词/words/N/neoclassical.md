@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌniːəʊˈklæsɪkl/； 美：/ˌniːoʊˈklæsɪkl/
 - #词性/adj  新古典主义的
-# 例句
+##### 例句
 - It tried to keep things a certain way ... uh ... resist change , it dictated that French plays should neoclassical in form ,
 	- 它试过将事物保持特定形式，抵制变化，它规定法国的话剧在形式上应该是新古典主义的，
 - It features neoclassical architecture complemented by a rotating collection of contemporary artwork .

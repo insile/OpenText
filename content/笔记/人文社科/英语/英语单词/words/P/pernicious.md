@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pəˈnɪʃəs/； 美：/pərˈnɪʃəs/
 - #词性/adj  有害的，恶性的(尤指潜移默化地)
-# 例句
+##### 例句
 - There are four pernicious phases that can kill a relationship .
 	- 有四种有害的阶段能够扼杀一段关系。
 - Escaping these persistent and pernicious boundaries to communication , contribution , and collaboration requires three key shifts :

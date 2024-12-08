@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪmpɪtəs/； 美：/ˈɪmpɪtəs/
 - #词性/n  动力；推动；促进；刺激；动量；惯性
-# 例句
+##### 例句
 - By 1982 , she was restless and needed a new impetus for her talent .
 	- 到了1982年，她感到厌倦了，需要新的动力来激发她的才能。
 - Children need an impetus to study .

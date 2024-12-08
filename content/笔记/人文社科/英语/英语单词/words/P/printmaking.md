@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  版画复制(术)
-# 例句
+##### 例句
 - The arts of drawing or painting or printmaking .
 	- 素描、绘画或版画复制的艺术。
 - Chinese Art Spirit 's Influence on Chinese Contemporary Printmaking Creation

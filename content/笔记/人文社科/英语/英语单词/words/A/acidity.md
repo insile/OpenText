@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈsɪdəti/； 美：/əˈsɪdəti/
 - #词性/n  酸性；酸度；酸味
-# 例句
+##### 例句
 - Effect of Temperature and Acidity on the Determination of Effective Silicon
 	- 温度和酸度对有效硅测定的影响初探
 - The study on acidity change and inspection method of the formula milk powder

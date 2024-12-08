@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌfleksə'bɪləti/； 美：/ˌfleksə'bɪləti/
 - #词性/n  灵活性；弹性；柔韧性；适应性
-# 例句
+##### 例句
 - Women have lost out in this new pay flexibility
 	- 在这一新的薪资弹性化政策中吃亏的是女性。
 - There has got to be a degree of flexibility

@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡlæmərəs/； 美：/ˈɡlæmərəs/
 - #词性/adj  迷人的；独特的；特别富有魅力的；富于刺激的
-# 例句
+##### 例句
 - Knitwear is given glamorous details , offering comfort and sparkle for winter dressing .
 	- 针织服装给我们迷人的细节，为冬季服装提供了一份舒适与温暖。
 - The glamorous peace event guarded by armed troops-how can we describe this bizarre scene ?

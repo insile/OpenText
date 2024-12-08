@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpærɪs/； 美：/ˈpærɪs/
 - #词性/n  巴黎（法国首都）
-# 例句
+##### 例句
 - The early part of her life was spent in Paris .
 	- 她年轻时生活在巴黎。
 - We arrived in good time for the connection to Paris .

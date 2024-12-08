@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɒˈrɒdʒəni/； 美：/ɔːˈrɑːdʒəni/
 - #词性/n  造山运动(地层褶皱形成山脉的过程)
-# 例句
+##### 例句
 - Paleozoic rocks were affected by low-grade metamorphism ( chlorite zone ) during Variscan orogeny ( M1 ) .
 	- 在华力西期造山运动（M1）中，古生代岩石受到了低级变质作用（绿泥石带）。
 - The unconformity between the basement and the cover is the record of Wuling orogeny equal to Luliang orogeny of Huabei platform .

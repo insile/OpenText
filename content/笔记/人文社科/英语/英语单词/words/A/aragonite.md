@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  霰石；正交（斜方）晶体，文石
-# 例句
+##### 例句
 - The genesis of aragonite is also discussed in this paper .
 	- 并探讨了文石的形成机制。
 - Dynamic aragonite sheets thickness and new structural model of shell nacre

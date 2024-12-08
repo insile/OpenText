@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˌlekˈtrɒləsɪs/； 美：/ɪˌlekˈtrɑːləsɪs/
 - #词性/n  电解；电解(除毛)术(美容方法)
-# 例句
+##### 例句
 - Application of Intelligent Integrated Control Technique in Aluminium Electrolysis Process Control
 	- 智能集成控制技术在铝电解过程控制中的应用
 - The design of a computer control system for a luminous electrolysis

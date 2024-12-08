@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdæpə(r)/； 美：/ˈdæpər/
 - #词性/adj  （男子）矮小利落的，穿着整洁的，衣冠楚楚的；矮小机灵的，活泼敏捷的
-# 例句
+##### 例句
 - Glinski says two men approached him , one a bedraggled Polish officer , the other a dapper Englishman .
 	- 格林斯基说，两名男子走近他，其中一位是衣衫不整的波兰军官，另一位是衣冠楚楚的英国人。
 - ' You want to sit down ? ' asked Harvey Feuerstein , a dapper attorney who would be getting off at the next stop .

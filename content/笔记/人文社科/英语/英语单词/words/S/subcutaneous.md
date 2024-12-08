@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsʌbkjuˈteɪniəs/； 美：/ˌsʌbkjuˈteɪniəs/
 - #词性/adj  皮下的
-# 例句
+##### 例句
 - Conclusion Subcutaneous panniculitis-like T-cell lymphoma is rare . The diagnosis of it mainly depends on histopathology and immunohistochemistry examination .
 	- 结论发生于皮下的脂膜炎样T细胞淋巴瘤比较少见，它的诊断主要依靠病理组织学及免疫组化。
 - When operating in the line of wrist flexion and extension axis to produce subcutaneous treatment of shock .

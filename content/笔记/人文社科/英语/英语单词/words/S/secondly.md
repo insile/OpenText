@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsekəndli/； 美：/ˈsekəndli/
 - #词性/adv  其次；(用于列举)第二
-# 例句
+##### 例句
 - Firstly , it 's expensive , and secondly , it 's too slow .
 	- 首先是价格贵，其次，速度太慢。
 - You need , firstly , a strong independent board of directors and secondly , an experienced and dedicated staff .

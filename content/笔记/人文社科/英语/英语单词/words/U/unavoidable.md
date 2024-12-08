@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnəˈvɔɪdəbl/； 美：/ˌʌnəˈvɔɪdəbl/
 - #词性/adj  不可避免的；无法避免的；难以预防的
-# 例句
+##### 例句
 - Managers said the job losses were unavoidable
 	- 经理们说裁员是不可避免的。
 - During this unavoidable lapse of time the bridegroom , in proof of his eagerness , was expected to expose himself alone to the gaze of the assembled company .

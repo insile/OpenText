@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnprəˈdʌktɪv/； 美：/ˌʌnprəˈdʌktɪv/
 - #词性/adj  无益的；效果不佳的；产量少的
-# 例句
+##### 例句
 - I 've had a very unproductive day .
 	- 我这一天什么事都没干成。
 - Research workers are well aware that much of their time and effort is unproductive .

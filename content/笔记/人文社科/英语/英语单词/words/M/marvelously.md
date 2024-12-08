@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  奇迹般地；不可思议地；令人惊讶地
-# 例句
+##### 例句
 - He was marvelously cool again , smiling as if nothing had happened
 	- 他又变得出奇地冷静，微笑着，好像什么也没有发生过。
 - The playwright has given us human nature marvelously well .

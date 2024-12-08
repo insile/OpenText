@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈstrʌktʃərəl/； 美：/ˈstrʌktʃərəl/
 - #词性/adj  结构的；结构(或构造)上的
-# 例句
+##### 例句
 - Through analysis , the thesis find that the majority of those accidents are caused by Structural fatigue .
 	- 通过对这些事故分析发现有相当一部分是由于结构的疲劳破坏引起的。
 - This paper presents a space state method to computing structural dynamic response .

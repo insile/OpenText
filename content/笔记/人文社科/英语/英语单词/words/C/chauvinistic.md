@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʃəʊvɪˈnɪstɪk/； 美：/ˌʃoʊvɪˈnɪstɪk/
 - #词性/adj  沙文主义的；大男子主义的；本国至上主义的；男人至上的
-# 例句
+##### 例句
 - The crowd was enthusiastically singing chauvinistic patriotic songs .
 	- 人群热烈地唱着沙文主义的爱国歌曲。
 - But punishing female students for violating rigid dress codes comes up again and again , and many see this as a chauvinistic way of treating girls and young women .

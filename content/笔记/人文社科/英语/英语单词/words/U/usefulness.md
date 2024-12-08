@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈjuːsflnəs/； 美：/ˈjuːsflnəs/
 - #词性/n  有用；实用；可用性
-# 例句
+##### 例句
 - There are doubts about the usefulness of these tests .
 	- 这些试验是否有用，人们有所保留。
 - The attitude of the parents toward the usefulness of what is learned must colour the way children approach school .

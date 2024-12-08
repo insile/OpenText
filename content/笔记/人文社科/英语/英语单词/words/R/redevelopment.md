@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌriːdɪˈveləpmənt/； 美：/ˌriːdɪˈveləpmənt/
 - #词性/n  重新开发;重新建设
-# 例句
+##### 例句
 - The lack of facilities for elderly people has cast doubts on the whole of the redevelopment scheme .
 	- 整个重建计划缺乏提供给老人们的设施，这使人们对计划产生了怀疑。
 - Application of Visual Basic 6.0 in redevelopment of geographic information system

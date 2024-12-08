@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n   煮布锅；漂煮锅； 精练锅
-# 例句
+##### 例句
 - Production Practice of Peroxide Bleaching One Bath Process in a Large Voluminous Kier
 	- 大容量煮纱锅氧漂一浴法生产实践
 - Kier boiling is essentially a batch process .

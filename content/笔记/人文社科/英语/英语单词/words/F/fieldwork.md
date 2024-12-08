@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfiːldwɜːk/； 美：/ˈfiːldwɜːrk/
 - #词性/n  野外考察；实地研究
-# 例句
+##### 例句
 - Some additional activity , such as fieldwork activities .
 	- 部分活动需增加，如野外考察类活动。
 - Most of the fieldwork consisted of making tape recordings .

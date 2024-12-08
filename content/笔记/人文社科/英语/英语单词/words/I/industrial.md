@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈdʌstriəl/； 美：/ɪnˈdʌstriəl/
 - #词性/adj  工业的；产业的；用于工业的；工业发达的；有很多产业的
 - #词性/n  产业工人；工业公司；工业股票
-# 例句
+##### 例句
 - Industrial progress should go hand in hand with the development of agriculture .
 	- 工业的发展同农业的发展密切相关。
 - Rapid industrial growth makes new demands on science and technology .

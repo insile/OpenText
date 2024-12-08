@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪmpreʃəˈnɪstɪk/； 美：/ˌɪmpreʃəˈnɪstɪk/
 - #词性/adj  不精确的；凭印象的；给人以大致印象的
-# 例句
+##### 例句
 - His paintings had become more impressionistic as his eyesight dimmed .
 	- 伴随着他视力的下降，他的画作变得更富印象派风格。
 - Monet needed permission to spend time on the train platform and paint what he saw in his impressionistic style .

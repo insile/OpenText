@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɪmiən/； 美：/ˈsɪmiən/
 - #词性/adj  猿(或猴)的；像猿(或猴)的
 - #词性/n  猿(的)；像猿猴的
-# 例句
+##### 例句
 - Ada had a wrinkled , simian face .
 	- 埃达有一张布满皱纹、长得像猿猴的脸。
 - Curiosity is the taproot of an intellectual life , the most valuable of our simian traits .

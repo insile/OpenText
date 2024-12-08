@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlʌstə(r)/； 美：/ˈlʌstər/
 - #词性/n  光泽；光彩；光辉；荣耀；荣光
-# 例句
+##### 例句
 - Her hair had lost its lustre .
 	- 她的头发失去了光泽。
 - Gold retains its lustre for far longer than other metals

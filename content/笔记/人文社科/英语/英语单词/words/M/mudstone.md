@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  泥岩；泥石
-# 例句
+##### 例句
 - Analysis on water cut in mudstone and the abnormal formation pressure
 	- 泥岩地层产水与地层异常压力原因分析
 - Study on Whole Ecological Management of Watershed in Taiwan Mudstone Area

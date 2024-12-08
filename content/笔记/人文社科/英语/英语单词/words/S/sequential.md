@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/sɪˈkwenʃl/； 美：/sɪˈkwenʃl/
 - #词性/adj  顺序的，按次序的；连续的；序列的；相继的；作为结果产生的，随之而来的；（避孕丸）按期服用以消除副作用的
-# 例句
+##### 例句
 - Sequential ⅱ - style interactive systems are studied in terms of their computational capabilities .
 	- 顺序的Ⅱ型交互式系统的计算能力。
 - The outlier identification is divided into two sequential parts : the robust day-load-curves cluster and the bad curve pattern classification .

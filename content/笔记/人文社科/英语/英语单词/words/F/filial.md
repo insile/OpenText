@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɪliəl/； 美：/ˈfɪliəl/
 - #词性/adj  子女(对父母)的
-# 例句
+##### 例句
 - ` parental ' and ` filial ' are converse terms .
 	- '双亲的'和'子女的'是颠倒关系的术语。
 - He urged them to remember their filial responsibilities and be more engaged in raising their children .

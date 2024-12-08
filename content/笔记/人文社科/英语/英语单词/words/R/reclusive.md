@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈkluːsɪv/； 美：/rɪˈkluːsɪv/
 - #词性/adj  (人或动物)隐居的，独居的，遁世的
-# 例句
+##### 例句
 - Or like a reclusive old philosopher .
 	- 或像一个隐居的老哲人。
 - However , with Tyrande 's patient support , he was able to restrain himself and help his brother find the reclusive demigod , Cenarius .

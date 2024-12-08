@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhedweɪ/； 美：/ˈhedweɪ/
 - #词性/n  前进；前进速度（运动）；前（行）进，进展（步）；（顶部）净空，净空高度；<主美>（前后两班车、船、飞机之间的）间隔时间，间隔距离
-# 例句
+##### 例句
 - The boat was unable to make much headway against the tide .
 	- 船逆着潮水没法开快。
 - There was concern in the city that police were making little headway in the investigation .

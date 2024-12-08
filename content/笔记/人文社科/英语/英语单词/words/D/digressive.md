@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  离题的；枝节的
-# 例句
+##### 例句
 - The economic fluctuation has influence on the allocation efficiency loss can be increased or be digressive .
 	- 即经济波动对资源配置效率损失的影响是增加的，但是也是递减的。
 - Many difficulties cause the module stability to be possible repeating and carry out the digressive performance .

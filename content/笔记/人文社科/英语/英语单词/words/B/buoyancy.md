@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbɔɪənsi/； 美：/ˈbɔɪənsi/
 - #词性/n  浮力；(经济的)繁荣；愉快的心情
-# 例句
+##### 例句
 - Air can be pumped into the diving suit to increase buoyancy .
 	- 可以给潜水衣充气以增大浮力。
 - The influence of thermal buoyancy on steel flow process in numerical simulation

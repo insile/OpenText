@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlɪtərəli/； 美：/ˈlɪtərəli/
 - #词性/adv  字面上；(加强即使字面意义并不真实的词语)简直；按字面；(强调事实可能令人惊讶)真正地，确实地
-# 例句
+##### 例句
 - When I told you to ' get lost ' I didn 't expect to be taken literally .
 	- 我叫你“滚开”，并没让你按字面意思来理解呀。
 - If you tell a person to ' step on it ' or ' throw on your coat , ' they may take you literally , with disastrous consequences .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪŋkə/； 美：/ˈɪŋkə/
 - #词性/abbr  inventory control and analysis 存货控制与分析
-# 例句
+##### 例句
 - The Inca of South America also built a complex and well-constructed road system .
 	- 南美洲的印加人也修筑了一个布局复杂、施工精良的道路系统。
 - The town is built on top of Inca glory year ( 1460 ) .

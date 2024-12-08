@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlɔːdli/； 美：/ˈlɔːrdli/
 - #词性/adj  高傲的；傲慢的；贵族气派的；宏伟的；堂皇的
 - #词性/adv  贵族似地；傲慢地
-# 例句
+##### 例句
 - The voice was rich , lordly , Harvardish , like all the boring radio comedians'imitations .
 	- 声音浑厚、威严，俨然是哈佛出身的气派，就跟无线电里所有的滑稽演员叫人已经听腻的模仿完全一样
 - Life had not taught her domination -- superciliousness of grace , which is the lordly power of some women .

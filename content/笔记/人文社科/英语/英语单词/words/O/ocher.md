@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  赭色；黄橙色；同“ochre”
-# 例句
+##### 例句
 - He was still smiling , but his ocher eyes were serious .
 	- 他还是微笑着，但他黑金色的眸子显得很认真。
 - A red ocher formerly used as a pigment .

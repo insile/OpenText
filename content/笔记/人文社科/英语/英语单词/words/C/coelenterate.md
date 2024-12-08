@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n #词性/adj  腔肠动物（的）
-# 例句
+##### 例句
 - Coelenterate fossils from the Sinian system of southern Liaoning and its Stratigraphical Significance
 	- 辽宁南部震旦系腔肠动物化石及其地层意义
 - The layer of gelatinous material that separates the inner and outer cell layers of a coelenterate . Trichomes are unicellular or pluricellular outgrowths from the epidermis of leaves , shoots , and roots .

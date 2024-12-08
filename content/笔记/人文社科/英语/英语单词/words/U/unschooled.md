@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈskuːld/； 美：/ʌnˈskuld/
 - #词性/adj  未受过正规教育的
-# 例句
+##### 例句
 - He was almost completely unschooled .
 	- 他几乎没上过学。
 - Unschooled children are completely responsible for their own education and parents never help their children learn .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌndɪˈveləpt/； 美：/ˌʌndɪˈveləpt/
 - #词性/adj  未开发的；不发达的；落后的；未充分发育的；发育不良的；未开垦的；未利用的
-# 例句
+##### 例句
 - Open up undeveloped land , new territory , etc.
 	- 开发未开发的地区等。
 - Do I really have undeveloped energy inside ?

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdɒdl/； 美：/ˈdɑːdl/
 - #词性/n  轻而易举的事
-# 例句
+##### 例句
 - The machine is a doddle to set up and use .
 	- 这机器的安装和使用都很简单。
 - The first year of the course was an absolute doddle .

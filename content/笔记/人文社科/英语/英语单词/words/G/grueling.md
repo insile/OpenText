@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  累人的；使极度疲劳的；非常累人的；紧张的，激烈的
-# 例句
+##### 例句
 - How would a man in the midst of such grueling competition act so joyously ?
 	- 在如此极度紧张的比赛中，一个人怎么能够显得这样兴高采烈？
 - ( Applause . ) After years of grueling recession , our businesses have created over six million new jobs .

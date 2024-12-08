@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbɪtənəs/； 美：/ˈbɪtərnəs/
 - #词性/n  痛苦；苦味；悲痛
-# 例句
+##### 例句
 - The flowers of the hop plant add bitterness to the beer .
 	- 忽布花可增加啤酒的苦味。
 - She spoke without a trace of bitterness .

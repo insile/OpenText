@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnɔːməli/； 美：/ˈnɔːrməli/
 - #词性/adv  通常；正常情况下；正常地；平常地
-# 例句
+##### 例句
 - Normally , we 'd have to use divers for this .
 	- 正常地，潜水人员会用到这个。
 - Kyra , normally -- in normal times if you 're out of work you can an unemployment insurance and you get 26 weeks of unemployment benefits on average .

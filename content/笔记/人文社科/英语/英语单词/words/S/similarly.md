@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɪmələli/； 美：/ˈsɪmələrli/
 - #词性/adv  同样；类似地；相似地；也；差不多地
-# 例句
+##### 例句
 - Similarly any proposed takeover would have had to go before shareholders .
 	- 相似地，任何收购提议也必须通告股东。
 - Similarly , one simple way to drive safely is to never lose control of the vehicle .

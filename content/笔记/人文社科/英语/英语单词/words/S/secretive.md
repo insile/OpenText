@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsiːkrətɪv/； 美：/ˈsiːkrətɪv/
 - #词性/adj  (思想、情感等)不外露的；惯于掩藏自己的；有城府的
-# 例句
+##### 例句
 - Everyone is being very secretive ─ there 's something cooking .
 	- 人人都讳莫如深——准是在搞什么鬼把戏。
 - He 's very secretive about his work .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈnætʃrəl/； 美：/ʌnˈnætʃrəl/
 - #词性/adj  不自然的；反常的；不正常的；勉强的；怪异的
-# 例句
+##### 例句
 - A common mistake for new connector developers is to focus on mapping repository items to II CE API concepts in the most technologically precise way , forcing an unnatural mapping onto the repository .
 	- 新的连接器开发人员的通病是：关注以最精密的技术方式将存储库项目映射到IICEAPI概念，从而将不自然的映射强加给存储库。
 - Not without raising her arm in a very unnatural way .

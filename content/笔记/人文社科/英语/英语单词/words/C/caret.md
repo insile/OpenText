@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkærət/； 美：/ˈkærət/
 - #词性/n  脱字号；补注号
-# 例句
+##### 例句
 - To insert text at the beginning of each line , match the caret metacharacter and supply the text to insert .
 	- 若要在每行开头插入文本，可以匹配脱字号元字符并提供要插入的文本。
 - The ^ ( caret ) character matches the beginning of a line or a string & an imaginary character that appears before the first character of each line or string .

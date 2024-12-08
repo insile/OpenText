@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌnɪəˈbaɪ/； 美：/ˌnɪrˈbaɪ/
 - #词性/adj  附近的；邻近的
 - #词性/adv  在附近；不远
-# 例句
+##### 例句
 - Waste water is pumped from the factory into a nearby river .
 	- 工厂里的污水被抽到了附近的河里。
 - Small local shops stop being economic when a supermarket opens up nearby .

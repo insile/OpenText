@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  <心>自恋（癖）者
-# 例句
+##### 例句
 - It 's highly likely you 're dealing with a narcissist .
 	- 很有可能你在应对的是一位自恋者。
 - Don 't get caught in the trap of always trying to please a narcissist .

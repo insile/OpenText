@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwɪərinəs/； 美：/ˈwɪrinəs/
 - #词性/n  厌倦；疲倦；疲劳
-# 例句
+##### 例句
 - A kind of thorough marrow of melancholy and weariness .
 	- 一种深入骨髓的忧郁和疲倦。
 - Disease makes health spree and good , hunger , satiety , weariness , rest .

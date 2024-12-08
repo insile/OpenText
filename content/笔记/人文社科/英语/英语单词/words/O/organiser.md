@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  组织者；主办机构；电子记事本
-# 例句
+##### 例句
 - Mr Zuma had a solid reputation as a grass roots organiser .
 	- 作为一个民众的组织者，祖玛先生名声甚佳。
 - She was a good organiser .

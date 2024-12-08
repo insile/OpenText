@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/grɑ:nd/； 美：/grɑnd/
 - #词性/adj  重大的
-# 例句
+##### 例句
 - The delta region of the Rio Grande river was a forsaken land of thickets and swamps .
 	- 里奥格兰德河三角洲曾是一片遍布荆棘和沼泽的荒废之地。
 - Entour é de places-fortes protestantes ( M é nerbes , Sivergues , Buoux ) , Apt demeure cependant fid è lement catholique dans sa grande majorit é .

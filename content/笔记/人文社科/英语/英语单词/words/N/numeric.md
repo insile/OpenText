@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/nju(ː)ˈmɛrɪk/； 美：/nuˈmɛrɪk/
 - #词性/n  数（字，值）（的）；分数 ；不可通约数
 - #词性/adj  同“numerical”
-# 例句
+##### 例句
 - You could use an8-bit mask and an and operation in order to isolate one or the other numeric nibble .
 	- 为了将一个或另一个半字节分离出来，你可以使用一个八位屏蔽，并进行一次“与”运算。
 - The Numeric Improvement and Safety study of High Precision Grinding Machine

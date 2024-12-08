@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/baɪˈlɪŋgwəlɪz(ə)m/； 美：/baɪˈlɪŋgwəˌlɪzəm/
 - #词性/n  双语能力；能说两种语言的能力
-# 例句
+##### 例句
 - The Effect of Bilingualism on the Acquisition of English as a Third Language
 	- 双语能力对于英语作为第三语言学习的影响
 - You might be surprised at the powerful effects bilingualism has on income and employment .

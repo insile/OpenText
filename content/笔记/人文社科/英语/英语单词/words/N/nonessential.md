@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnɒnɪˈsɛnʃəl/； 美：/ˌnɑnɪˈsɛntʃəl/
 - #词性/adj  不重要的；非必要的；非本质的；<生化>（氨基酸）非必需的
 - #词性/n  不重要的人 (或物) , 可有可无的人 (或物)
-# 例句
+##### 例句
 - The nonessential amino acids were markedly reduced .
 	- 非必须氨基酸明显减少。
 - Designed for taking over Beijing 's functions nonessential to its role as the national capital , the city proper will be a new home for Beijing 's colleges , research institutes , hospitals , business headquarters , and financial and public institutions .

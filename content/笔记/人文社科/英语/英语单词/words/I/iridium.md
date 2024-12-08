@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈrɪdiəm/； 美：/ɪˈrɪdiəm/
 - #词性/n  铱
-# 例句
+##### 例句
 - Quick determination of super trace iridium in rock and mineral
 	- 岩石矿物中超微量铱的快速测定
 - Ultra trace analysis of rhodium and iridium in geochemical exploration sample

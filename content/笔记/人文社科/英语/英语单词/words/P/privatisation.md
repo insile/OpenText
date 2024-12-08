@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpraɪvətaɪˈzeɪʃn/； 美：/ˌpraɪvətəˈzeɪʃn/
 - #词性/n  私有化；私营化；民营化
-# 例句
+##### 例句
 - He has direct experience of the process of privatisation
 	- 他对私有化过程有着切身体会。
 - Privatisation is a necessary staging post to an open market .

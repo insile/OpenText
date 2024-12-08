@@ -5,9 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ənd səʊ fɔːθ/； 美：/ənd soʊ fɔːrθ/
-# 例句
+- #词性/adv  等等
+##### 例句
 - The patient can have apples , apple juice , apple sauce , and so forth .
 	- 病人可以食用苹果、苹果汁、苹果酱等。
 - He has done many jobs : typist , salesman , deliverer and so forth .

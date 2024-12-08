@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnkənˈsəʊləbl/； 美：/ˌɪnkənˈsoʊləbl/
 - #词性/adj  悲痛欲绝的；无法慰藉的
-# 例句
+##### 例句
 - The scenes of inconsolable mourners in Pyongyang have sparked mixed reactions in Seoul .
 	- 平壤吊唁者悲痛欲绝的画面，在首尔激起了复杂的反应。
 - A 45-year-old inconsolable woman narrates her painful story about her fifteen children being killed by tribal elders in southern Ethiopia 's Omo Valley .

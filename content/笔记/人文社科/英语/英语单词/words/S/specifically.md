@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/spəˈsɪfɪkli/； 美：/spəˈsɪfɪkli/
 - #词性/adv  具体地；具体来说；明确地；确切地说；特意；专门地
-# 例句
+##### 例句
 - It will tell us specifically what odours are found in your room .
 	- 它会明确地告诉我们在你的房间里有什么气味。
 - I told you specifically not to do that .

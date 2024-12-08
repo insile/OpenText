@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/æn'tɑ:ktɪkə/； 美：/æn'tɑ:rktɪkə/
 - #词性/n  南极洲
-# 例句
+##### 例句
 - No minerals have yet been exploited in Antarctica .
 	- 南极洲的矿藏还未开采。
 - The Antarctica is a continent centred roughly on the South Pole .

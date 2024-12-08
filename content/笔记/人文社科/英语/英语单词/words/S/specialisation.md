@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌspɛʃəlaɪˈzeɪʃən/； 美：/ˌspɛʃələˈzeɪʃən/
 - #词性/n  专业化；特殊化，专门化，特化作用
-# 例句
+##### 例句
 - The increasing specialisation of working life .
 	- 职业生活的日益专门化。
 - Such specialisation has been unfashionable in recent years because it can make banks vulnerable .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/eɪdz/； 美：/eɪdz/
 - #词性/n  艾滋病(全写为Acquired Immune Deficiency Syndrome，获得性免疫缺陷综合征)
-# 例句
+##### 例句
 - The money will go to the San Francisco AIDS Foundation .
 	- 这笔钱将交给旧金山艾滋病基金会。
 - Scientists around the world are working to discover a cure for AIDS .

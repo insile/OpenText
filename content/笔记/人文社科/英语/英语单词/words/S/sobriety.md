@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/səˈbraɪəti/； 美：/səˈbraɪəti/
 - #词性/n  清醒；冷静；持重；未醉
-# 例句
+##### 例句
 - Sir , I 'm going to give you a sobriety test .
 	- 先生，我现在要对你进行一下清醒度测试。
 - History serves both as the best textbook and dose of sobriety .

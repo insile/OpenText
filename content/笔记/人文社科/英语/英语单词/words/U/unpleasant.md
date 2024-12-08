@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈpleznt/； 美：/ʌnˈpleznt/
 - #词性/adj  不愉快的；令人不快的；不舒服的；不客气的；不礼貌的；不和蔼的
-# 例句
+##### 例句
 - We hope to prevent anything unpleasant from happening .
 	- 我们希望防止任何不愉快的事发生。
 - By pushing aside unpleasant thoughts they merely repress these thoughts

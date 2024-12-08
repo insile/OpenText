@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  恼怒；恶化；惹人恼怒的事
-# 例句
+##### 例句
 - He shook his head in exasperation .
 	- 他恼怒地摇了摇头。
 - It also involves howls of exasperation , cursing , and gnashing of teeth .

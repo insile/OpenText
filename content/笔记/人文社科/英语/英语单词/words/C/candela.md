@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kænˈdiːlə/； 美：/kænˈdiːlə/
 - #词性/n  坎，坎德拉(发光强度单位)
-# 例句
+##### 例句
 - Research on measuring method for candela reappearance
 	- 复现坎德拉的测试方法研究
 - Apostilb and Candela per square metre conversion tables

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈdʒʌstəbl/； 美：/əˈdʒʌstəbl/
 - #词性/adj  可调节的；可调整的
-# 例句
+##### 例句
 - Dimension line with label that automatically changes to match length . Text position and extension lines are adjustable .
 	- 带自动匹配长度的标签的尺寸线。文本位置和延长线是可调整的。
 - Elevators ( lifts ) with an excellent shock aBsorBer go up and down steadily . stable but adjustable par value

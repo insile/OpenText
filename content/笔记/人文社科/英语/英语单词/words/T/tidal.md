@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtaɪdl/； 美：/ˈtaɪdl/
 - #词性/adj  潮汐的；有潮的
-# 例句
+##### 例句
 - The research of the tidal features in the coastal zone of Zhejiang Province
 	- 浙江近海潮汐的特征
 - Tidal variation caused by sea level rise on western part of Guangdong Coast

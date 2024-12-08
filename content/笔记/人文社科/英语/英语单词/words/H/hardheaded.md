@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  顽固的；固执的；头脑冷静的；愚蠢的；精明而讲实际的；实事求是的
-# 例句
+##### 例句
 - Don 't be hardheaded . don 't use that phone .
 	- 不要固执，不要打电话啊。
 - a vulnerable witness to history and a hardheaded survivor ;

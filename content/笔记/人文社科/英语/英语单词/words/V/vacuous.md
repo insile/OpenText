@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvækjuəs/； 美：/ˈvækjuəs/
 - #词性/adj  空洞的；空洞无物的
-# 例句
+##### 例句
 - A recent collection of lessons from the new series of House of Cards was vacuous enough .
 	- 近期从最新美剧《纸牌屋》（HouseofCards）中总结的经验清单已经够空洞的了。
 - Rarely can such a vacuous concept have found its way into a debate claming to provide enlightenment .

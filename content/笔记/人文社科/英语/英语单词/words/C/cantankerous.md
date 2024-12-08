@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kænˈtæŋkərəs/； 美：/kænˈtæŋkərəs/
 - #词性/adj  爱找碴的；脾气坏且抱怨不休的
-# 例句
+##### 例句
 - The cantankerous bus driver rouse on the children for singing .
 	- 那个坏脾气的公共汽车司机因为孩子们唱歌而骂他们。
 - Charlie said it was because of my cantankerous nature , especially when being started .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌeərəʊdaɪˈnæmɪk/； 美：/ˌeroʊdaɪˈnæmɪk/
 - #词性/adj  空气动力学的；(汽车等)流线型的，符合空气动力学原理的
-# 例句
+##### 例句
 - Now the company is trying to meet rising fuel economy standards & thus the more aerodynamic styling .
 	- 如今，这家公司正在努力满足不断提升的燃油经济标准&因此，也就产生更加符合空气动力学的设计风格。
 - Secondly , the aerodynamic method , is applied to the original simulation system for vehicle speed control , the vehicle is more smooth and real .

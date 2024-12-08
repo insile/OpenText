@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɜːdʒɪkl/； 美：/ˈsɜːrdʒɪkl/
 - #词性/adj  外科的；外科手术的
-# 例句
+##### 例句
 - Appendicitis is common and high frequently disease in surgical subject .
 	- 阑尾炎是外科的常见病和多发病。
 - Examination of the teeth for individual defects is a surgical subject .

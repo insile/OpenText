@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈtɜːnmənt/； 美：/ɪnˈtɜːrnmənt/
 - #词性/n  (出于政治原因的)拘留，扣押
-# 例句
+##### 例句
 - Two years ago , Congress formally apologized for the internment
 	- 两年前，国会就此拘留事件正式道歉。
 - The chapters on the internment are Both readaBle and well researched .

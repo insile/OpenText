@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmɒd(ə)naɪˈzeɪʃ(ə)n/； 美：/ˌmɑdərnəˈzeɪʃən/
 - #词性/n  现代化；（剧本等的）现代版本
-# 例句
+##### 例句
 - The house was in need of modernisation when they bought it .
 	- 他们买下时，这栋房子需要进行现代化改造。
 - Successful agricultural reform is also a sine qua non of Mexico 's modernisation .

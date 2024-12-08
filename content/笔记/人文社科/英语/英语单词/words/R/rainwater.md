@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈreɪnwɔːtə(r)/； 美：/ˈreɪnwɔːtər/
 - #词性/n  雨水
-# 例句
+##### 例句
 - Only a small amount of the rainwater actually infiltrates into the soil .
 	- 实际上只有少量雨水渗进了土壤。
 - I swept rainwater off the flat top of a gravestone

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  冷静的；稳健
-# 例句
+##### 例句
 - He had always known Tirion to be an honorable , levelheaded man .
 	- 他一直觉得提里奥是个有荣誉感，头脑冷静的男人。
 - She was a levelheaded lawyer working for the State Supreme Court , a favorite aunt who got down on the floor to play with her nieces and nephews , and , finally , in her 40s , the mother she had long dreamed of becoming .

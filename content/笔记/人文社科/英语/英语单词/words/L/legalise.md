@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vt  使合法化；合法化
-# 例句
+##### 例句
 - The Government remained neutral about whether to legalise soccer betting .
 	- 政府对是否通过赌波合法化，立场中立。
 - Greece 's government recently abandoned plans to legalise private universities , after three months of protests .

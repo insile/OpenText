@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/bækˈtɪəriəl/； 美：/bækˈtɪriəl/
 - #词性/adj  细菌的；细菌引起的
-# 例句
+##### 例句
 - The bacterial growth and characteristics were studied .
 	- 对比观察不同试验管细菌的生长速度、特点以及光镜、电镜下的菌体形态。
 - Objective To monitor the change of bacterial distribution and resistance in local area .

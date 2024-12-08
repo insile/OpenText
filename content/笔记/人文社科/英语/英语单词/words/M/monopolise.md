@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vt  垄断；独占
-# 例句
+##### 例句
 - Binhai new zone multinational techonology transfer and monopolise research
 	- 滨海新区跨国公司技术转移与技术垄断博弈研究
 - It will continue to monopolise the firefighting capacity of world powers throughout 2013 and beyond .

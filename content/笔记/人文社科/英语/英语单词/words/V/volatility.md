@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌvɒləˈtɪlɪti/； 美：/ˌvɑləˈtɪləti/
 - #词性/n  挥发性（度）
-# 例句
+##### 例句
 - The government 's policies of divide and rule have only contributed to the volatility of the region .
 	- 政府分而治之的政策只是加剧了该地区的不稳定性。
 - Companies face tough competition and rising volatility .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  阿比盖尔；艾比盖尔；亚比该；艾碧
-# 例句
+##### 例句
 - Abigail 's mother Linda views her daughter 's talent with a mixture of pride and worry
 	- 阿比盖尔的母亲琳达带着一种又骄傲又担忧的复杂情绪看待女儿的才华。
 - Perhaps it 's time Abigail is released from clinical treatment .

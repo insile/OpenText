@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  忒堤斯（希腊神话中十二提坦神之一，海神俄刻阿诺斯的妻子）；土卫三；特提斯海；古地中海
-# 例句
+##### 例句
 - An Evolution of Tethys in Global Ocean - continent Transformation
 	- 全球洋－陆转换中的特提斯演化
 - Search for new domains of marine origin petroleum : remained Tethys in the northern South China Sea

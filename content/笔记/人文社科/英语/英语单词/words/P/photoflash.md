@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  照相闪光灯的，使用闪光灯的
 - #词性/n  照相闪光灯；闪光灯照片
-# 例句
+##### 例句
 - Determination of flash guide numbers for electronic photoflash equipment
 	- GB\/T13987-1992照相用电子闪光装置闪光指数的确定
 - Yes . Something seems wrong with the photoflash in my camera .

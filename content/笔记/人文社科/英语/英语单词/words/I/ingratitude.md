@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈɡrætɪtjuːd/； 美：/ɪnˈɡrætɪtuːd/
 - #词性/n  忘恩负义
-# 例句
+##### 例句
 - The Government could expect only ingratitude from the electorate .
 	- 政府从选民那里得到的只有忘恩负义。
 - His ingratitude cut her to the heart .

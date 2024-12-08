@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈreɪʃl/； 美：/ˈreɪʃl/
 - #词性/adj  种族的；人种的；种族间的
-# 例句
+##### 例句
 - So what other variables could be used if the racial concept is thrown out ?
 	- 如果摈弃了种族的概念，那么能使用其他什么变量呢?
 - Racial discrimination sometimes will fuel civil unrest .

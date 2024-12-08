@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  （尤指临死前）极度痛苦的，濒死痛苦的，呻吟待毙的；临终的，临死前的；死期的
-# 例句
+##### 例句
 - Emergency Nursing of 2 Agonal Patients with Over 1 \/ 4 Seriously Damaged Body
 	- 超1\/4躯体严重毁损濒死病人的急救护理2例
 - He uses them in conjunction with the hex agonal configuration in order to pick the correct and most efficient way to develop the effect .

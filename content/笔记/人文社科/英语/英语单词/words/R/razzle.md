@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈræzl/； 美：/ˈræzl/
 - #词性/n  眼花缭乱；喧闹
-# 例句
+##### 例句
 - The first team beat Sunderland 2-0 with comfort but little razzle .
 	- 成年队2-0轻取桑德兰但有点混乱。
 - He didn 't even leave a note ? Or a Razzle ?

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/temˈpestʃuəs/； 美：/temˈpestʃuəs/
 - #词性/adj  狂暴的；狂风暴雨的；紧张的；激烈的；大风暴的；骚动的
-# 例句
+##### 例句
 - It stood on a sharp bleak corner , where that tempestuous wind Euroclydon kept up a worse howling than ever it did about poor Paul 's tossed craft .
 	- 房子座落在一个险峻的.无遮无拦的角落上，在那里，狂暴的犹罗克利顿不住地号啸着，比对可怜的保罗那只颠簸的小船号啸得还要凶狠.然而，对于任何一个待在屋里的。
 - All the fury of her tempestuous soul fell , as the sea falls under a lapse of wind .

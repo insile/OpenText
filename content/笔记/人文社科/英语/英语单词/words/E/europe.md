@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈjʊərəp/； 美：/ˈjʊrəp/
 - #词性/n  欧洲；欧盟；(除英国以外的)全欧洲
-# 例句
+##### 例句
 - She 's writing a new history of Europe .
 	- 她正在写一部新的欧洲史。
 - Our main aim is to increase sales in Europe .

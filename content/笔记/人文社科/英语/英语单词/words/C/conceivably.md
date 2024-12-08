@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kən'si:vəblɪ/； 美：/kən'sivəblɪ/
 - #词性/adv  可想而知；想得到地
-# 例句
+##### 例句
 - The disease could conceivably be transferred to humans .
 	- 这种疾病可能会传染给人类。
 - The judges may conceivably find themselves unable to make an award .

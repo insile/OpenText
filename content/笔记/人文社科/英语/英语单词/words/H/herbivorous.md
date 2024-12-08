@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/hɜːˈbɪvərəs/； 美：/ɜːrˈbɪvərəs/
 - #词性/adj  食草的
-# 例句
+##### 例句
 - Mammoths were herbivorous mammals .
 	- 猛犸是食草性哺乳动物。
 - Herbivorous animals have very small canine teeth , or none .

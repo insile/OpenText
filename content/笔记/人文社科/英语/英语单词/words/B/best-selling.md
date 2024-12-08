@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/best ˈselɪŋ/； 美：/best ˈselɪŋ/
 - #词性/adj  畅销的
-# 例句
+##### 例句
 - ' Monopoly ' is one of the best-selling games of all time
 	- “大富翁”是有史以来最畅销的游戏之一。
 - When you write the best-selling book in the world , it 's tons and tons of money & and it brought in a lot of attention , neither of which I wanted .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlʌndənə(r)/； 美：/ˈlʌndənər/
 - #词性/n  伦敦人；伦敦佬；伦敦客
-# 例句
+##### 例句
 - I 'm a Londoner , born and bred .
 	- 我是个土生土长的伦敦人。
 - She 's a Londoner of mixed parentage ( English and Jamaican )

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/meɪz/； 美：/meɪz/
 - #词性/n  玉米；玉蜀黍
-# 例句
+##### 例句
 - In britain , this flour usually goes under the name of maize meal .
 	- 这种面粉在英国被叫做玉蜀黍粉。
 - We take usa as example , which is largest maize production , consumption and export country in the world .

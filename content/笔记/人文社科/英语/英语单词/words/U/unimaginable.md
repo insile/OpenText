@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnɪˈmædʒɪnəbl/； 美：/ˌʌnɪˈmædʒɪnəbl/
 - #词性/adj  难以想象的；不可想象的；难以置信的
-# 例句
+##### 例句
 - The children here have lived through unimaginable horrors .
 	- 这里的孩子经历了难以想象的恐惧。
 - Once , they were confused and challenged by difficulties unimaginable for many of their contemporaries who were used to a comfortable way of life .

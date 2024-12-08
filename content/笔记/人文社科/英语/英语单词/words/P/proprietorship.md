@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  所有权；〔商〕独资；〔经〕所有制
-# 例句
+##### 例句
 - This company has a proprietorship of the copyright .
 	- 这家公司拥有版权所有权
 - Secondly , a model of the Enterprise Proprietorship is designed .

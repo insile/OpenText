@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  金属工人；金属加工工人；金属制造工
-# 例句
+##### 例句
 - A metalworker doesn 't make shoes , and a shoemaker doesn 't make weapons .
 	- 金属工匠不做鞋子，鞋匠不做武器。
 - Some scholars believe that this astrolabe was created by the prince in collaboration with an unnamed metalworker .

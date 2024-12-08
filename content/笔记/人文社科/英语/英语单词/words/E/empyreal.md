@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  （古代宇宙论中的）九重天的；苍天的，天上的；崇高的，令人崇敬的
-# 例句
+##### 例句
 - And Empyreal substance cannot fail .
 	- 赋有轻清的灵质，不能朽坏。
 - Empyreal science and technology hires chatting room business to going out , business is mixed with mobile phone date " Chen Tianqiao " consistent .

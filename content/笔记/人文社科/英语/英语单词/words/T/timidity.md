@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/tɪ'mɪdətɪ/； 美：/tɪ'mɪdəti/
 - #词性/n  胆怯；胆小
-# 例句
+##### 例句
 - Self-effacement did not lead to timidity .
 	- 谦逊并不会导致胆怯
 - The rule change is so reasonable it borders on timidity .

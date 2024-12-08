@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsensəʃɪp/； 美：/ˈsensərʃɪp/
 - #词性/n  审查；审查制度；检查
-# 例句
+##### 例句
 - The decree imposed strict censorship of the media .
 	- 这个法令强制实行严格的媒体审查制度。
 - The banning of his play decided him to write about censorship

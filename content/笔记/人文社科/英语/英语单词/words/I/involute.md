@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  纷乱的,复杂的
 - #词性/n  【数】渐伸线
-# 例句
+##### 例句
 - The moves in chess are not only manifold , but involute .
 	- 下棋的走法不但多种多样，而且错综复杂。
 - Experimental Study on Performance of Involute Point & Engaged Gear Drive

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  不显著地；难以觉察地
-# 例句
+##### 例句
 - Security officers will be operating as inconspicuously as possible at the concert .
 	- 保安人员在音乐会上尽可能地使行动不引人注目。
 - Jasper managed to inconspicuously close the door behind them .

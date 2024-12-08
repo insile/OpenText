@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/lɑːˈdʒes/； 美：/lɑːrˈdʒes/
 - #词性/n  慷慨；施舍；(给穷人的)钱；赠款
-# 例句
+##### 例句
 - Money is rolling in , he says , explaining his largesse .
 	- 在解释这一慷慨手笔时，他说：我有的是钱。
 - The public finances , at the state and central level , can hardly support this largesse .

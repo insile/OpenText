@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdekədəns/； 美：/ˈdekədəns/
 - #词性/n  颓废；堕落；贪图享乐
-# 例句
+##### 例句
 - The decadence of morals is bad for a nation .
 	- 道德的堕落对国家是不利的。
 - And it is the decadence of humanity that we see around in every way possible .

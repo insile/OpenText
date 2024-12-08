@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  玻璃制造；玻璃（器皿）制造术
-# 例句
+##### 例句
 - The museum displays glass artwork and shares Tittot 's glassmaking knowledge .
 	- 该馆展出他们的玻璃工艺美术品以及玻璃制作工艺有关知识。
 - Application of Infrared Thermometry in Glassmaking

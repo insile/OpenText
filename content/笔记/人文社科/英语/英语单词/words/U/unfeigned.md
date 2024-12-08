@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈfeɪnd/； 美：/ʌnˈfeɪnd/
 - #词性/adj  真诚的；真挚的；不虚伪的
-# 例句
+##### 例句
 - He showed unfeigned satisfaction at his friend 's success .
 	- 他对朋友的成功表现出真正的满足。
 - Genuine emotion ; her interest in people was unfeigned ; true grief .

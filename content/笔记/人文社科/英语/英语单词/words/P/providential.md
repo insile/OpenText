@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌprɒvɪˈdenʃl/； 美：/ˌprɑːvɪˈdenʃl/
 - #词性/adj  及时的；凑巧的；适时的；天缘巧合的
-# 例句
+##### 例句
 - He explained the yellow fever epidemic as a providential act to discourage urban growth
 	- 他解释说黄热病的流行恰好减缓了城市的扩张。
 - This was providential rest and shelter until the moon rose .

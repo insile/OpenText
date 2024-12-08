@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/njuˈtrɪʃənl/； 美：/nuˈtrɪʃənl/
 - #词性/adj  营养；(食物中)营养成分的
-# 例句
+##### 例句
 - It does sometimes help to know the nutritional content of foods
 	- 知道食物所含的营养成分有时的确有帮助。
 - When you sprout seeds their nutritional content increases

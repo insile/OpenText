@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌædvənˈteɪdʒəs/； 美：/ˌædvənˈteɪdʒəs/
 - #词性/adj  有利的；有好处的
-# 例句
+##### 例句
 - You 're in a very advantageous position .
 	- 你处于非常有利的地位。
 - Injections of vitamin C are obviously advantageous .

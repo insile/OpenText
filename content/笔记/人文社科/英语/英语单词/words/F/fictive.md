@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  虚构的；想象的
-# 例句
+##### 例句
 - Application of Fictive Use of KT in Chinese Social Address Behavior
 	- 拟亲属称谓在汉语社交称呼行为中的运用
 - Fictive motion plays an increasingly important role in language use and understanding .

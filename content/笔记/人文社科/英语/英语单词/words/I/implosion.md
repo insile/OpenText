@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  内爆；从外向内的压力作用；挤压；压碎（破）
-# 例句
+##### 例句
 - The population explosion is accompanied by a population implosion .
 	- 人口爆炸还伴随着人口爆聚。
 - An implosion model with ion beam direct drive is presented .

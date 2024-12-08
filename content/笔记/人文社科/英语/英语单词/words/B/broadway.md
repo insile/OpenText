@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbrɔːdweɪ/； 美：/ˈbrɔːdweɪ/
 - #词性/n  百老汇(美国纽约市戏院集中的一条大街)；(美国的)戏剧业
-# 例句
+##### 例句
 - I saw the play on its return to Broadway .
 	- 这部戏重回百老汇时我看了。
 - Her last musical ran for six months on Broadway .

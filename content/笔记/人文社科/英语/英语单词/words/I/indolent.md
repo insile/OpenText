@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪndələnt/； 美：/ˈɪndələnt/
 - #词性/adj  懒惰的；懒散的；好逸恶劳的
-# 例句
+##### 例句
 - I don 't want to make friends with indolent persons .
 	- 我不喜欢和懒惰的人交朋友。
 - Their indolent attitude was the cause of much unnecessary pain and suffering .

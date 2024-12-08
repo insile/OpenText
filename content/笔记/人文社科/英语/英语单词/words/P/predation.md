@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prɪˈdeɪʃn/； 美：/prɪˈdeɪʃn/
 - #词性/n  捕食；(动物的)捕猎行为
-# 例句
+##### 例句
 - Predation relations link these agents to form the food chain .
 	- 这些动植物主体通过捕食关系构成食物链。
 - Characteristics of activated sludge in biomass reduction system by microbial predation

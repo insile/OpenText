@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prəˈpɪʃəs/； 美：/prəˈpɪʃəs/
 - #词性/adj  吉祥的；吉利的；吉庆的
-# 例句
+##### 例句
 - Her first proposal would have to be deferred to a more propitious time and a more eligible suitor .
 	- 她的第一次求婚应当推迟到一个更为吉利的时辰，求婚人也必须更为可取。
 - It had hardly been a propitious beginning , but he had chosen his course , and would show no swerve .

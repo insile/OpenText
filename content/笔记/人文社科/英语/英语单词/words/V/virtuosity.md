@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌvɜːtʃuˈɒsəti/； 美：/ˌvɜːrtʃuˈɑːsəti/
 - #词性/n  精湛技艺；(表演或演奏方面的)高超技艺，精湛演技
-# 例句
+##### 例句
 - At that time , his virtuosity on the trumpet had no parallel in jazz .
 	- 那时，他高超的小号吹奏技巧在爵士乐界无人能比。
 - Both are necessary for the band to sound good – strong collaboration and individual virtuosity .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  道歉（等于apologize）
-# 例句
+##### 例句
 - The press agent tied himself in knots trying to apologise .
 	- 那个广告宣传人员急于道歉。
 - He did not even have the grace to apologise

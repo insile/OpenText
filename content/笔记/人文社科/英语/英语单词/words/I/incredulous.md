@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈkredjələs/； 美：/ɪnˈkredʒələs/
 - #词性/adj  表示怀疑的；不肯相信的；不能相信的
-# 例句
+##### 例句
 - ‘ Here ? ’ said Kate , incredulous .
 	- “这儿？”凯特表示怀疑地说。
 - ' He made you do it ? ' Her voice was incredulous

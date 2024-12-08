@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnepətɪzəm/； 美：/ˈnepətɪzəm/
 - #词性/n  裙带关系；任人唯亲
-# 例句
+##### 例句
 - Many will regard his appointment as the kind of nepotism British banking ought to avoid .
 	- 很多人会把他的任命看作是英国银行业应该避免的一种裙带关系。
 - Cage changed his name to deflect accusations of nepotism

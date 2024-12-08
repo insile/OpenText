@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vt  屈尊俯就；以高人一等的态度对待；光顾，惠顾
-# 例句
+##### 例句
 - There are plenty of rich Russians to patronise them and more than enough poor ones to make labour cheap .
 	- 大量的俄罗斯富豪经常关顾这些地方甚至比穷人们做廉价劳工的次数还要多。
 - First , he did not patronise his audience : presenting the most complicated ideas was a sign that he respected our intelligence .

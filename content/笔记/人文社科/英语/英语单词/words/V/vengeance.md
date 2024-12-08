@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvendʒəns/； 美：/ˈvendʒəns/
 - #词性/n  复仇；报复；报仇
-# 例句
+##### 例句
 - He swore to wreak vengeance on those who had betrayed him .
 	- 他发誓要对背叛他的人进行报复。
 - Not all acts of vengeance are of equal gravity .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɜːtʃuəl/； 美：/ˈvɜːrtʃuəl/
 - #词性/adj  (通过计算机软件，如在互联网上)模拟的，虚拟的；几乎…的；实际上的；事实上的；实质上的；很接近的
-# 例句
+##### 例句
 - Bigamy includes two situation , one is legal bigamy and the other is virtual bigamy .
 	- 重婚在客观表现上有两种情况，一种是法律上的重婚，另一种是事实上的重婚。
 - But the chances are against it , and there is a virtual limit on how long we Can hope to remain alive , however lucky and robust we are .

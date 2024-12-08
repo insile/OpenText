@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmærɪtl/； 美：/ˈmærɪtl/
 - #词性/adj  婚姻的；夫妻关系的
-# 例句
+##### 例句
 - " We found that women are doubly vulnerable to marital break-up in the face of illness , " Karraker said .
 	- 凯克说:“我们发现，女性在面对疾病时更容易遭遇婚姻的破裂。”
 - This paper attempts to reveal the marital status quo from the ethical platform .

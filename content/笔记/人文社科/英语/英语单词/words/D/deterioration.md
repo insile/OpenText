@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˌtɪərɪəˈreɪʃən/； 美：/dɪˈtɪriəˌreɪʃən/
 - #词性/n  恶化；恶化，变坏；退化；堕落
-# 例句
+##### 例句
 - The subhuman conditions of work soon caused physical deterioration .
 	- 非人的工作环境不久就导致了身体状况的恶化。
 - He was finally forced off the political stage last year by the deterioration of his physical condition

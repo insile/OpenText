@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈfreʃə/； 美：/rɪˈfreʃər/
 - #词性/n  恢复精神的人或物
 - #词性/adj  复习进修的
-# 例句
+##### 例句
 - Refresher about development of international welding training and qualification system
 	- 国际焊接培训与资格认证体系发展的最新动态
 - If you need a refresher , see the Resources section .

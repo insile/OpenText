@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmetəˈfɒrɪkl/； 美：/ˌmetəˈfɔːrɪkl/
 - #词性/adj  隐喻的；比喻性的；含比喻的
-# 例句
+##### 例句
 - Here , then , we have a metaphorical substitution on a metonymic axis .
 	- 这样，我们在换喻（者翻译为转喻，一种以部分代替整体的修辞方法）上就有了一个隐喻的替代。
 - She used a metaphorical expression in her speech .

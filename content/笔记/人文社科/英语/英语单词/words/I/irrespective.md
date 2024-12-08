@@ -7,11 +7,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪrɪˈspektɪv/； 美：/ɪrɪˈspektɪv/
 - #词性/adj  不考虑的；不问的，不顾的；不受……影响的
 - #词性/adv  不顾；不考虑
-# 例句
+##### 例句
 - Everyone is treated equally , irrespective of race .
 	- 不分种族，每个人都受到公平对待。
 - The weekly rent is the same irrespective of whether there are three or four occupants .

@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɪkʌp/； 美：/ˈpɪkʌp/
 - #词性/n  改善；（唱机的）唱头，磁头；改进；好转；敞篷小货车；轻型货车；接人；皮卡货车；（车辆的）加速能力；偶然结识的调情者
 - #词性/adj  临时拼凑的；临时组织的
-# 例句
+##### 例句
 - Mr Binks had said that we might borrow his pickup truck .
 	- 宾克斯先生说我们可以借用他的轻型货车。
 - My father yells something inaudible before I hear our pickup sputter out of the driveway .

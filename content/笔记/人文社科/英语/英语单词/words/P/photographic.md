@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌfəʊtəˈɡræfɪk/； 美：/ˌfoʊtəˈɡræfɪk/
 - #词性/adj  照片的；摄影的；摄制的
-# 例句
+##### 例句
 - Her essays explored the value of the photographic image and the act of picture taking in modern culture .
 	- 她的评论探讨了摄影的价值及摄影在当代文化中的价值。
 - First , it induces the photographic art several main characteristics according to general conditions of Photographic art and the main photography artistic style school .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  充满；充足；充实；吃饱；饱食
-# 例句
+##### 例句
 - A baby vomits milk from repletion .
 	- 婴儿吃饱会吐奶。
 - It is better to die of repletion than to endure hunger .

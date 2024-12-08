@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtuːθsəm/； 美：/ˈtuːθsəm/
 - #词性/adj  美味的；可口的
-# 例句
+##### 例句
 - Are the noodles slightly toothsome , the herbs fresh and bright-tasting , the broth fragrant and piping hot ?
 	- 美味的面条、清新亮丽的香草、甜美的热肉汤？
 - To drill deeper into this toothsome mystery , researchers whipped up a set of artificial choppers , made of the same stuff as teeth .

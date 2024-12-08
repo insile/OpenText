@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪksˈplɪsɪtli/； 美：/ɪkˈsplɪsətli/
 - #词性/adv  明确地；明白地
-# 例句
+##### 例句
 - What 's the meaning of this ? I explicitly told you not to leave the room .
 	- 这是什么意思？我明确地告诉过你不要离开这个房间。
 - It reinforces , implicitly or explicitly , the idea that money is all-important .

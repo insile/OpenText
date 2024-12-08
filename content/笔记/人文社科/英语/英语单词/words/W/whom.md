@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/huːm/； 美：/huːm/
 - #词性/pron  谁；(与who同义，作为动词或介词的宾语)什么人
-# 例句
+##### 例句
 - He asked me with whom I had discussed it .
 	- 他问我和谁讨论过此事。
 - To whom did she address the letter ?

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɑːbɪtrərɪli/； 美：/ˈɑrbɪˌtrɛrəli/
 - #词性/adv  任意地；任意(性)地，随意地；(个人)主观武断地，随心所欲地；反复无常地，任性多变地，无定见地，变幻莫测地
-# 例句
+##### 例句
 - Neural Network is an estimator of adaptive resonance function , which is not dependent on models , and could fulfill arbitrarily functional relation without them .
 	- 神经网络是一个不依赖于模型的自适应函数估计器，不需要模型就可以实现任意的函数关系。
 - Using the position , correlation and code of laws of more than two behaviors of compound behavior crime as the standard , we can divide compound behavior crime into three kinds of situation : the juxtaposed compound behavior crime , necessary compound behavior crime and arbitrarily compound behavior crime .

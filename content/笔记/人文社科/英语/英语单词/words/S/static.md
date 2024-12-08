@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈstætɪk/； 美：/ˈstætɪk/
 - #词性/adj  静态的；静止的；静力的；停滞的
 - #词性/n  静电；静力学；天电(干扰)；抨击
-# 例句
+##### 例句
 - The metaphysical world outlook sees things as isolated , static and one-sided .
 	- 形而上学宇宙观用孤立的、静止的和片面的观点去看世界。
 - Simultaneously absolute static balance cannot be attained between administrative supervision regulations and power framework .

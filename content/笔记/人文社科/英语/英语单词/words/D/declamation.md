@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdekləˈmeɪʃn/； 美：/ˌdekləˈmeɪʃn/
 - #词性/n  朗诵；雄辩；慷慨激昂的演说(词)
-# 例句
+##### 例句
 - Were you present at the declamation contest of Freshmen ?
 	- 大一的朗诵比赛你参加了没有？
 - Let every declamation turn upon the beauty of liberty and virtue , and the deformity , turpitude , and malignity of slavery and vice .

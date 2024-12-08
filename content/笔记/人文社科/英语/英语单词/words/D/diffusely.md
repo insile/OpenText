@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  扩（分）散地；漫射地
-# 例句
+##### 例句
 - The abdomen is diffusely tender .
 	- 腹部有广泛压痛。
 - Diffusely narrow portal branches were found in 3 patients .

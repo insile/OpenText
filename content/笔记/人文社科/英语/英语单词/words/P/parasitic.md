@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpærəˈsɪtɪk/； 美：/ˌpærəˈsɪtɪk/
 - #词性/adj  寄生的；寄生虫似的；依赖他人的；依附性的；寄生生物引起的
-# 例句
+##### 例句
 - Imperialism is monopolistic , parasitic and moribund capitalism .
 	- 帝国主义是垄断的、寄生的、垂死的资本主义。
 - Small usually parasitic flagellates .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpaɪəs/； 美：/ˈpaɪəs/
 - #词性/adj  虔诚的；虔敬的；伪善的；道貌岸然的；假正经的；难以实现的；可望而不可即的
-# 例句
+##### 例句
 - He was brought up by pious female relatives .
 	- 他是由虔诚的女性亲属带大的。
 - His father is a pious confessor .

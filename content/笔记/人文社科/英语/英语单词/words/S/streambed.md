@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  河床
-# 例句
+##### 例句
 - A streambed filled with water only in the rainy season .
 	- 只在雨季有水的河床。
 - Measurement in situ of streambed hydraulic conductivities in the Platte River , Nebraska

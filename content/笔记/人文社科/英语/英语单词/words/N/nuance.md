@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnjuːɑːns/； 美：/ˈnuːɑːns/
 - #词性/n  (意义、声音、颜色、感情等方面的)细微差别；细微的差别
-# 例句
+##### 例句
 - Now I want to stress one other nuance here .
 	- 这里我还想强调另外一个细微的差别。
 - A translator has to be alert to every nuance .

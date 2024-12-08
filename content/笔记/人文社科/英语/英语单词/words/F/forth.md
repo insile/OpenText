@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fɔːθ/； 美：/fɔːrθ/
 - #词性/adv  向前, 向前方；以后； 露出着；出外, 离家；往外
-# 例句
+##### 例句
 - Go forth into the desert
 	- 向前走进沙漠。
 - And then one must act upon the change and bring it forth .

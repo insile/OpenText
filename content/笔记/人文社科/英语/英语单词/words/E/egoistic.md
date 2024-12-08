@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌiːɡəʊˈɪstɪk/； 美：/ˌiːɡoʊˈɪstɪk/
 - #词性/adj  自私自利的，自我中心的
-# 例句
+##### 例句
 - Dreams are absolutely egoistic .
 	- 梦是绝对以自我为中心的。
 - But I know these egoistic efforts will end up with nothing much .

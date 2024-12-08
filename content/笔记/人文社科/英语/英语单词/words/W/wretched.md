@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈretʃɪd/； 美：/ˈretʃɪd/
 - #词性/adj  可怜的；悲惨的；恶劣的；难受的；（表示憎恶）该死的，无法容忍的；不愉快的；极坏的；感到不适的
-# 例句
+##### 例句
 - How do they exist in such wretched conditions ?
 	- 在这样恶劣的环境中，他们怎样生存？
 - As is well known , such wretched conditions in coal industry endanger the safety and health of coal miners .

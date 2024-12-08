@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈluːnə(r)/； 美：/ˈluːnər/
 - #词性/adj  月球的；月亮的
-# 例句
+##### 例句
 - The vast volcanic slope was eerily reminiscent of a lunar landscape .
 	- 开阔的火山坡让人心生怪异地联想起月球的地貌。
 - The lunar stone is different from earth 's.

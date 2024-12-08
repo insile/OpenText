@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/səkˈsɛsɪvli/； 美：/səkˈsɛsɪvli/
 - #词性/adv  连续；先后；渐渐
-# 例句
+##### 例句
 - The group was successively followed for 30 days every season .
 	- 对该群金丝猴进行了8个季节的跟踪研究，每季连续跟踪30d。
 - Because of his good public image he has successively gained office .

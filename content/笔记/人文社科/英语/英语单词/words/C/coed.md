@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkəʊˈed/； 美：/ˌkoʊˈed/
 - #词性/adj  男女同校的
 - #词性/n  (男女同校的)女生
-# 例句
+##### 例句
 - I want to go to a coed school .
 	- 我要上男女同校的学校。
 - As a vast majority of women opted for coed schools , enrollment at women 's colleges tumbled .

@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsentrɪˈfjuːɡl/； 美：/senˈtrɪfjəɡl/
 - #词性/adj  离心的
 - #词性/n  离心机
-# 例句
+##### 例句
 - We show that the intermediate-range force at centrical region of a spheric shell is centrifugal or centripetal , thus this region is the vacuum region or the region of the simple harmonic vibration of the particle whose vibrational frequency is an observable value ;
 	- 指出球壳的中心区的中程力是离心的或向心的，因而为粒子的真空区或简振区，其振动频率是一个可观察值。
 - The results show that high-speed centrifugal method is more appropriate than TCA precipitation method for silkworm organs .

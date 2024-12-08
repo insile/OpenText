@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  渎职行为；假公济私，营私舞弊；假公济私，营私舞弊；渎职行为
-# 例句
+##### 例句
 - In the internalized-externalized mechanism , jobbery crime psychology shows two tendencies .
 	- 在内外化机制中，职务犯罪心理主要呈现两种发展趋势。
 - To overdo anything public may lead to jobbery , while appropriate selfishness may promote the growth .

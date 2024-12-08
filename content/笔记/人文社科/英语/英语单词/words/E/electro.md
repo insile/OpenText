@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈlɛktrəʊ/； 美：/ɪˈlɛktroʊ/
 - #词性/v  电镀
 - #词性/n  电镀（物品）
-# 例句
+##### 例句
 - Application of F - PC in Electro - plate Industry
 	- F&PC在电镀工业上的应用
 - Research progress of nano - composite electro plating

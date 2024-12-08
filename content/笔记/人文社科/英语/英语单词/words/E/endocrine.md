@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈendəʊkrɪn/； 美：/ˈendəkrɪn/
 - #词性/adj  内分泌的；内分泌腺的
 - #词性/n  内分泌；激素
-# 例句
+##### 例句
 - Alleged " indirect ground " those who pass endocrine want to secrete a function to produce effect among that is to say .
 	- 所谓间接地就是说中间要通过内分泌腺的分泌功能发挥效应。
 - Morphologic Changes in Central Nervous System and Endocrine Glands in Nervous Endemic Cretinism

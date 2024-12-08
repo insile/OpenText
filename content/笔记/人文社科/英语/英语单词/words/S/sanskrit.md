@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsænskrɪt/； 美：/ˈsænskrɪt/
 - #词性/n  梵语；梵文；梵文的；印度梵文
 - #词性/adj  梵文的
-# 例句
+##### 例句
 - Most of these new sermons were recorded in literary Sanskrit rather than in vernacular language .
 	- 这些新的布道稿本大部分是用书面梵语而不是方言记载的。
 - Sanskrit is related very closely to Latin , Greek , and the Germanic and Celtic languages .

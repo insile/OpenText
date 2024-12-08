@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  韦兰（人名）；韦兰（加拿大东南部港口城市）
-# 例句
+##### 例句
 - Mrs. Welland came first , on the arm of her eldest son .
 	- 韦兰夫人走在最前面，她由大儿子搀扶。
 - Welland made a pretence of writing a note in his pad

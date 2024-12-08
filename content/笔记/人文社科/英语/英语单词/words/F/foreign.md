@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɒrən/； 美：/ˈfɔːrən/
 - #词性/adj  外国的；外交的；异物；涉外的；陌生的；非典型的
-# 例句
+##### 例句
 - She didn 't know what life in a foreign country would be like .
 	- 她不知道外国的生活会是什么样。
 - She had a visceral dislike of all things foreign .

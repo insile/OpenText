@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsætɪni/； 美：/ˈsætni/
 - #词性/adj  光滑的；缎子似的
-# 例句
+##### 例句
 - It has a smooth , satiny texture and is labeled according to its butterfat content .
 	- 它有一个平稳，光滑的纹理，并根据其标示乳脂含量。
 - White frost and silver storm powder crystallise the leaves on this beautiful object , topped with a satiny pink gold lid .

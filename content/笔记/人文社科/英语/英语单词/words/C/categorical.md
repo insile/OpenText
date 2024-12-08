@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkætəˈɡɒrɪkl/； 美：/ˌkætəˈɡɔːrɪkl/
 - #词性/adj  明确的；绝对的
-# 例句
+##### 例句
 - The overall result is that no categorical statements can be made .
 	- 整体结论是，我们无法下明确的断言。
 - There have been a number of trials planned to try and answer this question in a more categorical way .

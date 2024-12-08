@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  偶像崇拜；盲目崇拜的；盲目崇拜
-# 例句
+##### 例句
 - There are significant relations in factors of Idolatrous Structure , between factors of Characters of Idolatry and Ego-evaluation ;
 	- 中学生偶像崇拜结构内部各因素之间、崇拜特征与自我评价在许多因素上存在显著相关；
 - The result are : ① There are three factors in secondary students ' idolatrous structure : Approbation , Emotion , Behavior which are ranked from high scores to low scores .

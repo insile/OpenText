@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/həd ˈbetə(r)/； 美：/həd ˈbetər/
 - #词性/modal  （用于建议、警告、威胁、发表意见等）最好
-# 例句
+##### 例句
 - It's half past two. I think we had better go home .
 	- 现在两点半了。我想我们最好还是回家吧。
 - He thought he had better track this wolf and kill it .

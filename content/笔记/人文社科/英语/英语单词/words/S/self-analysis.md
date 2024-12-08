@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌself əˈnæləsɪs/； 美：/ˌself əˈnæləsɪs/
 - #词性/n  自我分析(对自身性格和行为的分析，尤指做事的动机)
-# 例句
+##### 例句
 - None of them seems to be bothered by this kind self-analysis .
 	- 他们看上去好像并没有被类似我这样的自我分析弄得心神不定。
 - Impacts on Scrutiny and Self-Analysis of Normal Students in Microteaching

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  流体的；水力（压）的；流体动力（学）的
-# 例句
+##### 例句
 - Expression and Determination of Viscous Hydrodynamic Forces due to Torpedo
 	- 鱼雷粘性类流体动力的表达与确定
 - Estimation of hydrodynamic forces of fin - rudder on slender body of revolution

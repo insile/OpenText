@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/səˈpreʃn/； 美：/səˈpreʃn/
 - #词性/n  抑制；压制；镇压
-# 例句
+##### 例句
 - Financial Suppression and Financial Control under Different System
 	- 论不同体制下的金融压制与金融管制
 - Analysis and suppression of multiple wave in seismic data processing

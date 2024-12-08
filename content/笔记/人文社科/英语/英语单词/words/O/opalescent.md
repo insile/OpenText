@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌəʊpəˈlesnt/； 美：/ˌoʊpəˈlesnt/
 - #词性/adj  乳白色的；色彩变幻的；像猫眼石般变色的
-# 例句
+##### 例句
 - Her skin was flawless and seemed opalescent .
 	- 她的皮肤洁白无瑕，好象乳色的。
 - These two properties make opalescent film an obvious material for currency .

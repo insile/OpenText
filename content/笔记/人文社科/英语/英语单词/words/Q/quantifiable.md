@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkwɒntɪfaɪəbl/； 美：/ˈkwɑːntɪfaɪəbl/
 - #词性/adj  可以定量的;能量化的
-# 例句
+##### 例句
 - A clearly quantifiable measure of quality is not necessary .
 	- 没有必要对质量进行明确的定量测量。
 - We must come to view the air , the plants and ourselves as the contributors to the preservation of life and growth , rather than a web of quantifiable objects or productive potentialities at our disposal .

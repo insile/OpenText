@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈɔːdɪnət/； 美：/ɪnˈɔːrdɪnət/
 - #词性/adj  过度的；过分的；超乎预料的
-# 例句
+##### 例句
 - They spend an inordinate amount of time talking .
 	- 他们花在说上的时间太多了。
 - The idea of this gave me inordinate pleasure .

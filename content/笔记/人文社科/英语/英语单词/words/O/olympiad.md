@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈlɪmpiæd/； 美：/əˈlɪmpiæd/
 - #词性/n  奥林匹克；奥运会；奥林匹亚；奥林匹克运动会；奥林匹亚德
-# 例句
+##### 例句
 - Only about 50 students are invited based on their performance on written tests and at the USA Math Olympiad .
 	- 只有大约50名学生能够获得邀请，遴选依据是笔试成绩和在美国数学奥林匹克比赛中的表现。
 - The Math Olympiad Summer Training Program is a three-week math camp held by the Mathematical Association of America that leads straight to the international championship and is free for those who make it .

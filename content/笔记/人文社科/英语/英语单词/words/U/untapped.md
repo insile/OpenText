@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈtæpt/； 美：/ˌʌnˈtæpt/
 - #词性/adj  未开发的；蕴藏的；未利用的
-# 例句
+##### 例句
 - They have great untapped potential , but is it good for parents to pressure young children ?
 	- 他们有很好的未开发的潜力，但父母给小孩子压力是否有利？
 - He 's always been a self-starter , someone who sniff out an untapped market and goes for it successfully .

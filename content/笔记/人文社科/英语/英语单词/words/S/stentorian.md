@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/stenˈtɔːriən/； 美：/stenˈtɔːriən/
 - #词性/adj  洪亮的
-# 例句
+##### 例句
 - He bellowed in a stentorian voice .
 	- 他用洪亮的声音大声喊叫。
 - The stentorian tones of auctioneer , calling out to clear , now announced that the sale to commence .

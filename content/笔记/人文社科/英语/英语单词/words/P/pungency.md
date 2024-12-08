@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  辛辣；刺激性；尖刻
-# 例句
+##### 例句
 - He commented with typical pungency .
 	- 他评论时带着典型的讽刺口气
 - Research on apparent pungency ratings for chili products based on fuzzy clustering analysis

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  时差综合症（跨时区高速飞行后生理节奏的破坏）
-# 例句
+##### 例句
 - Take it easy . You 'll soon recover from jetlag and get used to it .
 	- 别担心，时差会很快倒过来的，您也会很快会适应的。
 - So I had quite a jetlag the next days .

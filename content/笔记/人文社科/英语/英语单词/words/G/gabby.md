@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡæbi/； 美：/ˈɡæbi/
 - #词性/adj  饶舌的；贫嘴的； 聒噪的
-# 例句
+##### 例句
 - Kept from her housework by gabby neighbors .
 	- 饶舌的邻居妨碍她做家务。
 - What I like most about Gabby is her luscious lips !

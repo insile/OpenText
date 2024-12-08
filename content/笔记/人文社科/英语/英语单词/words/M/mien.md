@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/miːn/； 美：/miːn/
 - #词性/n  神态；风度；样子；外表
-# 例句
+##### 例句
 - It was impossible to tell from his mien whether he was offended .
 	- 从他的神态中难以看出他是否生气了。
 - The young girl in the picture has a thoughtful and solemn mien .

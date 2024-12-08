@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbleɪmwɜːði/； 美：/ˈbleɪmwɜːrði/
 - #词性/adj  (对坏事)负有责任的；该受指责的
-# 例句
+##### 例句
 - You may see yourself as useless , incompetent and blameworthy
 	- 你也许会认为自己无用、不称职、应该受到指责。
 - The article is long , but not otherwise blameworthy .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪndɔː(r)/； 美：/ˈɪndɔːr/
 - #词性/adj  (在)室内的；在室内用的；在户内进行的
-# 例句
+##### 例句
 - On the Design of Architecture and the Natural Indoor Beauty
 	- 谈谈建筑物与室内的自然美设计
 - Indoor particulate matter has an important effect on indoor air quality .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈdʒiːniəsli/； 美：/ɪnˈdʒinjəsli/
 - #词性/adv  巧妙地；有才能地，贤明地
-# 例句
+##### 例句
 - The plot of the film is ingeniously conceived .
 	- 影片的构思相当巧妙。
 - Ingeniously Solve Geometrical Problems with " Area Method "

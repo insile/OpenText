@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/səˈtaɪəti/； 美：/səˈtaɪəti/
 - #词性/n  满足；饱足；餍足
-# 例句
+##### 例句
 - Researchers say these sensory clues , in addition to internal body changes , signal satiety .
 	- 研究人员指出，除了人体内部的变化外，这些感官提示会引起饱足感。
 - The researchers found that lack of sleep will undermine the regulation of hunger and satiety hormone production .

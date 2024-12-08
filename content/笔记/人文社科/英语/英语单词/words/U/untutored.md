@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈtjuːtəd/； 美：/ˌʌnˈtuːtərd/
 - #词性/adj  未接受正规教育的；未受过正式训练的
-# 例句
+##### 例句
 - They had left school at fifteen and were quite untutored in writing .
 	- 他们15岁就辍学了，几乎未接受过正式的写作训练。
 - This untutored mathematician had an obsession with numbers

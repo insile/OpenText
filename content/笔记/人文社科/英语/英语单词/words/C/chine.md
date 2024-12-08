@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  Chine；（动物的）脊骨； 脊柱；山脊；（山）岭；狭而深的峡谷；幽谷
-# 例句
+##### 例句
 - Basic condition of screening mechanism and production structure control in Chine
 	- 我国筛分机械的基本情况及产品结构的调整
 - Part 5 analyses the current state of technical innovation in Chine .

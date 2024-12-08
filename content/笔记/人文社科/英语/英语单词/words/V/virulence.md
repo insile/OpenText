@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɪrələns/； 美：/ˈvɪrələns/
 - #词性/n  毒力；毒性；恶毒；致命性；敌意；狠毒
-# 例句
+##### 例句
 - Advances in Detection Technologies of in vivo Expression of Bacterial Virulence Gene
 	- 细菌毒力基因体内表达检测技术研究进展
 - These results indicate that FimA is an important virulence factor .

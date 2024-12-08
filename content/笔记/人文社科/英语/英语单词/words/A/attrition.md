@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈtrɪʃn/； 美：/əˈtrɪʃn/
 - #词性/n  (尤指给敌人造成的)削弱，消耗；损耗
-# 例句
+##### 例句
 - Research on the Determination of Buildings ' Attrition Rate
 	- 对使用年限法确定建筑物损耗率的思考
 - After over 70 years development , language attrition has became an independent discipline .

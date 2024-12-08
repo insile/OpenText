@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈrɪzəbl/； 美：/ˈrɪzəbl/
 - #词性/adj  可笑的；滑稽的
-# 例句
+##### 例句
 - The entire proposal is risible .
 	- 这个建议完全是荒唐可笑的。
 - The entire proposal is risible : it will never is accepted .

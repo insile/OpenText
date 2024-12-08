@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəˈluːsɪv/； 美：/kəˈluːsɪv/
 - #词性/adj  (尤指国家、组织间)共谋的，勾结的，串通的
-# 例句
+##### 例句
 - The media idolatry reflected collusive relationship among modern idol , mass media and audiences .
 	- 传媒偶像崇拜反映了现代偶像、大众传媒与受众之间的一种共谋的关系。
 - On the one hand , quasi-random matching methods make the power suppliers hard to get others ' prices and predict the market balanced price , and increase collusive difficulty among power suppliers .

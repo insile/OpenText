@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɪɡə(r)/； 美：/ˈvɪɡər/
 - #词性/n  活力；精力；热情；力量
-# 例句
+##### 例句
 - His health and vigour were unimpaired by a stroke
 	- 他的健康和精力在经历了一次中风后没有受到影响。
 - They approach their own faith with the same vigour and the same penetration .

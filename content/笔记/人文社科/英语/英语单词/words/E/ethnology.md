@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/eθˈnɒlədʒi/； 美：/eθˈnɑːlədʒi/
 - #词性/n  民族学；社会(或文化)人类学
-# 例句
+##### 例句
 - On the Content , Application Fields and Professional Training of Ethnology
 	- 试论民族学的知识结构和应用领域
 - Economic Cultural type is the special concept in ethnology .

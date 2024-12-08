@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfraɪəbl/； 美：/ˈfraɪəbl/
 - #词性/adj  易碎的；脆的；易粉碎的
-# 例句
+##### 例句
 - You friable shore with trails of debris .
 	- 易脆的岸散残迹。
 - The friable china survived the bumpy journey safe and sound .

@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlɔːdəbl/； 美：/ˈlɔːdəbl/
 - #词性/adj  值得称赞的；值得赞美的；应受赞扬的
-# 例句
+##### 例句
 - One of Emma 's less laudable characteristics was her jealousy
 	- 忌妒心强是埃玛的一个不那么让人称道的个性特点。
 - Though he didn 't succeed , his will is highly laudable .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈkaʊntənsi/； 美：/əˈkaʊntənsi/
 - #词性/n  会计工作；会计学；会计职业
-# 例句
+##### 例句
 - He 's sitting his final exams in accountancy .
 	- 他正参加会计学的期末考试。
 - Earning management is the core issue of current study on accountancy .

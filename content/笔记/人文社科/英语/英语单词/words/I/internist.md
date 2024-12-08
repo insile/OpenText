@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈtɜːnɪst/； 美：/ɪnˈtɜːrnɪst/
 - #词性/n  内科医生
-# 例句
+##### 例句
 - My mother often recounts a story about me following around my father , our small town 's internist , on a certain home visit .
 	- 父亲是我们小镇的内科医生，我的母亲经常向我详述关于我跟随父亲到病人家里出诊的往事。
 - As this gets more press , that degree of caution will filter down to the internist , the family medicine physician and the diabetes expert .

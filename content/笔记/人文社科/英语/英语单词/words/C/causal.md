@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkɔːzl/； 美：/ˈkɔːzl/
 - #词性/adj  因果关系的；原因的；前因后果的；表示因果关系的(连接词，如because)
 - #词性/n  表示原因的词[结构]
-# 例句
+##### 例句
 - Research of Association Rule Based on Parallel and Causal Relationships
 	- 基于并行关系与因果关系的关联规则
 - It is essential to have longitudinal study to support the causal relationship .

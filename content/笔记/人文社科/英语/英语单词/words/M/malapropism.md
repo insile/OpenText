@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmæləprɒpɪzəm/； 美：/ˈmæləprɑːpɪzəm/
 - #词性/n  近音词误用(常产生滑稽的效果)
-# 例句
+##### 例句
 - There is a malapropism in his paper .
 	- 他的文章里有一处被误用的词。
 - Despite a profusion of grammatical errors and the occasional malapropism , " the impossible state " is accessible and readable .

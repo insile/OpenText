@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhjuːdʒli/； 美：/ˈhjuːdʒli/
 - #词性/adv  非常；极其；极度；深深地；大大地
-# 例句
+##### 例句
 - ' The appearance of your desk or work area is hugely important . But it 's so personal .
 	- 你的办公桌或办公区的外观极其重要，但它又是非常私人的事情。
 - Selling unused quotas would , moreover , be hugely lucrative for poorer countries .

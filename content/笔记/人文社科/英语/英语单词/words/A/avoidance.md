@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈvɔɪdəns/； 美：/əˈvɔɪdəns/
 - #词性/n  避免；防止；避开；回避
-# 例句
+##### 例句
 - A person 's health improves with the avoidance of stress .
 	- 一个人只要避免紧张，健康状况就会改善。
 - Procrastination is the avoidance of doing a task which needs to be accomplished2 . It is the practice of doing more pleasurable things in place of less pleasurable ones , or carrying out less urgent tasks instead of more urgent ones , thus putting off impending3 tasks to a later time .

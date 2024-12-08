@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪkˈskjuːzəbl/； 美：/ɪkˈskjuːzəbl/
 - #词性/adj  可谅解；可原谅
-# 例句
+##### 例句
 - This is an excusable mistake .
 	- 这是个可原谅的错误。
 - His fault is excusable , considering his age .

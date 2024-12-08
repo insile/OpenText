@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/senˈtenʃəs/； 美：/senˈtenʃəs/
 - #词性/adj  (尤指)说教式的；多格言警句的
-# 例句
+##### 例句
 - Too often the significant episode deteriorates into sententious conversation - Kathleen Barnes .
 	- 过于频繁的重要的插话演变成为说教式的谈话-凯瑟琳·巴恩斯。
 - The document was sententious and pomjpou .

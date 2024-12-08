@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/hɪˈsterɪkl/； 美：/hɪˈsterɪkl/
 - #词性/adj  歇斯底里的；极其可笑的；情绪狂暴不可抑止的
-# 例句
+##### 例句
 - He thought I was being a hysterical female .
 	- 他觉得我当时像个歇斯底里的女人。
 - He dismissed her words as the ravings of a hysterical woman .

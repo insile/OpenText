@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  不能生存和成长的；不能发展和活动的
-# 例句
+##### 例句
 - Nonviable cells have no metabolic capacity and , thus , will not reduce the dye .
 	- 非活性细胞没有代谢能力，因此不能还原该显色剂。
 - All nonviable tissue , both osseous and soft tissue , should be removed .

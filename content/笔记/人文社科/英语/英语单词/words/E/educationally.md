@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  教育上
-# 例句
+##### 例句
 - I was lucky enough to have my tuition covered by a lottery-funded scholarship called HOPE （ Helping Outstanding Pupils Educationally ） .
 	- 我很幸运的获得了名为“希望”(在教育上帮助杰出学生)的彩票资助奖学金来支付自己的学费。
 - Understand , but , the country is in educationally funds is finite .

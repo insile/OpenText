@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  混响的；回响的；反射的；起回声的
-# 例句
+##### 例句
 - For a second , the room is the reverberant sound of cry .
 	- 一时间，正个房间里都回响着她的哭声。
 - To strike so as to produce a loud , reverberant noise .

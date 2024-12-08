@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɑːˈbɔːriəl/； 美：/ɑːrˈbɔːriəl/
 - #词性/adj  树栖的；树木的
-# 例句
+##### 例句
 - Pale arboreal American cricket noted for loud stridulation .
 	- 浅色树栖的美国蟋蟀，以其大而尖的叫声文明。
 - Arboreal amphibians usually having adhesive disks at the tip of each toe ; of Southeast Asia and Australia and america .

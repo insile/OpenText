@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɔːli/； 美：/ˈpʊrli/
 - #词性/adv  不足；糟糕地；不如意
 - #词性/adj  不舒服；不适；有病
-# 例句
+##### 例句
 - As a result , the bill was poorly framed .
 	- 结果，这个法案被糟糕地框定了。
 - Telepressure was also correlated with sleeping poorly and missing work .

@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈskeptɪkl/； 美：/ˈskeptɪkl/
 - #词性/adj  怀疑的；持怀疑态度的；将信将疑的；心存疑惑的
-# 例句
+##### 例句
 - Many skeptical progressives refuse to agree that the foregoing reform sufficed .
 	- 许多持怀疑态度的进步分子认为，上述改革是不够的。
 - Skeptical US lawmakers want to step up the pressure on Iran .

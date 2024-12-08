@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  植物修复；修复技术；植物修复技术；植物修复法
-# 例句
+##### 例句
 - Phytoremediation is a very promising pollution treatment technology developed in recent years .
 	- 植物修复技术是近年来发展迅速的一种非常有前途的污染治理技术。
 - Phytoremediation becomes more optimal with the help of the molecular biological technique .

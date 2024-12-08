@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtensaɪl/； 美：/ˈtensl/
 - #词性/adj  张力的；拉力的；抗张的；可拉长的；可延展的；能伸长的
-# 例句
+##### 例句
 - Detection and Experiment for the Tensile Force Of Suspended Cables Under Concentrated Load
 	- 集中荷载作用下悬索张力的检测与实验
 - Emulational analysis of the tensile forces of prestressed cables during multistage tensioning construction

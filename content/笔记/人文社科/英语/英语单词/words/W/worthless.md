@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwɜːθləs/； 美：/ˈwɜːrθləs/
 - #词性/adj  无价值的；没用的；不中用的；品质坏的
-# 例句
+##### 例句
 - Go on , bust that worthless head wide open .
 	- 去啊把你那个没用的脑袋撞开
 - You want that worthless trinket ?

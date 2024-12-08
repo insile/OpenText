@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhelpfl/； 美：/ˈhelpfl/
 - #词性/adj  有帮助的；有用的；有益的；愿意帮忙的
-# 例句
+##### 例句
 - Here are some helpful hints to make your journey easier
 	- 几条有用的建议可以让你的旅途更轻松。
 - Her copy of 《 Evangeline 》 has many helpful notes at the back .

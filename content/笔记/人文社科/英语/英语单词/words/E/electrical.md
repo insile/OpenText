@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈlektrɪkl/； 美：/ɪˈlektrɪkl/
 - #词性/adj  电的；发电的；用电的；发生电的；电气科学的
-# 例句
+##### 例句
 - The Grid takes its name from an analogy with the electrical " power grid " .
 	- 网格将它的名字比喻为与电有关的电网。
 - Some crop circles are electrical or radioactive , and these will have straight lines or edges or angles unto them .

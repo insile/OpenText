@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɒtəwə/； 美：/ˈɑtəˌwɑ/
 - #词性/n  渥太华(加拿大首都）；渥太华河(加拿大东南部河流）；渥太华人(居于加拿大的印第安人）
 - #词性/adj  奥吉布华语的
-# 例句
+##### 例句
 - In 1937 he was seconded to the Royal Canadian Air Force in Ottawa as air armament adviser
 	- 1937年他被临时调往渥太华的加拿大皇家空军担任军备顾问。
 - The celebrations in Ottawa , Canada 's capital city , are especially grand and exciting .

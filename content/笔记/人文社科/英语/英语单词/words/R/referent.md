@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  参照物；指示物
-# 例句
+##### 例句
 - The results of the analysis has some referent value in soil improvement .
 	- 该分析结果对矿业废弃地的土壤改良具有一定的参考价值。
 - Besides , the effective referent parameters of the algorithm are obtained from the simulation results .

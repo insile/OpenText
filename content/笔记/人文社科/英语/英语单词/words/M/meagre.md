@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmiːɡə(r)/； 美：/ˈmiːɡər/
 - #词性/adj  数量很少的；少量且劣质的
-# 例句
+##### 例句
 - She supplements her meagre income by cleaning at night .
 	- 她靠夜间做清洁工来补充其微薄的收入。
 - The bank 's staff were already angered by a meagre 3.1 % pay rise

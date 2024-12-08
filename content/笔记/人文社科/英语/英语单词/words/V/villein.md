@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɪleɪn/； 美：/ˈvɪleɪn/
 - #词性/n  (中世纪的)农奴，隶农
-# 例句
+##### 例句
 - The legal status or condition of a villein or feudal serf .
 	- 封建农奴的合法地位。
 - The Common Law of the Villein 's Country in Russian in 18-19 Beginning of the Century

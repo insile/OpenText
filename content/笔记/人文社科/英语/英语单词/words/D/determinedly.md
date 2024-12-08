@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  坚定地；坚定地，坚决地，决意地
-# 例句
+##### 例句
 - She determinedly kept the conversation going .
 	- 她坚定地让谈话继续进行下去。
 - Most important of all , we should consciously and determinedly keep pace with the times in the guiding ideology of cultural construction .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  冷酷地；严峻地；严格地；可怕地
-# 例句
+##### 例句
 - ' It won 't be easy , ' he said grimly .
 	- “那不会很容易。”他严肃地说。
 - Instead , she set her jaw grimly and waited in silence

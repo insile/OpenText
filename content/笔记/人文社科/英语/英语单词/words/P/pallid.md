@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpælɪd/； 美：/ˈpælɪd/
 - #词性/adj  (尤指因病)苍白的；暗淡的；微弱的；乏味的
-# 例句
+##### 例句
 - Tears ran down her pallid cheeks .
 	- 泪水划过她苍白的脸颊。
 - Mrs. Tremaine grew more and more worried at his pallid face and stertorous breathing .

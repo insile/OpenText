@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/frəˈnetɪk/； 美：/frəˈnetɪk/
 - #词性/adj  精神错乱的，疯狂的；狂热的
-# 例句
+##### 例句
 - It generated much excitement and frenetic activity .
 	- 这使人们非常激动并导致了狂热的行动。
 - But calming a frenetic market is no part of this project .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtaɪmlɪnɪs/； 美：/ˈtaɪmlinəs/
 - #词性/n  及时性；合时，时
-# 例句
+##### 例句
 - Timeliness of the information to ensure good scientific conclusion .
 	- 资料良好的时效性保证了结论的科学性。
 - Research on the Urban Planning Making System of Timeliness and Effectiveness for Management Implementation

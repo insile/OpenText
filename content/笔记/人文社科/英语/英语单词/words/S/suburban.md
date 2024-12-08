@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/səˈbɜːbən/； 美：/səˈbɜːrbən/
 - #词性/adj  郊区的；城外的；呆板的；平淡乏味的
 - #词性/n  郊区居民
-# 例句
+##### 例句
 - Land in the rural areas and suburban areas , except otherwise provided for by the State , shall be collectively owned by peasants including land for building houses , land and hills allowed to be retained by peasants .
 	- 农村和城市郊区的土地，除由法律规定属于国家所有的以外，属于农民集体所有；宅基地和自留地、自留山，属于农民集体所有。
 - Suburban life styles are very different from those in the inner city .

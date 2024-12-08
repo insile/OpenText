@@ -5,9 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ðə ɡreɪt wɔːl/； 美：/ðə ɡreɪt wɔːl/
-# 例句
+- #词性/n  长城
+##### 例句
 - Structure art of the Great Wall in the areas of Beijing
 	- 万里长城北京段的建造艺术
 - The Great Wall of China can be seen from space

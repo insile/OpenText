@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈleɪʃənl/； 美：/rɪˈleɪʃənl/
 - #词性/adj  相关的；有关的
-# 例句
+##### 例句
 - Under the direction of this concept , through drawing lessons from other relevant research and according to relational standard specifications , the article builds up the evaluation index system of environment-friendly land utilization .
 	- 在环境友好土地利用的概念指导下，借鉴相关的研究成果和依据有关的标准规范，构建了环境友好型土地利用评价指标体系。
 - Based on the present inventory theory of spare parts and the reliability theory , the paper analyses the relational factors of the system reliability .

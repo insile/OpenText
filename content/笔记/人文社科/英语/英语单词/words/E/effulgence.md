@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  光辉；灿烂的光；灿烂
-# 例句
+##### 例句
 - In the evening sunshine they glow with a salmon-coloured effulgence .
 	- 在夕阳下，它们发出浅橙色的光辉。
 - Morrow night , when the moon was as usual , her gentle effulgence and enlightening everything as well , I proudly considered this as my contribution .

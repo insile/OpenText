@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbelɪkəʊs/； 美：/ˈbelɪkoʊs/
 - #词性/adj  好战的；好斗的；好争辩的
-# 例句
+##### 例句
 - North Korea has struck an unusually bellicose stance with its rich southern neighbour recently .
 	- 朝鲜最近对其富裕的南部邻国采取了异常好斗的姿态。
 - I remind myself that the war in Iraq started with bellicose posturing and photographs .

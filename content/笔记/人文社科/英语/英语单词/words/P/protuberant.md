@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prəˈtjuːbərənt/； 美：/proʊˈtuːbərənt/
 - #词性/adj  突起的；凸起的；隆起的；鼓出的
-# 例句
+##### 例句
 - He has a high-beaked nose and large protuberant eyes .
 	- 他有着高鼻梁和又大又凸出的眼睛
 - The boy tripped over a protuberant rock .

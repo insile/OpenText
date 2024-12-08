@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdaɪəfəˈriːsɪs/； 美：/ˌdaɪəfəˈrisɪs/
 - #词性/n  发汗
-# 例句
+##### 例句
 - Improved Algorithm Methods in Parameters Distinction of Diaphoresis cooling Control System
 	- 发汗冷却控制系统参数辨识的几种改进算法
 - Study on experimental methods about diaphoresis in mice

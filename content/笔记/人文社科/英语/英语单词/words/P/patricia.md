@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pəˈtrɪʃə/； 美：/pəˈtrɪʃə/
 - #词性/n  帕特里夏；帕特丽夏；派翠西亚
-# 例句
+##### 例句
 - Patricia looked beautiful and elegant as always .
 	- 帕特里夏一如既往地美丽优雅。
 - Under the stage name of Beverly Brooks , Patricia had small parts in several British films .

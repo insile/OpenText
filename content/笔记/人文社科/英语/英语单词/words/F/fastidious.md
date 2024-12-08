@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fæˈstɪdiəs/； 美：/fæˈstɪdiəs/
 - #词性/adj  挑剔的；一丝不苟的；严谨的；讲究整洁的；有洁癖的
-# 例句
+##### 例句
 - We can tolerate them even if they are fastidious girls , don 't you think so ?
 	- 我们可以容忍他们即使是挑剔的女孩，你不这样想吗？
 - In a fastidious and painstaking manner .

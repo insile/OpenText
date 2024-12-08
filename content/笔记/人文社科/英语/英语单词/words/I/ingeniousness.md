@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  心灵手巧；足智多谋
-# 例句
+##### 例句
 - I was amazed with the complexity and ingeniousness of the internal mechanism .
 	- 内部机械装置相当精巧并且复杂，让我感到非常意外。
 - It is where his ingeniousness lies , and the reason leading to his successful attempt of breaking the bond of original creation mode and presenting his own personality .

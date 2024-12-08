@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  星形的；星形；星形的,星般闪烁的
-# 例句
+##### 例句
 - Radial symmetry ; a starlike or stellate arrangement of petals ; many cities show a radial pattern of main highways .
 	- 径向对称；星形的花瓣或似星的排列；许多城市的干线公路呈放射状模式。
 - Study on Cold Extrusion of the Starlike Inner Race by FEA Method

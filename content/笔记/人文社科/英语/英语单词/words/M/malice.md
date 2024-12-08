@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmælɪs/； 美：/ˈmælɪs/
 - #词性/n  恶意；怨恨
-# 例句
+##### 例句
 - He sent the letter out of malice .
 	- 他出于恶意寄出了这封信。
 - She is entirely without malice .

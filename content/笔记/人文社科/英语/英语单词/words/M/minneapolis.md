@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  明尼阿波利斯；明尼阿波利斯市；明尼亚波利斯
-# 例句
+##### 例句
 - Ehlers returned to Minnesota , and then drove 100 miles to Minneapolis to put Rosie on a flight to Michigan ．
 	- 埃勒斯回到明尼苏达州,然后驱车100英里到明尼阿波利斯,让罗西搭上飞往密歇根的航班。
 - President Bush is vowing to help Minneapolis rebuild this collapse bridge .

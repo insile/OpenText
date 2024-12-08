@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌæntiˈneɪtl/； 美：/ˌæntiˈneɪtl/
 - #词性/adj  产前的
-# 例句
+##### 例句
 - An Analysis of Antenatal Psychological Status and its Related Factors
 	- 产妇产前的心理状态及相关因素分析
 - The antenatal clinic is on Wednesdays .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/vəˈlʌptʃuəs/； 美：/vəˈlʌptʃuəs/
 - #词性/adj  性感的；撩人的；肉感的；舒适的；体态丰满的；令人舒服的
-# 例句
+##### 例句
 - Those dark Oriental eyes , he thought , how full they are of passion , of voluptuous longing !
 	- 那些黑色的东方眼睛，他想，它们充满了怎样的激情，怎样的撩人的欲望啊！
 - Her flamboyant image was attractive and inviting . She had a distinctive soft voice and a voluptuous figure . Between the years 1956 and 1957 Mansfield 's photo was published in over 2500 separate newspapers .

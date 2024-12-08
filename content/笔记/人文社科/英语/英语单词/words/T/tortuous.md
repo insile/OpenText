@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtɔːtʃuəs/； 美：/ˈtɔːrtʃuəs/
 - #词性/adj  曲折的；蜿蜒的；弯弯曲曲的；拐弯抹角的；含混不清的；逶迤的；冗长费解的
-# 例句
+##### 例句
 - The Chinese revolution has followed a long and tortuous course .
 	- 中国革命走过了漫长而曲折的道路。
 - Like every other activity in the world , revolution always follows a tortuous road and never a straight one .

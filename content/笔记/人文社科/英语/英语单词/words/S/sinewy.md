@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɪnjuːi/； 美：/ˈsɪnjuːi/
 - #词性/adj  肌肉发达的；强健的；矫健的
-# 例句
+##### 例句
 - His hard sinewy body advertised his ruthlessness of purpose .
 	- 他健硕的身体使他显得意志尤为坚强。
 - When muscles are exercised often and properly , they keep the arms firm and sinewy .

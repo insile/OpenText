@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/mæɡˈniːziəm/； 美：/mæɡˈniːziəm/
 - #词性/n  镁
-# 例句
+##### 例句
 - A lack of magnesium causes muscles to go into spasm .
 	- 缺镁会导致肌肉痉挛。
 - It has been suggested that magnesium form a chelated structure with the phosphate groups .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɑːʃl/； 美：/ˈmɑːrʃl/
 - #词性/adj  武术的；战争的，军事的，军队（生活）的；好战的，尚武的，勇敢的
-# 例句
+##### 例句
 - But Wednesday had a more martial feel , evident at the square 's entrance .
 	- 但在星期三广场入口处有明显战争的感觉。
 - Seigneurs supported and joined the construction of cities for their own political , economic and martial requires when cities were constructed in Western Europe in middle ages .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈraʊzl/； 美：/əˈraʊzl/
 - #词性/n  (性欲的)激起，激发；唤起;激起
-# 例句
+##### 例句
 - Individual difference , time pressure and information arousal methods have been widely used in this research field .
 	- 此外，个体差异比较、时间压力以及信息激起为研究情绪在个体判断和决策中的作用提供了很好的研究思路。
 - Four , subconscious arousal and strategy and research value .

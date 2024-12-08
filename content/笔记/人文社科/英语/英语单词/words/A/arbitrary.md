@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɑːbɪtrəri/； 美：/ˈɑːrbɪtreri/
 - #词性/adj  任意的；武断的；专横的；专制的；随心所欲的
-# 例句
+##### 例句
 - Load an arbitrary matrix to the current projection matrix .
 	- 加载一个任意的矩阵到当前的投影矩阵。
 - This element represents any arbitrary XML content in an XML Schema .

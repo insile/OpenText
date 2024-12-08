@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈæmstəˈdæm/； 美：/ˈæmstɚˌdæm/
 - #词性/n  阿姆斯特丹
-# 例句
+##### 例句
 - His flight to Amsterdam connects with an afternoon flight to New York .
 	- 他飞往阿姆斯特丹的班机与下午飞往纽约的一趟航班相衔接。
 - He went off to the Amsterdam Academy to improve his technique .

@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈerudaɪt/； 美：/ˈerudaɪt/
 - #词性/adj  博学；有学问的
 - #词性/n  有学问的人
-# 例句
+##### 例句
 - In a word , you are erudite and always open your eyes to new things .
 	- 总之，你是个博学的人，总是敞开胸怀对待新事物。
 - Without right methods , even a seeing erudite might feel his way as blind man does .

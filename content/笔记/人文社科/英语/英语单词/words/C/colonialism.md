@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəˈləʊniəlɪzəm/； 美：/kəˈloʊniəlɪzəm/
 - #词性/n  殖民主义
-# 例句
+##### 例句
 - It is interesting to reflect why European colonialism ended .
 	- 仔细想想欧洲殖民主义终结的原因会很有意思。
 - It is true that colonialism did not bequeath much to Africa .

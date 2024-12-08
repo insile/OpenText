@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnaɪɪlɪzəm/； 美：/ˈnaɪɪlɪzəm/
 - #词性/n  虚无主义
-# 例句
+##### 例句
 - Why should a great community like a university be afraid of nihilism ?
 	- 为什么像大学这样人才济济的社区要害怕虚无主义呢？
 - By contrast , the chilly Californian nihilism of Robinson Jeffers was a refreshing tonic .

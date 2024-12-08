@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪkˈspænʃənɪst/； 美：/ɪkˈspænʃənɪst/
 - #词性/adj  扩张主义的；扩张性的
 - #词性/n  扩张(主义者)
-# 例句
+##### 例句
 - All expansionist moves are doomed to failure .
 	- 一切扩张主义的行径是注定要失败的。
 - Fuelled by an expansionist military , the second Sino-Japanese War began in1937 .

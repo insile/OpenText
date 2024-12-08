@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/lest/； 美：/lest/
 - #词性/conj  以免；免得；(引出产生某种情感的原因)唯恐，担心
-# 例句
+##### 例句
 - Read in a good light lest it should hurt your eyes .
 	- 到明处来看书，免得搞坏了视力。
 - He wrote a letter home lest his parents worry .

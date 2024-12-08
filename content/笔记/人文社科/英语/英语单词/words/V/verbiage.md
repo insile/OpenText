@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɜːbiɪdʒ/； 美：/ˈvɜːrbiɪdʒ/
 - #词性/n  废话；冗词；赘语；晦涩
-# 例句
+##### 例句
 - He was a more than commonly candid English gentleman in his avowed dislike of the poet 's nonsense , verbiage and verse .
 	- 他比一般无偏见的英国绅士更加公然地宣称：他讨厌诗人的言之无物、冗词赘语和咬文嚼字。
 - Stripped of their pretentious verbiage , his statements come dangerously close to inviting racial hatred .

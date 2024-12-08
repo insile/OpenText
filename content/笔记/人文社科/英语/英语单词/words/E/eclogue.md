@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  牧歌；田园诗曲；田园诗；乙谷；牧歌体
-# 例句
+##### 例句
 - His oil painting works always flare with rational brilliance of realism as well as pure and fresh art color and lyric quality of eclogue .
 	- 他的油画作品，始终闪耀着现实主义的理性光辉，却又不乏清新秀婉的艺术情调和田园牧歌式的抒情品质。
 - Eclogue No.1 , for piano in F major .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɔːˈspɪʃəs/； 美：/ɔːˈspɪʃəs/
 - #词性/adj  吉祥的；吉利的
-# 例句
+##### 例句
 - A auspicious state resulting from favorable outcomes .
 	- 吉利的状态有好结果。
 - An auspicious beginning for the campaign .

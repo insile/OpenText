@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdɔːmənsi/； 美：/ˈdɔrmənsi/
 - #词性/n  休眠；睡眠；冬眠；隐匿；蛰伏
-# 例句
+##### 例句
 - It may also come to the point of virtual dormancy .
 	- 它也可以达到实际上的潜伏状态
 - During dormancy the plants must be kept very dry .

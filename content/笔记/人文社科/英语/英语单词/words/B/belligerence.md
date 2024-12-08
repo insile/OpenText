@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  好战；交战状态；好战性；斗争性
-# 例句
+##### 例句
 - North korea 's indigence is almost as scary as its belligerence .
 	- 朝鲜的贫乏几乎和其好战一样可怕。
 - So far , so consistent with North Korea 's traditional belligerence .

@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈpærəleld/； 美：/ʌnˈpærəleld/
 - #词性/adj  无与伦比的；空前的；无比的；无双的；绝无仅有的
-# 例句
+##### 例句
 - Pros : Excellent software management infrastructure , unparalleled customisation and tweaking options , superb online documentation
 	- 优点：优秀的软件管理基础设施，无与伦比的定制和调整方案，一流的在线文档
 - At number six , this natural wonder 's unparalleled beauty inspired the US government to create the world 's first national park , incredible natural geysers and wolf brought Yellowstone its fame .

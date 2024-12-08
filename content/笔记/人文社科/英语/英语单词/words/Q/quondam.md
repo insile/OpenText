@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  以前的任职者；前任
 - #词性/adj  曾经是(演员,朋友等)的；以前的
-# 例句
+##### 例句
 - We need not the quondam image or the watermarking image when extracting , so the algorithm is one of the blind watermarking algorithms .
 	- 水印的提取不需要原图像和水印图像，因此该算法属于全公开水印算法。
 - The quondam logistics mode of the auto enterprises and out-dated informationalized facilities are restricting the development of the enterprise logistics .

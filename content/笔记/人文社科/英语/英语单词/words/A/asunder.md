@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈsʌndə(r)/； 美：/əˈsʌndər/
 - #词性/adv #词性/adj  成数部分，成数块；位置上互相隔开
-# 例句
+##### 例句
 - The debate is tearing Wall Street asunder .
 	- 这场争论令华尔街分崩离析。
 - The curtains had been drawn asunder .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  偏侧化；偏侧性；一侧化；偏利
-# 例句
+##### 例句
 - Laterality effects of matching Chinese words and event-related potentials
 	- 汉字词匹配的偏侧化效应和事件相关脑电位
 - It 's same as the alphabetic language in laterality for Chinese cognition .

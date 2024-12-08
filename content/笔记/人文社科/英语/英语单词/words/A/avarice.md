@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈævərɪs/； 美：/ˈævərɪs/
 - #词性/n  贪婪；(对钱财的)贪得无厌
-# 例句
+##### 例句
 - Avarice is the bane to happiness .
 	- 贪婪是损毁幸福的祸根。
 - Love is always a stranger in the home of avarice .

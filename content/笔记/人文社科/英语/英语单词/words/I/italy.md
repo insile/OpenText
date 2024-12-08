@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'ɪtəlɪ/； 美：/'ɪtəlɪ/
 - #词性/n  意大利（欧洲）
-# 例句
+##### 例句
 - In Italy the average life of a government is eleven months .
 	- 意大利每届政府的平均寿命是十一个月。
 - Their move from Italy to the US has not been a success .

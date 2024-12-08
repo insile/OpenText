@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈstɒnɪʃmənt/； 美：/əˈstɑːnɪʃmənt/
 - #词性/n  惊讶；惊异
-# 例句
+##### 例句
 - To my utter astonishment , she remembered my name .
 	- 她竟记得我的名字，使我万分惊讶。
 - They gasped in astonishment at the news .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbeɪnfl/； 美：/ˈbeɪnfl/
 - #词性/adj  邪恶的；引起灾祸的
-# 例句
+##### 例句
 - Lower share prices have baneful effect for companies too .
 	- 更低的股价同样会有损各企业。
 - Design of instrument for monitoring nuclear radiation and baneful gas

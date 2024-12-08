@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkɒndɪˈsenʃn/； 美：/ˌkɑːndɪˈsenʃn/
 - #词性/n  屈尊；俯就；傲慢
-# 例句
+##### 例句
 - Her smile was a mixture of pity and condescension .
 	- 她的微笑中夹杂着怜悯与傲慢。
 - There was a tinge of condescension in her greeting .

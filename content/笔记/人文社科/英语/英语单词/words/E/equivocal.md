@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈkwɪvəkl/； 美：/ɪˈkwɪvəkl/
 - #词性/adj  模棱两可的；含糊其辞的；难以理解的；难以解释清楚的；意义双关的
-# 例句
+##### 例句
 - His equivocal response has done nothing to dampen the speculation .
 	- 他模棱两可的回应丝毫没有消除人们的猜疑。
 - Management of Yidelong : Speaking with numbers , equivocal report , account and study are nonsense and useless work , only action can prove all .

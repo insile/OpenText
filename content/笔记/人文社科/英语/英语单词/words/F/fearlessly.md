@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  无畏；勇敢地；大胆地
-# 例句
+##### 例句
 - Who put his questions to nature instead of to the ancients , and who drew his conclusions fearlessly .
 	- 他向自然界而不是向古人提出问题，并大胆地得出结论。
 - The more mundane stuff I keep to myself , so you can follow fearlessly !

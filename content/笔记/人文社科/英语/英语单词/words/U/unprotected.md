@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnprəˈtektɪd/； 美：/ˌʌnprəˈtektɪd/
 - #词性/adj  未受保护的；无防护的；未设防的；无掩护的；未用避孕套的；无防护罩的
-# 例句
+##### 例句
 - Also , erecting seawalls to protect Manhattan could simply divert the surge to other unprotected areas of the city , exacerbating flooding in those boroughs .
 	- 此外，建设海堤以保护曼哈顿仅仅可能将洪水引到这个城市其他未受保护的区域，加剧这些地区的灾害程度。
 - Reduced death and illness in children could shift malaria to unprotected older children and adults , who will be absent from work and be unable to care for young children and pregnant women .

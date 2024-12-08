@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fləʊ/； 美：/floʊ/
 - #词性/n  浮冰；大浮冰
-# 例句
+##### 例句
 - Two Atlantic walruses snuggle on an ice floe near Igloolik , Nunavut , Canada .
 	- 加拿大努勒维特伊格卢利克附近，两头大西洋海象在浮冰上相互偎依
 - The objective of the fourth chapter is floe size distribution .

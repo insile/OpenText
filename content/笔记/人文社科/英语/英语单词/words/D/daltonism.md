@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  色盲；先天性红绿色盲
-# 例句
+##### 例句
 - This is very obvious in genetic diseases , such as familial high blood pressure , daltonism and hemophilia and so on .
 	- 这在一些遗传性疾病中就很明显，如家族性高血压、红绿色盲、血友病等。
 - And he developed the understanding of red-green colorblindness , and it is known as Daltonism .

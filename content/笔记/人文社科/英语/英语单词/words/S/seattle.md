@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/sɪˈæt(ə)l/； 美：/siˈætəl/
 - #词性/n  西雅图
-# 例句
+##### 例句
 - We travelled around for a while and landed up in Seattle .
 	- 我们到处旅游了一段时间，最后抵达西雅图。
 - He 'd gone to Seattle long after everything else in his life had changed

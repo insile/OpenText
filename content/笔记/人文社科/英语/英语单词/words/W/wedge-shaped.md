@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/wedʒ ʃeɪpt/； 美：/wedʒ ʃeɪpt/
 - #词性/adj  楔形；V形的
-# 例句
+##### 例句
 - A clinical comparative study of two materials used for restoring wedge-shaped defect
 	- 两种材料修复楔状缺损的临床对比研究
 - Geomechanical model test research on stability of reinforced wedge-shaped rock slope

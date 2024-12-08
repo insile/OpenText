@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  贝壳屑；牡蛎卵块；垃圾
-# 例句
+##### 例句
 - Dynamic Design of Frictional Cultch in Mine Locomotives Based on Pro \/ E and Snag IT
 	- 基于Pro\/E和SnagIT的矿用机车摩擦离合器动态设计
 - A male hermit crab had found a very big cultch , was then clean the shell cleaning up , has made own house .

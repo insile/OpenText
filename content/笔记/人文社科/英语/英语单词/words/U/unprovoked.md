@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnprəˈvəʊkt/； 美：/ˌʌnprəˈvoʊkt/
 - #词性/adj  无端的；无缘无故的；未受挑衅的
-# 例句
+##### 例句
 - Of course , the US could launch an unprovoked blockade or even war against China or India .
 	- 当然，美国可能对中国或印度进行无缘无故的封锁，甚至挑起战端。
 - Police claimed they were forced to fire after coming under unprovoked attack .

@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/hjuːˈmeɪn/； 美：/hjuːˈmeɪn/
 - #词性/adj  人道的；仁慈的；善良的
-# 例句
+##### 例句
 - A humane society always does well by its old people .
 	- 一个仁慈的社会对待老人总是很好。
 - Humane people are considerate of not only other people but also animals .

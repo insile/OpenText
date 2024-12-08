@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɒnərəri/； 美：/ˈɑːnəreri/
 - #词性/adj  荣誉的；名誉的；义务的；无报酬的；被待作…成员的
 - #词性/n  名誉学位；名誉团体；获名誉学位者；同“honorarium”
-# 例句
+##### 例句
 - Many pass their honorary Cockney titles on from parent to child .
 	- 许多小贩将这种象征荣誉的考克尼人头衔传给下一代。
 - Of the hereditary aristocracy or ruling class of ancient Rome or medieval Europe ; of honorary nobility in the Byzantine empire .

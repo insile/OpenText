@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  可罚款的，该罚款的；可精制的；可提炼的
-# 例句
+##### 例句
 - Application of Finable Penalty to Trial Practice
 	- 审判实践中罚金刑的适用
 - The current criminal law widens the applicable range of finable penalty and strengthens its power of application , and it is a trend to lighten and economize the penalty .

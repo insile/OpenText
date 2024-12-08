@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnaɪttaɪm/； 美：/ˈnaɪtˌtaɪm/
 - #词性/n  黑夜；夜间
 - #词性/adj  夜间的；夜里发生的
-# 例句
+##### 例句
 - When it 's nighttime , try to sleep .
 	- 夜间尝试入睡。
 - Frogs living near brightly lit highways suffer nocturnal light levels that are as much as a million times brighter than normal , throwing nearly every aspect of their behavior out of joint , including   their   nighttime   breeding   choruses .

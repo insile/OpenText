@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  业余爱好的；职业；嗜好的
-# 例句
+##### 例句
 - You might call it an avocational hazard .
 	- 你可以将之称为一心两用的危险。
 - On balance , technology is letting people link up with more and more people who share a vocational or avocational interest .

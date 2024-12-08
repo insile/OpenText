@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɑːðəli/； 美：/ˈfɑːðərli/
 - #词性/adj  父亲的；慈父般的
-# 例句
+##### 例句
 - He takes his fatherly role very seriously and considers it his most important job .
 	- 实际上，他很在意父亲的角色，把它看作是自己最重要的工作。
 - His fatherly concern forbids him to leave the house at such a time .

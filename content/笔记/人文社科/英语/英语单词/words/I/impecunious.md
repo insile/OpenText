@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪmpɪˈkjuːniəs/； 美：/ˌɪmpɪˈkjuːniəs/
 - #词性/adj  贫穷的；不名一文的；穷困潦倒的
-# 例句
+##### 例句
 - Cecil Fridjohn , my father , came from an impecunious Irish Jewish family .
 	- 塞西尔·弗雷特，我的父亲，来自贫穷的爱尔兰的犹太家庭。
 - This will allow the impecunious members to pay off bad cheques and mortgages , in effect borrowing against the resources of the others .

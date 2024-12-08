@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbaʊndləs/； 美：/ˈbaʊndləs/
 - #词性/adj  无限的；无止境的
-# 例句
+##### 例句
 - The work demanded boundless energy and theatrical imagination
 	- 这种工作需要具备无限的精力和夸张的想象力。
 - The masses have boundless creative power .

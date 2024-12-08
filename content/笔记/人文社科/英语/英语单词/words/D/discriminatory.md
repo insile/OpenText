@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈskrɪmɪnətəri/； 美：/dɪˈskrɪmɪnətɔːri/
 - #词性/adj  歧视性的；歧视的；不公正的；区别对待的
-# 例句
+##### 例句
 - It is inappropriate for a judge to belong to a discriminatory club .
 	- 法官参加一个带歧视性的俱乐部是不合适的。
 - Regional and discriminatory solutions make less sense .

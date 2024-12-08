@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pəˈpuːs/； 美：/pəˈpuːs/
 - #词性/n  婴儿袋，婴儿兜(可背负或放在胸前)
-# 例句
+##### 例句
 - We can make him a Papoose and take him traveling with us .
 	- 我们可以背着他跟我们一起去旅行。
 - Now we got that Papoose to put up with .

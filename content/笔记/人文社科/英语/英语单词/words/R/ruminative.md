@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈruːmɪnətɪv/； 美：/ˈruːmɪneɪtɪv/
 - #词性/adj  沉思的；冥思苦想的
-# 例句
+##### 例句
 - He was uncharacteristically depressed and ruminative .
 	- 他异常沮丧，反复琢磨。
 - The sun was bright , but I was in a ruminative mood .

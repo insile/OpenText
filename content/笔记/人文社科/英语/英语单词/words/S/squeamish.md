@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈskwiːmɪʃ/； 美：/ˈskwiːmɪʃ/
 - #词性/adj  神经脆弱的；神经脆弱的人；正派的；易心烦意乱的人；易心烦意乱的；易恶心的；诚实谨慎的
-# 例句
+##### 例句
 - This movie is not for the squeamish .
 	- 这部电影不是给神经脆弱的人看的。
 - I 'm very squeamish and when I see needles I run a mile .

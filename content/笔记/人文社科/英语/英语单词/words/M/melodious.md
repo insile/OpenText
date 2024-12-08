@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/məˈləʊdiəs/； 美：/məˈloʊdiəs/
 - #词性/adj  悠扬的；悦耳的；优美动听的；像音乐的
-# 例句
+##### 例句
 - You look like a melodious madrigal , beautiful snowy mountain , beautiful prairie .
 	- 你象一只悠扬的牧歌，美了雪山，美了草原。
 - Melodious sound that will never wind around in my ear .

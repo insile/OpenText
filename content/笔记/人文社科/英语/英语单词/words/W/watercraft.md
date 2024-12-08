@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  船舶；水运工具；船（舶）；筏
-# 例句
+##### 例句
 - Design of the Command Control Subsystem of a Watercraft Simulation Training System
 	- 船艇模拟训练指挥控制分系统的设计
 - A Discussion on Quality Education in Watercraft Principle Curriculum Teaching

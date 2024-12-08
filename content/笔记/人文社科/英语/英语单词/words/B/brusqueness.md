@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  唐突；无礼
-# 例句
+##### 例句
 - His brusqueness is really rather off-putting .
 	- 他的粗暴无礼实在令人讨厌。
 - His antagonizing brusqueness ; a speech that was antagonizing to many voters .

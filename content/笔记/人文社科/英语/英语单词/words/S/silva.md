@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɪlvə/； 美：/ˈsɪlvə/
 - #词性/n  西尔瓦；森林里的树木，森林，森林志
-# 例句
+##### 例句
 - President Silva said the country faced a huge challenge .
 	- 席尔瓦总统表示，葡萄牙面临巨大的挑战。
 - Da Silva said there 's been a change in the distribution of hungry people .

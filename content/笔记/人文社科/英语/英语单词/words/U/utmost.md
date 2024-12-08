@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈʌtməʊst/； 美：/ˈʌtmoʊst/
 - #词性/adj  最大的；极度的
 - #词性/n  最大限度；极限；最大可能；最大量
-# 例句
+##### 例句
 - Without problem , the utmost problem .
 	- 没有问题是最大的问题。
 - We will expeditiously facilitate trade transactions with the utmost professionalism .

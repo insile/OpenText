@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  间冰期的
-# 例句
+##### 例句
 - Compared with deep sea oxygen isotope , sporopollen complex in Xinxiang is highly affected by ice age and interglacial stage .
 	- 新乡地区孢粉组合与深海氧同位素对比，受冰期-间冰期的影响较显著。
 - Fortunately , in some special areas of China , there are some thick loess profiles with higher resolution and sedimentary rate , which were formed in the last interglacial .

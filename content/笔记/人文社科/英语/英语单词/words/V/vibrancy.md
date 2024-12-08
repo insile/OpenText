@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  活力；振动；活跃；生机勃勃
-# 例句
+##### 例句
 - I enjoy the vibrancy of the city , its food and culture .
 	- 我喜欢这座城市的活力，还有它的美食与文化。
 - Vibrancy and innovation can bloom even in hard times .

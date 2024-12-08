@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈlæs/； 美：/əˈlæs/
 - #词性/int  (表示悲伤或遗憾)哎呀，唉
-# 例句
+##### 例句
 - Alas , it 's not that simple .
 	- 哎呀，事情不是那么简单的。
 - Alas the day ! We have lost such a good chance .

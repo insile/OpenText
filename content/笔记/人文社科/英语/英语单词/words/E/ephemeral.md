@@ -7,11 +7,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈfemərəl/； 美：/ɪˈfemərəl/
 - #词性/adj  短暂的；瞬息的
 - #词性/n  生命短暂的事物；短生植物
-# 例句
+##### 例句
 - He talked about the country 's ephemeral unity being shattered by the defeat
 	- 他谈到战败使得该国短暂的统一彻底破灭。
 - These paintings are in some ways a reminder that earthly pleasures are ephemeral .

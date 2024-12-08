@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡeərɪʃ/； 美：/ˈɡerɪʃ/
 - #词性/adj  花哨的；炫目的；俗艳的
-# 例句
+##### 例句
 - They climbed the garish purple-carpeted stairs .
 	- 他们登上铺着俗艳的紫色地毯的楼梯。
 - In general avoid dressing in loud , garish clothes that would prove distracting to the interviewer .

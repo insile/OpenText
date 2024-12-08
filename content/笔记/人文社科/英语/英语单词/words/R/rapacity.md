@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rəˈpæsəti/； 美：/rəˈpæsəti/
 - #词性/n  贪婪；贪得无厌
-# 例句
+##### 例句
 - He argued that the overcrowded cities were the product of a system based on ' selfishness ' and ' rapacity ' .
 	- 他认为，过于拥挤的城市是一个建立在“自私”和“贪婪”基础上的体系的产物。
 - Here was neither guile nor rapacity .

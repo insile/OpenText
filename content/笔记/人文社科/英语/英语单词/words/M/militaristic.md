@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmɪlɪtəˈrɪstɪk/； 美：/ˌmɪlɪtəˈrɪstɪk/
 - #词性/adj  军国主义的
-# 例句
+##### 例句
 - Now , when we talk about arguments , yeah , we talk in a very militaristic language .
 	- 如今当我们谈起辩论，我们就会进入一种军国主义的论调。
 - Some reports called it " militaristic ", but that is too flattering .

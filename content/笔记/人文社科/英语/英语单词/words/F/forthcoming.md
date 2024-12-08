@@ -7,11 +7,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌfɔːθˈkʌmɪŋ/； 美：/ˌfɔːrθˈkʌmɪŋ/
 - #词性/adj  即将到来的；即将发生(或出版等)的；现成；随要随有；乐于提供信息
 - #词性/n  来临
-# 例句
+##### 例句
 - After studying the lessons drawn from previous failures , the coach pulled his team together for the forthcoming tournament .
 	- 教练研究了前几次失败的教训之后，要队员们齐心协力，投入到即将到来的锦标赛。
 - Concentrate more on the reserves in the forthcoming training for the week .

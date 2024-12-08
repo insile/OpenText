@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈklemənt/； 美：/ɪnˈklemənt/
 - #词性/adj  恶劣的(指寒冷的、潮湿的等)
-# 例句
+##### 例句
 - The inclement weather brought forth a host of diseases .
 	- 恶劣的天气引起了种种疾病。
 - This article describes the general human nature in inclement situations

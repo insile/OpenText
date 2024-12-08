@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈplɔːzəbl/； 美：/ɪmˈplɔːzəbl/
 - #词性/adj  似乎不合情理的；不像真实的
-# 例句
+##### 例句
 - It was all highly implausible .
 	- 这毫无道理。
 - It seems implausible that the projects would have gone ahead without her backing .

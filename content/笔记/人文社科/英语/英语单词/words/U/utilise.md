@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'ju:təlaɪz/； 美：/'ju:təlaɪz/
 - #词性/v  利用；使用；应用；运用
-# 例句
+##### 例句
 - Sustainable development has become an effective way to development and utilise mineral resources .
 	- 可持续发展便成为开发利用矿产资源的有效途径。
 - Means to develop and utilise on-line information resources of the library

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈtɪnjuəs/； 美：/kənˈtɪnjuəs/
 - #词性/adj  连续的；持续的；不断的；延伸的；频繁的；反复的；遍布的
-# 例句
+##### 例句
 - Under TQM principles the search for quality is continuous .
 	- 在全面质量管理原则下，对质量的追求是持续不断的。
 - Residents report that they heard continuous gunfire .

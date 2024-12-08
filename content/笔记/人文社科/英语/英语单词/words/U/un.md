@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌjuː ˈen/； 美：/ˌjuː ˈen/
 - #词性/abbr  联合国
-# 例句
+##### 例句
 - A UN force has been sent to keep the peace .
 	- 一支联合国部队被派出维护和平。
 - The UN has agreed to allow the supply of emergency aid .

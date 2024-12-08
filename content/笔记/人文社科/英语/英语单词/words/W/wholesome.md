@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhəʊlsəm/； 美：/ˈhoʊlsəm/
 - #词性/adj  有益健康的；有道德的；有良好道德影响的
-# 例句
+##### 例句
 - Water is a wholesome drink .
 	- 水是有益健康的饮料。
 - Would it not be better if they spent more money on wholesome things like oranges and wholemeal bread ?

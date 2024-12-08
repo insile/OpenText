@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ræmˈbʌŋkʃəs/； 美：/ræmˈbʌŋkʃəs/
 - #词性/adj  喧闹的；欢闹的；喧闹而活跃的
-# 例句
+##### 例句
 - It 's not the chirping , rambunctious play that they did when they first arrived .
 	- 他们现在已经不像刚开始见面那会儿，总是冲着对方乱叫，或者在玩耍时动作粗暴。
 - those rambunctious children , eager to travel the world with their parents .

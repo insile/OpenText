@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈneɪn/； 美：/ɪˈneɪn/
 - #词性/adj  空洞的，无意义的；愚蠢的，傻的；空虚的；空的；无实体的
 - #词性/n  空洞之物，无实体之物；空间，太空，无垠空间
-# 例句
+##### 例句
 - She started asking me inane questions .
 	- 她开始问我愚蠢的问题。
 - Where Americans might coo over a child 's most inane remark , to boost his confidence , middle-class French parents teach their kids to be concise and amusing , to keep everyone listening .

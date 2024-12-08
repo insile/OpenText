@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/spraɪ/； 美：/spraɪ/
 - #词性/adj  (尤指老人)精力充沛的，充满活力的
-# 例句
+##### 例句
 - The old gentleman was as spry as ever .
 	- 这位老先生依然健旺。
 - He's70 years old , but very spry .

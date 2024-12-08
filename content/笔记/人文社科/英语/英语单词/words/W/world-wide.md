@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/wɜːld waɪd/； 美：/wɜːrld waɪd/
 - #词性/adv  遍及全世界地;世界各地地
 - #词性/adj  全世界(范围)的；(名声等)传遍世界的
-# 例句
+##### 例句
 - The money came from world-wide contribution .
 	- 这笔钱是世界各地捐赠的。
 - That would make you young , creative , connected , world-wide , and no doubt smart .

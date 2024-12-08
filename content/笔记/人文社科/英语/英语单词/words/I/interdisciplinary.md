@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪntədɪsəˈplɪnəri/； 美：/ˌɪntərˈdɪsəplɪneri/
 - #词性/adj  跨学科的；多学科的
-# 例句
+##### 例句
 - Therefore its research methods have interdisciplinary characteristics .
 	- 因此，景观生态学的研究方法也相应地具有多学科的特点。
 - Cross-discipline research method : use of interdisciplinary theory and method for integrated research as a whole .

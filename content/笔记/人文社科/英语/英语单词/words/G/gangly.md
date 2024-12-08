@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈgæŋli/； 美：/ˈgæŋli/
 - #词性/adj  瘦高而笨拙的
-# 例句
+##### 例句
 - The fourth part is the research of a specific case , analyzing the strategic choices of the Guangzhou Gangly Fair Company .
 	- 第四部分为个案研究，以广州光亚展览公司为例，结合上述理论，分析其战略选择。
 - I had never seen a chap as tall and gangly as he was .

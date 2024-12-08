@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɔɪllɪs/； 美：/ˈsɔɪləs/
 - #词性/adj  不用泥土的；无污点的
-# 例句
+##### 例句
 - Study on the feasible parameter of substrate quality for soilless culture
 	- 无土栽培基质的质量参数（孔隙性）研究
 - The primary study of soilless culture techniques of some plants

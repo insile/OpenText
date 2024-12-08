@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkɒmprɪˈhensəbl/； 美：/ˌkɑːmprɪˈhensəbl/
 - #词性/adj  可理解的；能懂的
-# 例句
+##### 例句
 - Reason , which is a function of memory , organizes perceptions into comprehensible patterns .
 	- 理性是一种记忆功能，将感知组织成可理解的模式。
 - " comprehensible input " is the sole source of language acquisition .

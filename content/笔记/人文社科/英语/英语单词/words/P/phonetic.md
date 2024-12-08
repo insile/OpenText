@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fəˈnetɪk/； 美：/fəˈnetɪk/
 - #词性/adj  语音的；音标的；表示语音的；与发音近似的
-# 例句
+##### 例句
 - The opposite of Queen 's English is American English , which is based on the American phonetic alphabets .
 	- 与“英语普通话”相对立的是基于美式音标的美国英语。
 - That means creating a written form of the language , which the researchers do using what is known as the International Phonetic Alphabet .

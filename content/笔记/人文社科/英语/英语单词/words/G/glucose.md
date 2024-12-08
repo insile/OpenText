@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡluːkəʊs/； 美：/ˈɡluːkoʊs/
 - #词性/n  葡萄糖；右旋糖
-# 例句
+##### 例句
 - Glucose is soluble in water .
 	- 葡萄糖可溶于水。
 - Diabetics cannot metabolise glucose properly .

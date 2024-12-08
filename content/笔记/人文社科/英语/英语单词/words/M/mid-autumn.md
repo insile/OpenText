@@ -5,9 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/mɪd ˈɔːtəm/； 美：/mɪd ˈɔːtəm/
-# 例句
+- #词性/adj  中秋的
+- #词性/n  中秋
+##### 例句
 - After the Mid-Autumn festival , it became increasingly cool .
 	- 过了中秋，天气愈加凉快了。
 - The Mid-Autumn Festival is coming .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  吸湿的
-# 例句
+##### 例句
 - The Improvement on the Determining Method of Hygroscopic Water of the Soil
 	- 土壤吸湿水测定方法的改进
 - A Study of Hygroscopic Properties of Modified Soybean Protein Fiber

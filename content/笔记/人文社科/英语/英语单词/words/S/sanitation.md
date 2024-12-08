@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsænɪˈteɪʃn/； 美：/ˌsænɪˈteɪʃn/
 - #词性/n  卫生设备；卫生设施体系；卫生设备和系统
-# 例句
+##### 例句
 - North European Sanitation , heating , Plumbing and Air-Conditioning Fair .
 	- 汉堡北欧卫生设备，制热，管道设备和空调设备展。
 - Sanitation facilities - people are defecating in open spaces .

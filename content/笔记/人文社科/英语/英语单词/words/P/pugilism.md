@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  拳击；拳击术
-# 例句
+##### 例句
 - Pugilism World in the Visual Field of the Theory of " Possible Worlds "
 	- 可能世界理论视野中的武侠世界
 - But I would like to present * One of the immortals of pugilism .

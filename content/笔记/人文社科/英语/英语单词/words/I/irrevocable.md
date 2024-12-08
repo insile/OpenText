@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈrevəkəbl/； 美：/ɪˈrevəkəbl/
 - #词性/adj  不可撤销的；不可更改的；无法改变的
-# 例句
+##### 例句
 - The bank has made out an irrevocable letter of credit .
 	- 银行开出了不可撤销的信用证[状]。
 - In general , payment will be made by irrevocable letter of Credit negotiable against presentation of shipping documents .

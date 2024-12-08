@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  埃利奥特
-# 例句
+##### 例句
 - That was the first time Elliot stayed out all night
 	- 那是埃利奥特第一次彻夜未归。
 - Elliot is at least two people .

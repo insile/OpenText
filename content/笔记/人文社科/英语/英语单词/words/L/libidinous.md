@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/lɪˈbɪdɪnəs/； 美：/lɪˈbɪdɪnəs/
 - #词性/adj  好色的；淫荡的；性欲强的
-# 例句
+##### 例句
 - In contrast , New England , with its freezing temperatures and parka-wearing populace , was home to many of the least libidinous cities .
 	- 相比之下，天气严寒、居民需穿风雪大衣出行的新英格兰地区中的许多城市都位居最不性感城市之列。
 - Unlike those for car insurance , the premiums are flat rates : the libidinous will pay the same as the uxorious .

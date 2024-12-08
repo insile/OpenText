@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  游牧；漫游（现象）；游牧方式（生活）；游牧制
-# 例句
+##### 例句
 - Another dimension of flexibility and mobility ? Or the end of nomadism ?
 	- 是另一种弹性和移动？还是标志着游牧的结束
 - It'should be cavalry Jian.The copper nail on grip has nomadism style .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  反复无常；易变；不规则；不坚定；无恒心
-# 例句
+##### 例句
 - On the other hand , inconstancy often results in failure .
 	- 从另一方面说，无恒就往往会造成失败。
 - Inconstancy is the cause of disaster , which results in separation and death .

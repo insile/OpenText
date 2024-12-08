@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈstændˈɔːfɪʃ/； 美：/ˈstænˌdɔfɪʃ/
 - #词性/adj  冷漠的;冷淡的;疏远的
-# 例句
+##### 例句
 - Example : She never speaks to us at work ; she 's so standoffish .
 	- 她在工作中从不和我们说话，她真冷漠。
 - She was growing a little less standoffish .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/wɔːmθ/； 美：/wɔːrmθ/
 - #词性/n  温暖；热情；暖和；友情
-# 例句
+##### 例句
 - He led the child into the warmth and safety of the house .
 	- 他把这孩子领到家里享受温暖和安全。
 - She felt the warmth of his arms around her .

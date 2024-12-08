@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  狂热地；兴奋地；发热地
-# 例句
+##### 例句
 - The team worked feverishly to the November deadline .
 	- 这个队抢在十一月最后期限前拼命工作。
 - Her mind raced feverishly .

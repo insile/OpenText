@@ -7,11 +7,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈærəbl/； 美：/ˈærəbl/
 - #词性/adj  耕作的；可耕的；适于耕种的
 - #词性/n  (可)耕地
-# 例句
+##### 例句
 - He farmed 200 acres of prime arable land .
 	- 他耕种了200英亩良田。
 - The terrain changed quickly from arable land to desert .

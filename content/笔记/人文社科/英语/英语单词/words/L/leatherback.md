@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈleðəbæk/； 美：/ˈleðərbæk/
 - #词性/n  棱皮龟；革龟
-# 例句
+##### 例句
 - They warn that leatherback turtles around the world will disappear if current fishing methods continue .
 	- 他们警告说，如果还保持现有的捕鱼方法不变，那么世界上的棱皮龟将会绝迹。
 - They are calling for new fishing agreements to save the leatherback turtles .

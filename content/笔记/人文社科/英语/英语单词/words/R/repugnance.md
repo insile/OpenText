@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈpʌɡnəns/； 美：/rɪˈpʌɡnəns/
 - #词性/n  厌恶；恶心；强烈的反感；嫌恶
-# 例句
+##### 例句
 - He screwed up his face in an expression of utter repugnance .
 	- 他皱起眉头显出一副极其厌恶的表情。
 - The old lady 's face creased into furrows of repugnance , and she made no further reply .

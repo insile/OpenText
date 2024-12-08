@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈzeləs/； 美：/ˈzeləs/
 - #词性/adj  热心的；热情的；热烈的；充满激情的
-# 例句
+##### 例句
 - 185 . The zealous dealer has an ideal idea of dealing with the meal .
 	- 185.热心的商人有一个处理膳食的理想主意。
 - Well after she wastaken into custodyby an over zealous police officer .

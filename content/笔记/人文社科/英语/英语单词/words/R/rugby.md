@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈrʌɡbi/； 美：/ˈrʌɡbi/
 - #词性/n  橄榄球；橄榄球运动
-# 例句
+##### 例句
 - The next Rugby World Cup will take place in three years ' time .
 	- 下一届橄榄球世界杯赛将于三年后举行。.
 - New Zealand is at the top of the pecking order of rugby nations .

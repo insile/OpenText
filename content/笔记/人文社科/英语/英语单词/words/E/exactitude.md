@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪɡˈzæktɪtjuːd/； 美：/ɪɡˈzæktɪtuːd/
 - #词性/n  精确；精确性；准确性；严密性
-# 例句
+##### 例句
 - The Exactitude Design of Mechanism by Graphical Method in AutoCAD
 	- AutoCAD环境下机构图解法的精确设计
 - This shift model is very important to ensure the exactitude of edge drop control .

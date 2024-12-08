@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɒpɪt/； 美：/ˈmɑːpɪt/
 - #词性/n  (可爱的)小孩，小娃娃，小女孩
-# 例句
+##### 例句
 - The originality of the botanic moppet seems to come from the folk fairy tale which believes that everything has a life .
 	- 娃娃树的创意似乎来自万物有灵的古老民间童话。
 - Maybe it is through the visual enjoyment of this mascot-like moppet has wanted the author to fancy about a world of pleasure .

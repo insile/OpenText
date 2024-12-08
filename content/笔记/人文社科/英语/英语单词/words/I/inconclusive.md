@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnkənˈkluːsɪv/； 美：/ˌɪnkənˈkluːsɪv/
 - #词性/adj  不确定的；非决定性的；无定论的
-# 例句
+##### 例句
 - Do the troubleshooting instructions produce inconclusive results or contain faulty logic ?
 	- 排故手册内容是否得出不确定的结论或逻辑错误？
 - Blind spots : monitoring some , but not all of an environment leads to inconclusive results during analysis

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪɡˈnəʊbl/； 美：/ɪɡˈnoʊbl/
 - #词性/adj  卑鄙的；不光彩的；卑劣的；不诚实的
-# 例句
+##### 例句
 - ignoble thoughts .
 	- 卑鄙的想法
 - Especially , he has just rescued me , it 's ignoble to do so .

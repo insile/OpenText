@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/sə'fɪʃ(ə)ntlɪ/； 美：/sə'fɪʃ(ə)ntli/
 - #词性/adv  足以；充分地；十分；最大限度地
-# 例句
+##### 例句
 - My income is not sufficiently great to support my family .
 	- 我的收不足以供养我的家庭。
 - The surface has been heated sufficiently to initiate vertical motion .

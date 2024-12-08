@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnɪɡədli/； 美：/ˈnɪɡərdli/
 - #词性/adj  吝啬的；小气的；（在数量或金额上）很少的，微薄的；抠门儿的；不大度的；不值钱的
 - #词性/adv  <古>小气地，吝啬地
-# 例句
+##### 例句
 - The niggardly husband never gave her enough money for food .
 	- 小气的丈夫从不给她足够的钱买食品。
 - Officials say the EU , which is supposed to provide most of the food needs , is being particularly niggardly .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪsˈkʌmfɪtʃə(r)/； 美：/dɪsˈkʌmfɪtʃər/
 - #词性/n  尴尬；困惑
-# 例句
+##### 例句
 - He may laugh at our discomfiture now , but before long he 'll be laughing on the other side of his face .
 	- 他现在可以对我们幸灾乐祸，但是要不了多久他就会转喜为忧。
 - I laughed my head off when I heard of his discomfiture .

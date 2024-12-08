@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  获得；得到；证得
-# 例句
+##### 例句
 - The internal and external factors that affected thermal-expansion property of millet starch were systematically studied after the obtainment of quality indicators through statistical analysis .
 	- 本文经统计分析得到米饼品质的表征指标后系统地研究了影响小米淀粉热膨化性质的内因及外因。
 - In our country , the equity of health services is one of central tasks of current health system reform , and assurance to the obtainment of equal and effective health services for everyone in society is one of the government 's important goals in health .

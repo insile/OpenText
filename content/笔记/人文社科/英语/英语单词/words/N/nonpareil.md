@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌnɒnpəˈreɪl/； 美：/ˌnɑːnpəˈrel/
 - #词性/n  无与伦比的人(或事物)
 - #词性/adj  无比的；无上的
-# 例句
+##### 例句
 - We may have to agree that the noble Lord is not precisely a nonpareil as a departmental minister .
 	- 我们也许只能一致认定；这位高贵的勋爵作为一位大臣不一定算得全善全美。
 - Altogether Fritz and Nonpareil both had stronger resistant drought adaptation .

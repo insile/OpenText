@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈprəʊlɪks/； 美：/ˈproʊlɪks/
 - #词性/adj  冗长乏味的；繁琐的；啰唆的
-# 例句
+##### 例句
 - Too much speaking makes it a little prolix .
 	- 说那么多，有些罗嗦了。
 - Her style is tediously prolix .

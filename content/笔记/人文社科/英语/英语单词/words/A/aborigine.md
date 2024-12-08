@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌæbəˈrɪdʒəni/； 美：/ˌæbəˈrɪdʒəni/
 - #词性/n  土著；澳大利亚土著；原住居民；土人
-# 例句
+##### 例句
 - Decorative Art of Aborigine in Australia
 	- 澳大利亚土著装饰艺术
 - Wang Ping : A girl and an aborigine put together the whole per-formance , which gave prominence to the humanistic spirit .

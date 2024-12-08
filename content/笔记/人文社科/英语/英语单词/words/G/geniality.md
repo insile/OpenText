@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  亲切；和蔼；友好
-# 例句
+##### 例句
 - His protruding eyes , that gave such an unusual , foreign appearance to his very dark face , radiated geniality .
 	- 他那双爆眼睛，使他那张很黝黑的脸看上去很别致的味儿，闪着和蔼的光芒。
 - Even to himself the geniality rang false and he came to a stop .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌlɪθəʊˈgræfɪk/； 美：/ˌlɪθəˈgræfɪk/
 - #词性/adj  平版印刷的；平版印刷；微影；石版印刷
-# 例句
+##### 例句
 - The act of making a lithographic print .
 	- 制作平版印刷品的艺术。
 - STEVE EMBER : The lithographic process was invented in the late eighteenth century by the German writer Aloys Senefelder .

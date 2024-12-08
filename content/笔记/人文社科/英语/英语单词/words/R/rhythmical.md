@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  有节奏的;有韵律的
-# 例句
+##### 例句
 - His poetry is fine and rhythmical .
 	- 其诗甚工。
 - A Tentative Application of Motion Method into Rhythmical Gymnastics Teaching

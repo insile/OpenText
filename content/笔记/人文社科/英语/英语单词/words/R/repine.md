@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vi  抱怨；埋怨；不满；不满,心中抱怨
-# 例句
+##### 例句
 - I repine at the shortness of life , and envy the great river its eternal course .
 	- 哀我生之须臾，羡长江之无穷。
 - Let us receive correction , at which no man ought to repine .

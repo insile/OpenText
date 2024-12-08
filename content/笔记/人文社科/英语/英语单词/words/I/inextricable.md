@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnɪkˈstrɪkəbl/； 美：/ˌɪnɪkˈstrɪkəbl/
 - #词性/adj  难解的；分不开的；无法分开的
-# 例句
+##### 例句
 - Rural Libraries : an Inextricable Knot in the Development of Chinese Library Undertaking
 	- 农村图书馆：中国图书馆事业发展中难解的一个结
 - Art and life are inextricable .

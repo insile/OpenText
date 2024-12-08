@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  冷淡；漠不关心；无动于衷
-# 例句
+##### 例句
 - Jon faked nonchalance
 	- 乔恩装作若无其事的样子。
 - She was very tense , but she preserved an appearance of nonchalance .

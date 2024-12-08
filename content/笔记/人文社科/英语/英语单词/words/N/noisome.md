@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnɔɪsəm/； 美：/ˈnɔɪsəm/
 - #词性/adj  讨厌的；恶心的；极令人厌烦的；使人很不快的
-# 例句
+##### 例句
 - His noisome reputation for corruption had already begun to spread .
 	- 他贪污的恶名已经四处传播开了。
 - Noisome vapours arise from the mud left in the docks

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsu:pə'fɪʃəlɪ/； 美：/ˈsupɚˈfɪʃəlɪ/
 - #词性/adv  从表面上看
-# 例句
+##### 例句
 - They are , at least superficially , attractive to other people .
 	- 至少从表面上看，他们对其他人也有吸引力。
 - Superficially , the phenomenon seems to obstruct social progress and development .

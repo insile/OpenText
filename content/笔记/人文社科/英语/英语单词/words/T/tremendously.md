@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/trɪˈmɛndəsli/； 美：/trəˈmɛndəsli/
 - #词性/adv  巨大；特别；极大地；非常地；极地
-# 例句
+##### 例句
 - University funding was tremendously biased towards scientists .
 	- 大学科研经费向科学家极大地倾斜。
 - The success of the novel has magnified public interest tremendously .

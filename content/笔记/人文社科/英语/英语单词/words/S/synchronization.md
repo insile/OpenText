@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsɪŋkrənaɪ'zeɪʃ(ə)n/； 美：/ˌsɪŋkrənaɪ'zeɪʃ(ə)n/
 - #词性/n  同步；同时；同时性；同期[步]录音
-# 例句
+##### 例句
 - Implementation Situation on Three Synchronization Management for 2003 Construction Projects in China
 	- 2003年全国建设项目三同时执行情况分析
 - Communication record : the function supports synchronization record during the communication process .

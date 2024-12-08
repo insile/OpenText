@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɪsɪd/； 美：/ˈvɪsɪd/
 - #词性/adj  粘性的；黏质的；黏稠的
-# 例句
+##### 例句
 - Dynamic performance analysis and mode experimental study on viscid elastic damp interlayer plate
 	- 粘弹性阻尼夹层板动力特性分析及模态实验研究
 - A numerical simulation of 3D viscid steady flow in a turbine stage

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɒsiəs/； 美：/ˈɑːsiəs/
 - #词性/adj  骨的；骨质的；骨化的
-# 例句
+##### 例句
 - Objective : with aging , people , especially women aroused much attention by the reduction of osseous performance which because of the estrogenic decrease .
 	- 目的：随着年龄的老化，妇女由于雌激素的分泌减少而导致骨的性能降低已经引起的人们充分重视。
 - Porous hydroxylapatite ( HA ) has excellent osseous inductive ability .

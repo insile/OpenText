@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdʒəʊviəl/； 美：/ˈdʒoʊviəl/
 - #词性/adj  快活的；快乐的；愉快的；友好的
-# 例句
+##### 例句
 - Tom 's jovial manner is one of his characters .
 	- 汤姆快活的态度是他的个性之一。
 - Like , if they were basically an optimistic , jovial person

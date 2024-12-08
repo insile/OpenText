@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  弗吉尼亚人
 - #词性/adj  维吉尼亚州的
-# 例句
+##### 例句
 - I 'm not a Virginian . I am an American . The future of the 13 American colonies hangs in the balance.Spring 1775 . Near Concord , Massachusetts .
 	- 我不是弗吉尼亚人，我是美国人，13个北美殖民地的未来悬于一线。1775年春，马萨诸塞州康科德近郊。
 - Virginian state police say authority is response to the home following a 911 call .

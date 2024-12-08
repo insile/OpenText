@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  累犯；再犯；惯犯
-# 例句
+##### 例句
 - It needs to supplement the personality factor to confirm the ordinary recidivism .
 	- 在普通累犯成立的条件中，应增加罪犯的人格因素。
 - Study on the Recidivism System of Units The Historical Position of Collective Land Ownership

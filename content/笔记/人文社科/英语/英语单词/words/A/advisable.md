@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ədˈvaɪzəbl/； 美：/ədˈvaɪzəbl/
 - #词性/adj  可取；明智的；明智
-# 例句
+##### 例句
 - Early booking is advisable .
 	- 早订票是明智的。
 - It will be advisable for you to drop an acquaintance such as John ; he is not a good companion for you .

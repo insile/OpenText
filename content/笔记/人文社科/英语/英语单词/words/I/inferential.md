@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  推理的；推论的；根据推理的
-# 例句
+##### 例句
 - Control System Design of Reheating Temperature Based on Inferential Control
 	- 基于推理控制的再热汽温控制系统设计
 - The Control Based on Distributed Fuzzy Inferential Structure in Power Plant Thermal Process

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  伊利诺伊州；伊利诺斯州（美国州名）
-# 例句
+##### 例句
 - Ernest Felty , head of Hardin County schools in southern Illinois , has 10 home-schooled pupils .
 	- 欧内斯特？费尔提是伊利诺斯州南部哈丁县县属学校的负责人
 - The president spoke in Illinois to workers at Caterpillar .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈprɒvɪdənt/； 美：/ɪmˈprɑːvɪdənt/
 - #词性/adj  挥霍的；不顾将来的；不节俭的；没有长远打算的
-# 例句
+##### 例句
 - But in reality , across the eurozone , the political will to subsidise improvident borrowers is wearing thin .
 	- 但在现实中，在整个欧元区，补偿挥霍的借款者的政治意愿正日渐淡薄。
 - Her improvident speech at the meeting has set a stone rolling .

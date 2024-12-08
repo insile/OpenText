@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  犹太教的人；皈依者；入教；改变宗教信仰者；改宗蛸
-# 例句
+##### 例句
 - Woe unto you , scribes and Pharisees , hypocrites ! for ye compass sea and land to make one proselyte , and when he is made , ye make him twofold more the child of hell than yourselves .
 	- 因为你们走遍洋海陆地，勾引一个人入教。既入了教，却使他作地狱之子，比你们还加倍。
 - His feeling unworthy to come to Jesus shows he was not even a proselyte , officially converted to Judaism .

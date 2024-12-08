@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈkɔːdns/； 美：/əˈkɔːrdns/
 - #词性/n  符合；一致；给予；赋予；和谐
-# 例句
+##### 例句
 - Environmental protection 's goal is in accordance with economy increase .
 	- 环境保护与经济增长在目标上是一致的。
 - The development was in accordance with the economic and cultural prosperity .

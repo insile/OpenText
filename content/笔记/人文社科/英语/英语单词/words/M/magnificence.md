@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  华丽；华丽,富丽堂皇
-# 例句
+##### 例句
 - It was the embodiment of princely magnificence .
 	- 这体现了和亲王相称的富丽堂皇。
 - Her insignificance in the presence of so much magnificence faintly affected her . "

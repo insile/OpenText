@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡɔːki/； 美：/ˈɡɔːki/
 - #词性/adj  笨拙的；笨手笨脚的
 - #词性/n  笨人
-# 例句
+##### 例句
 - One day he saw lincoln & a tall , shambling man , long , bony , gawky , but tremendously impressive .
 	- 有一天他看见林肯&一个脚步踉踉的高个子，又瘦又长，笨手笨脚的，但是给人以极其深刻的印象。
 - He had made his name on the professional golfing scene at 19 , still a gawky lad continually hitching up his trousers , throwing away a lead with sublime impatience at Royal Birkdale in 1976 .

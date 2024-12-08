@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  绝对正确；绝无错误；无过失
-# 例句
+##### 例句
 - Decision-making , however well it is practiced , doesn 't guarantee infallibility .
 	- 做决定不论练习地多么好不能保证无错误。
 - The parents realized how much belief their children usually have in their character and infallibility .

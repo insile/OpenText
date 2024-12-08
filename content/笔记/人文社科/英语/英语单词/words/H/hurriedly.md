@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhʌrɪdli/； 美：/ˈhɜridli/
 - #词性/adv  匆匆忙忙地；仓促地，匆忙地，草率地；七手八脚
-# 例句
+##### 例句
 - He put on his coat and went out hurriedly .
 	- 他穿上外衣匆匆忙忙地出去了。
 - It was late and she walked home hurriedly .

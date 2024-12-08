@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  呆滞的；拖拉的；极为讨厌的
-# 例句
+##### 例句
 - When I get depressed I feel really down and draggy .
 	- 当我觉得心情郁闷的时候，我真的是感到沮丧。
 - How about when your son has draggy pants like this ?

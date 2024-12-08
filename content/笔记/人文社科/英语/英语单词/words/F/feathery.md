@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfeðəri/； 美：/ˈfeðəri/
 - #词性/adj  羽毛似的；轻软的
-# 例句
+##### 例句
 - The tadpoles have feathery external gills .
 	- 蝌蚪长有羽毛似的外鳃。
 - The wind has gently murmured through the blinds , or puffed with feathery softness against the windows , and occasionally sighed like a summer zephyr lifting the leaves along , the livelong night .

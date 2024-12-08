@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈefəbl/； 美：/ɪnˈefəbl/
 - #词性/adj  (美好得)难以形容的；不可言喻的
-# 例句
+##### 例句
 - Food safety is ineffable importance .
 	- 食品安全具有不可言喻的重要意义。
 - " You !" said the stately warrior , scanning the small form of the poet with ineffable disdain .

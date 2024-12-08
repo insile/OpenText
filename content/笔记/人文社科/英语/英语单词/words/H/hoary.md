@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhɔːri/； 美：/ˈhɔːri/
 - #词性/adj  (因年老)灰白的，花白的；老掉牙的；陈腐的；陈旧的
-# 例句
+##### 例句
 - Although he didn 't usually care for that hoary aphorism , it now seemed to contain a miraculous solution to all his problems .
 	- 这一句陈腐的话，虽然平时他并不喜欢，但这时候他却觉得它是解决这一切问题的妙法了！
 - But the baggy 137-minute story drowns out Mr. Feng 's assorted sharp moments with hoary family drama and clumsy plotting , and Li Yifeng is generic as Mr. Six 's son .

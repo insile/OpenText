@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  多菖蒲的；多扁石的；凋萎的
-# 例句
+##### 例句
 - Typically the rock is massive , but commonly it is flaggy or schistose .
 	- 这类岩石典型地呈块状，但常呈薄板状或片理化。
 - The gold metallogeny is characterized by auriferous pyrite and occurred in the alternating layer of heavy-layer metasandstone , flaggy metasandstone and graphitization schist .

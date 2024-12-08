@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prɪˈsaɪsli/； 美：/prɪˈsaɪsli/
 - #词性/adv  精确地；(强调真实或明显)正是，确实；准确地；仔细地；恰好地；细心地；对，的确如此，一点也不错
-# 例句
+##### 例句
 - I think we can date the decline of Western Civilization quite precisely
 	- 我认为我们可以相当准确地确定西方文明开始衰落的年代。
 - Breakfast television arrived in British life precisely a decade ago .

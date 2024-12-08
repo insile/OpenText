@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌlˈtɪəriə(r)/； 美：/ʌlˈtɪriər/
 - #词性/adj  别有用心的；不可告人的；隐秘的；秘密的；矢口否认的
-# 例句
+##### 例句
 - Fascists have had such an argument , they are people with ulterior motives .
 	- 法西斯分子有过这种论调，他们是别有用心的。
 - For the university office automation systems , the data security threats mainly from people who is ulterior motives and malicious tamper relevant information .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/laɪˈsenʃəs/； 美：/laɪˈsenʃəs/
 - #词性/adj  放荡的；淫乱的；淫荡的
-# 例句
+##### 例句
 - Licentious or immoral person ( esp a woman )
 	- 放荡的人，不道德的人（尤指女子）。
 - Lord t.was considered singularly licentious even for the courts of Russia and portugal ; he acquired three wives and fourteen children during his Portuguese embassy alone .

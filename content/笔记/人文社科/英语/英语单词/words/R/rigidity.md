@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪ'dʒɪdətɪ/； 美：/rɪ'dʒɪdəti/
 - #词性/n  刚性；严格；僵硬；强直
-# 例句
+##### 例句
 - Temporary stiffness of joints and muscular rigidity occurring after death .
 	- 死亡后肌肉和关节僵硬。
 - Modified Mckay Procedure For Treatment of Rigidity Congenital Clubfoot in Children

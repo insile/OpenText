@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈsiːtɪd/； 美：/kənˈsiːtɪd/
 - #词性/adj  自负的；骄傲自大的
-# 例句
+##### 例句
 - Promoted too quickly , the conceited young man Became overBearing .
 	- 提拔得太快，那个自负的年轻人变得盛气凌人。
 - As a highly conceited person , she has never bothered to clarify her stance .

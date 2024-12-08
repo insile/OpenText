@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  诽谤；中伤
-# 例句
+##### 例句
 - Carrie felt this to contain , in some way , an aspersion upon her ability .
 	- 嘉莉觉得这话多少含有贬低她的才能的意思。
 - That is only the latest aspersion cast on various police forces by this affair .

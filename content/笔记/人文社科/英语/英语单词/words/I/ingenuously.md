@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  天真地；天真地，直率地，坦白地
-# 例句
+##### 例句
 - He smiled at her ingenuously .
 	- 他天真地向她微笑。
 - Voldemort stared at him ingenuously . The man MUST have lost his marbles .

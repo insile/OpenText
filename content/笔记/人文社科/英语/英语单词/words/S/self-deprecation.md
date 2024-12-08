@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  自嘲；自我贬低；自贬；自我否定
-# 例句
+##### 例句
 - Conclusion : Achievement goal orientation , uncertain personal control , self-deprecation are closely related to academic self-handicapping .
 	- 由此得出成就目标取向、不可控感、自我贬低与大学生学业自我妨碍密切相关的结论。
 - Comparatively few rock musicians are willing to laugh at themselves , although a hint of self-deprecation can boost sales of video clips very nicely .

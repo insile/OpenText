@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fɪlθ/； 美：/fɪlθ/
 - #词性/n  污秽；污物；(骂人话)警察；淫秽书刊；雷子；下流言辞
-# 例句
+##### 例句
 - The floor was covered in grease and filth .
 	- 地板上满是油垢和污物。
 - Thousands of tons of filth and sewage pour into the Ganges every day .

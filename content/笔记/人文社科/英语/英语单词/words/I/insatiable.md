@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈseɪʃəbl/； 美：/ɪnˈseɪʃəbl/
 - #词性/adj  贪得无厌；无法满足的；不知足的
-# 例句
+##### 例句
 - They were insatiable collectors .
 	- 他们是贪得无厌的征税员。
 - She ridiculed his insatiable greed .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  众所周知
-# 例句
+##### 例句
 - It is proverbially easier to destroy than to construct .
 	- 谁都知道破坏容易建设难。
 - More proverbially test and evaluation mathematics teaching thinking in images ;

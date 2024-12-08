@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtʃeəpɜːsn/； 美：/ˈtʃerpɜːrsn/
 - #词性/n  主席；会议主席；会长；学生会主席；系主任
-# 例句
+##### 例句
 - The chairperson is chosen by secret ballot .
 	- 主席是通过无记名投票选举产生的。
 - Richards has been tapped to replace the retiring chairperson .

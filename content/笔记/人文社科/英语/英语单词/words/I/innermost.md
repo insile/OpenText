@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪnəməʊst/； 美：/ˈɪnərmoʊst/
 - #词性/adj  内心深处的；最深处的；最靠近中心的
-# 例句
+##### 例句
 - I could not express my innermost feelings to anyone .
 	- 我不能向任何人表达我内心深处的感情。
 - In this passage the author is speaking his innermost convictions .

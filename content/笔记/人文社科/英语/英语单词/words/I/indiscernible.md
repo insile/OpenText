@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪndɪˈsɜːnəbl/； 美：/ˌɪndɪˈsɜːrnəbl/
 - #词性/adj  不明显的；隐约的；依稀的
-# 例句
+##### 例句
 - HRCT image enhancement algorithm based on indiscernible relation
 	- 基于不可分辨关系的HRCT图像增强算法
 - Indiscernible relation in α - rough sets model

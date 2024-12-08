@@ -5,9 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fɔː(r) ˈɪnstəns/； 美：/fɔːr ˈɪnstəns/
-# 例句
+- #词性/adv  例如：用于引出一个具体的例子来支持或解释前面所说的内容
+##### 例句
 - What would you do , for instance , if you found a member of staff stealing ?
 	- 比如说，如果你发现有职员偷东西，你会怎么办？
 - They will be concerned to do the right thing — to dress properly , for instance .

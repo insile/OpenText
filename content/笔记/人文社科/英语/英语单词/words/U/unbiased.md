@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈbaɪəst/； 美：/ʌnˈbaɪəst/
 - #词性/adj  公正的；不偏不倚的；无偏见的
-# 例句
+##### 例句
 - There is no clear and unbiased information available for consumers
 	- 消费者没有清晰明确、不偏不倚的信息可以参考。
 - Unbiased investigation proves that Nature is not Chaos but a well-ordered system .

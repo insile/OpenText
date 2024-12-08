@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪnsaɪtfʊl/； 美：/ˈɪnsaɪtfʊl/
 - #词性/adj  富有洞察力的；有深刻了解的
-# 例句
+##### 例句
 - She offered some really interesting , insightful observations .
 	- 她给出了一些非常有趣又富有洞察力的评论。
 - Without her insightful input and observations , I think the film would have been worse .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  懦夫；卑怯的人
 - #词性/adj  怯懦可鄙的
-# 例句
+##### 例句
 - He is nothing but a chicken-hearted dastard .
 	- 他只是一个胆怯的懦夫。
 - " Oh , dastard hand ," Peter said , and he raised the arrow to use it as a dagger .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  延展性；可锻性；可展性；韧性；加工性；可塑性；适应性
-# 例句
+##### 例句
 - A material 's loss of malleability due to chemical treatment or physical change .
 	- 材料由于化学处理或物理变化丧失了柔韧性。
 - Malleability is a physical property .

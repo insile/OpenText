@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  断裂；切断；分离；裂开；剪裂
-# 例句
+##### 例句
 - Investigation of chain scission behavior of Ni-catalyzed cis-polybutadiene vulcanizates during thermo-oxidative aging
 	- 镍系顺丁硫化胶氧化链断裂行为的解析
 - In DG , due to its low dielectric constant , nucleophile effects only C-O scission to form ether .

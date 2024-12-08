@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈəʊnəʃɪp/； 美：/ˈoʊnərʃɪp/
 - #词性/n  所有权；产权；物主身份
-# 例句
+##### 例句
 - Ownership of the land is currently being disputed .
 	- 这块土地的所有权现在还有争议。
 - The paper does not explain why foreign ownership should be considered bad

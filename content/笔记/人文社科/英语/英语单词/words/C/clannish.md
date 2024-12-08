@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈklænɪʃ/； 美：/ˈklænɪʃ/
 - #词性/adj  排他的；宗派的；小集团的
-# 例句
+##### 例句
 - They were a clannish lot , not given to welcoming strangers .
 	- 他们那帮人抱成一团，不怎么欢迎生人。
 - Firms are also doggedly clannish on the inside .

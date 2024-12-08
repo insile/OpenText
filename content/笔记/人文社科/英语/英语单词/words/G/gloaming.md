@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'ɡləʊmɪŋ/； 美：/'ɡloʊmɪŋ/
 - #词性/n  朦胧的暮色
-# 例句
+##### 例句
 - Let it go back into the gloaming and gad with a lot of longing .
 	- 就让它回到暮色中，满怀憧憬地游荡吧。
 - I walk through a rose garden in the gloaming , its silence broken only by the cry of a peacock .

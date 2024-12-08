@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈrʌɡɪd/； 美：/ˈrʌɡɪd/
 - #词性/adj  崎岖的；粗犷的；结实的；凹凸不平的；多岩石的；坚强的；坚毅的；强健而富有魅力的
-# 例句
+##### 例句
 - They drove slowly over the rugged terrain .
 	- 他们驾车在崎岖的山地上缓慢地行驶。
 - And here at home , free market capitalism is what transformed America from a rugged frontier to the greatest economic power in history .

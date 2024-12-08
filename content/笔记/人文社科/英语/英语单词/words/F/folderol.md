@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  胡闹；废话；废话；废物；不值钱的东西
-# 例句
+##### 例句
 - The new collections of custom furs around town reveal plenty of folderol , but there are practical things too .
 	- 市上大批新的定做的皮衣中有许多是华而不实的，但也有一些实用的东西。
 - What I had not experienced was the folderol among the children and the way that even the schools had gotten into the act .

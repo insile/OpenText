@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/tɪˈbɛt/； 美：/təˈbɛt/
 - #词性/n  西藏
-# 例句
+##### 例句
 - John related in his own inimitable way the story of his trip to Tibet .
 	- 约翰以他自己特有的方式讲述了他的西藏之行。
 - It was the year before last that he went to Xizang [ Tibet ] .

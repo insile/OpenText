@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  苏美尔人；闪族人；苏美尔语；苏美
 - #词性/adj  苏美尔的；苏美尔人的
-# 例句
+##### 例句
 - So I was sumerian for 2000 years .
 	- 所以我做了2000年苏美尔人。
 - Mabel complained of the Scottish arms in ancient times This Sumerian learning had a very great vitality .

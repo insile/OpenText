@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  非放射性
-# 例句
+##### 例句
 - A Nonradioactive Assay for the Activity of the Stress Activated Protein Kinase
 	- SAPK\/JNK活性的非放射性测定方法与初步应用
 - Jain says helium-3 could be a new nonradioactive energy source .

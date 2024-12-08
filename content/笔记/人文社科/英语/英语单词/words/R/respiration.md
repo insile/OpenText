@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌrespəˈreɪʃn/； 美：/ˌrespəˈreɪʃn/
 - #词性/n  呼吸
-# 例句
+##### 例句
 - Blood pressure and respiration are also recorded .
 	- 血压和呼吸也做了记录。
 - She was given artificial respiration and cardiac massage .

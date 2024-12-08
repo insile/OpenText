@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈkɒmpɪtəns/； 美：/ɪnˈkɑːmpɪtəns/
 - #词性/n  无能；不称职；不胜任
-# 例句
+##### 例句
 - She felt she had been made a scapegoat for her boss 's incompetence .
 	- 她觉得，本是老板无能，但她却成了替罪羊。
 - The government was accused of incompetence .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəˈmɪti/； 美：/kəˈmɪti/
 - #词性/n  委员会
-# 例句
+##### 例句
 - The committee has little or no understanding of the problem .
 	- 委员会对这个问题了解不多或根本不了解。
 - There are people of different political colours on the committee .

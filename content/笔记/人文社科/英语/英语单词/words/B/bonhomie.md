@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbɒnəmi/； 美：/ˌbɑːnəˈmiː/
 - #词性/n  欢快友好的感觉；欢乐的友情
-# 例句
+##### 例句
 - He was full of bonhomie .
 	- 他非常友善。
 - Tough enough when your departure is full of back-slapping and bonhomie ;

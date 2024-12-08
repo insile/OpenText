@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˌpedɪˈmentə/； 美：/ɪmˌpedɪˈmentə/
 - #词性/n  辎重；行囊；妨碍行进的重负(行李)
-# 例句
+##### 例句
 - The Impedimenta Consciousness of the Life
 	- 生命的辎重意识
 - He included among his impedimenta a wife and three children .

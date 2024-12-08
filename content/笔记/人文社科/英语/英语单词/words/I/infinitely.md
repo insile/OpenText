@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪnfɪnətli/； 美：/ˈɪnfɪnətli/
 - #词性/adv  非常；无限地；极其
-# 例句
+##### 例句
 - The reality is infinitely more subtle .
 	- 真相是非常微妙的。
 - The Mandelbrot set is infinitely deep and complex at all scales , but a float or a double can go only so deep before losing the ability to distinguish adjacent points .

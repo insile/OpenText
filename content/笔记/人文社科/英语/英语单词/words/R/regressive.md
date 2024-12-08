@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈɡresɪv/； 美：/rɪˈɡresɪv/
 - #词性/adj  回归的；倒退的；退化的；退步的；递减的(对富人的影响比对穷人的小)
-# 例句
+##### 例句
 - Methods : The method of quadratic regressive orthogonal experiment was used .
 	- 方法：采用二次回归的正交试验法。
 - Secondly , simplified calculation method of horizontal earthquake force is presented using polynomial regressive method .

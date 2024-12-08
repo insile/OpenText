@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪsˈsɜːvɪs/； 美：/dɪsˈsɜːrvɪs/
 - #词性/n  伤害；损害；危害
-# 例句
+##### 例句
 - You could do yourself a grave disservice by revealing all to a potential rival .
 	- 将一切都透露给潜在的竞争对手只会给自己帮倒忙。
 - You could do yourself a great disservice by antagonizing people like that .

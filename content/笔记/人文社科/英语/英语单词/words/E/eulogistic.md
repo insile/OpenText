@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  颂扬的
-# 例句
+##### 例句
 - From Ode to Orange to the Traditional Features of Eulogistic Poetry
 	- 《橘颂》及咏物诗的传统特色
 - One is the eulogistic word freedom , and the other is the opprobrious word chance .

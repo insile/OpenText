@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈbrəʊkən/； 美：/ʌnˈbroʊkən/
 - #词性/adj  连续的；不间断的；未被打破的；未被超过的；未改写的
-# 例句
+##### 例句
 - Choose dresses over skirts to create an unbroken vertical line .
 	- 选择连衣裙，而不是短裙，这样可以造成不间断的垂直线。
 - Wear backless footwear with dresses ; they create one long , unbroken leg line .

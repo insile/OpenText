@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈkɔːdɪŋ tə/； 美：/əˈkɔːrdɪŋ tə/
 - #词性/prep  根据；按照；按(…所报道)；依照；据(…所说)
-# 例句
+##### 例句
 - According to Mick , it 's a great movie .
 	- 据米克说，这是一部了不起的电影。
 - According to observers , the plane exploded shortly after take-off .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈænjuəli/； 美：/ˈænjuəli/
 - #词性/adv  一年一次地
-# 例句
+##### 例句
 - Pensions should be increased annually in line with earnings or prices , whichever is the higher .
 	- 养老金每年应该按照收入或物价中升幅较高的那一项增长。
 - The exhibition is held annually .

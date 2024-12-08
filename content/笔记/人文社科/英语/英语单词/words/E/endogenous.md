@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/enˈdɒdʒənəs/； 美：/enˈdɑːdʒənəs/
 - #词性/adj  内源性的；内生的
-# 例句
+##### 例句
 - The development process of endogenous non-agricultural economy in the village .
 	- 内源性的村落非农经济发展过程；
 - Salicylic acid is an endogenous signal with general functions in plants .

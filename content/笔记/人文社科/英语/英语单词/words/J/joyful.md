@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdʒɔɪfl/； 美：/ˈdʒɔɪfl/
 - #词性/adj  快乐的；高兴的；令人愉快的
-# 例句
+##### 例句
 - Giving birth to a child is both painful and joyful
 	- 生小孩是件既痛苦又令人高兴的事。
 - The delegation brought a piece of joyful news .

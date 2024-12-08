@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɒrɪdʒ/； 美：/ˈpɔːrɪdʒ/
 - #词性/n  粥；麦片粥；面糊
-# 例句
+##### 例句
 - For breakfast I have porridge made with water , to which I add raisins .
 	- 早餐我喝用水煮的麦片粥，还往里加葡萄干。
 - Breakfast consisted of porridge served with butter .

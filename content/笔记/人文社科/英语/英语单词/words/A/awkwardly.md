@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  笨拙地；难看地；无技巧地
-# 例句
+##### 例句
 - ' I 'm sorry , ' he said awkwardly .
 	- “对不起。”他局促不安地说。
 - She fell awkwardly and broke her ankle .

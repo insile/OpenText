@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnstənˈteɪniəs/； 美：/ˌɪnstənˈteɪniəs/
 - #词性/adj  瞬间的；立即的；立刻的
-# 例句
+##### 例句
 - Death was almost instantaneous .
 	- 当时生命垂危。
 - Death was instantaneous because both bullets hit the heart .

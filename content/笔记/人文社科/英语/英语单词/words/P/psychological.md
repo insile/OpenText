@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsaɪkəˈlɒdʒɪkl/； 美：/ˌsaɪkəˈlɑːdʒɪkl/
 - #词性/adj  心理的；心理学的；心灵的；精神上的；关于心理学的
-# 例句
+##### 例句
 - The psychological ( or mental ) scar is hard to heal .
 	- 心灵的伤痕难以抚平。
 - However , when Phantom opened in London in1986 , the audience saw a moving psychological love story set to music .

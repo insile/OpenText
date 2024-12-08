@@ -8,11 +8,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsteɪʃənri/； 美：/ˈsteɪʃəneri/
 - #词性/n  文具；信纸；信笺
 - #词性/n  文具用品的
-# 例句
+##### 例句
 - The stationery order has arrived .
 	- 订购的文具到货了。
 - They sell stationery and stuff .

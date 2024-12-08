@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dʌtʃ/； 美：/dʌtʃ/
 - #词性/adj  荷兰的；荷兰人的；荷兰语的
 - #词性/n  荷兰人；荷兰语
-# 例句
+##### 例句
 - Its Dutch creator , Wilfred Stijger , was assisted by 30 of the world 's best sand sculptors .
 	- 来自荷兰的沙堡设计师威尔弗雷德·斯蒂吉在全世界最杰出的30名沙雕师的协助下完成了这座沙堡。
 - It 's been a chaotic7 year for the flower world , but this Dutch distribution centre still runs like clockwork .

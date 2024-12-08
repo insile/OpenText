@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/səˈpɔːtɪv/； 美：/səˈpɔːrtɪv/
 - #词性/adj  支持的；鼓励的；同情的；给予帮助的
-# 例句
+##### 例句
 - The silent majority of supportive parents and teachers should make their views known .
 	- 表示支持的父母和老师是沉默的大多数，他们应该公开表达他们的观点。
 - No supportive words could ever compensate for the pain of being separated from her children for 10 years .

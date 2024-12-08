@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  拾穗的人
-# 例句
+##### 例句
 - Beginning today , The Sunday Gleaner will carry a diary of persons participating in the study .
 	- 从今天开始，Gleaner周日版将登载参与这项试验志愿者的日记。
 - And sometimes like a gleaner thou dost keep Steady thy laden head across a brook ;

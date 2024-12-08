@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɪŋɡjələ(r)/； 美：/ˈsɪŋɡjələr/
 - #词性/adj  单数的；单数形式的；奇特的；非凡的；异常的；奇怪的；突出的；显著的
 - #词性/n  单数；单数形式
-# 例句
+##### 例句
 - Oblique form of the personal pronoun of the first person singular .
 	- 第一人称单数的人称代词的斜格形式。
 - The nature of pedagogy will not change even in the singular system of pedagogy .

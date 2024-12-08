@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  未经核对的；未经证实的；未验证
-# 例句
+##### 例句
 - I once knew of a team that needed to get to0 unverified ( fixes that need to be retested ) counts by a certain date .
 	- 我曾经听说过一个需要到某个日期为止达到0个未核实的（需要重新测试的补丁）数量的团队。
 - That is an unverified threat .

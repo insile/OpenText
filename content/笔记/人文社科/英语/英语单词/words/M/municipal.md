@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/mjuːˈnɪsɪpl/； 美：/mjuːˈnɪsɪpl/
 - #词性/adj  市政的；城市的；地方性的，地区的；内政的，国内的；地方政府的；自治市的；地方自治的
-# 例句
+##### 例句
 - The first part is preface which elaborates the form of modern city , the concept of municipal administration , the academic value and practical significance of this thesis .
 	- 第一部分是前言，阐述了近代中国市建制的形成，市政的概念以及关于本课题研究的学术价值和现实意义。
 - Firstly , the crossed border streets connected Cao jia du and the central city , bringing the modern public utilities and municipal administration .

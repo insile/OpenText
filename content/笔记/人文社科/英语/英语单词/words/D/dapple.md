@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  使（某物）有斑点
 - #词性/n  斑纹；花斑状态；花斑马(等)
 - #词性/adj  有斑纹的
-# 例句
+##### 例句
 - What a dapple little man !
 	- 好一个短小精悍的人！
 - A large area of white on the chest of a dapple is permissible .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dəʊˌmɛstɪˈkeɪʃən/； 美：/dəˌmɛstəˈkeɪʃən/
 - #词性/n  驯化；驯养
-# 例句
+##### 例句
 - The first was the domestication of animals .
 	- 第一个阶段是驯养动物
 - In northwestern China , there is no evidence for endemic domestication of any animals .

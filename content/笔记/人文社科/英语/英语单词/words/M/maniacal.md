@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/məˈnaɪəkl/； 美：/məˈnaɪəkl/
 - #词性/adj  粗暴的；狂野的
-# 例句
+##### 例句
 - She is hunched forward over the wheel with a maniacal expression .
 	- 她弓身伏在方向盘前，表情像疯了一样。
 - He was almost maniacal in his pursuit of sporting records

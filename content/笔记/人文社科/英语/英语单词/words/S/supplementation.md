@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsʌplɪmenˈteɪʃn/； 美：/ˌsʌplɪmenˈteɪʃn/
 - #词性/n  补充营养;服用补品
-# 例句
+##### 例句
 - The product provided inadequate vitamin and mineral supplementation .
 	- 这种产品不能充分补充维生素和矿物质。
 - Some studies , including the new report , suggest DHA supplementation in pregnancy reduces the likelihood of premature birth .

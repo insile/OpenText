@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/skædz/； 美：/skædz/
 - #词性/n  大量；许多
-# 例句
+##### 例句
 - Scads of people came to the party .
 	- 好多人前来参加聚会。
 - The Effects on Gel Capability of the Low-value Fish Such as Scads

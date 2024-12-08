@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌreɪdiəʊˈkɑːbən/； 美：/ˌreɪdioʊˈkɑːrbən/
 - #词性/n  放射性碳(碳的放射性同位素，用以测定物体的年代)
-# 例句
+##### 例句
 - The most frequently used method is radiocarbon dating .
 	- 最常用的方法是放射性碳定年法。
 - Researchers use radiocarbon to study certain biological processes .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/maɪˈəʊpiə/； 美：/maɪˈoʊpiə/
 - #词性/n  近视；近视眼；目光短浅；缺乏远见
-# 例句
+##### 例句
 - The result shows that incidence of myopia morbidity is 44.84 % .
 	- 结果表明：近视眼的发病率为44.84%
 - The incidence rate of myopia increases with age group increase .

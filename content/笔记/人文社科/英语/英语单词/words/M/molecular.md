@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/məˈlekjələ(r)/； 美：/məˈlekjələr/
 - #词性/adj  分子的
-# 例句
+##### 例句
 - The research will provide direct insight into molecular mechanisms .
 	- 这项研究将使人能够直接地了解分子的机理
 - This work puts forward the concept of molecular vibration fingerprint .

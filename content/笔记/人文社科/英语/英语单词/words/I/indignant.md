@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈdɪɡnənt/； 美：/ɪnˈdɪɡnənt/
 - #词性/adj  愤怒的；愤慨的；义愤的
-# 例句
+##### 例句
 - The enemy may attack us on the left flank . indignant
 	- 敌人可能攻击我们左翼。adj.愤慨的同：wrathful
 - " Do you think you are right ?" she said in an indignant tone .

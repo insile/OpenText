@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  精简；减少；精简；减少
-# 例句
+##### 例句
 - In addition , it discussed essence information 's marking , token adding , length , abridgment , etc.
 	- 对精粹信息的标引、加权、长度、删节等进行了讨论。
 - This abridgment provides a concise presentation of this masterpiece of Buddhist literature .

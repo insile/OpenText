@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  海洋的；海湾的；内海的
-# 例句
+##### 例句
 - Take advantages of zone and environment , constructs a thalassic and ecological city .
 	- 发挥环境优势，建设生态型城市；
 - Countermeasures of Protecting Groundwater Resource in Bohai Thalassic Area

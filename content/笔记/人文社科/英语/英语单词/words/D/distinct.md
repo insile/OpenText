@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈstɪŋkt/； 美：/dɪˈstɪŋkt/
 - #词性/adj  不同的；明显的；清晰的；清楚的；明白的；确切的；有区别的；不同种类的；确定无疑的
-# 例句
+##### 例句
 - This book is divided into two distinct parts .
 	- 这本书分为内容不同的两部分。
 - Each party represents a distinct current of thought

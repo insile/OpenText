@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/tæd/； 美：/tæd/
 - #词性/n  一点儿；少量
-# 例句
+##### 例句
 - Could you turn the sound down just a tad ?
 	- 你把音量调低一点儿好吗？
 - It 's a tad too expensive for me .

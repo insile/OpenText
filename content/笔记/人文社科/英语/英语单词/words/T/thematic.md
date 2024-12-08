@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/θɪˈmætɪk/； 美：/θɪˈmætɪk/
 - #词性/adj  专题的；主题的；题目的
-# 例句
+##### 例句
 - The elementary analysis of thematic formation of Hemingway 's novel
 	- 试论海明威小说主题的形成
 - A Mirror for Human self-reflection : Literary Thematic Value of JIN PING MEI

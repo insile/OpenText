@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnævɪɡəbl/； 美：/ˈnævɪɡəbl/
 - #词性/adj  通航的；（船只、飞机）适航的，可驾驶的；可航行的
-# 例句
+##### 例句
 - The river were navigable .
 	- 这河流是可以用通航的。
 - Navigable waters ; a navigable channel .

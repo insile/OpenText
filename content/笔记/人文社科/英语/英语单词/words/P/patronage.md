@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpætrənɪdʒ/； 美：/ˈpætrənɪdʒ/
 - #词性/n  赞助；惠顾；资助；光顾；(掌权者给予提挈以换取支持的)互惠互利
-# 例句
+##### 例句
 - Patronage of the arts comes from businesses and private individuals .
 	- 对艺术的资助来自企业和个人。
 - It seems our little establishment has finally been deemed worthy of the bank 's patronage .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈspɪnɪtʃ/； 美：/ˈspɪnɪtʃ/
 - #词性/n  菠菜
-# 例句
+##### 例句
 - I hate spinach .
 	- 我讨厌菠菜。
 - Nettles are surprisingly good — much like spinach but with a sweetish taste .

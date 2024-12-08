@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌlærɪnˈdʒaɪtɪs/； 美：/ˌlærɪnˈdʒaɪtɪs/
 - #词性/n  喉炎
-# 例句
+##### 例句
 - Clinical analysis of two kinds of physical means on chronic laryngitis
 	- 两种物理因子治疗慢性喉炎的临床分析
 - Treatment of acute laryngitis in children : a review of 193 cases

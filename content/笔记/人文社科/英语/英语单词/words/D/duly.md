@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdjuːli/； 美：/ˈduːli/
 - #词性/adv  适当地；适时地；恰当地；按时地；准时地
-# 例句
+##### 例句
 - The non-core asset was duly hived off before the listing .
 	- 像这些非核心资产在上市前已被适当地分拆出来。
 - I resigned and was duly pensioned off .

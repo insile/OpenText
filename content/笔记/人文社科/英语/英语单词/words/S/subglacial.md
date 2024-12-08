@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  冰下的；冰川下的；冰川底部的
-# 例句
+##### 例句
 - The Development of Automatic Rise-descending Control System for Polar Subglacial Detecting Instrument
 	- 极地冰下探测仪器自动升降控制系统研制
 - The feature extraction of subglacial topography with sub-km resolution scale mainly concentrates in two areas .

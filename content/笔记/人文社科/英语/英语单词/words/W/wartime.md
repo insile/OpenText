@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwɔːtaɪm/； 美：/ˈwɔːrtaɪm/
 - #词性/n  战时
-# 例句
+##### 例句
 - Different rules applied in wartime .
 	- 战时实施不同的规定。
 - Fruit was a luxury in wartime Britain .

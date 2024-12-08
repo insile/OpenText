@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpærə'dɒksɪkli/； 美：/ˌperə'dɑksɪkli/
 - #词性/adv  似乎近于怪论
-# 例句
+##### 例句
 - Paradoxically , the less she ate , the fatter she got .
 	- 很矛盾的是，她吃得越少，就变得越胖。
 - Telling us , paradoxically , it 's an inside job .

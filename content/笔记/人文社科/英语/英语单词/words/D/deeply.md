@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdiːpli/； 美：/ˈdiːpli/
 - #词性/adv  深深地；非常；(与某些动词连用)深刻地，强烈地，深沉地；极其；至深处；很
-# 例句
+##### 例句
 - We were deeply moved by her plight .
 	- 她的困境深深地打动了我们。
 - He inhaled deeply on another cigarette .

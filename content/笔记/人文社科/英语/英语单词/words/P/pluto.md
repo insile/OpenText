@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpluːtəʊ/； 美：/ˈpluːtoʊ/
 - #词性/n  冥王星；冥王
-# 例句
+##### 例句
 - The space telescope has taken the clearest pictures ever of Pluto
 	- 太空望远镜拍摄到了迄今为止最清晰的冥王星的照片。
 - Astronomers know that Pluto and Triton have nearly the same size , mass , and density .

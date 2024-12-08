@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈæsɪteɪt/； 美：/ˈæsɪteɪt/
 - #词性/n  醋酸盐；醋酸酯；醋酸纤维素；投影胶片；醋酸透明塑胶片
-# 例句
+##### 例句
 - Measure the peak area for acetate .
 	- 测出醋酸盐的峰面积。
 - The formation of by-products could be inhibited once adding acetate in the reaction systems .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtrʌblsəm/； 美：/ˈtrʌblsəm/
 - #词性/adj  麻烦的；讨厌的；令人烦恼的；令人痛苦的
-# 例句
+##### 例句
 - Managing money is both trivial and troublesome .
 	- 理财是一件琐杂而又麻烦的事。
 - It is a thing of no great difficulty , according to Plutarch , " to raise objections against another man 's speech , it is a very easy matter ; but to produce a better in its place is a work extremely troublesome . "

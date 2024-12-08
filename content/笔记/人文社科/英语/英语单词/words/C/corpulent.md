@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkɔːpjələnt/； 美：/ˈkɔːrpjələnt/
 - #词性/adj  发福的，福态的(委婉说法，与fat同义)
-# 例句
+##### 例句
 - A research on physical and cultural quality of the college corpulent students
 	- 肥胖大学生体育文化素质的研究
 - Study on the Function of Corpulent reducing of Oolong Tea

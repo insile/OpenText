@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əkˈseptəbl/； 美：/əkˈseptəbl/
 - #词性/adj  可接受的；(社会上)认同的，认可的；还可以的；令人满意的；尚可的；可容许的；差强人意的
-# 例句
+##### 例句
 - Famous teacher 's personal brand is concentrated reflection of the unique advantage of a teacher which is socially acceptable .
 	- 名教师的个人品牌，是教师某方面独特优势的集中反映，是社会广泛认同的产物。
 - What I am saying is that maybe the faith you have is not based on Jesus or the Bible , but rather on your own comfort or what culture has deemed acceptable .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɜːdʒənt/； 美：/ˈɜːrdʒənt/
 - #词性/adj  紧急的；迫切的；紧迫的；急切的；催促的
-# 例句
+##### 例句
 - She had a more urgent errand .
 	- 她有一个更加紧急的差事要办。
 - I suggest that you attend to the most urgent matters and let the rest wait .

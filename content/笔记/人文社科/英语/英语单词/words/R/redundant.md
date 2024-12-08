@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈdʌndənt/； 美：/rɪˈdʌndənt/
 - #词性/adj  冗余的；多余的；不需要的；被裁减的
-# 例句
+##### 例句
 - The paper also discusses safety solution , synchronization and redundant information transmission methods of the system .
 	- 作为一个保密性、安全性、实时性要求都较高的控制系统，本文还阐述了系统的安全性方案，系统的同步技术以及系统冗余的信息传输方式。
 - Most of the existing popular impact models cannot optimize redundant input data .

@@ -5,12 +5,12 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈprestəʊ/； 美：/ˈprestoʊ/
 - #词性/adv #词性/adj  急板
 - #词性/n  急板乐曲(或乐章、乐段)
 - #词性/int  瞧（变魔术般迅速而轻松地做完某事时所说）
-# 例句
+##### 例句
 - With something so important , you can 't just wave a wand and presto !
 	- 在这么重大的问题上，你想挥动一下指挥棒，转眼就变过来，办不到！
 - I just turned the piece of wire in the lock and hey presto , the door opened .

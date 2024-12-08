@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kə'rektlɪ/； 美：/kəˈrɛktlɪ/
 - #词性/adv  正确地；得体地
-# 例句
+##### 例句
 - If you answer this question correctly , it 's worth five points .
 	- 答对了这道题可以得五分。
 - In the event of the machine not operating correctly , an error code will appear .

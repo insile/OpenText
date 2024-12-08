@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmɒnjuˈmentl/； 美：/ˌmɑːnjuˈmentl/
 - #词性/adj  重要的；不朽的；纪念碑上的；非常大(或好、坏、蠢等)的；意义深远的；作为纪念碑的
-# 例句
+##### 例句
 - But in a monumental change , nothing could happen without Ms. Pant 's approval .
 	- 不过，一个重要的变化是，如果加里马·潘特不同意，这一切都不会发生。
 - Some of his views are not only of monumental significance for the society at that time but useful for reference presently .

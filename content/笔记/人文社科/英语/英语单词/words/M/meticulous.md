@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/məˈtɪkjələs/； 美：/məˈtɪkjələs/
 - #词性/adj  一丝不苟的；细心的；小心翼翼的
-# 例句
+##### 例句
 - Work bears hardships and stands hard work , a serious and responsible , meticulous good habits .
 	- 养成做事吃苦耐劳，认真负责，一丝不苟的良好习惯。
 - Ewanick built his reputation on meticulous execution and unconventional thinking .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pəˈdʒɑːməz/； 美：/pəˈdʒæməz/
 - #词性/n  睡衣；(一套)睡衣裤
-# 例句
+##### 例句
 - Martin was in his pyjamas .
 	- 马丁穿着睡衣。
 - This pyjamas has many repairs .

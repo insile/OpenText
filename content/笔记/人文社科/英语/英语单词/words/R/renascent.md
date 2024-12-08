@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  新生的，复活的；复兴的
-# 例句
+##### 例句
 - Not-for-profit organizations are renascent in social economic development whose healthy progressing relies on its management levels .
 	- 摘要非营利组织是社会经济发展的一支新生力量，其经营管理水平的高低，是其健康发展的关键。
 - In recent years , in the economical transfer process , the environment faced by the accounting and finance of enterprises is changing continuously , The renascent things emerge one after another incessantly .

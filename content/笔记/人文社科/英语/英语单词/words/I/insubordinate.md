@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnsəˈbɔːdɪnət/； 美：/ˌɪnsəˈbɔːrdɪnət/
 - #词性/adj  不服从的，不顺从的；反抗的，违抗命令的；冒犯的；地位（或高度）不低的；相抗衡的
 - #词性/n  不服从者；违抗者
-# 例句
+##### 例句
 - In industry , a worker who is grossly insubordinate is threatened with discharge .
 	- 在企业内部，拒不服从指令的工人会面临遭解雇的威胁。
 - That 's an insubordinate response .

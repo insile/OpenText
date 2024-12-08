@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  使受危害；使陷入危险，危及，危害
-# 例句
+##### 例句
 - That , in turn , could jeopardise their economic recovery .
 	- 那进而可能危及他们的经济复苏。
 - This could jeopardise the next generation of Chinese growth , economists say .

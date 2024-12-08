@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/skriːd/； 美：/skriːd/
 - #词性/n  长篇大论；冗长的文章
-# 例句
+##### 例句
 - The screed tired the audience .
 	- 那篇冗长的演说使听众厌烦了。
 - Power compacting mechanism analysis of high density screed for asphalt concrete paver

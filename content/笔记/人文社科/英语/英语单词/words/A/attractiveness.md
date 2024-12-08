@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈtræktɪvnəs/； 美：/əˈtræktɪvnəs/
 - #词性/n  吸引力；迷惑力
-# 例句
+##### 例句
 - There is nothing wrong with journalists commenting on the attractiveness of artists .
 	- 记者评论艺术家的个人魅力无可厚非。
 - The strangers were good at judging if the person they were looking at was tired , and , if they were sleepy , their attractiveness score was low .

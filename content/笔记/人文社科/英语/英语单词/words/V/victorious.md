@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/vɪkˈtɔːriəs/； 美：/vɪkˈtɔːriəs/
 - #词性/adj  胜利的；获胜的；战胜的
-# 例句
+##### 例句
 - The victorious allies wanted defeated Germany to pay the costs of the war through what were called reparations .
 	- 取得了胜利的盟国希望战败的德国支付赔款以赔偿战争损失。
 - On the Social Roots and Victorious Conditions of the Chinese Revolution

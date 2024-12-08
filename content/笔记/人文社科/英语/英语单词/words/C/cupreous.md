@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  （含，似）铜的；铜色的
-# 例句
+##### 例句
 - On global building sewer uses cupreous conduit is development trend .
 	- 在全球建筑上下水道用铜水管是发展趋势。
 - Sisal Tolerance of Cupreous and Its Accumulation Preliminary Explore

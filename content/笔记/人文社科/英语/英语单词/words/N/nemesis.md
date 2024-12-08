@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈneməsɪs/； 美：/ˈneməsɪs/
 - #词性/n  报应；应得的惩罚；不可避免的失败
-# 例句
+##### 例句
 - Yet the imminent crisis in its balance of payments may be the President 's nemesis .
 	- 不过迫近的国际收支平衡危机也许是对总统的报应。
 - The performance test proved to be my nemesis .

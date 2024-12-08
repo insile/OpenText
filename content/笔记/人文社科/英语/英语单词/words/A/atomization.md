@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  雾化
-# 例句
+##### 例句
 - The atomization process is more sensitive to disturbance than vaporization .
 	- 雾化过程比汽化过程对扰动更为敏感。
 - Investigation on Water Atomization in Oil Flow with Numerical Simulation Method

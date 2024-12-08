@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/sweɪd/； 美：/sweɪd/
 - #词性/n  绒面革；仿麂皮
-# 例句
+##### 例句
 - She wore a brown suede jacket , belted at the waist .
 	- 她穿着一件带束腰的棕色绒面革夹克。
 - I hankered after a floor-length brown suede coat .

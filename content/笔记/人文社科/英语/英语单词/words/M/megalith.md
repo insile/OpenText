@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmeɡəlɪθ/； 美：/ˈmeɡəlɪθ/
 - #词性/n  (尤指古代用于祭祀的)巨石
-# 例句
+##### 例句
 - A tall upright megalith ; found primarily in N France and England .
 	- 一个很高的直立的巨石；主要是从法国北部和英格兰地区发现的。
 - From Chinese stone shed to Europe megalith blast & The exploring of the Lingshi adoration culture

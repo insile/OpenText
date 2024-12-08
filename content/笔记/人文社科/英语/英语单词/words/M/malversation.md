@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  贪污；受贿；舞弊；盗用公款
-# 例句
+##### 例句
 - Based on this idea , we can construct a dynamic model to explain how morality affects malversation .
 	- 这样就可以建立一个动态的模型解释基于道德导致腐败规模变化的原因。
 - The implementation of the accredited accountant institution in universities , is of great significance on guard against the loss of state-own property , economic crime and malversation .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/tjuːˈmʌltʃuəs/； 美：/tuːˈmʌltʃuəs/
 - #词性/adj  动荡的；喧嚣的；动乱的；热烈的；欢腾的；狂暴的；嘈杂的
-# 例句
+##### 例句
 - Tumultuous applause , support , protest
 	- 喧嚣的欢呼、支持、抗议
 - At the same time , we recognize that tumultuous economic changes during the past few years have forced organizations to adopt tighter budgets and stringent guidelines for IT projects .

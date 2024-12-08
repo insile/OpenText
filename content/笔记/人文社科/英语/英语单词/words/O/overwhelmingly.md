@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌəʊvə(r)'welmɪŋli/； 美：/ˌoʊvər'hwelmɪŋli/
 - #词性/adv  压倒性地
-# 例句
+##### 例句
 - Amazon overwhelmingly dominates online book sales , with a market share comparable to Standard Oil 's share of the refined oil market when it was broken up in 1911 .
 	- 亚马逊压倒性地控制了在线图书销售，市场份额与标准石油在1911年被拆分前，在精炼石油产品市场上的份额相当。
 - A properly functioning market economy must be built on a degree of trust and mutual respect , and will be put at risk over time if the odds appear to be so overwhelmingly stacked in favour of the minority .

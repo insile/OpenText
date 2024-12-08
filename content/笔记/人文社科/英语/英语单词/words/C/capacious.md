@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəˈpeɪʃəs/； 美：/kəˈpeɪʃəs/
 - #词性/adj  宽敞的；容积大的；容量大的
-# 例句
+##### 例句
 - Neat capacious warehouse is our high quality service a powerful guarantee .
 	- 整洁宽敞的库房是我们高质量服务的又一有力保障。
 - Capacious Western-style malls are also cropping up , especially for luxury goods .

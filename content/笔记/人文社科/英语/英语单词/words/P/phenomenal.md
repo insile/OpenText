@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fəˈnɒmɪnl/； 美：/fəˈnɑːmɪnl/
 - #词性/adj  非凡的；了不起的
-# 例句
+##### 例句
 - You know that poem Maya Angelou wrote ?" Phenomenal woman "?
 	- 你们知道玛雅安格娄写的那诗吗？“了不起的女人”？
 - Last year , after reading this phenomenal book , I decided to embrace a value system that has allowed me to clearly identify the commitments in my life that no longer belonged .

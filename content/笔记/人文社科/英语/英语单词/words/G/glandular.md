@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡlændjʊlə(r)/； 美：/ˈɡlændʒələr/
 - #词性/adj  腺(体)的；影响腺(体)的
-# 例句
+##### 例句
 - Any of various resinous glandular plants of the genus Madia ; of western North and South America .
 	- 任何麻迪菊属有树脂腺的植物；北美西部和南美。
 - I had glandular fever and spent that year feeling rotten

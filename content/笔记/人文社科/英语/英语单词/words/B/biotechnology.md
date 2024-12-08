@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌbaɪəʊtekˈnɒlədʒi/； 美：/ˌbaɪoʊtekˈnɑːlədʒi/
 - #词性/n  生物科技
-# 例句
+##### 例句
 - Our goal is to open a new biotechnology era for human beings .
 	- 我们的目标是打开一个新的生物科技时代的人。
 - The government decided to encourage industries based on biotechnology .

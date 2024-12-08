@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'ɔ:θəraɪz/； 美：/'ɔ:θəraɪz/
 - #词性/v  授权；批准
-# 例句
+##### 例句
 - To authorise a cheque to be paid .
 	- 批准兑现一张支票。
 - Hence trade pacts should also authorise countervailing currency intervention , through which it could offset the manipulators ' purchases of its currency by buying equal amounts of theirs .

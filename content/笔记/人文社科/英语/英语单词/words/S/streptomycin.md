@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  链霉素；硫酸链霉素；如链霉素；抗生素链霉素
-# 例句
+##### 例句
 - Streptomycin Fermentation Process Modeling with Principal Component Analysis and Fuzzy Model
 	- 基于主元分析和模糊模型的链霉素发酵过程建模
 - Study on the Detection Method of Streptomycin Residues in Chicken Tissues

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɒtæʃ/； 美：/ˈpɑːtæʃ/
 - #词性/n  钾碱
-# 例句
+##### 例句
 - A new method of absorbing co_2 by bv hot potash fluid
 	- BV热钾碱液吸收CO2新方法
 - Energy saving Technical Retrofit for CO 2 Removal by Hot Potash Process

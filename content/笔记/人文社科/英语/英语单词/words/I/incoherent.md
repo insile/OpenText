@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnkəʊˈhɪərənt/； 美：/ˌɪnkoʊˈhɪrənt/
 - #词性/adj  语无伦次的；不连贯的；口齿不清的；不清楚的；无逻辑的；难懂的；难以分辨的
-# 例句
+##### 例句
 - The old man often piffled incoherent speech after he had a stroke .
 	- 这名老人在他中风之后，时常碎碎念一些语无伦次的话。
 - People with the rare condition send incoherent text messages while asleep to their friends and family - completely unaware that they are doing it .

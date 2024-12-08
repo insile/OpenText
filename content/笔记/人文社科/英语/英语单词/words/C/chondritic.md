@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  球粒陨石；球粒状陨石的
-# 例句
+##### 例句
 - Compositional variation of chondritic metal phase during thermometamorphism and melting of its parent body
 	- 球粒陨石金属相在热变质及熔融条件下的组成变化
 - Chondritic structure and texture in the JILIN METEORITE

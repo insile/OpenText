@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈdʒektʃərəl/； 美：/kənˈdʒektʃərəl/
 - #词性/adj  凭猜测的；凭推测的
-# 例句
+##### 例句
 - There is something undeniably conjectural about such claims .
 	- 这类声明中有些东西绝对是凭空臆测。
 - A method to measure degree of influence of conjectural factor in a multiple choice test

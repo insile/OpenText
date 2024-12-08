@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  球粒
-# 例句
+##### 例句
 - According to the chondrule growing the meteorites can be divided into 5 types .
 	- 根据球粒发育程度，分为五种类型。用电子探针分析陨石中矿物的化学成份。
 - The difference between the chondrule and the matrix indicates that aqueous alteration in the chondrule may be occurred in the nebula , but the aqueous alteration occurring widely in the matrix may be occurred in the parent process .

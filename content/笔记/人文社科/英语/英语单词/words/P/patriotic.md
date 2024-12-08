@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpætriˈɒtɪk/； 美：/ˌpeɪtriˈɑːtɪk/
 - #词性/adj  爱国的
-# 例句
+##### 例句
 - The celebrations often have a patriotic mood .
 	- 庆祝活动往往带有爱国的情绪。
 - I have done much more patriotic work than him .

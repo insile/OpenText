@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  纽贝里；纽伯里；纽伯利；纽伯瑞
-# 例句
+##### 例句
 - Neuman and Newberry will certainly be getting their money 's worth .
 	- 诺尔曼和纽巴瑞一定会觉得他们的钱值了。
 - It just won the Newberry Medal , the most prestigious prize for children 's literature .

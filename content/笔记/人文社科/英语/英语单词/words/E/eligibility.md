@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɛlɪdʒəˈbɪlɪti/； 美：/ˌɛlɪdʒəˈbɪlɪti/
 - #词性/n  资格；适当性，合格，合格性，参赛资格
-# 例句
+##### 例句
 - From Eligibility to Suitability : New Trend of Teachers ' Employment
 	- 从合格到合适：教师聘用的新走向&基于个人与组织契合理论的视角
 - Analysis on Rate of Eligibility of 1453 Drug Prescriptions in Rural Health Organizations

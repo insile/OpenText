@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmæskjuˈlɪnəti/； 美：/ˌmæskjuˈlɪnəti/
 - #词性/n  男性；阳性；男子气概
-# 例句
+##### 例句
 - He felt it was a threat to his masculinity .
 	- 他觉得这对他的男子气概是一种威胁。
 - The old ideas of masculinity do not work for most men .

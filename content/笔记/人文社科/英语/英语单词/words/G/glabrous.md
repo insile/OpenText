@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  无毛的；平滑的
-# 例句
+##### 例句
 - Study On Transplantation Test Of Glabrous Mountain Ash Tissue Culture Seeding
 	- 无毛花楸组培苗移栽试验研究
 - Description : Small trees , 4-5 m tall , glabrous throughout .

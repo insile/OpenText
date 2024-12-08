@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  石化；僵化
-# 例句
+##### 例句
 - The Study on Key Issues of Fossilization and Its Empirical Research
 	- 石化现象瓶颈问题的研究及实证方法探讨
 - Therefore , the thesis researches fossilization by individual case analysis .

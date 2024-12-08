@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌbrænd ˈnjuː/； 美：/ˌbrænd ˈnuː/
 - #词性/adj  崭新的；簇新的
-# 例句
+##### 例句
 - Yesterday he went off to buy himself a brand-new car .
 	- 昨天他去给自己买了一辆崭新的小汽车。
 - He bought a brand-new car on instalments .

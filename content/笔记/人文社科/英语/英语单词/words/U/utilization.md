@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌjuːtəlaɪˈzeɪʃn/； 美：/ˌjuːtələˈzeɪʃn/
 - #词性/n  利用；应用；效用
-# 例句
+##### 例句
 - We should comprehensively improve the efficiency of resource utilization protecting the ecological environment .
 	- 要在严格保护生态环境的前提下，全面提高资源利用效率，加快推动绿色低碳发展。
 - The protection , development and utilization projects in agricultural biological breeding should be accelerated .

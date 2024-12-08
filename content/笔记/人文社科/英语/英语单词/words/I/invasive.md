@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈveɪsɪv/； 美：/ɪnˈveɪsɪv/
 - #词性/adj  侵袭的；侵入的；开刀的；切入的
-# 例句
+##### 例句
 - Virtual colonoscopy is invasive , thus it eases the discomfort of patient during detection to a large extent .
 	- 由于虚拟结肠镜是非侵入的，在很大程度上减轻患者检查时的不适。
 - It has two major roles-first , defending the genome against invasive DNA and second , regulation of gene expression .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɪθɪkl/； 美：/ˈmɪθɪkl/
 - #词性/adj  神话的；神话里的；并不存在的；不真实的；虚无的
-# 例句
+##### 例句
 - The night is the fundamental time and the mythical time .
 	- 夜是原初的时间，神话的时间。
 - There several reasons contribute the Japanese economic to be a mythical , one of which is the successful governance structure of Japan .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbrɪtn/； 美：/ˈbrɪtn/
 - #词性/n  英国；不列颠(包括英格兰、苏格兰及威尔士)
-# 例句
+##### 例句
 - Britain 's dream of herself began to fade .
 	- 不列颠民族的梦想开始渐渐幻灭。
 - During the early sixth century emigration from Britain to Brittany was at its height

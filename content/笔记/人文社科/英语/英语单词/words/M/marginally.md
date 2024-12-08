@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɑːdʒɪnəli/； 美：/ˈmɑːrdʒɪnəli/
 - #词性/adv  轻微地；很少地；微不足道地
-# 例句
+##### 例句
 - They now cost marginally more than they did last year .
 	- 他们现在并不比去年贵多少。
 - Sales last year were marginally higher than in 1991

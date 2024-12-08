@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkʌvətəs/； 美：/ˈkʌvətəs/
 - #词性/adj  垂涎的；贪婪的；贪求的
-# 例句
+##### 例句
 - The United States Steel Corporation was casting covetous eyes at his company .
 	- 美国钢铁公司正向他的公司投去贪婪的目光。
 - It is not money , as is sometimes said , but the love of money-the excessive , selfish , covetous love of money , that is the root of all evil .

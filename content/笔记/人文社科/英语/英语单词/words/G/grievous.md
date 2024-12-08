@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡriːvəs/； 美：/ˈɡriːvəs/
 - #词性/adj  令人伤心的；极严重的；使人痛苦的
-# 例句
+##### 例句
 - Grievous news , losses , wrongs .
 	- 令人伤心的消息、损失、错误。
 - He had been the victim of a grievous injustice .

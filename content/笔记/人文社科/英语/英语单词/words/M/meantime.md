@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmiːntaɪm/； 美：/ˈmiːntaɪm/
 - #词性/adv  同时；在…期间
 - #词性/n  其时；中间的时间
-# 例句
+##### 例句
 - I 'm changing my email address but for the meantime you can use the old one .
 	- 我要更换电邮地址，不过那个旧的暂时也还可以用。
 - In the meantime the war of nerves seems likely to continue

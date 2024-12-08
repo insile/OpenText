@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdɒmɪnəns/； 美：/ˈdɑːmɪnəns/
 - #词性/n  支配;控制；支配地位
-# 例句
+##### 例句
 - These economies will no doubt maintain their dominance of financial markets
 	- 这些经济制度将毫无疑问地维持他们在金融市场上的主导权。
 - Legislation is the only route to ending the car 's dominance as a form of transport .

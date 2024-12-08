@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɪlɪkən/； 美：/ˈsɪlɪkən/
 - #词性/n  硅
-# 例句
+##### 例句
 - The Earth is made mainly of iron and silicon and things like that
 	- 地球主要由铁、硅等物质构成。
 - Designing silicon chips to mimic human organs sounds fanciful .

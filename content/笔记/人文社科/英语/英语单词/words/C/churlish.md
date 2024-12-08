@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtʃɜːlɪʃ/； 美：/ˈtʃɜːrlɪʃ/
 - #词性/adj  粗野的；粗鲁的；粗鲁无礼的；脾气坏的
-# 例句
+##### 例句
 - Only a churlish person would call this town dull .
 	- 只有粗鲁的人才会说这个小镇枯燥无味。
 - This is called the reply churlish .

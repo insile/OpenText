@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌself ˈkɒnfɪdənt/； 美：/ˌself ˈkɑːnfɪdənt/
 - #词性/adj  自信的
-# 例句
+##### 例句
 - She has now changed into a happy , self-confident woman
 	- 如今她已经变成一个快乐、自信的女人。
 - She 'd blossomed into a self-confident young woman .

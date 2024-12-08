@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fɔːbz/； 美：/fɔrbz/
 - #词性/n  《福布斯》；福尔贝斯
-# 例句
+##### 例句
 - Rosanna and Forbes walked in silence for some while
 	- 罗莎娜和福布斯默不作声地走了一会儿。
 - Rated No.466 overall on Forbes ' Lists Top Colleges , No. 183 in Research Universities , and No. 108 in the South , I can 't say it was my top choice .

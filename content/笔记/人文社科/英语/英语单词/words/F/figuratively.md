@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'fɪɡərətɪvli/； 美：/'fɪɡjərətɪvli/
 - #词性/adv  比喻地
-# 例句
+##### 例句
 - Someone honored for great achievements ; figuratively someone crowned with a laurel wreath .
 	- 由于重大的成就而被授奖的人；比喻地说成是头上戴桂冠花圈的人。
 - She is , figuratively speaking , holding a gun to his head .

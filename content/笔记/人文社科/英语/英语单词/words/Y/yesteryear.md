@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈjestəjɪə(r)/； 美：/ˈjestərjɪr/
 - #词性/n  (尤指思想观念有别于当今的)旧时，往昔，过去
-# 例句
+##### 例句
 - The lobby is tall , decorated with fine antiques from yesteryear .
 	- 酒店的大堂很高，装饰着旧时精美的古玩。
 - The modern-day sex symbol has now taken the place of the old-fashioned hero of yesteryear .

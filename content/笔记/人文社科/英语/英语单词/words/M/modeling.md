@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɒdlɪŋ/； 美：/ˈmɑːdlɪŋ/
 - #词性/n  模拟；建模，建立模型
 - #词性/adj  制造模型的；模特儿的
-# 例句
+##### 例句
 - Basin system quantitative analysis and computer modeling application
 	- 盆地系统定量分析和计算机模拟应用
 - Modeling method used for field testing filtration characteristic of earth canal

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈluːsəri/； 美：/ɪˈluːsəri/
 - #词性/adj  虚幻的；幻觉的；虚假的；迷惑人的
-# 例句
+##### 例句
 - His freedom is illusory .
 	- 他的自由是虚幻的。
 - But I also know some of that autonomy is limited , illusory , conditional .

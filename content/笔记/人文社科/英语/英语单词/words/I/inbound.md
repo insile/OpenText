@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪnbaʊnd/； 美：/ˈɪnbaʊnd/
 - #词性/adj  到达的；归航的
-# 例句
+##### 例句
 - Tip : Make sure the inbound work does not pile up .
 	- 提示：确保到达的工作不会堆积起来。
 - Using firewall tools like blockall , you can restrict all inbound TCP traffic ; with a tool like floppyfw , you can turn a floppy into a firewall .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈflu(ː)əntli/； 美：/ˈfluəntli/
 - #词性/adv  流利地；流畅地
-# 例句
+##### 例句
 - I can 't speak English fluently as I am out of practice .
 	- 我不能流利地说英语，因为我已荒疏了。
 - Italians always " see me as a foreigner , " an outsider , even though she 's stayed in the country for years and can speak the local language fluently , she said ．

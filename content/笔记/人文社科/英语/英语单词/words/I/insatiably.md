@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  贪得无厌；贪得无厌地；无法满足地
-# 例句
+##### 例句
 - He is insatiably greedy .
 	- 他实在是贪心。
 - People are insatiably curious and seem determined to mine every nook of nature .

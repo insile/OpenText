@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmetlwɜːk/； 美：/ˈmetlwɜːrk/
 - #词性/n  金属制品；金属配件；金属制品的制造(或加工)
-# 例句
+##### 例句
 - Metalwork : Useful and decorative objects fashioned of various metals .
 	- 金属制品：用各种金属制成的有用的和装饰性的物品。
 - The defect detection of metalwork surface has important practical significance , so the processing of metal image becomes particularly important .

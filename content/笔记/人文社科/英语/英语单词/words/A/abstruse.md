@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əbˈstruːs/； 美：/əbˈstruːs/
 - #词性/adj  深奥的；难解的
-# 例句
+##### 例句
 - Facing various abstruse mathematical theories and complex problem-solving methods , laymen have to draw back .
 	- 面对各种深奥的数学理论和复杂的数学方法，门外汉往往只好望而却步。
 - While Marx philosophical thought is great and profundity , also freedom is an abstruse problem in academic fields .

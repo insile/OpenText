@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈærəɡəns/； 美：/ˈærəɡəns/
 - #词性/n  傲慢；自大
-# 例句
+##### 例句
 - His arrogance knew no limits .
 	- 他极其傲慢。
 - It is easy to misconstrue confidence as arrogance .

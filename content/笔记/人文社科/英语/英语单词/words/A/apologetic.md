@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˌpɒləˈdʒetɪk/； 美：/əˌpɑːləˈdʒetɪk/
 - #词性/adj  道歉的，谢罪的，愧疚的；辩护的，辩解的
 - #词性/n  （为信仰、事业等所作的）辩护（书）
-# 例句
+##### 例句
 - As I reproached him , he heard me in silence , gave me finally an apologetic smile .
 	- 当我责备他的时候，他静静听著，最后报以道歉的微笑。
 - The results are more like the apologetic robot rebel Sonny from the film I , Robot , starring Will Smith , than the homicidal machines of Terminator , but they demonstrate an important principal .

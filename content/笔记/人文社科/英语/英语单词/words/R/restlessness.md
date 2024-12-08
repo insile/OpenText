@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'restləsnəs/； 美：/ˈrestləsnəs/
 - #词性/n  烦躁不安；不安定；辗转不安
-# 例句
+##### 例句
 - Later , I started to think about restlessness and relationships .
 	- 我开始思考不安定和感�
 - And that will buy factories precious time , especially as they wrestle with more pressing issues such as the availability and rising restlessness of Chinese labour .

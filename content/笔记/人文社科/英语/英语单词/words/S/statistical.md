@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/stəˈtɪstɪkl/； 美：/stəˈtɪstɪkl/
 - #词性/adj  统计的；统计数据的，统计学的
-# 例句
+##### 例句
 - They discussed the statistical significance of the results .
 	- 他们讨论了这些结果在统计学上的意义。
 - All the statistical computations were performed by the new software system .

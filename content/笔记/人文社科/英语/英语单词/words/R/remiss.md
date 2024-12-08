@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈmɪs/； 美：/rɪˈmɪs/
 - #词性/adj  疏忽；玩忽职守；懈怠
-# 例句
+##### 例句
 - It was remiss of me not to answer your letter .
 	- 没有给你回信，这是我的疏忽。
 - It was remiss of me not to ask you .

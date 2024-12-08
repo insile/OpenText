@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈteɪntɪd/； 美：/ˌʌnˈteɪntɪd/
 - #词性/adj  未被污染的；未染；未受损害的；未被玷污的
-# 例句
+##### 例句
 - The Root Self is pure , clean , and untainted by worldly matters .
 	- 经由世间事态，本心依然纯洁、乾净和无染。
 - The island remains untainted by tourism .

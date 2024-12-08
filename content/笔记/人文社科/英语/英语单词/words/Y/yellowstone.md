@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈjɛləʊˌstəʊn/； 美：/ˈjɛloʊˌstoʊn/
 - #词性/n  黄石色
-# 例句
+##### 例句
 - The snowcoach concept in Yellowstone provides low-impact , low-pollution access .
 	- 在黄石公园里使用雪车这一想法，为人们提供了一种对环境低影响、低污染的游览方式。
 - The letter was written by Darwin to thank an American geologist , Dr. Ferdinand Vandeveer Hayden , for sending him copies of his research into the geology of the region that would become Yellowstone National Park .

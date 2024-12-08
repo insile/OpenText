@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  可推断的；可推论的
-# 例句
+##### 例句
 - A sense of something not evident or deducible ;
 	- 直觉对不明显或不可推断的事物的感觉；
 - The main research about its is geometrical relation 's deducible method and condition between line units of which graphics unit consists .

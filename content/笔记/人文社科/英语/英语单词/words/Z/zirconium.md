@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/zɜːˈkəʊniəm/； 美：/zɜːrˈkoʊniəm/
 - #词性/n  锆
-# 例句
+##### 例句
 - The developing status and application of aluminum zirconium complex coupling agents
 	- 铝锆偶联剂的发展现状及应用前景
 - Progress of the method of standard chemical analysis of zirconium and zirconium alloy

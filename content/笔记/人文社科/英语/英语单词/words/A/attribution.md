@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌætrɪˈbjuːʃ(ə)n/； 美：/ˌætrɪˈbjuʃən/
 - #词性/n  属性；归属；归因
-# 例句
+##### 例句
 - The attribution of this painting to Rembrandt has never been questioned .
 	- 这幅画是伦勃朗所作从未有人怀疑。
 - Prosecutorial supervision is required according to public power attribution of civil litigation .

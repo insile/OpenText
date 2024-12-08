@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌædəˈlesns/； 美：/ˌædəˈlesns/
 - #词性/n  青春期；青春
-# 例句
+##### 例句
 - No one knows for sure why adolescence is unique to humans
 	- 没有人确切地知道为什么只有人类才会经历青春期。
 - As an account of adolescence it could hardly be bettered .

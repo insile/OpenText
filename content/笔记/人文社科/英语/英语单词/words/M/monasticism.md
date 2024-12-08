@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/məˈnæstɪsɪzəm/； 美：/məˈnæstɪsɪzəm/
 - #词性/n  修道；僧侣生活；隐修院生活；修道院生活
-# 例句
+##### 例句
 - Women monasticism was encouraged by the early church and the new religious orders .
 	- 早期教会和各个修会的鼓励，更为她们提供了实现其修道理想的机会。
 - Female Monasticism and the Social Status of Medieval English Noblewomen

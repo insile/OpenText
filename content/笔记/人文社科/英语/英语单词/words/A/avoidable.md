@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈvɔɪdəbl/； 美：/əˈvɔɪdəbl/
 - #词性/adj  可以避免的
-# 例句
+##### 例句
 - Many deaths from heart disease are actually avoidable .
 	- 许多因心脏病造成的死亡实际上是可以避免的。
 - The tragedy was entirely avoidable .

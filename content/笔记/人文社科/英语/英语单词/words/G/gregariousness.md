@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  群居性；群集度
-# 例句
+##### 例句
 - Let 's talk about dog 's behavior from the point of gregariousness .
 	- 让我们从群居性开始谈犬的行为
 - Target Gregariousness Algorithm Based on Assistant Set of Intuitionistic Fuzzy S-rough-set

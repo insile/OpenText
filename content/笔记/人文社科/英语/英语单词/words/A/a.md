@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ə/； 美：/ə/
 - #词性/art  一；任何一；每一
-# 例句
+##### 例句
 - I think we could all use a drink after that !
 	- 我想我们在事情办完之后都得痛快地喝一杯。
 - I 'd like to learn a new language .

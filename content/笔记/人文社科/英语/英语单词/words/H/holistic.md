@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/həˈlɪstɪk/； 美：/hoʊˈlɪstɪk/
 - #词性/adj  整体的；全面的；功能整体性的
-# 例句
+##### 例句
 - These are all holistic treatments and you 'll feel like a new man when you 're done .
 	- 这是全面的理疗，而且当你做完时，你会感觉像变了一个人似的。
 - I took a holistic view of the planning process by examining which activities are intrinsic to success .

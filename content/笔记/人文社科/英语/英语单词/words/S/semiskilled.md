@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  半熟练的
-# 例句
+##### 例句
 - But the craft unions that controlled the AFL opposed efforts to unionize these generally unskilled or semiskilled workers .
 	- 但控制着劳联的熟练工人工会反对把那些非熟练或半熟练的工人吸收到工会中来。
 - Workers who enter a semiskilled occupation do not have to undergo a long period of training .

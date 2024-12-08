@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɜːsaɪn/； 美：/ˈɜːrsaɪn/
 - #词性/adj  熊有关的；像熊的
-# 例句
+##### 例句
 - Accordingly , hare bravery already became ursine bravery substitute .
 	- 因此，兔胆已成为熊胆替代品。
 - A few weeks later a better use of beer was discovered by an innocent ursine in the Pacific Northwest .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/bɪ'heɪvjərəl/； 美：/bɪ'heɪvjərəl/
 - #词性/adj  关于行为的
-# 例句
+##### 例句
 - It is the behavioral responses which allow man to live in a cold climate .
 	- 这是使人能在寒冷气候下生活的行为反应。
 - Finally , attitudes have a behavioral component .

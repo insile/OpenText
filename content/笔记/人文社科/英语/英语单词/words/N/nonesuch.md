@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  无以匹敌的人（或物）；典范（型）；完美之典范；无比的事物；绝品；无双的人
 - #词性/adj  无与匹敌的；无与伦比的
-# 例句
+##### 例句
 - On Nonesuch Courses Building in Angle of View of " Analog Circuit "
 	- 《模拟电路》视角下的精品课程建设研究
 - The Nonesuch could be considered the oldest actively expelling oil source bed .

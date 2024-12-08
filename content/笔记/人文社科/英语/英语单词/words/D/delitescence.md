@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  潜伏期
-# 例句
+##### 例句
 - The key point to prevent delitescence delay is to emphasize the monitoring and treatment of delitescence so as to reduce the incidence of dystocia .
 	- 重视对潜伏期的观察及处理是预防潜伏期延长的关键，从而可减少难产的发生率。
 - The delitescence of artificial infection was 3-6d .

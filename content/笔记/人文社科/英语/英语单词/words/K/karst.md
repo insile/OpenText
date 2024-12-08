@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  岩溶；喀斯特
-# 例句
+##### 例句
 - A Study on Information Extraction of Karst Land Use Based on Object-oriented Analysis
 	- 面向对象的喀斯特地区土地利用信息提取研究
 - The factors of low flow analysis based on fractal theory in karst basin

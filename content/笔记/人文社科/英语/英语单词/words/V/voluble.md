@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɒljʊbl/； 美：/ˈvɑːljʊbl/
 - #词性/adj  滔滔不绝的；健谈的；流利的；明快的
-# 例句
+##### 例句
 - ( informal ) voluble conversation . I am not so weak , no , really .
 	- （非正式）滔滔不绝的交谈。我的头脑绝不那么迟钝，不，绝不。
 - Her niece , an extremely voluble young woman , engages in soliloquies , not conversations .

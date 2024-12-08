@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌbaɪəʊdaɪˈvɜːsəti/； 美：/ˌbaɪoʊdaɪˈvɜːrsəti/
 - #词性/n  生物多样性(维持着生态环境平衡的大量各种生物的共存)
-# 例句
+##### 例句
 - Biodiversity was the buzzword of the Rio Earth Summit .
 	- 生物多样性是里约热内卢地球峰会上的时髦词儿。
 - It 's the latest research that shows the large systemic changes global warming has had on the biodiversity of the ocean .

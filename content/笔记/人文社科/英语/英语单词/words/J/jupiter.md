@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdʒuːpɪtə(r)/； 美：/ˈdʒuːpɪtər/
 - #词性/n  木星(太阳系中最大的行星)
-# 例句
+##### 例句
 - The planet Jupiter may have no solid surface at all .
 	- 木星表面可能根本就不是固体的。
 - How many moons does Jupiter have ?

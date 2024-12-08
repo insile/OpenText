@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkʌntrifaɪd/； 美：/ˈkʌntrifaɪd/
 - #词性/adj  土里土气的；乡土气的；像乡下的；像乡下人的
-# 例句
+##### 例句
 - The house was so handsome , with a lovely countrified garden .
 	- 这座房子很漂亮，带一个田园风情的美丽花园。
 - The sound veers between jazz and countrified blues .

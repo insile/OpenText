@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpɒliˈsiːməs/； 美：/ˌpɑːliˈsiːməs/
 - #词性/adj  (一词)多义的
-# 例句
+##### 例句
 - Polysemous mathematical symbols and their usage
 	- 多义的数学符号及其用法
 - Meanwhile , the polysemous words economize the burden of memorizing new words which appear with the development of the society .

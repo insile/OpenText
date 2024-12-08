@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdʒuːəlri/； 美：/ˈdʒuːəlri/
 - #词性/n  珠宝；珠宝饰物
-# 例句
+##### 例句
 - beautiful silver and turquoise jewelry and pottery .
 	- 美丽的银饰和绿松石珠宝与陶器
 - We have purchased some valuable jewelry .

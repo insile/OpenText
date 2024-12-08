@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfrendlinəs/； 美：/ˈfrendlinəs/
 - #词性/n  友好；友谊
-# 例句
+##### 例句
 - There was a sincere expression of friendliness on both their faces .
 	- 他们俩的脸上都流露出真挚友好的表情。
 - The enemy mask their enmity under an appearance of friendliness .

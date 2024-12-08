@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbəʊstfl/； 美：/ˈboʊstfl/
 - #词性/adj  自夸的；自吹自擂的
-# 例句
+##### 例句
 - Pretentious display meant to impress others ; boastful showiness .
 	- 炫耀试图打动别人的、夸耀的展示；自吹自擂的卖弄。
 - Ilium will endure forever , said the boastful Trojans as they looked at its solid walls and its noble buildings .

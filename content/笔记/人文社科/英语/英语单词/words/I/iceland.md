@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'aɪslənd/； 美：/ˈaɪslənd/
 - #词性/n  冰岛
-# 例句
+##### 例句
 - The trawler was fishing off the coast of Iceland .
 	- 拖网渔船在冰岛沿海捕鱼。
 - Pack ice around Iceland was becoming a threat to navigation .

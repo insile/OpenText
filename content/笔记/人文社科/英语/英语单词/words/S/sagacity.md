@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/səˈɡæsəti/； 美：/səˈɡæsəti/
 - #词性/n  聪慧;精明;有决策力
-# 例句
+##### 例句
 - Sagacity , unlike cleverness , may increase with age .
 	- 睿智与聪明不同，前者可与年龄俱增。
 - In a word , the trained sagacity and untiring caution of himself were all he had to rely on , amid the critical risks he unavoidably ran .

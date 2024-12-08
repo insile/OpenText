@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌhəʊmiˈɒpəθi/； 美：/ˌhoʊmiˈɑːpəθi/
 - #词性/n  顺势疗法
-# 例句
+##### 例句
 - Most doctors appear to recognize homeopathy as a legitimate form of medicine
 	- 大多数医生似乎都接受顺势疗法是一种合理的医疗手段。
 - Students will study in detail medical acupuncture , homeopathy . osteopathic manipulation and guided imagery .

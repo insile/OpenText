@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/abbr  bachelor of engineering 工学士
 - #词性/n  大麻纤维；印度大麻酚
-# 例句
+##### 例句
 - Heating Adjustment for First Air in No.2 Boiler of Beng Bu Thermal Power Station
 	- 蚌埠热电厂2炉一次风的热态调平
 - Colour words is invented form the ned of human beng .

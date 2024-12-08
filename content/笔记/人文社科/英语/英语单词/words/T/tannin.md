@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtænɪn/； 美：/ˈtænɪn/
 - #词性/n  单宁；鞣质；单宁酸
-# 例句
+##### 例句
 - Indirect determination of tannin in traditional Chinese medicine by linear scanning polarography
 	- 线性扫描极谱法间接测定中药中的单宁
 - Besides , the polyphenol such as tannin , metal ions such as Fe , and ethanol would also induce protein precipitate in yellow rice wine .

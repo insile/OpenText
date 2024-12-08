@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtrækʃn/； 美：/ˈtrækʃn/
 - #词性/n  牵引(使体内断骨复位的疗法)；牵引力；拉力；(车轮等对地面的)附着摩擦力；拖拉
-# 例句
+##### 例句
 - He spent six weeks in traction after he broke his leg .
 	- 他腿部骨折后做了六个星期的牵引治疗。
 - Is there an alternative to traction for a broken leg ?

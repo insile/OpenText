@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  最高天（古宇宙论认为该处存有纯火，早期基督教认为该处是上帝的家园）；可见的天堂，苍天
 - #词性/adj  天堂的，苍天的，最高天的
-# 例句
+##### 例句
 - The Empyrean is a story that has no action in the physical world .
 	- 最高天是一个在现实世界中没有发生的故事。
 - Pulling moon on empyrean : music can clean our soul .

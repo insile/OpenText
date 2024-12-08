@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/plæˈstɪsəti/； 美：/plæˈstɪsəti/
 - #词性/n  塑性；可塑性
-# 例句
+##### 例句
 - A Study of the Plasticity of Human Brain and Enlightenment for Education
 	- 女性人类学及其对教育的启示脑的可塑性研究及其对教育的启示
 - Some Philosophical Thought on Research of Plasticity of Adult Stem Cells

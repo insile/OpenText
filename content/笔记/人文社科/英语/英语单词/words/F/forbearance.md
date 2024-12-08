@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fɔːˈbeərəns/； 美：/fɔːrˈberəns/
 - #词性/n  宽容；忍让
-# 例句
+##### 例句
 - This impression of forbearance must be laid firmly to rest .
 	- 政府给公众留下的这种忍让印象，必须坚决予以消除。
 - Their Perseverance , intelligence and forbearance help to shape a Chinese heart in the Western reader .

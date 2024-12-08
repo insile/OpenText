@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/djuːˈplɪsɪtəs/； 美：/duːˈplɪsɪtəs/
 - #词性/adj  奸诈的;骗人的;两面派的；口是心非的
-# 例句
+##### 例句
 - He is a possessive , duplicitous and unreasonable man .
 	- 他是一个贪婪、奸诈而又蛮不讲理的人。
 - Conway 's character showcases how duplicitous one needs to be in order to get to the top .

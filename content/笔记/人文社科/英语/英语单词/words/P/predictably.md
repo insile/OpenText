@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  可推断
-# 例句
+##### 例句
 - Predictably , the new regulations proved unpopular .
 	- 正如所预料，新规定果然不得人心。
 - Prices were predictably high .

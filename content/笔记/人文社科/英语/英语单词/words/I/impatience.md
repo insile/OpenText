@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈpeɪʃəns/； 美：/ɪmˈpeɪʃəns/
 - #词性/n  不耐烦；急躁；无耐心
-# 例句
+##### 例句
 - She was bursting with impatience to tell me the news .
 	- 她迫不及待地要告诉我这个消息。
 - He waited for her arrival in a fever of impatience .

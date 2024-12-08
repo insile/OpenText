@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnɪmˈprest/； 美：/ˌʌnɪmˈprest/
 - #词性/adj  印象平平的；无深刻印象的
-# 例句
+##### 例句
 - He was also very unimpressed by his teachers
 	- 他对他的老师也很不以为然。
 - Kitty 's family was unworldly , unimpressed by power , or money .

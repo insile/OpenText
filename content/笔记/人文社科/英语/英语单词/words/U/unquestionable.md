@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈkwestʃənəbl/； 美：/ʌnˈkwestʃənəbl/
 - #词性/adj  无疑的；无可非议的；确实的
-# 例句
+##### 例句
 - Both world wars were of unquestionable importance as economic events .
 	- 两次世界大战都是重要性无可置疑的经济事件。
 - There is an unquestionable link between job losses and deteriorating services .

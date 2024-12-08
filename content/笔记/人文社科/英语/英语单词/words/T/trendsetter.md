@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtrendsetə(r)/； 美：/ˈtrendsetər/
 - #词性/n  新潮倡导者；创新风的人
-# 例句
+##### 例句
 - An innovative trendsetter should not be working in a heavily bureaucratic environment .
 	- 一个创新的潮流不应该在工作环境的严重官僚主义。
 - Johannesburg is also known as the economic engine of Southern Africa and the trendsetter of South Africa .

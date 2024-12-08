@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdɪlɪdʒənt/； 美：/ˈdɪlɪdʒənt/
 - #词性/adj  勤勉的；刻苦的；孜孜不倦的
-# 例句
+##### 例句
 - As a result of his diligent exploration for cultural selection , Li chose and accepted Marxism .
 	- 李大钊选择和接受马克思主义，实际上是他孜孜不倦的进行文化选择的结果。
 - The theory of income distribution is an important part of a complete theory of economics . Many economists have made lots of diligent research and have some certain positive meaning on the current social reality .

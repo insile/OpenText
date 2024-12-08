@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/sə'renəti/； 美：/sə'renəti/
 - #词性/n  宁静；平静；安详；从容
-# 例句
+##### 例句
 - Here are some tips I have used to find serenity in my life
 	- 下面是我过去生活中经常获得宁静的一些技巧
 - Without dim not insist your dream , without serenity not go far .

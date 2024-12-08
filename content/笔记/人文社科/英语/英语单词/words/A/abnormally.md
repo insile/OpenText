@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/æbˈnɔːməli/； 美：/æbˈnɔrməli/
 - #词性/adv  异常；例外；变态地
-# 例句
+##### 例句
 - Abnormally low or high body temperature effect a variety of physiologic responses including lowered metabolic rate .
 	- 不正常的低或高体温会影响动物体各种不同的生理应答，包括低代谢率。
 - El Ninos are associated with abnormally dry conditions in Southeast Asia and Australia .

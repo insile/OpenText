@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  使成为神圣；把…尊为神圣，视……为神圣；崇敬
 - #词性/n  <古>圣人，圣徒
-# 例句
+##### 例句
 - Even as when first I hallow 'd thy fair name .
 	- 就像我祝福你名字的头一天。
 - Research on p ~ y Curve for Horizontal Loaded Piles in Hallow Layer Clay

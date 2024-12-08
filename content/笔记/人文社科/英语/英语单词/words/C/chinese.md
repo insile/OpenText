@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  （Chinese）中国人，华人；汉语；<非正式>中餐，中餐馆
 - #词性/adj  （Chinese）中国的；中国人的；汉语的
-# 例句
+##### 例句
 - In Chinese folklore the bat is an emblem of good fortune .
 	- 在中国的民间传说中蝙蝠是好运的象征。
 - The White House has welcomed the Chinese decision and described it as a far-sighted , significant step .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɜːˈbeɪn/； 美：/ɜːrˈbeɪn/
 - #词性/adj  练达的；温文儒雅的；从容不迫的
-# 例句
+##### 例句
 - She describes him as urbane and charming
 	- 她说他文雅而迷人。
 - In conversation , he was suave and urbane .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsaʊəpʊs/； 美：/ˈsaʊərpʊs/
 - #词性/n  阴郁的人；整天绷着脸的人；性情乖戾的人
-# 例句
+##### 例句
 - Instead , we must make the decision not to be a sourpuss .
 	- 相反，我们必须做出决定或不可能的。
 - She 's an old sourpuss . The old lady had a bad cough .

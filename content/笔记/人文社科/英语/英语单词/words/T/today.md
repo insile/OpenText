@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/təˈdeɪ/； 美：/təˈdeɪ/
 - #词性/n  今天；今日；现在；当今；当代
 - #词性/adv  在今天；在今日；现在；当今；当代
-# 例句
+##### 例句
 - I haven 't been able to get much work done today .
 	- 我今天未能干多少工作。
 - Today we learnt how to use the new software .

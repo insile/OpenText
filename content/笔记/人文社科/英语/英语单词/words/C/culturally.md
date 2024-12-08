@@ -5,9 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkʌltʃərəli/； 美：/ˈkʌltʃərəli/
-# 例句
+- #词性/adv  从文化角度，文化意义上；在人文学方面
+##### 例句
 - But this group is linguistically , culturally , and even genetically diverse .
 	- 但这个人群在语言上，文化上，甚至在遗传上都是多样化的。
 - How would such culturally different people be integrated into our society ?

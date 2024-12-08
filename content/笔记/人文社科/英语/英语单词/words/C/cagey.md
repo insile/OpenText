@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkeɪdʒi/； 美：/ˈkeɪdʒi/
 - #词性/adj  守口如瓶的；讳莫如深的
-# 例句
+##### 例句
 - Tony is very cagey about his family .
 	- 托尼对自己家的事讳莫如深。
 - He is cagey about what he was paid for the business .

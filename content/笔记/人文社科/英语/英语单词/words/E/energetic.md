@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌenəˈdʒetɪk/； 美：/ˌenərˈdʒetɪk/
 - #词性/adj  精力充沛的；积极的；充满活力的；需要能量的
-# 例句
+##### 例句
 - He seemed a dynamic and energetic leader
 	- 他似乎是一个富有干劲、精力充沛的领导。
 - Her mother was a resourceful and energetic woman .

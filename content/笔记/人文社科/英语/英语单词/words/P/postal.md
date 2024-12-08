@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpəʊstl/； 美：/ˈpoʊstl/
 - #词性/adj  邮政的；邮寄的；邮递的；邮寄物品的
 - #词性/n  〈美口〉明信片
-# 例句
+##### 例句
 - Second , the improvement of the postal distribution in China ;
 	- 二是改进中国邮政的配送；
 - On the Unification and Development of the Old Chinese Postal Service ;

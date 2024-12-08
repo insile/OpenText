@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtrɒlibʌs/； 美：/ˈtrɑːlibʌs/
 - #词性/n  无轨电车
-# 例句
+##### 例句
 - You 'll have to change to the trolleybus next stop .
 	- 你下一站得改乘无轨电车。
 - An automatic monitoring and control system for trolleybus commutating station

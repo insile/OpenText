@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/tʃɜːl/； 美：/tʃɜːrl/
 - #词性/n  粗鲁无礼的人；粗野的人
-# 例句
+##### 例句
 - The vile person shall be no more called liberal , nor the churl said to be bountiful .
 	- 愚顽人不再称为高明、吝啬人不再称为大方。
 - When that churl Death my bones with dust shall cover ,

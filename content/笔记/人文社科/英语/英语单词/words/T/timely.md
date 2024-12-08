@@ -9,11 +9,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtaɪmli/； 美：/ˈtaɪmli/
 - #词性/adj  及时的，适时的；<古> 早的
 - #词性/adv  及地，适时地；<古> 早
-# 例句
+##### 例句
 - This has been a timely reminder to us all .
 	- 对我们大家来说这个提醒非常及时。
 - A nasty incident was prevented by the timely arrival of the police .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  极好地；庄重地
-# 例句
+##### 例句
 - She plays superbly .
 	- 她演奏得好极了。
 - Turner , however , putted superbly , twice holing from 40 feet .

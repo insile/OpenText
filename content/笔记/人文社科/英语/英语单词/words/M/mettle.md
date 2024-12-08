@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmetl/； 美：/ˈmetl/
 - #词性/n  毅力；奋斗精神
-# 例句
+##### 例句
 - The next game will be a real test of their mettle .
 	- 下一场比赛就要看他们的拼搏精神了。
 - For both sides , it 's the first real test of their mettle this season

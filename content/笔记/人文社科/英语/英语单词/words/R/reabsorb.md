@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vi  再吸收；重吸收
-# 例句
+##### 例句
 - The desire to offer a one-stop shop for quadruple-play services has also prompted several national incumbent operators to reabsorb their previously separate wireless operations .
 	- 提供四重播放业务的一站式服务的愿望促使一些全国性的运营商重新吸纳了先前独立出去的移动电话分部。
 - The Tao is simply choosing to reabsorb these souls and clean up the cause with a team of the most experienced creators of all time .

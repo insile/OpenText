@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdəʊsaɪl/； 美：/ˈdɑːsl/
 - #词性/adj  温顺的；驯服的；易驾驭的；易控制的
-# 例句
+##### 例句
 - The once docile population has finally risen up against the ruthless regime .
 	- 曾经是温顺的人们终于站了起来，反对暴虐的统治。
 - Vietnam 's usually docile National Assembly has mounted a rare display of independence by voting down a controversial $ 56bn high-speed rail project linking the capital Hanoi with Ho Chi Minh City in the country 's south .

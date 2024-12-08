@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈneðə(r)/； 美：/ˈneðər/
 - #词性/adj  较低的；下方的
-# 例句
+##### 例句
 - He was escorted back to the nether regions of Main Street .
 	- 他被护送回中央大道南面的地方。
 - Control of nether roof during primary caving at double open type face

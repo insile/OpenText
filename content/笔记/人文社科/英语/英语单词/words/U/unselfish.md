@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈselfɪʃ/； 美：/ʌnˈselfɪʃ/
 - #词性/adj  无私的；忘我的；不谋私利的
-# 例句
+##### 例句
 - Unselfish love is of the highest kind .
 	- 无私的爱是最高境界的爱。
 - In this sense , I wish to share my happiness with my friends who have given me unselfish help during the process .

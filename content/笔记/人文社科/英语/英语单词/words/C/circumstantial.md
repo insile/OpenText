@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsɜːkəmˈstænʃl/； 美：/ˌsɜːrkəmˈstænʃl/
 - #词性/adj  间接的；视情况而定的；按情况推测的；与特定条件(或环境、情况)有关的
-# 例句
+##### 例句
 - Suspicion points to him , but the evidence is circumstantial .
 	- 他直接受到怀疑，但证据却是间接的。
 - He says circumstantial evidence indicates the launch involves a long-range missile rather than a satellite .

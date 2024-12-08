@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkɑːbəˈnɪfərəs/； 美：/ˌkɑːrbəˈnɪfərəs/
 - #词性/adj  石炭纪的；含煤(或炭)的；产煤(或炭)的
-# 例句
+##### 例句
 - Carboniferous Petrographic Features and Depositional Facies of the Lower Yangtze Basin
 	- 下扬子盆地石炭纪的岩石学特征及沉积相
 - Carboniferous Sedimentary Facies and Environment in North Altay , Xinjiang

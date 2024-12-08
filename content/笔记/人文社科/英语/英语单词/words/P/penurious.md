@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pəˈnjʊəriəs/； 美：/pəˈnʊriəs/
 - #词性/adj  贫穷的；赤贫的；穷困的
-# 例句
+##### 例句
 - One penurious year , my parents used Swiss cheese plant .
 	- 经济拮据的一年，我父母曾用绳状藤来代替圣诞树。
 - Raised on a hog farm in Hunan Province , she laughs off the penurious ways of her parents and grandparents .

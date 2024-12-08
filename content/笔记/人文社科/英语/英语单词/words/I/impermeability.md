@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  抗渗性；不透水性；气密性；防水性
-# 例句
+##### 例句
 - Air-entraining agent increases impermeability of hybrid fiber concrete .
 	- 引气剂有助于提高混杂纤维混凝土的抗渗性。
 - Study on effect of ecological fiber upon improvement of impermeability of concrete

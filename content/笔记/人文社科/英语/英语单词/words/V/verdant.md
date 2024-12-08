@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɜːdnt/； 美：/ˈvɜːrdnt/
 - #词性/adj  青翠的，碧绿的；嫩绿的；长满绿色植物的；稚嫩的，无经验的，不老练的
-# 例句
+##### 例句
 - This day the verdant field are seen .
 	- 今天满眼是青翠的田野；
 - I saw some cows and ship grazing in the verdant pasture .

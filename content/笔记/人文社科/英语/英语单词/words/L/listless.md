@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlɪstləs/； 美：/ˈlɪstləs/
 - #词性/adj  无精打采的；没有活力的；不热情的
-# 例句
+##### 例句
 - They chatted all night long and were listless in class the next morning .
 	- 他们整夜都在聊天，第二天课上都无精打采的。
 - A listless , non-specific depressed feeling that leads to just sitting in a caf é, drinking coffee and sighing quietly to one 's self .

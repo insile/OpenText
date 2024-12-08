@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˌvenʃənəlɪ/； 美：/kənˌvenʃənəlɪ/
 - #词性/adv  照惯例
-# 例句
+##### 例句
 - America conventionally attaches a rider to Israeli aid , to the effect that it must not be used in the occupied territories .
 	- 美国按照惯例在对以色列的援助中提出了附加条款，大意是该援助不能用于被占领地区。
 - She may still be conventionally pretty , but unlike China 's other virtual influencers , Angie doesn 't pose in designer clothes , walk the runway or promote new songs .

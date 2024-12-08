@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdɪfɪdənt/； 美：/ˈdɪfɪdənt/
 - #词性/adj  缺乏自信的；羞怯的；胆怯的
-# 例句
+##### 例句
 - An able but diffident young student .
 	- 能干但缺乏自信的青年学生。
 - The major influence factors of being bullied were introverted personality , parents ' predilection , diffident cope style and low social support .

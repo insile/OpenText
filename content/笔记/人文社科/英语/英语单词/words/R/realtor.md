@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈrɪəltə/； 美：/ˈriəltər/
 - #词性/n  (隶属于美国全国不动产经纪人协会 的)不动产经纪人
-# 例句
+##### 例句
 - The construction of realtor competency model remedies the lack of research in theory and practice .
 	- 构建的房地产经纪人胜任力模型，在一定程度上补充了这一研究在理论上的不足和实践上的空白。
 - That realtor who was shot walking home from work .

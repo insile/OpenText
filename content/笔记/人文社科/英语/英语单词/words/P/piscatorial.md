@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpɪskəˈtɔːriəl/； 美：/ˌpɪskəˈtɔːriəl/
 - #词性/adj  渔业的；渔民的；捕鱼的
-# 例句
+##### 例句
 - The government is taking measures to promote piscatorial development .
 	- 政府正在采取措施促进渔业发展。
 - The future policy of piscatorial development will be charted at the conference .

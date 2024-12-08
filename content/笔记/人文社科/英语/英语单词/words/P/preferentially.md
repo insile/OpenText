@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  优先；【医】优先地
-# 例句
+##### 例句
 - Congress needs to find the courage to allow Medicare to pay preferentially for treatments proven to be superior .
 	- 国会需要找到勇气去允许医疗保险优先支付被证明是优越的治疗。
 - The authors note that " we have preferentially focused our crop improvement efforts on feeding animals and cars rather than on crops that feed people and are the basis of food security in much of the world . "

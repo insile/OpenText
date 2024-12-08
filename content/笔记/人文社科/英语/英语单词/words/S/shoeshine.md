@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈʃuːʃaɪn/； 美：/ˈʃuːʃaɪn/
 - #词性/n  擦鞋(生意)
-# 例句
+##### 例句
 - Even shoeshine boys warn about " global imbalances " these days .
 	- 如今，就连擦鞋的伙计都在警告人们当心“全球失衡”。
 - The fact is the shoeshine test is just another indicator of the remarkably high cost of business in Brazil .

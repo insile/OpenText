@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  慷慨；赏金
-# 例句
+##### 例句
 - Our people are in no need of richer nations ' largess .
 	- 我国人民不需要富国的慷慨的赠与。
 - There are many reasons , for example the natural disasters , queasy political situation , luxury consumption , largess , etc.

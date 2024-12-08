@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhɒmɪnɪd/； 美：/ˈhɑːmɪnɪd/
 - #词性/n  原始人；人科动物
 - #词性/adj  人科的
-# 例句
+##### 例句
 - This hominid ate a rough and hard to chew diet .
 	- 这原始人吃了粗糙，难以咀嚼的食物。
 - Gracile hominid of southern Africa ; from about 3 million years ago ; formerly Plesianthropus_transvaalensis .

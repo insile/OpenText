@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbraɪni/； 美：/ˈbraɪni/
 - #词性/adj  很咸的；多盐分的
-# 例句
+##### 例句
 - Natalie shuddered . " I don 't know . it 's a godforsaken place , briny . "
 	- 纳塔丽耸耸肩膀。“我不知道，勃拉尼，这是个荒凉的地方。”
 - The briny water is not good for the growth of the trees .

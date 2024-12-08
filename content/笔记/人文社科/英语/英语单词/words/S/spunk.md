@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/spʌŋk/； 美：/spʌŋk/
 - #词性/n  勇气；胆量；决心；性感的人
-# 例句
+##### 例句
 - I admired her independence and her spunk .
 	- 我敬佩她的独立精神和勇气。
 - For god 's sake , man , where 's your spunk !

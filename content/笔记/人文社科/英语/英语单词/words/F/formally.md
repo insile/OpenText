@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɔːməli/； 美：/ˈfɔrməli/
 - #词性/adv  形式上；正式地；正规地
-# 例句
+##### 例句
 - ' How do you do ? ' she said formally .
 	- “你好！”她很正式地说。
 - The accounts were formally approved by the board .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  战斗性；交战状态
-# 例句
+##### 例句
 - She made it clear the government would stick to its policies despite union militancy
 	- 她明确表示，尽管工会很强悍，但政府将坚持自己的政策。
 - Full of militancy and revolutionary ardour , the people of all nationalities in the country are working hard for the realization of the four modernizations .

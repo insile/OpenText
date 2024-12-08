@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəmˈpleɪsnsi/； 美：/kəmˈpleɪsnsi/
 - #词性/n  自满；自鸣得意；自得
-# 例句
+##### 例句
 - Despite signs of an improvement in the economy , there is no room for complacency .
 	- 尽管在经济方面有改善的迹象，但仍不容自满。
 - Such complacency is costing the company dear .

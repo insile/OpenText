@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌhɒmədʒəˈniːəti/； 美：/ˌhɑːmədʒəˈniːəti/
 - #词性/n  同质；同质性；同种
-# 例句
+##### 例句
 - A text detection approach based on fuzzy homogeneity is proposed .
 	- 提出了基于模糊同质性映射的文本检测方法。
 - The theory is based on the assumption of labor homogeneity .

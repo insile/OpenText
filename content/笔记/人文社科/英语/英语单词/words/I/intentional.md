@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈtenʃənl/； 美：/ɪnˈtenʃənl/
 - #词性/adj  故意的；有意的；存心的
-# 例句
+##### 例句
 - Let me assure you that it was not intentional .
 	- 我向你保证那不是故意的。
 - Intentional deception resulting in injury to another person .

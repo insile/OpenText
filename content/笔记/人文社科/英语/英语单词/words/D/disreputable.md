@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪsˈrepjətəbl/； 美：/dɪsˈrepjətəbl/
 - #词性/adj  声名狼藉；名声不好的；不光彩的；不名誉的
-# 例句
+##### 例句
 - The accountants who were paid to cook the firm books are disreputable .
 	- cookthebooks造假账这些会计师因篡改公司的账册而声名狼藉。
 - That dive attracts every disreputable people .

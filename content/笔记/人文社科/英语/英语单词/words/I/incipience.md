@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  初（早）期；开始；初步；发端
-# 例句
+##### 例句
 - He placed the incipience of democratic faith at around 1850 .
 	- 他认为民主主义信念从大约1850年起开始出现
 - P ⅳ investigation of sand incipience under low wind velocity

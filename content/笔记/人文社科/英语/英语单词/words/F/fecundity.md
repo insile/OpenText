@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  生殖力；肥沃；多产；富饶；产卵力；结实性
-# 例句
+##### 例句
 - The boy 's fecundity of imagination amazed his teacher .
 	- 男孩想像力的丰富使教师感到惊异。
 - The probability of survival is the reciprocal of fecundity .

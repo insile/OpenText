@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  追星族；偶像崇拜者；皈依者；崇拜者
-# 例句
+##### 例句
 - I 'm not idolater and I am not so crazy about Ming Dao as other girls .
 	- 我不是追星族，也并非是因为明道的帅气而像其他女孩子那样疯狂的痴迷他。
 - This paper introduces psychodrama 's specific working process and skills through a case of a youth idolater .

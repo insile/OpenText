@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈventʃəsəm/； 美：/ˈventʃərsəm/
 - #词性/adj  大胆的；好冒险的
-# 例句
+##### 例句
 - A trip to the moon is a venturesome journey .
 	- 前往月球旅行是冒险的。
 - A new venturesome spirit among today 's young people .

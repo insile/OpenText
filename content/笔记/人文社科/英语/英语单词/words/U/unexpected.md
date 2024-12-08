@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnɪkˈspektɪd/； 美：/ˌʌnɪkˈspektɪd/
 - #词性/adj  出乎意料的；想不到的；始料不及的
-# 例句
+##### 例句
 - This is sth. quite unexpected !
 	- 这真是想不到的事！
 - The permanent gloom held an unexpected pocket of nutrition .

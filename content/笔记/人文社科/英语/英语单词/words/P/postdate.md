@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vt  填迟……的日期；把……的日期填迟；继……之后
 - #词性/n  事后日期；推迟日期；发布时间；发表日期
-# 例句
+##### 例句
 - He send us a postdate cheque .
 	- 他寄给我们一张填迟日期的支票。
 - Methods Clinical data of240 delayed , postdate and normal pregnancies were reviewed and analyzed .

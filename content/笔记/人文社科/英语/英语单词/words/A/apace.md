@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈpeɪs/； 美：/əˈpeɪs/
 - #词性/adv  迅速地；高速地
-# 例句
+##### 例句
 - The development of complex function theory proceeded apace in the latter part of the nineteenth century .
 	- 十九世纪后期，复函数的理论迅速地发展。
 - I sat down and saw the box and dice go round apace .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkeəfl/； 美：/ˈkerfl/
 - #词性/adj  小心；注意；仔细的；谨慎；精心的；细致的；慎重的
-# 例句
+##### 例句
 - They 're all carried out at the basis of careful financial analysis .
 	- 这些职责的执行都是以仔细的财务分析为基础。
 - They require careful planning , information architecture , and user experience design .

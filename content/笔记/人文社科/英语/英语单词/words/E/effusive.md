@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈfjuːsɪv/； 美：/ɪˈfjuːsɪv/
 - #词性/adj  奔放的；溢于言表的；感情过分流露的；太动感情的
-# 例句
+##### 例句
 - He was effusive in his praise .
 	- 他极尽溢美之词。
 - He was effusive in his praise for the general

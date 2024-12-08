@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌtiːˈtəʊtl/； 美：/ˌtiːˈtoʊtl/
 - #词性/adj  滴酒不沾的；从不饮酒的
-# 例句
+##### 例句
 - I never ask my teetotal friends to parties .
 	- 我从不邀请那些滴酒不沾的朋友参加聚会。
 - A waiter comes by to take drinks orders and the teetotal Duke asks for still water .

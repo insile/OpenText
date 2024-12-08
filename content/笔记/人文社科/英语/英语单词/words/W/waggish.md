@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwæɡɪʃ/； 美：/ˈwæɡɪʃ/
 - #词性/adj  诙谐的；打趣的
-# 例句
+##### 例句
 - Waggish remarks , tricks , youngsters I lifted Tom 's wrist , gently , disturbing it as little as possible .
 	- 诙谐的言语、花招、年轻人.我轻轻地把住汤姆的手腕部，尽可能地不惊扰他。
 - The house had been facetiously named by some waggish officer .

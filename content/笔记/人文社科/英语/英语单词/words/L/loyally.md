@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  忠诚地；诚实地
-# 例句
+##### 例句
 - They may be loyally standing by their men , but they are also carving their own careers
 	- 她们也许忠诚地支持着自己的丈夫，但她们也在开创自己的事业。
 - We should promote the spirit of the Constitution , uphold the Constitution 's authority , and make efforts to guide all the people to loyally uphold , willingly comply with and firmly safeguard the socialist rule of law .

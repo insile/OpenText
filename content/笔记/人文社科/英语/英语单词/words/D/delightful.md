@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈlaɪtfl/； 美：/dɪˈlaɪtfl/
 - #词性/adj  令人愉快的；宜人的；使人快乐的
-# 例句
+##### 例句
 - A delightful guide was my guardian angel for the first week of the tour .
 	- 令人愉快的导游是我第一周旅行的守护神。
 - She feels it 's a small price to pay for the pleasure of living in this delightful house .

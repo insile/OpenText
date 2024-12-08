@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈstrɒlədʒi/； 美：/əˈstrɑːlədʒi/
 - #词性/n  占星术；占星学
-# 例句
+##### 例句
 - This discovery seems to validate the claims of popular astrology .
 	- 这个发现似乎能印证流行占星术的一些说法。
 - Frank disbelieved in astrology .

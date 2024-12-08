@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/daɪˈdæktɪk/； 美：/daɪˈdæktɪk/
 - #词性/adj  说教的；教诲的；教导的；好教训人的
-# 例句
+##### 例句
 - The shift toward didactic approaches is an attempt to solve two pressing problems .
 	- 转而采用说教的方式是为了解决两个紧迫的问题。
 - In the novel . He strives to free the American novel from the didactic tradition and provide it with more space of interpretation .

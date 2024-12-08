@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  曝气；充（通，换，透，进，吹，掺，曝）气；通（鼓，吹，透）风；分解；松砂（散）
-# 例句
+##### 例句
 - Two methods of aeration system design and their results are compared .
 	- 对堆肥系统的两种不同风机选型方法及计算结果进行了比较。
 - Application of the technology of lifting water and aeration for improving water quality

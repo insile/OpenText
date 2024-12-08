@@ -5,5 +5,5 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  哀歌；悲歌（等于 threnody）

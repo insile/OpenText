@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɪnɪʃ/； 美：/ˈfɪnɪʃ/
 - #词性/n  芬兰语
 - #词性/adj  芬兰的；芬兰语(或文化)的；芬兰人的
-# 例句
+##### 例句
 - Finnish and Swedish are the official languages .
 	- 芬兰语和瑞典语均为官方语言
 - NEW !!! version 1.30 , Now support for Finnish ! Defects fixed .

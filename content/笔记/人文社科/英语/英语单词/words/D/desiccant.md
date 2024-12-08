@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  干燥剂
 - #词性/adj  （如药品）使干燥的；脱水的，去水分的，干的，去湿的
-# 例句
+##### 例句
 - Liquid Desiccant Gas Air-conditioning System and Its Application
 	- 液体干燥剂除湿式燃气空调系统及应用
 - Fractional characteristics for adsorption in new composite desiccant materials

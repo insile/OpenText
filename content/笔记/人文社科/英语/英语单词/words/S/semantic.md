@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/sɪˈmæntɪk/； 美：/sɪˈmæntɪk/
 - #词性/adj  语义的
-# 例句
+##### 例句
 - Analysis and Application Research of Text Orientation Based on Semantic
 	- 基于语义的文本倾向性分析与应用研究
 - A Mapping Method Based on Semantic Feature Between Heterogeneous Data Model

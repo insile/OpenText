@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnɪˈskeɪpəbl/； 美：/ˌɪnɪˈskeɪpəbl/
 - #词性/adj  不可避免的；逃避不了的；不能忽视的
-# 例句
+##### 例句
 - The impression of villains was inescapable .
 	- 留下恶棍的印象是不可避免的
 - Impossible to avoid or evade : inescapable conclusion .

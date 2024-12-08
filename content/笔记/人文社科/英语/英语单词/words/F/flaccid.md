@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈflæsɪd/； 美：/ˈflæsɪd/
 - #词性/adj  松弛的；软弱的；不结实的
-# 例句
+##### 例句
 - A little the flaccid flesh may spread the anti-aged facial mask .
 	- 有点松弛的肌肤可以敷抗老化面膜。
 - Results The patient had polymorphic skin lesions including papules , plaques , and bullae with tense or flaccid walls .

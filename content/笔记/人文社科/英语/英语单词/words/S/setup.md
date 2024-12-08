@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɛtʌp/； 美：/ˈsɛˌtʌp/
 - #词性/n  (软件或硬件的)安装，设置；体制;组织方式;建制；陷害;栽赃
-# 例句
+##### 例句
 - I gradually got rather disillusioned with the whole setup of the university .
 	- 渐渐地，我对大学的整个体制感到相当失望。
 - A Key Theoretical Supply to Chinas Reform-the Theory of Industry Setup Cost

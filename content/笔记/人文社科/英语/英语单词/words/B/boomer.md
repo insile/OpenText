@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbuːmə(r)/； 美：/ˈbuːmər/
 - #词性/n  大雄袋鼠
-# 例句
+##### 例句
 - Although in many ways Blair has lived a quintessential baby boomer 's life , there is an air of loneliness and detachment about him .
 	- 尽管布莱尔在很多方面反映出他属于典型的战后婴儿潮一代，他身上却也有着些许遗世独立的气质。
 - Some additional facts about Boomer may be helpful in evaluating the case . “

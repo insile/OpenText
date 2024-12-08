@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfæləbl/； 美：/ˈfæləbl/
 - #词性/adj  易犯错误的；会犯错误的
-# 例句
+##### 例句
 - Now , I do realize that physicians are fallible human beings .
 	- 现在，我也知道医生是会犯错误的人。
 - All human beings are fallible .

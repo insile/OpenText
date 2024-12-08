@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dʒuˈdɪʃəs/； 美：/dʒuˈdɪʃəs/
 - #词性/adj  明智的；有见地的；明断的
-# 例句
+##### 例句
 - The President authorizes the judicious use of military force to protect our citizens .
 	- 总统授权可以明智而审慎地动用军队保护我们的公民。
 - We should listen to the judicious opinion of that old man .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/təˈmerəti/； 美：/təˈmerəti/
 - #词性/n  鲁莽；冒失；蛮勇
-# 例句
+##### 例句
 - Instead the French president 's language betrays temerity .
 	- 相反，这位法国总统的言语表露出他的鲁莽。
 - Conducting the premiere of a symphony without a rehearsal requires temerity .

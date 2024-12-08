@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/mɔːˈfɒlədʒi/； 美：/mɔːrˈfɑːlədʒi/
 - #词性/n  形态学；词法；形态论
-# 例句
+##### 例句
 - A New Vehicle License Location Algorithm Based on Stroke Analysis and Morphology
 	- 基于笔画分析和形态学的汽车牌照定位算法
 - Study of mathematical morphology vector in field of short-term urban planning

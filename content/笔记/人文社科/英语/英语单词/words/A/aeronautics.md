@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌeərəˈnɔːtɪks/； 美：/ˌerəˈnɔːtɪks/
 - #词性/n  航空学；飞行术；飞行学
-# 例句
+##### 例句
 - My dream is to go to UCLA and study aeronautics .
 	- 我的梦想是去加利福尼亚大学洛杉机分校学航空学。
 - With regards to military technology , space programs go beyond simple aeronautics and computer-simulation models .

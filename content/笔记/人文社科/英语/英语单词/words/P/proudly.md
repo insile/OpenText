@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpraʊdli/； 美：/ˈpraʊdli/
 - #词性/adv  自豪地；骄傲地；得意地；雄伟地；壮观地；高大地
-# 例句
+##### 例句
 - She proudly displayed her prize .
 	- 她得意地展示所获的奖品。
 - The fox wagged its tail proudly and said : " I will take you to the other animals , and show you my power and prestige . "

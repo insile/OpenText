@@ -6,9 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'sɒmbə(r)/； 美：/'sɑmbər/
-# 例句
+- #词性/adj  忧郁的；昏暗的；严峻的；阴天的
+##### 例句
 - He had a somber expression on his face .
 	- 他面容忧郁。
 - His coat was a somber brown .

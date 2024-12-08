@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɪtiəs/； 美：/ˈpɪtiəs/
 - #词性/adj  可怜的；令人怜悯的；令人同情的
-# 例句
+##### 例句
 - Said her charming , piteous , dead face .
 	- 她那美丽迷人的、可怜的死者的面孔在说话。
 - And then , is the piteous low click .

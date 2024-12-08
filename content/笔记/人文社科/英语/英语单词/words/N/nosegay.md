@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnəʊzɡeɪ/； 美：/ˈnoʊzɡeɪ/
 - #词性/n  小花束
-# 例句
+##### 例句
 - Every tree , every hedge is a nosegay .
 	- 每一棵树，每一片篱笆，是一束芬芳的花朵。
 - A bride carrying a nosegay of lilies of the valley ;

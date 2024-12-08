@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɜːnl/； 美：/ˈvɜːrnl/
 - #词性/adj  春季的
-# 例句
+##### 例句
 - They are thought to have arisen with the celebrations of the vernal equinox .
 	- 人们认为他们是出自于庆祝春分的来临。
 - Study on the Pest and Disease Control of Vernal Crop Diversity

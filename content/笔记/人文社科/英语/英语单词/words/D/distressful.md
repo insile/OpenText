@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  痛苦的；苦难重重的，不幸的，使苦恼的
-# 例句
+##### 例句
 - The whole hall is filled with joy and laughter -- there is only one who feels distressful .
 	- 满堂欢笑，一人向隅。
 - Under these distressful circumstances it was resolved to slow down the process of reconstruction .

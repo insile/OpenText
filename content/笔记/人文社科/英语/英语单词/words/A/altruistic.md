@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌæltruˈɪstɪk/； 美：/ˌæltruˈɪstɪk/
 - #词性/adj  利他的；无私的
-# 例句
+##### 例句
 - Altruistic spirit should be cultivated by us vigorously .
 	- 利他的精神是我们应该努力培养的。
 - Such altruistic behavior is one of the noblest attributes of our species .

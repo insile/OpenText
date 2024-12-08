@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdaɪətəri/； 美：/ˈdaɪəteri/
 - #词性/adj  饮食的；饮食中的；膳食中的；有关饮食的
 - #词性/n  食谱；规定的食物；规定的食量
-# 例句
+##### 例句
 - As with all dietary changes , reducing salt should be done gradually .
 	- 像所有改变饮食结构的情况一样，减少盐的摄入量也应当采取渐进的方式。
 - Dr Susan Hankinson has studied the dietary habits of more than 50,000 women

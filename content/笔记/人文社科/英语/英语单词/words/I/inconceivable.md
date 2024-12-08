@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnkənˈsiːvəbl/； 美：/ˌɪnkənˈsiːvəbl/
 - #词性/adj  难以想象的；无法相信的
-# 例句
+##### 例句
 - This sort of work would have been inconceivable before the advent of microprocessors .
 	- 在微处理机问世之前这种工作是难以想象的。
 - This is surely close to inconceivable in the near term .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pʌbˈlɪsəti/； 美：/pʌbˈlɪsəti/
 - #词性/n  宣传；(媒体的)关注；报道；传播工作；广告宣传工作；宣传业
-# 例句
+##### 例句
 - There has been a lot of advance publicity for her new film .
 	- 她的新电影尚未上映即大加宣传。
 - The next item on the agenda is the publicity budget .

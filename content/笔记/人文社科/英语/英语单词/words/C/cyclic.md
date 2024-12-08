@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsaɪklɪk/； 美：/ˈsaɪklɪk/
 - #词性/adj  循环的；周期的
-# 例句
+##### 例句
 - The medium also constitutes a cultural capital accumulation and cyclic symbolic economic space .
 	- 同时，媒介也构成了文化资本积累和循环的符号经济空间。
 - Your universe had a cyclic learning process .

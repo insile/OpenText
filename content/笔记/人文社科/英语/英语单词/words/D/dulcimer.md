@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdʌlsɪmə(r)/； 美：/ˈdʌlsɪmər/
 - #词性/n  洋琴；大扬琴；杜西莫琴(美国传统拨弦乐器)
-# 例句
+##### 例句
 - The new compositions promote the development of the dulcimer music .
 	- 音乐作品的推陈出新推动了扬琴艺术的发展。
 - On Integration of Chinese traditional Dulcimer Music and Regional Folk Music

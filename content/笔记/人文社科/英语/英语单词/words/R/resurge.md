@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vi  复兴；复活
-# 例句
+##### 例句
 - It is difficult for Central and Southern Europe to resurge in the short term .
 	- 中东欧经济短期内难以东山再起。
 - The Renaissance again discovered the world , the man and brought about the resurge of politics .

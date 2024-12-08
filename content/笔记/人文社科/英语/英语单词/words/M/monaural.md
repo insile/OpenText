@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  单声道的；单耳的
-# 例句
+##### 例句
 - Improved control circuit places monaural image in a stereo field .
 	- 在立体声领域，改进控制电路放置非立体声像。
 - We propose a monaural speech segregation approach based on harmonic and energy features .

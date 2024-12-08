@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/daɪk/； 美：/daɪk/
 - #词性/n  堤防；堤；排水沟
-# 例句
+##### 例句
 - It 's raining hard ; the dike is going to collapse .
 	- 雨下得很大，这堤要垮了。
 - Construction supervision of Baisha dike of Liuzhou city flood control project

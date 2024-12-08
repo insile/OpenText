@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkɒnʃəsli/； 美：/ˈkɑnʃəsli/
 - #词性/adv  自觉地；有意识地
-# 例句
+##### 例句
 - He is consciously trying to overcome his weakness .
 	- 他有意识地在克服自己的缺点。
 - A previous study noted that dolphins always consciously control their breathing .

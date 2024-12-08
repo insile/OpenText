@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈæpɪtaɪzɪŋ/； 美：/ˈæpɪtaɪzɪŋ/
 - #词性/adj  开胃的；引起食欲的；使渴的
-# 例句
+##### 例句
 - I 'm sure that you will find something appetizing at breakfast .
 	- 我相信你会在早餐上找到开胃的东西吃。
 - Byzantine restaurant : all-day casual international restaurant offering sumptuous buffet breakfast , an equally appetizing lunch and dinner with Mediterranean and Greek cuisine , as well as specialized theme nights .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌiːvn ˈtempəd/； 美：/ˌiːvn ˈtempərd/
 - #词性/adj  性情平和的
-# 例句
+##### 例句
 - They seem less tense , more even-tempered .
 	- 他们看起来不那么紧张，更加平和了。
 - He was normally a very even-tempered person

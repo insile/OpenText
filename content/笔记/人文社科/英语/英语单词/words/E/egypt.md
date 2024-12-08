@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈiːdʒɪpt/； 美：/ˈidʒəpt/
 - #词性/n  埃及
-# 例句
+##### 例句
 - I lived in Egypt for a time .
 	- 我在埃及住了一阵子。
 - She is planning a long holiday in Egypt and America

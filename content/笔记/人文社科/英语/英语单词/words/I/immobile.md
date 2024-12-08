@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈməʊbaɪl/； 美：/ɪˈmoʊbl/
 - #词性/adj  不动的；静止的；不能移动的；不能活动的
-# 例句
+##### 例句
 - We remain immobile for long periods of time in plane , train or car seats .
 	- 在我们待在飞机，火车或汽车座位上的时间段里，很长时候是固定不动的。
 - Pycnogenol ? helps against swollen feet and reduced circulation caused by that immobile life style .

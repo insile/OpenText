@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  无常；暂时（性）；非永久（性）；【参见】impermanence
-# 例句
+##### 例句
 - Someone said that post-modernism theories is philistinism and just impermanency things .
 	- 有人说后现代主义过于庸俗，只是瞬间的代名词；
 - Through the description of six persons ' growing course , the author reveals the contradiction of impermanency and permanence of life .

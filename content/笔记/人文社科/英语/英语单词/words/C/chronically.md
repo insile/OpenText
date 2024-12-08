@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  慢性地
-# 例句
+##### 例句
 - It is required by law to shut down banks which it regards as chronically short of capital
 	- 法律规定资金长期短缺的银行必须关闭。
 - Many factories were chronically overmanned .

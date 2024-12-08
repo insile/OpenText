@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈtʃeɪndʒəbl/； 美：/ʌnˈtʃeɪndʒəbl/
 - #词性/adj  不可改变的
-# 例句
+##### 例句
 - One of the great unchangeable facts of life .
 	- 生活中不可改变的伟大事实之一。
 - What is normal or typical , however , is not always desirable or unchangeable .

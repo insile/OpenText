@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɒnˈlaɪn/； 美：/ˌɑːnˈlaɪn/
 - #词性/adj  在线的；联机的；联网的
 - #词性/adv  在网上地；在线地
-# 例句
+##### 例句
 - You can chat to other people who are online .
 	- 你可以和其他在线的人聊天。
 - However , online CBT programs have been gaining popularity , with the attraction of providing low-cost help wherever someone has access to a computer .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv #词性/adj  光明正大的；公开（正）的（地）；开诚布公（地）；直率的（地）
-# 例句
+##### 例句
 - He assured us that the deal was all open and aboveboard .
 	- 他向我们保证，交易是公开的、光明正大的。
 - You 've really been commended on your aboveboard tactics .

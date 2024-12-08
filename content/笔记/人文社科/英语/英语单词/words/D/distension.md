@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈstenʃn/； 美：/dɪˈstenʃn/
 - #词性/n  扩张；膨胀
-# 例句
+##### 例句
 - Heat causes the distension of gases .
 	- 热使气体膨胀
 - The calender frames are provided with stiffening ribs and distension treatment granting the maximum rigidity together with the absence of distortions and vibrations .

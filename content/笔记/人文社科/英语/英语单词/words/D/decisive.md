@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈsaɪsɪv/； 美：/dɪˈsaɪsɪv/
 - #词性/adj  决定性的；关键的；果断的；坚决的；决断的
-# 例句
+##### 例句
 - They have vowed a quick and decisive response .
 	- 他们立誓要给出一个快速果断的回应。
 - A decisive person acts quickly and often succeeds .

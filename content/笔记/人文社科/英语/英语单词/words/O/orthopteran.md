@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  直翅目昆虫
-# 例句
+##### 例句
 - Secondly , some orthopteran species are important biological indicators for the changes of ecological environment and can be used as monitor criterions of environment .
 	- 直翅目昆虫是生态环境变化的重要生物指示体，可作为生态环境变化的监测指标；
 - Orthopteran Community Diversity in Jinan

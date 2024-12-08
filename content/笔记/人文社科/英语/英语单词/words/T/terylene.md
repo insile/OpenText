@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'terəli:n/； 美：/'terəli:n/
 - #词性/n  涤纶
-# 例句
+##### 例句
 - Investigation of Processing the Bleached Extra-Wide Terylene Decorative Fabric
 	- 漂白特阔特丽纶装饰面料加工工艺探索
 - The surface modification of air low temperature plasma on terylene fiber surfaces

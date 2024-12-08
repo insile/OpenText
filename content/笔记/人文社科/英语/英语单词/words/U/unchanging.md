@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈtʃeɪndʒɪŋ/； 美：/ʌnˈtʃeɪndʒɪŋ/
 - #词性/adj  不变的；永恒的
-# 例句
+##### 例句
 - Of course , these basic methods are not rigid and unchanging .
 	- 当然，这些基本方法也不是僵化不变的。
 - ( of a number ) having a fixed and unchanging value .

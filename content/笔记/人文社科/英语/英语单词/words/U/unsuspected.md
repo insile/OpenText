@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnsəˈspektɪd/； 美：/ˌʌnsəˈspektɪd/
 - #词性/adj  未知的；未预料到的；未觉察到的
-# 例句
+##### 例句
 - A surprising number of ailments are caused by unsuspected environmental factors
 	- 有大量疾病是由不明环境因素造成的。
 - He died in 1984 of an unsuspected brain tumour .

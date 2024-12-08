@@ -5,12 +5,12 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/hɑː/； 美：/hɑː/
 - #词性/int  (惊奇、高兴或有所发现时用)哈；认为某事并不可笑
 - #词性/abbr  (书写形式)公顷
 - #词性/n  “哈；女子名
-# 例句
+##### 例句
 - Ha ! I knew he was hiding something .
 	- 哈！我就知道他在隐瞒着什么。
 - Ha ! Ha ! Very funny ! Now give me back my shoes .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/viːl/； 美：/viːl/
 - #词性/n  小牛肉；牛犊肉
-# 例句
+##### 例句
 - I put the veal scallops into the refrigerator before they could spoil .
 	- 在小牛肉可能变质前，我把它们搁在冰箱里。
 - So do I.Then please let us have two veal .

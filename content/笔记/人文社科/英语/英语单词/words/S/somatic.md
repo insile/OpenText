@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  体的；体细胞的；躯体的；体壁的
-# 例句
+##### 例句
 - The results as follow : 1 、 Preparation of milk somatic cell and RNA extraction .
 	- 主要结果如下：1、乳汁体细胞的制备及RNA的提取。
 - ERK1 \/ 2 ( extracellular signal regulate kinase ) play an important role in somatic cell migration .

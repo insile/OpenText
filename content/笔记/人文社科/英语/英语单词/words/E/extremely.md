@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪkˈstriːmli/； 美：/ɪkˈstriːmli/
 - #词性/adv  极端；非常；极其
-# 例句
+##### 例句
 - She found it extremely difficult to get a job .
 	- 她发觉找工作极其困难。
 - It was a collaboration that produced extremely useful results .

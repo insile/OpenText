@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/səˈluːbriəs/； 美：/səˈluːbriəs/
 - #词性/adj  健康的；环境宜人的；清洁而有益健康的
-# 例句
+##### 例句
 - Most of the attacks took place in the city 's less salubrious suburbs .
 	- 大多数的袭击案件都是发生在风气不那么好的市郊。
 - One of the less salubrious suburbs of london .

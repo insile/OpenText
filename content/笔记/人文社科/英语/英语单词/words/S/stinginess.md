@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  吝啬；小气
-# 例句
+##### 例句
 - This stinginess with money was one aspect of steve 's character that I didn 't like .
 	- 史蒂夫金钱很吝啬，他性格中的这一点我不喜欢。
 - At each meal , feed your body what it requests , without judgment or stinginess .

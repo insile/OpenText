@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbʊdɪzəm/； 美：/ˈbʊdɪzəm/
 - #词性/n  佛教
-# 例句
+##### 例句
 - In 1741 Catherine the Great issued an edict of toleration for Buddhism
 	- 1741年，叶卡捷琳娜大帝颁布法令，允许佛教的存在。
 - By the first century BC , Buddhism was in danger of fragmenting into small sects .

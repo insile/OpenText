@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  有节奏地；有节律性的；富有节奏地
-# 例句
+##### 例句
 - They danced rhythmically , swaying their hips to the music .
 	- 他们伴着音乐扭动屁股，有节奏地跳舞。
 - Words sung or shouted rhythmically and repeatedly

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈmiːnə(r)/； 美：/dɪˈmiːnər/
 - #词性/n  举止；行为；风度；外表
-# 例句
+##### 例句
 - He maintained a professional demeanour throughout .
 	- 他始终保持着专业人才的风度。
 - Training of an Excellent Basketball Official in Live Demeanour and Ability

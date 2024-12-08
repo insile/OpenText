@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɒlɪɡɑːk/； 美：/ˈɑːləɡɑːrk/
 - #词性/n  寡头政治家；寡头统治集团成员
-# 例句
+##### 例句
 - A Dynamic Game for Asymmetric Information based Oligarch Market Decision
 	- 信息不对称情况下寡头市场决策的动态博弈
 - Analysis of Inertia in Technical Innovation of National Oligarch Monopoly Enterprises

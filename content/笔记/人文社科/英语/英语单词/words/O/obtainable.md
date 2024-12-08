@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əbˈteɪnəbl/； 美：/əbˈteɪnəbl/
 - #词性/adj  可获得的；可获得；可得到
-# 例句
+##### 例句
 - Although , this information is provided where it is obtainable .
 	- 尽管这些信息是有可获得的来源提供的。
 - Conclusion : How to provide appropriate , specific , user-friendly and obtainable services to unmarried youths based on their demands and needs for reproductive health , and it brings a challenge to family planning and reproductive health program in China .

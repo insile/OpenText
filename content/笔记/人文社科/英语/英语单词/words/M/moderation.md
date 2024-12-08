@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmɒdəˈreɪʃn/； 美：/ˌmɑːdəˈreɪʃn/
 - #词性/n  适度；适中；合理；评分审核制
-# 例句
+##### 例句
 - The first part is the moderation analysis of the ownership structure .
 	- 第一部分是对股权结构的适度性进行分析。
 - Defects of Government and Analysis on Moderation of Securities Regulation

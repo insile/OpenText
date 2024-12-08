@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  定性的；质的，从质量方面看；定性地，定性地说
-# 例句
+##### 例句
 - In other words , you are to analyze them quantitatively and qualitatively .
 	- 换句话说，你们要对它们进行量和质的分析
 - The research suggests that the ways in which adults and children learn languages are qualitatively different .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪsˈtɪŋktli/； 美：/dɪˈstɪŋktli/
 - #词性/adv  明显地；显然
-# 例句
+##### 例句
 - The marriage had been distinctly dodgy for a long time .
 	- 这桩婚姻长期以来明显不和美。
 - The prospect of studying for another five years was distinctly unappealing .

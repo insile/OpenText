@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  河口；（江）河口的，港湾的
-# 例句
+##### 例句
 - The Characteristics of Estuarine in China
 	- 我国入海河口的基本特点
 - The estuarine sediment distribution is closely related to the estuarine topography and submerged delta .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɔːlˈbiːɪt/； 美：/ˌɔːlˈbiːɪt/
 - #词性/conj  尽管；虽然
-# 例句
+##### 例句
 - He finally agreed , albeit reluctantly , to help us .
 	- 尽管勉强，他最后还是同意帮助我们。
 - Charles 's letter was indeed published , albeit in a somewhat abbreviated form .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/blaɪð/； 美：/blaɪð/
 - #词性/adj  无忧无虑的；漫不经心的；快乐的；不在意的
-# 例句
+##### 例句
 - Was loved for her blithe spirit ; a merry blithesome nature ; her lighthearted nature ; trilling songs with a lightsome heart .
 	- 她因为快乐的灵魂而被热爱；快乐的、无忧无虑的天性；她快乐的天性；心情愉快的婉转歌唱。
 - When you must home to shades of underground , And there arrived , a new admired guest , The beauteous spirits do engirt thee round , White Iope , blithe Helen and the rest , To hear the stories of thy finished love From that smooth tongue , music hell can move ：

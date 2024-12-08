@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  杰出的；最优秀的；优胜者的；最重要的；最有价值的
-# 例句
+##### 例句
 - Christianism is a very palmary church , Bible is the root of western civilization .
 	- 基督教是一个杰出的教派，《圣经》是西方文化的根源。
 - Once an editor of a French magazine visited the studio of Lu Kun 's who is now a palmary designer in China .

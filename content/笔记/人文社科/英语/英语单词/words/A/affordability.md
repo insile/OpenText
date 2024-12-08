@@ -5,9 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˌfɔːdəˈbɪlɪti/； 美：/əˌfɔrdəˈbɪləti/
-# 例句
+- #词性/n  负担能力
+##### 例句
 - Affordability has been a key concern in the assessment process .
 	- 负担能力一直是评估过程中遇到的关键问题。
 - Analysis of the housing affordability for middle-low income families and policy suggestions

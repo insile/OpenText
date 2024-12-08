@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/suːˈpɜːfluəs/； 美：/suːˈpɜːrfluəs/
 - #词性/adj  多余的；过剩的；过多的
-# 例句
+##### 例句
 - He didn 't know how to blow off his superfluous energy .
 	- 他不知如何发泄过剩的精力。
 - Slow growth may cause superfluous resource and danger of purchase .

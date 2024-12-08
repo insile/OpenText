@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌriːəˈplaɪ/； 美：/ˌriːəˈplaɪ/
 - #词性/v  重新申请；再次申请；(尤指在不同场合)再利用；再敷一层；再涂一层
-# 例句
+##### 例句
 - Previous applicants for the post need not reapply .
 	- 申请过这个职位的人不需重新申请。
 - When your situation changes and you are better able to demonstrate compelling ties to China and legitimate reasons for travel , you are always welcome to reapply .

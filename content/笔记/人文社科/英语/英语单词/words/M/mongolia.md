@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/mɒŋˈɡəʊliə/； 美：/mɑːŋˈɡoʊliə/
 - #词性/n  蒙古
-# 例句
+##### 例句
 - There will be a transfer of technology from this country to Mongolia .
 	- 这个国家将会向蒙古国进行技术转让。
 - Mongolia , although poor , has considerable untapped resources of oil and minerals

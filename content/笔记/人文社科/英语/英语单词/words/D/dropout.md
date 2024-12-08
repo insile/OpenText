@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdrɒpaʊt/； 美：/ˈdrɑːpaʊt/
 - #词性/n  退学；退出；退学生；(磁带损伤等引起的)失落，漏失；退出者；逃避现实社会的人；<英橄>守方25码线内抛球踢球
-# 例句
+##### 例句
 - This college dropout is now worth $ 149 million .
 	- 现在这个大学辍学者拥有1.49亿美元的资产。
 - He got a job as a software engineer at a social-software company , Livefyre , run by a college dropout , where the chief technology officer at the time and a lead engineer were also dropouts .

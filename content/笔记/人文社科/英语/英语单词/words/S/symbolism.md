@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɪmbəlɪzəm/； 美：/ˈsɪmbəlɪzəm/
 - #词性/n  (尤指文艺中的)象征主义，象征手法
-# 例句
+##### 例句
 - The Influence of Symbolism on Chinese New Poetry and Its Transmutation
 	- 象征主义对中国新诗的影响及嬗变
 - Moreover , he shows that he is also an expert with symbolism .

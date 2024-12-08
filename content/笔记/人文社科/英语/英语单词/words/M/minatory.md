@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɪnətəri/； 美：/ˈmɪnətɔːri/
 - #词性/adj  威胁的；恐吓的
-# 例句
+##### 例句
 - How eliminate this kind of harmful information " is content minatory " ?
 	- 如何消除这种有害信息的“内容威胁”？
 - This shows , a kind of when rectum cancer will become minatory people health increasingly main cancer is swollen .

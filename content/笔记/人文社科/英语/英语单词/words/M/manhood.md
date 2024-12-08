@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmænhʊd/； 美：/ˈmænhʊd/
 - #词性/n  成年；男子气概；成年时期；与penis同义，即阴茎；一国的男子；男儿气质
-# 例句
+##### 例句
 - Made me question my manhood , all that .
 	- 让我质疑我的男子气概，但仅此而已。
 - The merchant sold shoes , the politician sold his manhood .

@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnˈdɔːz/； 美：/ˌɪnˈdɔːrz/
 - #词性/adv  在室内，在屋里；往室内，进入户内
 - #词性/n  室内空间（或场所）
-# 例句
+##### 例句
 - In view of the weather , the event will now be held indoors .
 	- 由于天气的缘故，这项赛事将在室内进行。
 - Stay indoors in the middle of the day , when the sun is strongest .

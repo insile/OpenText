@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'faɪnəlaɪz/； 美：/'faɪnəlaɪz/
 - #词性/v  定案；把（计划、旅行、项目等）最后定下来
-# 例句
+##### 例句
 - The Prime Minister , is holding consultations with his colleagues to finalise the deal
 	- 首相正在和同僚进行磋商，以敲定该协议。
 - Once you finalise your thoughts on the design , then development proceeds .

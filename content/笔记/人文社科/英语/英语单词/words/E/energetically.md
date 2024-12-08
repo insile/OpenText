@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɛnəˈdʒɛtɪk(ə)li/； 美：/ˌɛnərˈdʒɛtɪkli/
 - #词性/adv  积极地；精力充沛地
-# 例句
+##### 例句
 - He was sawing energetically at a loaf of bread .
 	- 他正用力切着一条面包。
 - Old as he is , he works energetically .

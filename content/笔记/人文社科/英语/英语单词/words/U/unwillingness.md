@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  不愿；推委：
-# 例句
+##### 例句
 - He displayed a curmudgeonly unwillingness to accept the voters ' verdict .
 	- 他态度恶劣，显得很不情愿接受选举人的意见。
 - You would have been less amiable in my eyes had there not been this little unwillingness .

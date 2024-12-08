@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vt  惩罚；处罚
-# 例句
+##### 例句
 - Do search engines such as Google penalise dynamic pages ?
 	- 做搜索引擎等动态页面谷歌惩罚？
 - The contracts for operators ought to penalise such failures .

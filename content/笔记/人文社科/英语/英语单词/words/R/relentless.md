@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈlentləs/； 美：/rɪˈlentləs/
 - #词性/adj  无情的；不停的；严格的；苛刻的；持续强烈的；不减弱的；不放弃的
-# 例句
+##### 例句
 - The best way to turn potential into reality is through relentless hard work .
 	- 变可能为现实的最好办法是不停的努力。
 - Like jobs , cook is a relentless executive and exacting boss , a perfectionist who obsesses over minute details .

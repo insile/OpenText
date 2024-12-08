@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  丰富地；大量地；充足地
-# 例句
+##### 例句
 - Evidence is plentifully available .
 	- 证据俯拾即是。
 - She kept them plentifully supplied with gossip .

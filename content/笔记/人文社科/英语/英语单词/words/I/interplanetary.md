@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪntəˈplænɪtri/； 美：/ˌɪntərˈplænəteri/
 - #词性/adj  行星间的
-# 例句
+##### 例句
 - The Magnetic Field Configurations Associated With the Interplanetary High Density Structures
 	- 行星际高密度结构的磁场位形
 - Interplanetary Celestial Navigation Method and Analysis of Its Accuracy Influential Factors

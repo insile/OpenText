@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  前驱症状；前驱期；先兆；前驱
-# 例句
+##### 例句
 - It is prodrome respectively period , foreboding period , convulsion period , atony lethargy period and recognizant convalescence .
 	- 分别是前驱症状期、先兆期、痉挛期、弛缓昏睡期和意识恢复期。
 - The performance of periodic mental disease is more , general component is prodrome , mental symptom and body symptom .

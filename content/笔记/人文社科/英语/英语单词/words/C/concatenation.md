@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˌkætəˈneɪʃn/； 美：/kənˌkætəˈneɪʃn/
 - #词性/n  一系列相关联的事物(或事件)
-# 例句
+##### 例句
 - The first assignment of higher school is concatenation improve teaching quality .
 	- 高等学校的第一要务是不断提高教学质量。
 - Construction of higher order correlation immune functions by concatenation functions

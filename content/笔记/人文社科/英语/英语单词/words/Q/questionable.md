@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkwestʃənəbl/； 美：/ˈkwestʃənəbl/
 - #词性/adj  有问题的；可疑的；别有用心的；未必准确(或正确)的；可能不诚实(或不道德)的
-# 例句
+##### 例句
 - Omit the questionable passage and draw back from the edge .
 	- 省去可疑的段落，从剽窃的边缘上抽身而退。
 - something questionable , you get worse .

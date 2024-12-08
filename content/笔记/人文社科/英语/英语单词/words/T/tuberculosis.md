@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/tjuːˌbɜːkjuˈləʊsɪs/； 美：/tuːˌbɜːrkjəˈloʊsɪs/
 - #词性/n  结核病；肺结核
-# 例句
+##### 例句
 - One night he was called to see a woman with tuberculosis .
 	- 一天夜里，有人打来电话，请他去给一位患肺结核的妇女看病。
 - I had tuberculosis and was told I 'd be in the sanatorium for two years .

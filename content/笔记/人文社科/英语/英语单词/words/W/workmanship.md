@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwɜːkmənʃɪp/； 美：/ˈwɜːrkmənʃɪp/
 - #词性/n  工艺；手艺；技艺
-# 例句
+##### 例句
 - He resorted to shoddy workmanship and used inferior materials .
 	- 他手艺很随便、拙劣，使用的也是质量很次的材料。
 - Criteria for workmanship which shall be expressed in documented standards or by means of identified and approved representative samples .

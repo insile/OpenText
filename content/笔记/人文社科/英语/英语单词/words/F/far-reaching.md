@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌfɑː ˈriːtʃɪŋ/； 美：/ˌfɑːr ˈriːtʃɪŋ/
 - #词性/adj  深远的；广泛的
-# 例句
+##### 例句
 - The economy is in danger of collapse unless far-reaching reforms are implemented .
 	- 如果不实施影响深远的改革，经济就面临崩溃的危险。
 - Diplomats meeting in Chile have laid the groundwork for far-reaching environmental regulations

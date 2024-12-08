@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/səˈtɪrɪk/； 美：/səˈtɪrɪk/
 - #词性/adj  讽刺的；讥讽的；同 satirical
-# 例句
+##### 例句
 - After the NSA 's alleged overzealous monitoring of millions of people , many Americans find that satiric message very funny .
 	- 而在国家安全局承认过度监控数以百万计的人后，许多美国人发现这样讽刺的笑果非常有趣。
 - Many the domestic criticisms are from the points of view of the employment of comic and satiric writing style , the sociopolitical background and cultural conflict in Lucky Jim .

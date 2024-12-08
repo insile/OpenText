@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  泡腾；冒泡；泡沫；兴奋；欢腾
-# 例句
+##### 例句
 - Much of that effervescence is associated with new Chinese wealth .
 	- 这种活力大都与中国的新生财富有关。
 - He looks like cold but inside of him all is effervescence .

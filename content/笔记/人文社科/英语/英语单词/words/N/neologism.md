@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/niˈɒlədʒɪzəm/； 美：/niˈɑːlədʒɪzəm/
 - #词性/n  新词；新义；新语汇
-# 例句
+##### 例句
 - The newspaper used the neologism ' dinks ' , Double Income No Kids .
 	- 报纸使用了新词“丁克族”，即“双收入无子女”。
 - Man date is a neologism of the 2000s that is used to describe a social situation where two men spend time together one-on-one .

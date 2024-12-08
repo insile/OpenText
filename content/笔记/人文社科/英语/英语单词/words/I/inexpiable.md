@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  不能补偿的；不能平息的；不能抵偿的
-# 例句
+##### 例句
 - It is inexpiable because God 's gift itself is of such transcendence and holiness that it cannot be paid off by finite animal beings such as we are .
 	- 无法抵赎的原因是上帝本身，的天赋是如此卓越和神圣，不能只通过有限生物来还清。
 - She regards this deed as such an inexpiable crime that she curses the murderer , her own son , and prays for his death .

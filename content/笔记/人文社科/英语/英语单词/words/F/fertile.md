@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɜːtaɪl/； 美：/ˈfɜːrtl/
 - #词性/adj  肥沃的；促进的；富饶的；能生育的；可繁殖的；能结果的；点子多的；能产生好结果的
-# 例句
+##### 例句
 - We have the most fertile soil in Europe .
 	- 我们拥有欧洲最肥沃的土地。
 - They used force to banish the natives from the more fertile land .

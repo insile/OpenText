@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwɪŋləs/； 美：/ˈwɪŋləs/
 - #词性/adj  无翅的；无翼的
-# 例句
+##### 例句
 - Minute wingless psocopterous insects injurious to books and papers .
 	- 微小无翅的啮虫科昆虫，破坏书籍和报纸。
 - Large dark wingless cricket-like katydid of arid parts of western United States .

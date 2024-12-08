@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prɪˈdɒmɪnənt/； 美：/prɪˈdɑːmɪnənt/
 - #词性/adj  占优势的，主导的，支配的；明显的；普遍的，显著的；最重要的，最强大的；盛行的
-# 例句
+##### 例句
 - Its predominant vein was , in poe 's own phrase ," the grotesque and arabesque . "
 	- 它的最主要的特点，用坡自己的话说，就是“怪诞和奇异。”
 - What was neat about it is before that time , the predominant species to use for air conditioning or refrigeration was ammonia .

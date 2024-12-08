@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pɔːˈniː/； 美：/pɔːˈniː/
 - #词性/n  波尼；波尼族；波尼族人；质权人
-# 例句
+##### 例句
 - Title : City Councilor of Pawnee , Indiana
 	- 头衔：印第安纳州波尼地区市议员
 - Leslie 's unwavering optimism helped land the Pawnee , Ind. , native her newest role as City Councilor & another step toward achieving her ultimate goal of becoming President of the United States .

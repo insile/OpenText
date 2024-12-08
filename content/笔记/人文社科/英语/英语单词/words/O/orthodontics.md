@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɔːθəˈdɒntɪks/； 美：/ˌɔːrθəˈdɑːntɪks/
 - #词性/n  畸齿矫正学；正牙术
-# 例句
+##### 例句
 - It provides science analysis in diagnosis and research of orthodontics .
 	- 该系统为口腔正畸医学的诊断和研究提供科学的分析依据。
 - Construction of training and evaluation system in orthodontics clinical skill

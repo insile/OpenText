@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈzɪərɒks/； 美：/ˈzɪrɑːks/
 - #词性/vt  复印；复制
-# 例句
+##### 例句
 - Could you xerox this letter , please ?
 	- 请复印一下这封信好吗？
 - You cannot take it home , but you can xerox it .

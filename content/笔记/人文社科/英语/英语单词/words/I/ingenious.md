@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈdʒiːniəs/； 美：/ɪnˈdʒiːniəs/
 - #词性/adj  巧妙的；精巧的；心灵手巧的；机敏的；新颖独特的；善于创造发明的
-# 例句
+##### 例句
 - This mousetrap is an ingenious device .
 	- 这个捕鼠器是一件精巧的装置。
 - Steam-driven machines for spinning and weaving cotton were the most spectacular early instances of the new technological resources that ingenious mechanics and eager entrepreneurs began to exploit .

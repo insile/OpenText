@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwɔːtətaɪt/； 美：/ˈwɔːtərtaɪt/
 - #词性/adj  防水的；水密的；不透水的；无懈可击的；严密的；天衣无缝的
-# 例句
+##### 例句
 - Please change this penetrating piece into watertight construction .
 	- 请将这个穿舱件改成水密的。
 - These shall be so constructed as to provide strength and stiffness at all parts not less than as required for watertight bulkheads and flats .

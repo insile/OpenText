@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'dɪfrəntlɪ/； 美：/ˈdɪfərəntlɪ/
 - #词性/adv  不同地；相异地
-# 例句
+##### 例句
 - If I was in charge , I 'd do things differently .
 	- 假若由我负责，我不会这样办事的。
 - I see things differently now .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/sɪmˈfɒnɪk/； 美：/sɪmˈfɑːnɪk/
 - #词性/adj  交响乐的;类似交响乐的
-# 例句
+##### 例句
 - Symphonies 103 and 104 stand as perfect examples of early symphonic construction
 	- 第103和104号交响曲是早期交响乐结构的典型代表。
 - He stands alone as a conductor of modern Symphonic music .

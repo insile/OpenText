@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɔːməli/； 美：/ˈfɔːrmərli/
 - #词性/adv  以前；从前
-# 例句
+##### 例句
 - I learnt that the house had formerly been an inn .
 	- 我得知这座房子以前是家客栈。
 - This fact has led naturalists to believe that the Isthmus was formerly open .

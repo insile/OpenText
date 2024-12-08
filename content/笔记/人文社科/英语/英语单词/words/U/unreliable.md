@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnrɪˈlaɪəbl/； 美：/ˌʌnrɪˈlaɪəbl/
 - #词性/adj  不可靠的；不能信赖的
-# 例句
+##### 例句
 - They are two of a kind and totally unreliable .
 	- 他俩是同类货色，都是不可靠的人。
 - Although these had distinct speed advantages over earlier , purely mechanical designs , they were unreliable for various reasons .

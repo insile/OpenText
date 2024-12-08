@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈsɜːnmənt/； 美：/dɪˈsɜːrnmənt/
 - #词性/n  洞察力；识别能力
-# 例句
+##### 例句
 - Studying relevant knowledge , policies and law to improve our discernment and working ability ;
 	- 学习有关知识、政策和法律，提高识别能力和工作水平；
 - This article deals with the necessity and feasibility of the police twinkling discernment training .

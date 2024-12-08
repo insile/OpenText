@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  碳化；碳化法，碳化处理，渗碳（处理），焦化（作用）
-# 例句
+##### 例句
 - The sodium bicarbonate is produced in China mainly by two processes : calcined soda liguid phase carbonization and natural soda liquid phase carbonization .
 	- 中国小苏打生产主要采用两种工艺：纯碱液相碳化法、天然碱液相碳化法。
 - S : Four kinds of manufacture procedures including multistage spray carbonization , one-step carbonization , two-step carbonization and rotary packed bed carbonization are introduced .

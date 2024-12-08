@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/iˌlɪsɪˈteɪʃn/； 美：/iˌlɪsɪˈteɪʃn/
 - #词性/n  引出；启发；抽出；诱出
-# 例句
+##### 例句
 - You should teach with the elicitation method .
 	- 要用启发的方式讲课。
 - Application of Teaching Method of Elicitation for the Engineering Graphics Course .

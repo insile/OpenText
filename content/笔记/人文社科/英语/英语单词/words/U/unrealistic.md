@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnrɪəˈlɪstɪk/； 美：/ˌʌnriːəˈlɪstɪk/
 - #词性/adj  不切实际；不实事求是的
-# 例句
+##### 例句
 - Some parents have unrealistic expectations of their children .
 	- 有的父母对孩子的指望不切实际。
 - It is unrealistic to put undue pressure on ourselves by saying we are the best .

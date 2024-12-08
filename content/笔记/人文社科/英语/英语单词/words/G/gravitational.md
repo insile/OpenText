@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɡrævɪˈteɪʃənl/； 美：/ˌɡrævɪˈteɪʃənl/
 - #词性/adj  引力的；重力引起的
-# 例句
+##### 例句
 - Not really " holes , " but rather hugely dense12 objects with massive gravitational pull .
 	- 黑洞其实不是“洞”，而是能产生巨大引力的密度极高的物体。
 - Which of them show the effect of gravitational attraction ?

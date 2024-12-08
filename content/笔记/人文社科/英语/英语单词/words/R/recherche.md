@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rəˈfeəˌʃeɪ/； 美：/rəˈferˌʃeɪ/
 - #词性/adj  堆砌艰涩的；刻意挑选的
-# 例句
+##### 例句
 - Applicants should have good PC skills with common office software , email and internet recherche .
 	- 在办公软件、电子邮件、网络检索等个人电脑应用方面，申请人应具备良好的操作技能。
 - He writes with a great command of detail on the most recherche topics .

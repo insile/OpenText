@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  光球（层）
-# 例句
+##### 例句
 - The chromosphere is a frothy layer churned up by gases in the photosphere .
 	- 色球层在光球层气体的搅拌下不停地翻腾。
 - The photosphere has a granular structure .

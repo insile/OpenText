@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdraɪnəs/； 美：/ˈdraɪnəs/
 - #词性/n  干燥；干，干燥
-# 例句
+##### 例句
 - Last , based on the above scheme , a stream dryness measurement system is designed and developed .
 	- 最后，基于本文提出的干度软测量方案，设计开发了一套干度测量系统。
 - Downhole Measuring Technique of Steam Dryness for Viscous Crude Oil Thermal Recovery Wells

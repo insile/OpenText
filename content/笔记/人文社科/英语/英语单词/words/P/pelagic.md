@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pəˈlædʒɪk/； 美：/pəˈlædʒɪk/
 - #词性/adj  远洋的；公海的
-# 例句
+##### 例句
 - A pelagic , or open-ocean , octopus gives off a neon glow in Hawaii .
 	- 一只远洋的，或曰开放海域的章鱼，在夏威夷的水中散发出氖辉光。
 - It is inferred further that the Middle Upper Ordovician were deposited in a pelagic or semi pelagic deep water environment with a greatly rising sea level .

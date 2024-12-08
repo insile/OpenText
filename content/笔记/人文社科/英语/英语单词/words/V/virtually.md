@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɜːtʃuəli/； 美：/ˈvɜːrtʃuəli/
 - #词性/adv  虚拟；几乎；实际上；模拟；事实上；差不多；以模拟现实技术
-# 例句
+##### 例句
 - The sound is virtually undetectable to the human ear .
 	- 这声音实际上是人耳难以听得到的。
 - The author is virtually unknown outside Poland .

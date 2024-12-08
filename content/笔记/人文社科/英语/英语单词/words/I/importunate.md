@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈpɔːtʃənət/； 美：/ɪmˈpɔːrtʃənət/
 - #词性/adj  纠缠不休的；再三要求的
-# 例句
+##### 例句
 - He had been somewhat languidly drifting with events for the last fortnight , and letting May 's fair looks and radiant nature obliterate the rather importunate pressure of the Mingott claims .
 	- 最近两个星期，他一直有点不由自主地随波逐流，以梅的漂亮容貌和光彩个性去对付明戈特家那些纠缠不休的要求。
 - In the dusk , importunate beggars spring out of doorways , and sometimes I am persuaded that young men in dark suits are signalling my progress to each other on mobile phones , in readiness to pounce .

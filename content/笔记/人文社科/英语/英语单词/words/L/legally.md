@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈliːɡəli/； 美：/ˈliɡ(ə)li/
 - #词性/adv  在法律上；合法地
-# 例句
+##### 例句
 - Compromise is one of ways dealing with disputes legally in China .
 	- 和解在我国是合法地解决纠纷的方式之一。
 - The company or school that supplies your email account can , therefore , legally monitor your messages .

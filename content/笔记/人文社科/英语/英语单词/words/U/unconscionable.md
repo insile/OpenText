@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈkɒnʃənəbl/； 美：/ʌnˈkɑːnʃənəbl/
 - #词性/adj  不合理的；过分的；违背良心的；过于大(或多、长等)的
-# 例句
+##### 例句
 - They took an unconscionable time to reply to my letter .
 	- 他们拖了不知多久才给我回信。
 - Having this type of operation in the same facility is unconscionable .

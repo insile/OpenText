@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɒrəʊfl/； 美：/ˈsɑːroʊfl/
 - #词性/adj  悲伤的；悲哀的；悲痛的
-# 例句
+##### 例句
 - A funeral is a sorrowful occasion .
 	- 葬礼是令人悲伤的场合。
 - This kind of world is a sorrowful world , an unimaginable state of death .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈkɔːrəm/； 美：/dɪˈkɔːrəm/
 - #词性/n  端庄稳重；礼貌得体；端庄得体
-# 例句
+##### 例句
 - The new King seemed to be carrying out his duties with grace and due decorum
 	- 新国王在履行职责时看起来举止得体、端庄稳重。
 - I was treated with decorum and respect throughout the investigation .

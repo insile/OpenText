@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtæntəmaʊnt/； 美：/ˈtæntəmaʊnt/
 - #词性/adj  等于；等同的；无异于；效果与…一样坏
-# 例句
+##### 例句
 - To neglect or forget aspects of the past is tantamount to rewriting history , and anyone who has read Animal Farm knows where that can lead .
 	- 忽视或忘记过去无异于篡改历史，凡是读过《动物农场》的人都知道那会导致什么后果。
 - The withdrawal of his statement is tantamount to an apology .

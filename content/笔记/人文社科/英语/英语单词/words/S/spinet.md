@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/spɪˈnet/； 美：/ˈspɪnət/
 - #词性/n  斯皮内琴(小型拨弦键琴)；小型钢琴 / 电子琴
-# 例句
+##### 例句
 - The spinet was too big for me to play .
 	- 钢琴太大了不适合我弹。
 - One afternoon , when I was better , I played the spinet .

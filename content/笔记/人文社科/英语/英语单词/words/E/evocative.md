@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈvɒkətɪv/； 美：/ɪˈvɑːkətɪv/
 - #词性/adj  唤起的；唤起感情的；引起记忆的
-# 例句
+##### 例句
 - Her new book is wonderfully evocative of village life .
 	- 她的新书唤起人们对乡村生活的美好感情。
 - Her story is sharply evocative of Italian provincial life .

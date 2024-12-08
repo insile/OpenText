@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnəʊzi/； 美：/ˈnoʊzi/
 - #词性/adj  好管闲事的；爱打听的
-# 例句
+##### 例句
 - Our nosy neighbours are always looking in through our windows .
 	- 好管闲事的邻居总是从我们的窗口望进来。
 - The nosy couple broke in on our conversation .

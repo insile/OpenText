@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/hɜːˈbeɪʃəs/； 美：/ɜːrˈbeɪʃəs/
 - #词性/adj  草本的
-# 例句
+##### 例句
 - Most of studies use model herbaceous plants or crop as materials .
 	- 国际上大部分研究都以草本的模式植物或农作物为材料。
 - The variations of soil water cycle in time and space drove the evolution of vegetation and created favorable conditions for the invasion of many herbaceous species .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwɒspɪʃ/； 美：/ˈwɑːspɪʃ/
 - #词性/adj  易怒的；暴躁的
-# 例句
+##### 例句
 - She had a waspish tongue which could hurt .
 	- 她言辞刻毒，容易伤人。
 - He had a sharp , sometimes waspish , wit which made people rather wary of him .

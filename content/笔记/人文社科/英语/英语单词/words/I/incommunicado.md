@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnkəˌmjuːnɪˈkɑːdəʊ/； 美：/ˌɪnkəˌmjuːnɪˈkɑːdoʊ/
 - #词性/adj  不允许与他人接触；不愿与他人接触
-# 例句
+##### 例句
 - The prisoner has been held incommunicado for more than a week .
 	- 这名囚犯已被单独囚禁了一个多星期。
 - He was held incommunicado in prison for ten days before being released without charge .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlɒdʒɪkəli/； 美：/ˈlɑdʒɪkli/
 - #词性/adv  逻辑上；合乎逻辑地
-# 例句
+##### 例句
 - First , you have to think logically about your fears .
 	- 首先，你得对你担忧的理由好好地想想。
 - It is not a logically compelling argument .

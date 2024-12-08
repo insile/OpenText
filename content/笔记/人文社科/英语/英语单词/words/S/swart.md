@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  有害的；恶性的；（诗、文）黝黑的
-# 例句
+##### 例句
 - Swart Competition and Countermeasures Development Tendency of Hi - technique Industries and Our Strategies after Joining in WTO
 	- 恶性竞争及其应对策略入世以后高新技术产业发展趋势与应对
 - Meanwhile it also studied the feasible tools and methods used in project plan and schedule control , such as SWOT analysis , SWART principle , WBS etc.

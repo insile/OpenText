@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈʃɔːtli/； 美：/ˈʃɔːrtli/
 - #词性/adv  不久；马上；立刻；不耐烦地；不多时；没好气地
-# 例句
+##### 例句
 - Our information is that the police will shortly make an arrest .
 	- 我们得到的情报是，警察不久就要逮捕人了。
 - Her health deteriorated rapidly , and she died shortly afterwards .

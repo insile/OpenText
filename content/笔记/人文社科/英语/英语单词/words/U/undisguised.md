@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌndɪsˈɡaɪzd/； 美：/ˌʌndɪsˈɡaɪzd/
 - #词性/adj  不加掩饰的；坦诚的；率直的
-# 例句
+##### 例句
 - He looked at her with undisguised admiration and respect .
 	- 他以不加掩饰的倾慕和敬意看着她。
 - There was undisguised greed in his thin face as he watched the younger of the two girls swinging higher and higher than her sister .

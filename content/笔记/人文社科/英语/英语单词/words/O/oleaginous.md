@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌəʊliˈædʒɪnəs/； 美：/ˌoʊliˈædʒɪnəs/
 - #词性/adj  油质的；油腻的；涂油脂的
-# 例句
+##### 例句
 - Researches on mutation breeding and fermentation conditions of oleaginous yeast
 	- 1株高产油脂酵母菌株的诱变选育及其发酵条件研究
 - Screening of Oleaginous Filamentous Fungi and the Optimization of Its Fermentation Conditions

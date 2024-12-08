@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbɪldʌp/； 美：/ˈbɪlˌdʌp/
 - #词性/n  堆积；增长；加强；积累；储备
-# 例句
+##### 例句
 - Despite the big buildup , the play was a failure .
 	- 尽管事前做了很多宣传，这出戏还是失败了。
 - A few years later , a large defense buildup finally provided a fiscal stimulus adequate to the economy 's needs — and suddenly industry was eager to employ those " unadaptable and untrained " workers .

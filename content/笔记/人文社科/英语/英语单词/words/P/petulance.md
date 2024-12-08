@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpetjuləns/； 美：/ˈpetʃələns/
 - #词性/n  任性；暴躁；小题大做
-# 例句
+##### 例句
 - His petulance made her impatient .
 	- 他的任性让她无法忍受。
 - He affects the disdainful petulance of a rock star .

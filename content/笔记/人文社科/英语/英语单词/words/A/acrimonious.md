@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌækrɪˈməʊniəs/； 美：/ˌækrɪˈmoʊniəs/
 - #词性/adj  激烈的；尖刻的；讥讽的
-# 例句
+##### 例句
 - An acrimonious meeting , discussion , atmosphere .
 	- 争吵激烈的会议、讨论、气氛。
 - They had an acrimonious discussion about money .

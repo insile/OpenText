@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  轻软的；迷人的；丝棉似的
-# 例句
+##### 例句
 - Then he met and married the widowed Charlotte Haze in order to be near her 12-year-old flossy daughter .
 	- 到美国后与寡妇夏洛特相遇并结婚，为的是接近夏洛特的女儿洛丽塔。
 - they are all situated right behind an imposing brick church with a tall square brick bell-tower best described as honest but not flossy .

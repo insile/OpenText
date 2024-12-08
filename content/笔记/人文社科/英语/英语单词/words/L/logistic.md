@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/lɒˈdʒɪstɪk/； 美：/ləˈdʒɪstɪk/
 - #词性/adj  物流的；逻辑的，后勤学的
 - #词性/n  数理（符号）逻辑；逻辑斯蒂；计算术
-# 例句
+##### 例句
 - How to improve the service management for firm 's logistic ?
 	- 如何改善企业物流的服务管理？
 - Studies of the Development of the Third Party Logistic Industry

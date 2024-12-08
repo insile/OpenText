@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  倒退；挫折，阻遏；涡流，逆流
-# 例句
+##### 例句
 - And a part to the rural involution , and become " backset current peasants " .
 	- 还有一部分在向农村复归，而成为回流农民。
 - Muscle stain results from " sudden backset of contractile muscles themselves " .

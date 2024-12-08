@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  松土； 划破， 划痕； 严厉批评
-# 例句
+##### 例句
 - Scarification assay was used to detect capability of cell migration . 7 .
 	- 体外划痕实验检测细胞迁移能力。
 - Mechanical scarification of leguminous cover plants seed on a commercial scale Crop Design

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɑːsɪməni/； 美：/ˈpɑːrsɪmoʊni/
 - #词性/n  吝啬；小气；悭吝
-# 例句
+##### 例句
 - Due to official parsimony only the one machine was built .
 	- 由于官方过于吝啬，仅制造了那一台机器。
 - Principle of Parsimony : Write large components only when it is clear by demonstration that nothing else will do .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpredʒuˈdɪʃl/； 美：/ˌpredʒuˈdɪʃl/
 - #词性/adj  不利的；有害的；会造成损害的
-# 例句
+##### 例句
 - Such actions were dearly prejudicial to the health and safety of the public .
 	- 这类行动对公众的健康和安全显然是有害的。
 - Reporters were expelled from the courtroom after it was decided that their coverage had resulted in prejudicial publicity for the defendant .

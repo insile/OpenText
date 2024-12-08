@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pəˈvɜːs/； 美：/pərˈvɜːrs/
 - #词性/adj  <律>（判决等）不合法的， 不正当的；歪曲的，曲解的；执拗的，任性的，不通情理的；<非规范>性欲倒错的，性欲反常的，性变态的；有悖常情的，不合人意的；故意作对的，犟的
-# 例句
+##### 例句
 - She finds a perverse pleasure in upsetting her parents .
 	- 她让父母担惊受怕，从中取得任性的快乐。
 - Though I had care fully explained the shorter route to him , the perverse youngster came by the longer way .

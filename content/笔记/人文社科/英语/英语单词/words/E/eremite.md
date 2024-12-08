@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  隐士；遁世修行的人；独居石
-# 例句
+##### 例句
 - Like nature 's patient , sleepless Eremite .
 	- 像自然间耐心的、不眠的隐士。
 - The fairy idea still caused the emergence of eremite in large quantity and prevalence of regimen in the end of East Han dynasty and Wei , Jin dynasty .

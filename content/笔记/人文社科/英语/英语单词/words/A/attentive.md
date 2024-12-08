@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈtentɪv/； 美：/əˈtentɪv/
 - #词性/adj  注意的；关心的；专心的；细心的；留心的；肯帮忙的
-# 例句
+##### 例句
 - To the attentive eye , each moment of the year has its own beauty .
 	- 对于细心的人来说，一年四季都有它自己的美。
 - Attentive readers might notice the odds are against any of these great diplomatic gambits actually happening .

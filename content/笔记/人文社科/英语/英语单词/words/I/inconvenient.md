@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnkənˈviːniənt/； 美：/ˌɪnkənˈviːniənt/
 - #词性/adj  不方便的；造成困难的；引起麻烦的
-# 例句
+##### 例句
 - You create it by telling the truth , even if it 's inconvenient or embarrassing .
 	- 你因说真话而创造了它，即使是不方便的或令人困窘的。
 - Robot maker Fanuc , meanwhile , plans to woo recruits to its inconvenient headquarters at the foot of Mount Fuji by expanding its gym , and building a new tennis court and baseball field .

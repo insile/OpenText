@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  熟练地
-# 例句
+##### 例句
 - Although not a diplomat , he can proficiently use diplomatic terms .
 	- 他虽然不是外交官，却能熟练地使用外交辞令。
 - Pick a partner and practice passing , for if you pass proficiently , perhaps you 'll play professionally .

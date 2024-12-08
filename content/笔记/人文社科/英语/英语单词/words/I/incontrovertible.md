@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnkɒntrəˈvɜːtəbl/； 美：/ˌɪnkɑːntrəˈvɜːrtəbl/
 - #词性/adj  无可争辩的；无可置疑的；不能否认的
-# 例句
+##### 例句
 - We have incontrovertible evidence of what took place .
 	- 我们有确凿无疑的证据证明到底发生了什么。
 - But one point is , I would suggest , incontrovertible .

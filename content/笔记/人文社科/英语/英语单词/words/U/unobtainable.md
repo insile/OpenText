@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnəbˈteɪnəbl/； 美：/ˌʌnəbˈteɪnəbl/
 - #词性/adj  无法得到；得不到
-# 例句
+##### 例句
 - Fish was unobtainable in certain sections of Tokyo .
 	- 在东京的某些地方是买不到鱼的。
 - Tickets seem unobtainable to the ordinary mortal .

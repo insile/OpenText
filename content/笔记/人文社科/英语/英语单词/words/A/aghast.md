@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈɡɑːst/； 美：/əˈɡæst/
 - #词性/adj  惊恐；惊骇
-# 例句
+##### 例句
 - Erica looked at him aghast .
 	- 埃丽卡惊恐地望着他。
 - I was quite aghast when I read some of the questions .

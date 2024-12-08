@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɔɪntləs/； 美：/ˈpɔɪntləs/
 - #词性/adj  无意义的；无目标的；不值得做的
-# 例句
+##### 例句
 - This seemingly pointless operation actually has a significant effect .
 	- 这个看起来无意义的操作实际上有重大的作用。
 - Nevertheless , we have to brace ourselves to give a precise definition of anthropocentrism for the purpose of reducing the current unnecessary , pointless debate on the problem that what is anthropocentrism on earth .

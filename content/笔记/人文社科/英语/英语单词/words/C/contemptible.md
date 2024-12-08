@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈtemptəbl/； 美：/kənˈtemptəbl/
 - #词性/adj  可鄙的；卑劣的；可轻蔑的
-# 例句
+##### 例句
 - He never believed those contemptible rumours .
 	- 他从未信过那些可鄙的谣言。
 - The cop was portrayed as a contemptible coward .

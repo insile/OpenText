@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/vəʊˈkeɪʃənl/； 美：/voʊˈkeɪʃənl/
 - #词性/adj  职业的；职业技术的；业务知识的
-# 例句
+##### 例句
 - Vocational training will fit them for a good job .
 	- 职业的培训使他们能找到一个好工作。
 - It created freedom of movement and of vocational choice .

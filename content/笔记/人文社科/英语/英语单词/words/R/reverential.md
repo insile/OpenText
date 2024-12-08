@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌrevəˈrenʃl/； 美：/ˌrevəˈrenʃl/
 - #词性/adj  恭敬的；充满敬意的；满怀崇敬的
-# 例句
+##### 例句
 - ' That 's the old foresters ' garden , ' she said in reverential tones .
 	- “那是老护林人的花园，”她用充满敬意的语气说。
 - His name was always mentioned in almost reverential tones .

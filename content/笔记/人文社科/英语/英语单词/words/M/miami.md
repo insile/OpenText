@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  迈阿密；迈阿米人
-# 例句
+##### 例句
 - If you 're ever in Miami , come and see us .
 	- 你要是什么时候到了迈阿密，就来看看我们吧。
 - We spent a week in a gruesome apartment in Miami .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈfeɪlɪŋ/； 美：/ʌnˈfeɪlɪŋ/
 - #词性/adj  经久不衰的；可靠的；一贯的；永久的
-# 例句
+##### 例句
 - His unfailing ability to destroy the things he loves .
 	- 他摧毁他所热爱的东西的经久不衰的能力。
 - The relationship between urban transport network and urban spatial structure is an unfailing problem in transport economics and regional economic research .

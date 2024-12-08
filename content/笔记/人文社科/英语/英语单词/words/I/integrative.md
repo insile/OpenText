@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  综合的；整（一）体化的
-# 例句
+##### 例句
 - The Experimental Research on Physical Education Teaching Integrative Reform in High School
 	- 普通高中体育课程整体教学改革的实验研究
 - Brief Discussion of New Generation Power Dispatching Integrative Management Information System

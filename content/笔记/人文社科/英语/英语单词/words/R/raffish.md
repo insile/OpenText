@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈræfɪʃ/； 美：/ˈræfɪʃ/
 - #词性/adj  放荡不羁的；人品差却招人喜欢的
-# 例句
+##### 例句
 - He was handsome in a raffish kind of way
 	- 他的帅是一种放荡不羁的帅。
 - The theatre 's raffish auditorium recalls an earlier era .

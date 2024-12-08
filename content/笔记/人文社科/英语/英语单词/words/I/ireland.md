@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈaɪələnd/； 美：/ˈaɪərlənd/
 - #词性/n  爱尔兰
-# 例句
+##### 例句
 - After three weeks they made landfall on the coast of Ireland .
 	- 三个星期之后，他们登上了爱尔兰的海岸。
 - You can draw comparisons with the situation in Ireland .

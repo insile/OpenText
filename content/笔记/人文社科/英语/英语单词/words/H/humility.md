@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/hjuːˈmɪləti/； 美：/hjuːˈmɪləti/
 - #词性/n  谦卑；谦逊；谦虚
-# 例句
+##### 例句
 - Pride makes us artificial and humility makes us real .
 	- 骄傲让我们变得做作，谦卑让我们变得真实。
 - Resource companies , meanwhile , must show humility .

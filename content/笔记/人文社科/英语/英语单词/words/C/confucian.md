@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈfjuːʃən/； 美：/kənˈfjuːʃən/
 - #词性/adj  儒家的；儒学的；孔子学说的
 - #词性/n  孔子信徒
-# 例句
+##### 例句
 - " Harmony " is at the core of confucian 's whole value system .
 	- 摘要“和谐”思想在儒家的整个价值体系中居于核心地位。
 - The method of studying the Confucian classics was also the important method for scientific research .

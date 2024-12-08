@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈsetɪsɪzəm/； 美：/əˈsetɪsɪzəm/
 - #词性/n  禁欲主义；苦行主义
-# 例句
+##### 例句
 - I am not speaking here about asceticism or abstinence .
 	- 我说的并不是苦行主义或禁欲主义。
 - Her opposed the asceticism of devotion to sciences , advocated the gay science .

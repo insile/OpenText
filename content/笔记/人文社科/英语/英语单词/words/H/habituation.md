@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  习惯（化）；适应，驯化；习惯化
-# 例句
+##### 例句
 - The existence of habituation is important for many reasons .
 	- 习惯化的存在非常重要，原因有很多。
 - And it is also found that they perform different Habituation tendency from those who with lower level of anxiety .

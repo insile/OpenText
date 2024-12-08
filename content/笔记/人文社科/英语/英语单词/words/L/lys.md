@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/abbr  赖氨酸（lysine）；赖氨酸残基；溶菌酶；里昂
-# 例句
+##### 例句
 - Quantitative Measure of DNA and Lys in e of Sperm Nucleus and Relative Analysis
 	- 精子核DNA和赖氨酸定量测定及有关分析
 - The amino acid analysis showed that there were more Cys and less Lys in rice dreg protein than that in rice protein .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  等边的
 - #词性/n  等边形；(相应的)等边
-# 例句
+##### 例句
 - equilateral If one side of an equilateral triangle measures three feet , the other two must also be three feet each .
 	- adj.等边的如果等边三角形的一边是三尺长，那么其他两边也一定是三尺长。
 - Its outline roughly forms an equilateral triangle .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  棱柱的；棱镜的；五光十色的
-# 例句
+##### 例句
 - Direct Forming Method of Manufacture for Prismy Formed Turning Tools Based on WEDM Machine Tools
 	- 基于线切割的棱体成形车刀制造的直接廓形法
 - The scales of the pangolin were composed of the very thin prismy construction units and the folded units .

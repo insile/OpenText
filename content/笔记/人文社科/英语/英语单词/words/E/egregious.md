@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈɡriːdʒiəs/； 美：/ɪˈɡriːdʒiəs/
 - #词性/adj  令人发指；极糟的；极坏的
-# 例句
+##### 例句
 - At worst some egregious minion had conducted a childish private enterprise .
 	- 这最多也不过是一批低能的小人物自己干的无聊把戏而已。
 - When it comes to blatant lies , there are none more egregious than budget figures .

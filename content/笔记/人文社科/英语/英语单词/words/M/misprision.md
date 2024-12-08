@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  渎职，玩忽职守，知情不报，包庇，隐匿（罪），（反对政府和法院的）煽动行为；误会，错误；轻视，蔑视
-# 例句
+##### 例句
 - Probe into the Law Application Problems on the Tax-related Misprision Crime
 	- 涉税玩忽职守犯罪法律适用问题探讨
 - As one of the serious official misconduct crime , misprision is attacked by each authority at anytime .

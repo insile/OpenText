@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈɡeɪnli/； 美：/ʌnˈɡeɪnli/
 - #词性/adj  笨拙的，笨手笨脚的；(举止)不雅观的，难看的；粗俗的，粗劣的
 - #词性/adv  不优雅地，笨拙地
-# 例句
+##### 例句
 - He was a tall , ungainly boy of 18 .
 	- 他是个个子高而笨拙的18岁小伙子。
 - A large or ungainly automobile .

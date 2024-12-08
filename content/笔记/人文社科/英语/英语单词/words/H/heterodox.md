@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhetərədɒks/； 美：/ˈhetərədɑːks/
 - #词性/adj  非正统的；异端的
-# 例句
+##### 例句
 - Postmodern Social Psychology and Sign of New Heterodox
 	- 后现代社会心理学与新异端的征兆
 - High-flying stunts were popular . Herculean physical feats were the standard . But it was the high tech plan to hijack a real plane as it flew over the circus that really hinted at something more than heterodox .

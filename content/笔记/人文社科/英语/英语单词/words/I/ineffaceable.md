@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  不能消除的；不能抹杀的
-# 例句
+##### 例句
 - This land left ineffaceable impression upon me .
 	- 这里真是让我留下难以忘怀的印象。
 - This is the ineffaceable track of the greatest single avalanche in recorded history .

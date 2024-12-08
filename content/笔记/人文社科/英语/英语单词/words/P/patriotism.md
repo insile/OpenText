@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpætriətɪzəm/； 美：/ˈpeɪtriətɪzəm/
 - #词性/n  爱国主义；爱国精神
-# 例句
+##### 例句
 - We live in an age when patriotism is often sneered at .
 	- 我们生活在一个爱国主义常常被嗤之以鼻的时代。
 - Patriotism is every politician 's stock-in-trade

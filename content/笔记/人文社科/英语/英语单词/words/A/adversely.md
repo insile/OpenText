@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  不利地；反而
-# 例句
+##### 例句
 - Her health was adversely affected by the climate .
 	- 那种气候损害了她的健康。
 - Nicotine adversely affects the functioning of the heart and arteries

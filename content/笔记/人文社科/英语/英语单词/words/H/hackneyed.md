@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhæknid/； 美：/ˈhæknid/
 - #词性/adj  陈腐的
-# 例句
+##### 例句
 - Too often used or too well known to be effective ; hackneyed .
 	- 因经常使用或尽人皆知而无效力的；陈腐的。
 - He sometimes slips into rather dreadful puns and hackneyed language .

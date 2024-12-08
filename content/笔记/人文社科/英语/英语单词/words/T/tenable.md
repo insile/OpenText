@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtenəbl/； 美：/ˈtenəbl/
 - #词性/adj  站得住脚的；可保有，可保持，可担任(一段时间)；说得过去的
-# 例句
+##### 例句
 - His new theory is tenable .
 	- 他的新理论是站得住脚的。
 - As there is nothing mystical or theological about confucianism , such a view is , indeed , quite tenable .

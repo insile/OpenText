@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈtestɪnl/； 美：/ɪnˈtestɪnl/
 - #词性/adj  肠的；肠道的
-# 例句
+##### 例句
 - Take care to especially spare your liver and your intestinal balance .
 	- 特别要注意你的肝脏以及身体内部的各个肠道的平衡。
 - Comparison of two method for intestinal cleaning before IVP radiography

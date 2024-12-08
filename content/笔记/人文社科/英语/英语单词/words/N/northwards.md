@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnɔːθwədz/； 美：/ˈnɔːrθwərdz/
 - #词性/adv  向北；朝北
-# 例句
+##### 例句
 - The path angled downhill and northwards
 	- 小路向山下伸展，然后向北延伸。
 - I have five letters on the way , moving northwards to China 's inland .

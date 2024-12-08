@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈklɪə(r)/； 美：/ˌʌnˈklɪr/
 - #词性/adj  不清楚的；不确定的；不理解；难以掌握的；不完全明白
-# 例句
+##### 例句
 - I am happy to clarify any points that are still unclear .
 	- 我愿意说明任何仍然不清楚的地方。
 - You may also clarify anything unclear on your resume .

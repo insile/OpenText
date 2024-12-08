@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsækrəˈlɪdʒəs/； 美：/ˌsækrəˈlɪdʒəs/
 - #词性/adj  亵渎的；亵渎神圣的;大不敬的;无礼的
-# 例句
+##### 例句
 - A number of churches were sacked and sacrilegious acts committed .
 	- 很多教堂都被洗劫一空，而且作出了诸多渎神之举。
 - At this point cannibalism was considered atrocious and sacrilegious in the developed world .

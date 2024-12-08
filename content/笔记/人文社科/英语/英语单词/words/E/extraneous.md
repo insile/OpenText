@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪkˈstreɪniəs/； 美：/ɪkˈstreɪniəs/
 - #词性/adj  无关的；没有直接联系的
-# 例句
+##### 例句
 - We do not want any extraneous information on the page .
 	- 我们不希望这一页上有任何无关的信息。
 - We ought not to bring in extraneous matters in trying to find a basis for a settlement

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈsænətri/； 美：/ʌnˈsænəteri/
 - #词性/adj  不卫生的；不健康的；脏的
-# 例句
+##### 例句
 - His construction company was found housing workers in New Jersey in hazardous , unsanitary conditions .
 	- 在新泽西州，这位承包商的建筑公司被发现让工人住在危险且不卫生的地方。
 - They lived eight to a room in some unsanitary quarter .

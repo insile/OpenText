@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈslʌɡəd/； 美：/ˈslʌɡərd/
 - #词性/n  懒惰的人，懒散的人
 - #词性/adj  懒惰的；懒汉般的
-# 例句
+##### 例句
 - She can 't stand that sluggard .
 	- 她就见不得那个懒汉。
 - I will not , like a sluggard , wear out my youth in idleness at home .

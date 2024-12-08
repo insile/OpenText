@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnɪnˈtendɪd/； 美：/ˌʌnɪnˈtendɪd/
 - #词性/adj  无意的；非计划的；无心的
-# 例句
+##### 例句
 - It promotes economic growth by reducing intended and unintended distortions .
 	- 它可以通过减少有意和无意的扭曲，来提升经济增长。
 - Italian law protects consumers by making it almost impossible to repossess a house , which achieves the intended effect in an unintended way by making it difficult to obtain a mortgage in the first place .

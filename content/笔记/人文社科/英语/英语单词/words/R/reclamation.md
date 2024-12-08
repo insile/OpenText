@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌrekləˈmeɪʃn/； 美：/ˌrekləˈmeɪʃn/
 - #词性/n  (荒地等的)开垦，改造
-# 例句
+##### 例句
 - The area is needed for a land reclamation project .
 	- 一个土地开垦项目要在这一地区进行。
 - Land reclamation continues apace

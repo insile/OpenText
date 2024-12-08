@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌriːdəˈbɪlɪti/； 美：/ˌridəˈbɪlɪti/
 - #词性/n  可读性；易读性；可阅读性
-# 例句
+##### 例句
 - The essay is dead boring and lacks readability .
 	- 这篇文章很没趣，可读性不强。
 - It can also improve the readability of test cases .

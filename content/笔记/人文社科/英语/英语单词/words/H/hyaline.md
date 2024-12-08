@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  透明的；玻璃样的
 - #词性/n  透檬；玻璃质；透明朊（物.层）；玻璃质
-# 例句
+##### 例句
 - PCNA positive cells were mainly . support cells and hyaline cells .
 	- PCNA阳性细胞主要是支持细胞和透明细胞。
 - MR Imaging Sequences in Hyaline Cartilage Defects : An Experimental Study

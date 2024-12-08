@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dʊə(r)/； 美：/dʊr/
 - #词性/adj  冷酷的，严厉的；阴郁的，抑郁的；(天气) 阴沉沉的；执拗的；(土地)贫瘠的
-# 例句
+##### 例句
 - The game proved to be a dour struggle , with both men determined to win .
 	- 这次比赛结果成为一场恶战，因为两个人都志在必得。
 - The city , drab and dour by day , is transformed at night .

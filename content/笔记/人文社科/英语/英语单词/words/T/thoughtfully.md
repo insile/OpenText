@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'θɔːtf(ə)li/； 美：/'θɔtfəli/
 - #词性/adv  沉思地；若有所思地；意味深长地
-# 例句
+##### 例句
 - She rubbed her chin thoughtfully .
 	- 她若有所思地抚摩着下巴。
 - We eyed each other thoughtfully

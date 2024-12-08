@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈmens/； 美：/ɪˈmens/
 - #词性/adj  巨大的；极大的
-# 例句
+##### 例句
 - The benefits are immense .
 	- 效益是极大的。
 - They plunged into their work with immense zeal .

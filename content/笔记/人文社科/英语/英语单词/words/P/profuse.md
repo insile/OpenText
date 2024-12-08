@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prəˈfjuːs/； 美：/prəˈfjuːs/
 - #词性/adj  大量的；丰富的；众多的
-# 例句
+##### 例句
 - Profuse blossoms , flowers , apologies , gratitude , thanks They deeply appreciated his kindness .
 	- 大量的花朵、数不清的鲜花、再三的道歉、深深的感激、千谢万谢他们对他的好意深表感谢。
 - In the 1990s , in Chinese literature there sprouted profuse aesthetic literary texts , which reflected urban dwellers ' state of living and mind .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈvaɪələt/； 美：/ɪnˈvaɪələt/
 - #词性/adj  未受(或不容)侵犯的；不容破坏的；未受(或不容)亵渎的
-# 例句
+##### 例句
 - We believed our love was inviolate .
 	- 我们相信我们的爱情坚如磐石。
 - His wife and mistress , until an hour ago and inviolate were slipping precipitately from his control .

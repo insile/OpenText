@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɜːsɪləs/； 美：/ˈmɜːrsɪləs/
 - #词性/adj  无情的；残忍的；毫不怜悯的
-# 例句
+##### 例句
 - Three qualities make a harvest golem so terrifying : its surprising speed , its harmless appearance , and its merciless battle tactics .
 	- 使收割傀儡如此可怕的原因有三个因素：其惊人的速度，无害的外表，以及它无情的战斗策略。
 - These disadvantages of women AIDS patients have accelerated in the spread of AIDS transmission , which increasingly expand women AIDS patients to a huge group of people , and suffered by merciless social exclusion .

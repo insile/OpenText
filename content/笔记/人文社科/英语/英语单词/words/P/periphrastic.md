@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  迂回；迂说式；迂回的；语法上迂回的；委婉的
-# 例句
+##### 例句
 - John is making a periphrastic study in a worn-out poetical fashion .
 	- 约翰正在对陈腐的诗风做迂回冗长的研究
 - On the Periphrastic Structures of Some Verbs and Their Translation

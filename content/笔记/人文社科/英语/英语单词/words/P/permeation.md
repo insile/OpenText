@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  渗透，渗透；渗入，透过
-# 例句
+##### 例句
 - Ultrasonic precise measurement of mercury permeation quantity in rock sample pores
 	- 岩样孔隙汞渗入量超声法精密测定
 - Tradition Permeation of Japanese Packaging Design

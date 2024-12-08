@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/krɪl/； 美：/krɪl/
 - #词性/n  磷虾；南极磷虾
-# 例句
+##### 例句
 - The efficiency of these enzymes is clearly visualized when the krill postmortem is autolyzed , due to the disabling of the inhibitor system .
 	- 在南极磷虾体内具有非常高效的消化系统，这是一个由多种酶和抑制因子相结合的复合酶系统。
 - Preparation of Chitin and Chitosan from the Exoskeleton of Antarctic Krill

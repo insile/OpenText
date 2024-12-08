@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vi  同情；吊唁；共鸣（等于 sympathize）
-# 例句
+##### 例句
 - Anyone who has been in a troubled relationship will sympathise with Sue
 	- 那些曾经恋爱不顺利的人都会同情休。
 - If they want national freedom , of course we sympathise .

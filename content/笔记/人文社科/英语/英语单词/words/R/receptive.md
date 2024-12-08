@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈseptɪv/； 美：/rɪˈseptɪv/
 - #词性/adj  乐于接受的；(对新观点、建议等)愿意倾听的
-# 例句
+##### 例句
 - She was always receptive to new ideas .
 	- 她总是愿意接受新观点。
 - He gave an impressive speech to a receptive audience .

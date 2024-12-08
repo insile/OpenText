@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'trɒpəsfɪə(r)/； 美：/'trɒpəsfɪə(r)/
 - #词性/n  对流层(大气的最低层，在地球表面和6至10公里上空之间)
-# 例句
+##### 例句
 - The Influence of Increasing Ozone in Troposphere on Air Temperature in China
 	- 我国对流层臭氧增加对气温的影响
 - Ozone Budget in the Lower and Middle Troposphere over North China

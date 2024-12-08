@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  旧石器时代；旧石器时代的；石器；石器时代
-# 例句
+##### 例句
 - History and status quo of the research on Paleolithic bone artifacts and HORNWORK in China
 	- 中国旧石器时代骨、角器研究的历史与现状
 - Paleolithic man could only make the most basic stone tools .

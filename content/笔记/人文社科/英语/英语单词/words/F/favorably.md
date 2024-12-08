@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  有利地；顺利地；好意地
-# 例句
+##### 例句
 - Most who expressed an opinion spoke favorably of Thomas .
 	- 大多数发表看法的人都支持托马斯。
 - I think they want kids to be favorably disposed to this company and see them in a more positive light .

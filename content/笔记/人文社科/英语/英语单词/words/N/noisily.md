@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'nɔ:ɪzɪlɪ/； 美：/'nɔɪzɪlɪ/
 - #词性/adv  大声；吵闹
-# 例句
+##### 例句
 - The children were playing noisily upstairs .
 	- 孩子们在楼上吵闹地玩耍。
 - The ladies are talking more noisily than the gentlemen .

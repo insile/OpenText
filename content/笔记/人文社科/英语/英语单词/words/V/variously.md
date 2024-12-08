@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈveəriəsli/； 美：/ˈveriəsli/
 - #词性/adv  不同地；以各种方式
-# 例句
+##### 例句
 - It focuses on paintings , video , prints and photography that variously deal with the written word , abstraction , landscapes and their contemporary equivalent , cityscapes .
 	- 它们主要集中于绘画、视频、印刷品以及摄影作品，以各种方式来处理文字、抽象概念、山水以及现代版山水，即城市风光。
 - Moutai , the fiery official liquor for state banquets since the Communist revolution , has been variously described by foreign dignitaries as liquid razor blades and smelling like a barnyard and tasting like turpentine .

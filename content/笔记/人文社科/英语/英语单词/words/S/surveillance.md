@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/sɜːˈveɪləns/； 美：/sɜːrˈveɪləns/
 - #词性/n  (对犯罪嫌疑人或可能发生犯罪的地方的)监视；监控
-# 例句
+##### 例句
 - It 's also what makes contemporary surveillance systems so scary .
 	- 它也是现代监控系统如此令人惊惧的原因。
 - They installed a surveillance TV against those shoplifters .

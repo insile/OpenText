@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  延迟；潜伏；潜在因素
-# 例句
+##### 例句
 - You also gain low latency and high availability .
 	- 您还可以实现低延迟和高可用性。
 - An Efficient Measuring Latency Method Combining Active and Passive Approaches

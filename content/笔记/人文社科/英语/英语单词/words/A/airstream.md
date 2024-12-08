@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈeəstriːm/； 美：/ˈerstriːm/
 - #词性/n  (尤指强烈的)气流
-# 例句
+##### 例句
 - Numerical simulation on influence of diffusion performance on airstream distribution in a room
 	- 风速对室内气流分布影响的数值仿真
 - A rather cold north west airstream will cover our province .

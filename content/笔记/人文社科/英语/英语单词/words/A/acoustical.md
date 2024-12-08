@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  声学的；有声的；传音的；音响的；听觉的
-# 例句
+##### 例句
 - Walls tilted for acoustical reasons may cause glare .
 	- 对声学的原因可能会造成眩光墙倾斜。
 - Research of acoustical environment of classrooms is a current hotspot in architectural acoustics .

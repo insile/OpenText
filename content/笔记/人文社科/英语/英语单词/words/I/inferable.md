@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  可推断（论）的；可指出的；可暗示的；可推想而知的
-# 例句
+##### 例句
 - In terms of physical causation , and any ethical consequences inferable from that , no more can be said .
 	- 根据物理原因，以及任何民族推理可以从函数推论出，没有其他的说法。
 - If with design landscape or subject could get some means to be inferable people will understand the meaning and spread the extent and level of the feeling .

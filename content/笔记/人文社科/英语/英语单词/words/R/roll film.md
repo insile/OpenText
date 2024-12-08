@@ -5,9 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rəʊl fɪlm/； 美：/roʊl fɪlm/
-# 例句
+- #词性/n  胶卷：一种用于相机的胶卷，它被卷在一个卷轴上
+##### 例句
 - Design of multi - step progressive die for compression spring of roll film
 	- 胶卷压簧多工位级进模设计
 - I picked some pictures today , by roll film then .

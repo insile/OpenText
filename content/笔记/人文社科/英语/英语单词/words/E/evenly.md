@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈiːvnli/； 美：/ˈiːvnli/
 - #词性/adv  均匀；平均地；平静地；平滑地；相等地；有规律地；镇静地
-# 例句
+##### 例句
 - Make sure that your weight is evenly distributed .
 	- 注意让你的重量分布均匀。
 - Make sure the paint covers the surface evenly .

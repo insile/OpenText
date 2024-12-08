@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  低于冰点的
-# 例句
+##### 例句
 - Effects of Subfreezing Storage on the Freshness of Strawberry
 	- 草莓微冻保鲜方法的研究
 - The gold and purple sunsets color the subfreezing waters of the Arctic Ocean .

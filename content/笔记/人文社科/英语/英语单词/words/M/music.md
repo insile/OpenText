@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmjuːzɪk/； 美：/ˈmjuːzɪk/
 - #词性/n  音乐；乐曲；乐谱；乐曲创作(或演奏)艺术
-# 例句
+##### 例句
 - His music is an integration of tradition and new technology .
 	- 他的音乐结合了传统和新技术。
 - His first music teacher was a major influence in his life .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈsɒljəbl/； 美：/ɪnˈsɑːljəbl/
 - #词性/adj  不溶的；不能溶解的；无法解决的；不能解释的
-# 例句
+##### 例句
 - It was an insoluble dilemma and one which I could do nothing about .
 	- 那是个无法解决的两难局面，我无计可施。
 - The problems confronting this country are insoluble within the framework of the parliamentary system .

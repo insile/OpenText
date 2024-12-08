@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  即兴的；侥幸的，偶然的
-# 例句
+##### 例句
 - Your experience of speculation makes you have aleatory thought .
 	- 你投机成功的经验，让你经常存有侥幸的心理。
 - In engineering practice , both aleatory uncertainty and epistemic uncertainty often exist .

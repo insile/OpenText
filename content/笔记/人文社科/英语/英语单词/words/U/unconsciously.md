@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈkɒnʃəsli/； 美：/ʌnˈkɑːnʃəsli/
 - #词性/adv  不知不觉地；无意地
-# 例句
+##### 例句
 - Learning strategies are used by learners consciously or unconsciously . Learning strategies can directly or indirectly help learners to learn language more effectively .
 	- 学习策略被学习者有意或无意地使用着，直接或间接地对学习者产生影响，从而影响他们语言的发展。
 - In psychoanalysis , the process by which emotions and desires originally associated with one person , such as a parent or sibling , are unconsciously shifted to another person , especially to the analyst .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbrænt/； 美：/brænt/
 - #词性/n  布兰特；黑雁
-# 例句
+##### 例句
 - It is mere surmise that Bosch had Brant 's poem in mind when doing this painting
 	- 认为博斯在画这幅画时脑子里想着布兰特的诗，这仅仅是猜测而已。
 - My sister said not to take Professor Brant for English .

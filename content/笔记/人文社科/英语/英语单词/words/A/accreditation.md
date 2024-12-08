@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˌkredɪˈteɪʃn/； 美：/əˌkredɪˈteɪʃn/
 - #词性/n  达到标准；证明合格
-# 例句
+##### 例句
 - One accrediting agency is the Council for Higher Education Accreditation .
 	- 有一个资信鉴定机构是为了高等教育的
 - One accrediting agency is Council for Higher Education Accreditation .

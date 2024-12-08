@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfrɔːdjələnt/； 美：/ˈfrɔːdʒələnt/
 - #词性/adj  欺诈的；欺骗的
-# 例句
+##### 例句
 - They got the information by fraudulent means .
 	- 他们用欺骗的手段获取了该情报。
 - Don 't dumb down your resume to the point where you risk being labeled unethical or fraudulent .

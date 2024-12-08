@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fluˈɪdəti/； 美：/fluˈɪdəti/
 - #词性/n  流动(性)；不稳定(性)；流畅优美；易变(性)
-# 例句
+##### 例句
 - She danced with great fluidity of movement .
 	- 她跳舞的动作十分流畅优美。
 - Others see it as indicative of the fluidity of a global economy experiencing cyclical shocks and secular realignments .

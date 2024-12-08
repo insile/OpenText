@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kleəˈvɔɪəns/； 美：/klerˈvɔɪəns/
 - #词性/n  洞察力；预见力；神视力
-# 例句
+##### 例句
 - Precognition is a form of clairvoyance .
 	- 预知是超人的洞察力的一种形式。
 - Sometimes , leaders fall into the clairvoyance trap .

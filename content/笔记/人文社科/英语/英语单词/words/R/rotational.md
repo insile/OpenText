@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rəʊˈteɪʃənl/； 美：/roʊˈteɪʃənl/
 - #词性/adj  旋转的；转动的，轮流的
-# 例句
+##### 例句
 - Remember , torque is the rotational analog of the force .
 	- 扭矩是力转动的对应量。
 - We have found that there is also a rotational analog for the momentum .

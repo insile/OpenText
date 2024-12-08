@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɜːdɪɡriː/； 美：/ˈvɜːrdɪɡriː/
 - #词性/n  铜绿；碱性碳酸铜(铜遇空气发生反应形成)
-# 例句
+##### 例句
 - His pockets are full of red lead and verdigris .
 	- 他的衣袋里装满铅丹和铜绿。
 - The latter has neither hens nor chicks , and only thinks of himself and perspires verdigris .

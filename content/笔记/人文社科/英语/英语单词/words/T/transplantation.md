@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌtrænsplɑːnˈteɪʃən/； 美：/ˌtrænzplænˈteɪʃən/
 - #词性/n  移植；移植法
-# 例句
+##### 例句
 - Blood transfusions are a special , limited example of tissue transplantation .
 	- 输血是一个特殊的、有限制的组织移植的例子
 - They do this so they can select the healthiest embryo1 for transplantation .

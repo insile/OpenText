@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈi(ː)əʊsiːn/； 美：/ˈiəˌsin/
 - #词性/n  始新世；始新统
 - #词性/adj  始新世的，与始新世有关的
-# 例句
+##### 例句
 - Early Eocene sedimentary environment of Jianghan Basin and its oil and gas potential
 	- 江汉盆地早始新世沉积环境及与油气关系
 - Reconstruction of mean annual temperature in Chinese Eocene Paleofloras based on leaf margin analysis

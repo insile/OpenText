@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  可牵引性；可追踪性；易处理；溯源性；易处理性；可追溯性
-# 例句
+##### 例句
 - Complexity theory is the study of tractability by computer ;
 	- 复杂性理论是易处理计算机的研究；
 - Moreover , RoF networks also deliver greater geographical coverage and tractability as compared to using either wired or wireless technology .

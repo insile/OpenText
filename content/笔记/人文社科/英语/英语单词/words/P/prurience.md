@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈprʊəriəns/； 美：/ˈprʊriəns/
 - #词性/n  淫秽；好色
-# 例句
+##### 例句
 - Nobody ever lost money by overestimating the public 's prurience .
 	- 从未有人因为高估公众的好色之心而赔钱。
 - Any sense of prurience is relieved by Mr Kahr 's prose , which is sympathetic , witty and erudite .

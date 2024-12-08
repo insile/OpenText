@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwɜːld biːtə(r)/； 美：/ˈwɜːrld biːtər/
 - #词性/n  天下无双的人(或事物)
-# 例句
+##### 例句
 - Ward is not the most consistent of players , but when he is on song he looks a world-beater .
 	- 沃德并不是发挥最稳定的球员，可是一旦进入状态，他似乎就是天下无敌的王者。
 - Politicking and grand strategising were not the skills that first made Google a world-beater .

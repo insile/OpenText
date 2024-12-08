@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈnjuː/； 美：/əˈnuː/
 - #词性/adv  重新；再
-# 例句
+##### 例句
 - Slowly Jewish communities were reconstituted and Jewish life began anew .
 	- 渐渐地，犹太社区得到重建，犹太人的生活重新开始。
 - He began his work anew .

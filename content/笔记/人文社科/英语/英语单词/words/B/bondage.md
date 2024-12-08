@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbɒndɪdʒ/； 美：/ˈbɑːndɪdʒ/
 - #词性/n  束缚；奴役；(以捆绑寻求性快感)性虐待癖
-# 例句
+##### 例句
 - Debt bondage of this kind is the last thing the world needs .
 	- 这种债务奴役是这个世界最不需要的。
 - " People of israel , I will lead you out of bondage . "

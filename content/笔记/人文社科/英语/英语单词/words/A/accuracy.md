@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈækjərəsi/； 美：/ˈækjərəsi/
 - #词性/n  准确(性)；精确(程度)
-# 例句
+##### 例句
 - I 'm a bit of a stickler for accuracy
 	- 我总是要求精确。
 - There is need to check the accuracy of these figures .

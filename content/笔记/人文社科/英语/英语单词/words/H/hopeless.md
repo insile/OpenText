@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhəʊpləs/； 美：/ˈhoʊpləs/
 - #词性/adj  绝望的；无望的；无能的；感到（或显得）无望的；不能胜任的；糟糕透顶的；缺乏技能的；没有好转(或成功)希望的；极差的
-# 例句
+##### 例句
 - Instead of looking at the situation from this hopeless angle , look at everything you still have and be thankful for all of the good in your life .
 	- 不要从这个绝望的角度看问题,要看你还有什么,要感谢你生活中所有的美好。
 - A hopeless gambler whose passion for the game greatly exceeds his ability to win , Alexy finds himself spiralling out of control .

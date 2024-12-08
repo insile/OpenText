@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/təˈlepəθi/； 美：/təˈlepəθi/
 - #词性/n  心灵感应；传心术；通灵术
-# 例句
+##### 例句
 - A test for telepathy with a similar device yielded a negative result .
 	- 用类似装置对于传心术的试验得到负的结果。
 - Such paranormal phenomena as telepathy ; a medium 's paranormal powers .

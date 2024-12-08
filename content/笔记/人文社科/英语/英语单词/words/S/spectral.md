@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈspektrəl/； 美：/ˈspektrəl/
 - #词性/adj  光谱的；谱的；幽灵的；鬼的；幽灵似的；鬼一般的
-# 例句
+##### 例句
 - Correlation between Chlorophyll Content and Spectral Characteristics of Soybean Leaves
 	- 大豆叶片叶绿素含量与光谱的特征分析
 - Using this system , spectral acquisition of the specific band with high precision is achieved .

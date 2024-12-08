@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/klɔːˈrəʊsɪs/； 美：/kləˈroʊsɪs/
 - #词性/n  萎黄病；缺绿病；褪绿部分
-# 例句
+##### 例句
 - Chlorosis was noted in seedlings from treated seeds .
 	- 人们在被处理的种子里长出的幼苗中发现了缺绿病。
 - Chlorosis The loss of chlorophyll from plants resulting in yellow ( chlorotic ) leaves .

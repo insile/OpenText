@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pəˈlɪfəni/； 美：/pəˈlɪfəni/
 - #词性/n  复调音乐；复调乐曲
-# 例句
+##### 例句
 - So the study of the early western polyphony helps to find the source of some music practice today .
 	- 研究西方早期复调音乐，能够为今天的某些音乐实践找到渊源。
 - Evolution and Development of Polyphony

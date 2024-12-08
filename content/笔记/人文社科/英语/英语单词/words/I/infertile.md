@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈfɜːtaɪl/； 美：/ɪnˈfɜːrtl/
 - #词性/adj  不育的；贫瘠的；不结果实的
-# 例句
+##### 例句
 - Do you think an infertile couple should have a cloned baby ?
 	- 你认为不育的夫妇应该克隆一个孩子吗？
 - In 2 cases of infertile patient exposed to long-term irradiation there were higher proportion of aberrant meiotic chromosomes at metaphase I. 16 % aberrant somatic cell chromosomes was detected in one of them .

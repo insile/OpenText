@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpraɪml/； 美：/ˈpraɪml/
 - #词性/adj  原始的，最初的；主要的，首要的；根源的，根本的
 - #词性/n  <心>被压抑童年情绪的释放
-# 例句
+##### 例句
 - Jealousy is a primal emotion .
 	- 嫉妒是最原始的情感。
 - Ambiences work in a most primal way .

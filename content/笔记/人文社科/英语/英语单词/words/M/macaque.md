@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/məˈkæk/； 美：/məˈkæk/
 - #词性/n  猕猴
-# 例句
+##### 例句
 - Study of relationship between bone mineral density of normal female macaque with its ages
 	- 正常雌猕猴骨密度与年龄关系的初步研究
 - Studies on the Infection and Identification of Yersinia in Experimental Macaque

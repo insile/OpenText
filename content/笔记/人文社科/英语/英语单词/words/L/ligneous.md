@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  木质的
-# 例句
+##### 例句
 - All these ligneous plants are imported from Russia .
 	- 这些木本植物都是从俄国进口而来。
 - A lot of ligneous door , bookcase in my home , ambry is to have breath , have life .

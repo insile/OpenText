@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnəˈweəz/； 美：/ˌʌnəˈwerz/
 - #词性/adv  不知不觉；出其不意地；未注意到；冷不防；不留神地；猝然
-# 例句
+##### 例句
 - Old age creeps upon one unawares .
 	- 不知不觉间人就老了。
 - Taken unawares or suddenly and feeling wonder or astonishment .

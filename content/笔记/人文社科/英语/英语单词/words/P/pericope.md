@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  选段；章节；摘录
-# 例句
+##### 例句
 - You 're going to pay really good attention to all the details of the pericope .
 	- 好好留意，选段的细节。
 - You want to concentrate on the details of your pericope to try to find out what the message is .

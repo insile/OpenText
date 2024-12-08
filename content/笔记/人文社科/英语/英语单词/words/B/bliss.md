@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/blɪs/； 美：/blɪs/
 - #词性/n  幸福；极乐
-# 例句
+##### 例句
 - My idea of bliss is a month in the Bahamas .
 	- 我理想中的极乐是在巴哈马群岛度假一个月。
 - The diamond light of Bliss has the power to melt all hostile forces .

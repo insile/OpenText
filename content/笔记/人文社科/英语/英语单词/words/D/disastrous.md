@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈzɑːstrəs/； 美：/dɪˈzæstrəs/
 - #词性/adj  灾难性的；完全失败的；极糟糕的
-# 例句
+##### 例句
 - The decision was disastrous in political terms .
 	- 从政治上来看，这个决定是灾难性的。
 - If word got out now , a scandal could be disastrous

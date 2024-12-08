@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdɪsəˈfekʃn/； 美：/ˌdɪsəˈfekʃn/
 - #词性/n  (政治上的)不满，不忠，疏远
-# 例句
+##### 例句
 - There are signs of growing disaffection amongst voters .
 	- 选民中出现日渐不满的迹象。
 - Lack of food and supplies caused disaffection among the soldiers .

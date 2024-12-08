@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌreləˈtɪvəti/； 美：/ˌreləˈtɪvəti/
 - #词性/n  相对论；相对性
-# 例句
+##### 例句
 - According to the theory of relativity , nothing can travel faster than light .
 	- 根据相对论，任何东西都无法超越光速。
 - The theory of relativity originates with Albert Einstein .

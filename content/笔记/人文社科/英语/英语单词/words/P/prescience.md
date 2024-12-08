@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  先见之明；预知；先知；弹性比预见；前科学
-# 例句
+##### 例句
 - To credit him with prescience about the global system , though , is to go a bit far .
 	- 然而，如果有人赞扬他对全球体系具有先见之明，那就有些牵强了。
 - Some soros-watchers intimate that his vast network of international contacts might be an important source of his market prescience .

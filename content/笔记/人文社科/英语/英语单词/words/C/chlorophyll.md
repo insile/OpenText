@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈklɒrəfɪl/； 美：/ˈklɔːrəfɪl/
 - #词性/n  叶绿素
-# 例句
+##### 例句
 - The disease causes varying degrees of destruction of the chlorophyll .
 	- 这一病害使叶绿素遭到不同程度的破坏。
 - The chief differences between chlorophyll and heme are the presence of a magnesium atom in the center of the porphyrin ring .

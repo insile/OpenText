@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈkɒnɪsns/； 美：/rɪˈkɑːnɪsns/
 - #词性/n  侦察
-# 例句
+##### 例句
 - Time spent on reconnaissance is seldom wasted .
 	- 花在侦察上的时间是不会白费的。
 - The squadron flew on a reconnaissance mission .

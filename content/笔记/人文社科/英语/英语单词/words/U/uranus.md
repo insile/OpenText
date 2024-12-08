@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈjʊərənəs/； 美：/ˈjʊrənəs/
 - #词性/n  天王星
-# 例句
+##### 例句
 - Uranus represents sudden change and rebellion .
 	- 天王星代表突然性的改变和反叛。
 - Uranus is unusual because it is tilted .

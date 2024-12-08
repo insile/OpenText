@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/enˌsefəˈlaɪtəs/； 美：/enˌsefəˈlaɪtəs/
 - #词性/n  脑炎
-# 例句
+##### 例句
 - Herbs for the prevention of encephalitis can be found everywhere in this area .
 	- 预防脑炎的草药在这一地区俯拾皆是。
 - Effects of Ionic Strength on Japanese Encephalitis Virus Gene Sensor Detection System

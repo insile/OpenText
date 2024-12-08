@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/taɪˈpɒɡrəfi/； 美：/taɪˈpɑːɡrəfi/
 - #词性/n  印刷术；排印；版面设计
-# 例句
+##### 例句
 - The theory of engraving typography played a brilliant role in the culture of textiles and paper printing .
 	- 雕版印刷术原理分别在纺织品和纸张上先后呈现出灿烂的文明之光。
 - Chinese invented engraving typography in the Han dynasty at the end of 2nd century BC .

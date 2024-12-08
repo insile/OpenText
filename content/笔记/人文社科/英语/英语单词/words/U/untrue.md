@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈtruː/； 美：/ʌnˈtruː/
 - #词性/adj  不真实的；假的；不忠实的；不忠诚的；无事实根据的
-# 例句
+##### 例句
 - To the untrue man , the whole universe is false it is impalpable it shrinks to nothing within his grasp .
 	- 对那个不真实的人来说，整个宇宙都是虚伪的都是难以触摸的，在他的把握之中化为子虚乌有。
 - This classification between material and spiritual pleasures is therefore contusing , unintelligible and untrue for me .

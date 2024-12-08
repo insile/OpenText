@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɔ:θəraɪ'zeɪʃn/； 美：/ˌɔ:θəraɪ'zeɪʃn/
 - #词性/n  授权；批准；授权书；批准书
-# 例句
+##### 例句
 - He had authorisation from the military command to retaliate
 	- 他得到军事指挥部授权，准备反击。
 - Direct Debit Authorisation Form for Payment of Water and Sewage Charges

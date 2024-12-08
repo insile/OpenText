@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  大胆，刚毅
-# 例句
+##### 例句
 - Purple : Stand for valiancy , hardihood , honesty , strong and brave .
 	- 紫色：表现骁勇、刚毅、正直、坚强、胆大。
 - the qualities of practical intelligence , of courage , of hardihood , and endurance , and above all the power of devotion to a lofty ideal ,

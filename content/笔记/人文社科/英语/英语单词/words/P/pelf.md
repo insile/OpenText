@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  财物；氟尿嘧啶；阿堵物
-# 例句
+##### 例句
 - Pelf makes friends , adversity tries them .
 	- 富贵交友易，患难显真情。
 - Retrospective Study on PELF Chemotherapy Regimen in Treatment of Advanced Gastric Cancer

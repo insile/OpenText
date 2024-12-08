@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdʒi:ə'ɡræfɪklɪ/； 美：/dʒɪəˈɡræfɪklɪ/
 - #词性/adv  地理学上
-# 例句
+##### 例句
 - Watford gap is geographically unremarkable but culturally iconic .
 	- 沃特福德峡谷在地理学上无足轻重，但是文化意义重大。
 - Although geographically linked , the two provinces have long fought for political ascendancy

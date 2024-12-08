@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈflætjʊləns/； 美：/ˈflætʃələns/
 - #词性/n  肠胃气胀
-# 例句
+##### 例句
 - The goal of treatment of flatulence is to reduce gas and odor .
 	- 的目标，治疗肠胃气胀是减少气体和气味。
 - The precious little we know so far would certainly indicate that flatulence is a rich topic for investigation .

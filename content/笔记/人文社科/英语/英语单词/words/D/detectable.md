@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈtektəbl/； 美：/dɪˈtektəbl/
 - #词性/adj  可觉察的;可发现的;可查出的
-# 例句
+##### 例句
 - The noise is barely detectable by the human ear .
 	- 这种噪音人的耳朵几乎是察觉不到的。
 - Doctors say the disease is probably inherited but not detectable at birth .

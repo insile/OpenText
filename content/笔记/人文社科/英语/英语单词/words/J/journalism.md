@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdʒɜːnəlɪzəm/； 美：/ˈdʒɜːrnəlɪzəm/
 - #词性/n  新闻业；新闻工作
-# 例句
+##### 例句
 - How good a model would journalism be ?
 	- 新闻业的模式有多好？
 - There is another profession that could provide a model : journalism .

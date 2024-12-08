@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈmentɪd/； 美：/dɪˈmentɪd/
 - #词性/adj  痴呆的；发狂的；极度焦躁不安的；忧虑失常的
-# 例句
+##### 例句
 - He always feels useful when he helps , and he gets a demented high from utility .
 	- 当他帮助，而且他从实效得到一个发狂的高度时候，他总是觉得有用。
 - Studies have been shown that hyperglycemia is a primary reason for nervous system impaired . Diabetic demented danger increased significantly , generally accompany with cognition dysfunction , such as learning and memory .

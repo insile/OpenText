@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnrɪˈdʒenərət/； 美：/ˌʌnrɪˈdʒenərət/
 - #词性/adj  恶习不改的；不思悔改的
-# 例句
+##### 例句
 - Coal is an unregenerate resource . ENERGY CONSERVATION OF HEAT SUPPLY SYSTEM IN ENTERPRISES
 	- 煤炭是不能再生资源。企业供热系统的节能
 - For the unregenerate of land , land has become the most important social and economic question .

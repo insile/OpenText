@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  在营养上；营养学上的；营养学上；营养地；滋养地
-# 例句
+##### 例句
 - A diet extremely low in calories can also be a diet that is nutritionally unsound .
 	- 卡路里含量极低的饮食结构也会造成营养不良。
 - The nutritionally balanced menus are designed to help you lose up to a pound a day without hunger pangs .

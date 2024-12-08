@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnhɒˈspɪtəbl/； 美：/ˌɪnhɑːˈspɪtəbl/
 - #词性/adj  (尤指)无遮蔽处的，荒凉的；不好客的；不适于居住的；不殷勤待客的
-# 例句
+##### 例句
 - Within two years they had tamed this inhospitable landscape .
 	- 两年之内他们已经开垦了这片荒凉的土地。
 - The once inhospitable landscape is now tamed .

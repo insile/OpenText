@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  幽默风趣
-# 例句
+##### 例句
 - Pungent satire and humourous mockery are typical of their artistic features .
 	- 尖锐泼辣的讽刺、幽默风趣的嘲弄，构成它特有的艺术风采。
 - He is friendly and humourous , and what he says can always please us as well .

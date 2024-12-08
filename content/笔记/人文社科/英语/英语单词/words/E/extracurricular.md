@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌekstrəkə'rɪkjʊlə(r)/； 美：/ˌekstrəkə'rɪkjələr/
 - #词性/adj  课外的；工作之余的
-# 例句
+##### 例句
 - Extracurricular academic and social activities are conducted to improve students ' abilities of research and management ;
 	- 二是重活动：通过开展各种课外的学术活动、社会活动，全面提高学生的实际工作能力和领导能力；
 - The study will introduce students to deeply understand the texts , focus the keystones , difficulties and souls , strengthen the extracurricular practice independently and cultivate the Chinese abilities .

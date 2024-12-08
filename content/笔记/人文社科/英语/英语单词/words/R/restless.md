@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈrestləs/； 美：/ˈrestləs/
 - #词性/adj  焦躁不安的；坐立不安的；不耐烦的；没有睡眠的；没有真正休息的
-# 例句
+##### 例句
 - Do you feel restless most of the time ?
 	- 在多数时间中我都感到焦躁不安的。
 - She becomes a restless wife and still has to struggle for economic security .

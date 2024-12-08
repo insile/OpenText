@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈhɪərəntli/； 美：/ɪnˈhɪrəntli/
 - #词性/adv  固有的
-# 例句
+##### 例句
 - The inherently nonlinear property leads to many computational problems .
 	- 特征值问题固有的非线性特性引入了很多计算方面的问题。
 - Software is inherently flexible and can change .

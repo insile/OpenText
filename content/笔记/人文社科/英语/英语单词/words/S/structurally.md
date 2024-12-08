@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈstrʌktʃərəli/； 美：/ˈstrʌktʃərəli/
 - #词性/adv  在结构上
-# 例句
+##### 例句
 - Structurally , an automotive brake system contains these major parts like brake drum , brake shoe , brake lining , etc.
 	- 在结构上，汽车刹车系统包括的主要零件包括制动鼓、制动块、制动衬片等。
 - This article on the status of our legislative and judicial reflection , proposed some ideas on constructing juvenile criminal rights protection system . Structurally , this article is divided into four parts .

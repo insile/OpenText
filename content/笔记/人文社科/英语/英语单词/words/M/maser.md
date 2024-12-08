@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  微波激射器；微波激射
-# 例句
+##### 例句
 - A single modulation frequency method used in the passive h maser
 	- 利用单频调制技术实现被动型氢钟的锁定
 - Techniques used to Improve the Frequency Stability and Reliability of Hydrogen Maser

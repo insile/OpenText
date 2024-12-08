@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/vəˈsɪfərəs/； 美：/voʊˈsɪfərəs/
 - #词性/adj  大声疾呼的；喧嚣的；大叫大嚷的
-# 例句
+##### 例句
 - His resentment of her behaviour was becoming more vociferous .
 	- 他越来越大声地表达对她行为的厌恶。
 - He was a vociferous opponent of Conservatism

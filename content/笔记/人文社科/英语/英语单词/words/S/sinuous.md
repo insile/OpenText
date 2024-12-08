@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɪnjuəs/； 美：/ˈsɪnjuəs/
 - #词性/adj  蜿蜒的；曲折的；弯曲有致的
-# 例句
+##### 例句
 - We moved along the sinuous gravel walks , with the great concourse of girls and boys .
 	- 我们沿着曲折的石径，随着男孩女孩汇成的巨流一路走去。
 - America 's stunning , sinuous coastlines have long exerted an almost mystical pull on the imaginations of the country 's citizens .

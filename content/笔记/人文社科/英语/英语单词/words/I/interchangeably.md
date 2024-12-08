@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  可互换地；可交替地
-# 例句
+##### 例句
 - These terms are used interchangeably .
 	- 这些词语互换着使用。
 - These terms are often used imprecisely and interchangeably .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  失去了光泽的；未失去光泽的；失去光泽的
-# 例句
+##### 例句
 - However , western banks have not escaped with their reputations untarnished .
 	- 不过，西方银行的名誉也并非丝毫未损。
 - Many Afrikaners are struggling to find a new identity untarnished by apartheid .

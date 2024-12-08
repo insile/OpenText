@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnəˈfensɪv/； 美：/ˌɪnəˈfensɪv/
 - #词性/adj  不讨人嫌的；不会冒犯人的
-# 例句
+##### 例句
 - He 's a mild inoffensive man
 	- 他是个温文随和的人。
 - It 's a very nice song . Catchy , and inoffensive .

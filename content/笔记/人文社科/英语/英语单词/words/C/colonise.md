@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  殖民化；开拓殖民地，移民于殖民地
-# 例句
+##### 例句
 - As he writes in Current Biology , he thinks that the odour of marine6 micro-organisms which colonise floating plastic objects induces turtles to feed .
 	- 他在《CurrentBiology》中写道，海洋微生物附着在漂浮的塑料物体上，它们的气味诱使海龟进食。
 - In theory then , global warming might allow these vectors to spread into areas they weren 't previously able to colonise .

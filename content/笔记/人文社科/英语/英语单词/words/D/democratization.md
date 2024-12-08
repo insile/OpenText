@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  民主化
-# 例句
+##### 例句
 - It 's this democratization of information that I think is an information enlightenment ,
 	- 我觉得正是信息民主化促成这这种信息启蒙，
 - Since the implementation of the contracted responsibility system , the democratization progress and rural economy has developed gradually .

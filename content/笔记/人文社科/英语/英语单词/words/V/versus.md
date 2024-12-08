@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɜːsəs/； 美：/ˈvɜːrsəs/
 - #词性/prep  (比较两种不同想法、选择等)与…相对，与…相比；(表示两队或双方对阵)对，诉，对抗
-# 例句
+##### 例句
 - The most exciting game was Harvard versus yale .
 	- 最富紧张刺激的球赛是哈佛队对耶鲁队。
 - The big match tonight is England versus Spain .

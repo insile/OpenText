@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈklemənt/； 美：/ˈklemənt/
 - #词性/adj  温和的，温暖的；(对受惩罚的人)仁慈的，宽恕的，宽容的
-# 例句
+##### 例句
 - A clement judge reduced his sentence .
 	- 一位仁慈的法官为他减了刑。
 - Captain David Clement and 150 commandos stormed the port this morning .

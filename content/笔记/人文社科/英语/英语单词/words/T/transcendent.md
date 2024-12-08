@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/trænˈsendənt/； 美：/trænˈsendənt/
 - #词性/adj  卓越的；超凡的；杰出的；极其伟大的
 - #词性/n  卓越的人；超越认识的事物
-# 例句
+##### 例句
 - But after a particu-larly transcendent meditative experience , he came away with a new understanding of it .
 	- 然而在一次超凡的禅修体验中，他有了新层次的理解。
 - They wanted to see what happens to a transcendent mind , scientifically speaking , during moments of enlightenment .

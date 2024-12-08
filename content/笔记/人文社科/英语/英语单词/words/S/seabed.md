@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'si:bed/； 美：/'si:bed/
 - #词性/n  海底；海床
-# 例句
+##### 例句
 - Computer software can be used to simulate conditions on the seabed .
 	- 计算机软件可用于模拟海底状况。
 - The divers hoped to unlock some of the secrets of the seabed .

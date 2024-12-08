@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  密切；（关系的）亲密；（关系的）亲密；密切
-# 例句
+##### 例句
 - Model Identification in Rough Factor Neural Network Based on Nearness Relationship
 	- 基于相近关系的粗糙因子神经网络的模式识别方法
 - Load capacity of old bridge with fuzzy nearness comprehensive evaluation method

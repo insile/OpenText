@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  营养不足；空虚（洞）；无内容；虚弱；无生气，死气沉沉
-# 例句
+##### 例句
 - Because nutrition has been used up big , inanition is caused .
 	- 因为营养消耗过大，营养不足造成。
 - Remedy some inanition on soul a bit .

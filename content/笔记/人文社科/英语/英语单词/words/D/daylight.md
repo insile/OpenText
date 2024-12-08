@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdeɪlaɪt/； 美：/ˈdeɪlaɪt/
 - #词性/n  日光；白天；黎明
-# 例句
+##### 例句
 - They emerged from the church into the bright daylight .
 	- 他们走出教堂来到明亮的日光下。
 - Through the aperture he could see daylight .

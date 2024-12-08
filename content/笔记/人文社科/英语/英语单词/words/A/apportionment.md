@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈpɔːʃ(ə)nmənt/； 美：/əˈpɔrʃənmənt/
 - #词性/n  分摊；分配；分派
-# 例句
+##### 例句
 - The contract defines the apportionment of risks between employer and contractor .
 	- 合同规定了雇主与承包人分担的风险。
 - The apportionment of seats in the House of Representatives is based on the population of each state .

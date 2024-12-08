@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈɡretfl/； 美：/rɪˈɡretfl/
 - #词性/adj  遗憾的；后悔的；失望的；令人惋惜的
-# 例句
+##### 例句
 - Reminding of what he had said to sun xiu , he regretful and signed to the sky .
 	- 他仰天长叹了一口气，很有点后悔的意思。
 - Had they bought the house , they would have felt regretful .

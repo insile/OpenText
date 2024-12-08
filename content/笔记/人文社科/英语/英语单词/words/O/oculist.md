@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɒkjəlɪst/； 美：/ˈɑːkjəlɪst/
 - #词性/n  眼科医生
-# 例句
+##### 例句
 - I wonder if the oculist could fit me in next Friday .
 	- 不知眼科医生能否在下星期五给我安排一个时间。
 - When I was about six years old , my father heard of an eminent oculist in Baltimore , who had been successful in many cases that had seemed hopeless .

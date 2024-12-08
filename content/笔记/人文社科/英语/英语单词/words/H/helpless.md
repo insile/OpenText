@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhelpləs/； 美：/ˈhelpləs/
 - #词性/adj  无助的；不能自立的；无自理能力的；无法抑制的
-# 例句
+##### 例句
 - They are not merely helpless victims .
 	- 他们并非无助的受害者。
 - Among them is the father of a prematurely born daughter who reported that during the baby 's five weeks in the intensive care unit , " learning how to knit infant hats gave me a sense of purpose during a time that I felt very helpless . "

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɡəˈlæktɪk/； 美：/ɡəˈlæktɪk/
 - #词性/adj  银河的；星系的
-# 例句
+##### 例句
 - That means that the FAA could suspend Virgin Galactic 's licence to fly .
 	- 这意味着联邦航空局可能会吊销维珍银河的飞行执照。
 - After being dogged by technical delays for years , Sir Richard Branson , Virgin Galactic 's founder , had recently suggested that a SpaceShipTwo craft would carry its first paying customers as soon as February 2015 .

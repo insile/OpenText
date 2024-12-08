@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈneptɪtjuːd/； 美：/ɪˈneptɪtuːd/
 - #词性/n  无能；笨拙；缺乏技巧
-# 例句
+##### 例句
 - Here , I would argue , simple ineptitude seems to be a bigger problem than disinclination to co-operate .
 	- 依我见，在这个问题上，相比不愿合作的态度，纯粹的无能似乎是更严重的问题。
 - If you don 't have the power to help them improve or to fire them , then you have nothing to gain by broadcasting their ineptitude .

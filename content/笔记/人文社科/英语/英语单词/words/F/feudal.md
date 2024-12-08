@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfjuːdl/； 美：/ˈfjuːdl/
 - #词性/adj  封建(制度)的
-# 例句
+##### 例句
 - As the parson has ever gone hand in hand with the landlord , so has Clerical Socialism with Feudal Socialism .
 	- 正如牧师与地主密切相关一样，牧师的社会主义也与封建的社会主义密切相关。
 - Our policy is to rely on the poor peasants and unite solidly with the middle peasants to abolish the feudal and semi-feudal system of exploitation by the landlord class and by the old-type rich peasants .

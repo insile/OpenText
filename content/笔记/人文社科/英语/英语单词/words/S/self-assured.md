@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌself əˈʃʊəd/； 美：/ˌself əˈʃʊrd/
 - #词性/adj  自信的；胸有成竹的
-# 例句
+##### 例句
 - Self-assured girls pick their mates with cruel distinction : usually favouring those strong , able and aggressive .
 	- 自信的女人们残酷地设定着挑选的标准，她们通常挑那些强健的、有能力而有抱负的男人。
 - Jon was a dynamic , self-assured man who was also very welcoming .

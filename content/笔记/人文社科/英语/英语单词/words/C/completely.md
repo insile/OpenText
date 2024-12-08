@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəmˈpliːtli/； 美：/kəmˈpliːtli/
 - #词性/adv  完全地；完整地；彻底地
-# 例句
+##### 例句
 - The enemy 's defence line collapsed completely .
 	- 敌人的防线彻底地崩溃了。
 - They help put out the fire completely .

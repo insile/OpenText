@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɒfntaɪmz/； 美：/ˈɔːfntaɪmz/
 - #词性/adv  常常
-# 例句
+##### 例句
 - Oftentimes , these fossils are not made available to science at all
 	- 科学界常常压根接触不到这些化石。
 - It was oftentimes difficult to discuss certain issues while he was in the room .

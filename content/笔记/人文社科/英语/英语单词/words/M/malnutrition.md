@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmælnjuˈtrɪʃn/； 美：/ˌmælnuˈtrɪʃn/
 - #词性/n  营养不良
-# 例句
+##### 例句
 - Malnutrition obviously weakens the patient .
 	- 营养不良明显导致病人身体虚弱。
 - Forty per cent of the population is suffering from malnutrition

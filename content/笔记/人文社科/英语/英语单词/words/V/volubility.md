@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  口若悬河；流利
-# 例句
+##### 例句
 - She spoke with a volubility I never suspected she had in her .
 	- 她说起话来那样滔滔不绝，是我从来未怀疑过的。
 - George rattled on with a volubility which surprised himself .

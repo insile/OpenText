@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈdʒʊəriəs/； 美：/ɪnˈdʒʊriəs/
 - #词性/adj  造成伤害的；有害的
-# 例句
+##### 例句
 - Extremely poisonous or injurious ; producing venom .
 	- 剧毒的或十分有害的；产生毒的。
 - Food safety risk assessment refers to estimating the probability of having adverse effects for human body , which are caused by some injurious factors contained in food , and the effects .

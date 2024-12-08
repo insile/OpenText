@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  虚荣的；极度的虚荣心，夸耀
-# 例句
+##### 例句
 - At that moment , all my vainglory and proud were gone .
 	- 那一刻，我所有的自负和骄傲瞬间化为泡影。
 - He said some businessmen detest his vainglory ; others brush it aside .

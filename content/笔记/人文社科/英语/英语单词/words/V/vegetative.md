@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvedʒɪtətɪv/； 美：/ˈvedʒɪteɪtɪv/
 - #词性/adj  植物的；植物性的；植物人状态的
-# 例句
+##### 例句
 - The terminal bud continues vegetative activity during most of the growing season .
 	- 在大部分生长季节，这种茎的顶芽继续植物的生长。
 - Soya protein amino acid composition and milk protein close , besides methionine slightly low , other essential amino acids content are richer , is the vegetative complete protein , in the nutritional value , may equate with the animal protein .

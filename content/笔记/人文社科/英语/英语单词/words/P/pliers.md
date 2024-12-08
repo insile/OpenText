@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈplaɪəz/； 美：/ˈplaɪərz/
 - #词性/n  钳子；夹钳
-# 例句
+##### 例句
 - This pair of pliers is really handy .
 	- 这把钳子使着真灵便。
 - One set of pliers will not do the trick either .

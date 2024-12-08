@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtɒksɪn/； 美：/ˈtɑːksɪn/
 - #词性/n  警钟；警戒信号
-# 例句
+##### 例句
 - The tocsin rang impatiently , but other help there was none .
 	- 警钟紧急地敲着，却没有别的救援出现。
 - In recent years there were a series of auditing cases , which sounded the tocsin for the auditor of our country .

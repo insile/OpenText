@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  艺术地；艺术地，在艺术上；美术地
-# 例句
+##### 例句
 - Efficiently and artistically strengthening teaching is helpful to the better complement of teaching-learning process .
 	- 有效、艺术地运用教学强化，有利于教学过程的更好完成。
 - The film reproduced artistically the true history . Historical changes have taken place in the pattern of population reproduction .

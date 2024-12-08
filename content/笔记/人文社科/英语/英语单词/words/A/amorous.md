@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈæmərəs/； 美：/ˈæmərəs/
 - #词性/adj  含情脉脉的；表示性爱的
-# 例句
+##### 例句
 - Mary rejected Tony 's amorous advances .
 	- 玛丽拒绝了托尼的挑逗。
 - A man who for months had been dropping amorous hints about a long-term relationship upped and disappeared to America

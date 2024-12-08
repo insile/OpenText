@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  峡谷；深谷
-# 例句
+##### 例句
 - I is it accompany you no matter alpine barranca , overgrown with brambles to really want ;
 	- 我好想陪伴你无论是高山峡谷，荆棘丛生；
 - There a painting shows soldiers crossing above the Barranca River in 1860 using ropes and pulleys during a pitched battle .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɔːθenˈtɪsəti/； 美：/ˌɔːθenˈtɪsəti/
 - #词性/n  真实性；确实性
-# 例句
+##### 例句
 - The entire production evinces authenticity and a real respect for the subject matter
 	- 整部作品表现出真实性以及对主题的真正尊重。
 - There has been some debate over the authenticity of his will .

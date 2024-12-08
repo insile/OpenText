@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/aɪˈrɒnɪk/； 美：/aɪˈrɑːnɪk/
 - #词性/adj  讽刺的；(因出乎意料而)奇怪的，好笑的；反语的
-# 例句
+##### 例句
 - Most scholars have been painstakingly exploring the hidden secrets behind this kind of process . Although lots of researchers have made great ironic research , they rarely made detailed analysis on the trigger mechanism of irony .
 	- 这背后隐藏着的秘密一直是众多学者所竭力探索的。虽然很多研究者已对反语的理解做了大量研究，但是很少对反语的触发机制作出细致研究。
 - Through this study , it can be proved that the conceptual blending theory can completely explain the internal cognitive work in ironic understanding and provide an alternative perspective for the ironic study .

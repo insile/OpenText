@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  容易倾斜的；不安定的
-# 例句
+##### 例句
 - Best of all , I realized that Tippy left behind all of my good memories of him .
 	- 最欣慰的是，我理解到蒂皮给我留下了所有美好回忆。
 - For cradle cap use in conjunction with Tippy Toes Calming Baby Oil .

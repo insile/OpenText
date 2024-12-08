@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/sælˈveɪʃn/； 美：/sælˈveɪʃn/
 - #词性/n  拯救；救恩；救世；得救；(危险、灾难、损失等的)避免方式，解救途径
-# 例句
+##### 例句
 - The church 's message of salvation has changed the lives of many .
 	- 基督教中耶稣拯救灵魂的教义改变了很多人的生活。
 - The country 's salvation lies in forcing through democratic reforms

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdɪsˌɪnklɪˈneɪʃn/； 美：/ˌdɪsˌɪnklɪˈneɪʃn/
 - #词性/n  不情愿；无意于；不乐意
-# 例句
+##### 例句
 - They are showing a marked disinclination to pursue these opportunities .
 	- 他们对争取这些机会明显表现出不乐意。
 - There was a general disinclination to return to the office after lunch .

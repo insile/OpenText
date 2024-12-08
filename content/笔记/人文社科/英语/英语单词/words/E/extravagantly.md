@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  奢侈地；挥霍无度地
-# 例句
+##### 例句
 - Recite volubly or extravagantly .
 	- 口若悬河地或挥霍无度地背诵。
 - The Monroes continued to entertain extravagantly .

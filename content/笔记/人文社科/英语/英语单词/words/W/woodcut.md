@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwʊdkʌt/； 美：/ˈwʊdkʌt/
 - #词性/n  木刻；木版画
-# 例句
+##### 例句
 - The woodcut autumn was conceived as a harvest scene .
 	- 木刻《秋》是作为丰收的景象来构思的。
 - Hakka people once played a positive role in the woodcut movement .

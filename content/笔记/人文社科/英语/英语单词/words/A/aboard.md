@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈbɔːd/； 美：/əˈbɔːrd/
 - #词性/adv #词性/prep  在(船、飞机、公共汽车、火车等)上；上(船、飞机、公共汽车、火车等)；在船上
-# 例句
+##### 例句
 - They were all aboard the ship last night .
 	- 昨天夜里他们都在船上。
 - The data are normally measured aboard by transmitting them via an electric cable .

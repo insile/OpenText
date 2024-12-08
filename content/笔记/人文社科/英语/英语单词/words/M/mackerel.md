@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmækrəl/； 美：/ˈmækrəl/
 - #词性/n  鲭(鱼)
-# 例句
+##### 例句
 - They 'd gone out to fish for mackerel .
 	- 他们已经出海去捕鲭鱼。
 - Boats had plenty of mackerel and a few skate .

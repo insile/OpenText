@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈpɔːtɪdli/； 美：/rɪˈpɔːrtɪdli/
 - #词性/adv  据报道；据说；据传闻
-# 例句
+##### 例句
 - The band have reportedly decided to split up .
 	- 据说这个乐队已经决定解散。
 - More than two hundred people have reportedly been killed in the past week 's fighting

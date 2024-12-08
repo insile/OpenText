@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpiːstaɪm/； 美：/ˈpiːstaɪm/
 - #词性/n  和平时期
-# 例句
+##### 例句
 - The British could afford to reduce defence spending in peacetime without excessive risk
 	- 英国可以在和平时期减少国防开支，而不会引来太大风险。
 - We evaded the Soviet proposal of banning nuclear weapons in war and substituted for it a clause abjuring the threat of force in peacetime .

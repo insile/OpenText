@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dʒəˈkəʊs/； 美：/dʒəˈkoʊs/
 - #词性/adj  诙谐的；滑稽的；幽默的
-# 例句
+##### 例句
 - His jocose manner was unsuitable for such a solemn occasion .
 	- 他滑稽的举止不适合这个严肃的场合。
 - He is such a jocose actor .

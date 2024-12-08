@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  报道的；记者的
-# 例句
+##### 例句
 - Proposal on word count of reportorial abstract Q & A on Sex
 	- 关于报道性摘要字数的建议
 - The abstract of science and technology thesis is usually reportorial , which needs reflect purposes , methods , important results and conclusions .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈænəmi/； 美：/ˈænəmi/
 - #词性/n  失范，无规范状态(社会准则或价值观的崩溃)
-# 例句
+##### 例句
 - Social anomie in the social structure field of vision
 	- 社会结构视域中的社会失范&一种系统自组织理论方法的分析
 - A Study on Moral Anomie in Food Safety Report and the Countermeasures

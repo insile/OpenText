@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  纤毛虫
 - #词性/adj  有睫毛的，有纤毛的
-# 例句
+##### 例句
 - Ciliate rRNA Molecular Phylogeny Based on a New Type of Immune Genetic Algorithm
 	- 一种新型免疫遗传算法对纤毛虫rRNA系统发育分析
 - Genetic relationships of five ciliate strains inferred from ISSR analysis

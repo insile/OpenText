@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪtɑːdənt/； 美：/rɪtɑːrdənt/
 - #词性/n  阻燃剂；阻滞剂；抑制剂；阻化剂；缓速剂
 - #词性/adj  延缓的
-# 例句
+##### 例句
 - METHODS : OHS was prepared with PEG 6000 , PEG 400 and Carbopol-940 as wase material and wax as retardant .
 	- 方法：以PEG6000、PEG400、卡波姆为基质，蜂蜡为阻滞剂，制成中空栓。
 - Development trend and production situation of fire retardant in China

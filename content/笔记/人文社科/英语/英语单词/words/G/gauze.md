@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɡɔːz/； 美：/ɡɔːz/
 - #词性/n  纱布(包扎伤口用)；(金属丝制的)网纱，网；薄纱，纱罗(通常由棉或丝织成)
-# 例句
+##### 例句
 - Awake , the body gradually exuviate go a layer of gauze .
 	- 醒时，身体逐渐蜕去一层薄纱。
 - A coarse loosely-woven cotton gauze ; originally used to wrap cheeses .

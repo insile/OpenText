@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əʊˈtɜː(r)/； 美：/hɔːˈtɜːr/
 - #词性/n  傲慢；高傲自大
-# 例句
+##### 例句
 - Once , she had been put off by his hauteur .
 	- 她曾经对他的傲慢很反感。
 - She is of the generation and hauteur that would think all mail order items are a bit squalid .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmetəˈbɒlɪk/； 美：/ˌmetəˈbɑːlɪk/
 - #词性/adj  代谢的；新陈代谢的
-# 例句
+##### 例句
 - Your metabolic rate is the speed at which your body transforms food into energy
 	- 新陈代谢率是身体把食物转换为能量的速度。
 - Regular exercise can increase your basal metabolic rate

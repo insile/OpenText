@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  （头脑中的印象）异常清晰的；极为逼真的
-# 例句
+##### 例句
 - Computer Simulation is an eidetic imitation by computer for physical process , system structure and social economy development .
 	- 计算机仿真是利用电子计算机对物理过程、系统结构以至社会经济发展等过程进行比较逼真的模仿。
 - Preferably one with an eidetic memory and extensive experience with Death Eater procedures .

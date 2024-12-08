@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dʒəˈnetɪk/； 美：/dʒəˈnetɪk/
 - #词性/adj  遗传的；基因的；遗传学的
-# 例句
+##### 例句
 - As a result , scientists think that some shyness is genetic .
 	- 因此,科学家认为有些害羞是遗传的。
 - Genetic or computationally inferred interactions are not included in the database .

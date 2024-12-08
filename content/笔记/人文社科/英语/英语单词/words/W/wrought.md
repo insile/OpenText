@@ -6,12 +6,12 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɔːt/； 美：/rɔːt/
 - #词性/vt  使发生了，造成了(尤指变化)
 - #词性/adj  制造的；装饰的；精制的；精炼的
 - #词性/v  造成了（尤指变化）
-# 例句
+##### 例句
 - The storm wrought havoc in the south .
 	- 这场暴风雨在南方造成了巨大的灾害。
 - What a change the credit crunch has wrought .

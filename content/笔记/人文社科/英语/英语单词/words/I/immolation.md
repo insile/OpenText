@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪməʊˈleɪʃən/； 美：/ˈɪməˌleɪʃən/
 - #词性/n  献祭
-# 例句
+##### 例句
 - The Emperor had these clay figures made instead of burying slave-workers alive as immolation .
 	- 秦始皇用泥塑造了这批俑，没有活埋奴隶作为殉葬。
 - That was now done , and she had not the power to attempt self - immolation a second time then .

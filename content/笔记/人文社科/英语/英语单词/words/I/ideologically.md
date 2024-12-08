@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  思想上；意识形态上
-# 例句
+##### 例句
 - He has slipped back ideologically .
 	- 他思想退步了。
 - [ 谚 ] If you want to work with iron , you must be tough yourself -- one must be ideologically sound and professionally competent to do arduous work .

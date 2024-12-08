@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmæŋɡəniːz/； 美：/ˈmæŋɡəniːz/
 - #词性/n  锰
-# 例句
+##### 例句
 - Blueberries are particularly high in fiber , vitamin C , vitamin K and manganese .
 	- Blueberries蓝莓蓝莓中纤维、维C、维生素K和锰的含量特别高。
 - Their vitamin C , manganese , folate and potassium contents are where they really shine .

@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  严厉地；刺耳地；粗糙地
-# 例句
+##### 例句
 - She was treated very harshly .
 	- 她受到了苛刻的对待。
 - Alec laughed harshly .

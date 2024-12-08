@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  摸索着；暗中摸索地
-# 例句
+##### 例句
 - He put his hand out gropingly , touched hers .
 	- 他伸出手摸索着，碰到了她的手。
 - Soul seeks soul , gropingly , and finds it .

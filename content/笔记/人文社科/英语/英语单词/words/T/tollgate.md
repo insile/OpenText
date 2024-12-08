@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  收费站；关卡；收费口
-# 例句
+##### 例句
 - Go to the tollgate and see !
 	- 去收费站自己看看吧！
 - Who 's at the tollgate today ?

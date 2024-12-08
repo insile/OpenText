@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈrɪvəˈbɛd/； 美：/ˈrɪvərˌbɛd/
 - #词性/n  河床
-# 例句
+##### 例句
 - The riverbed was strewn with big boulders .
 	- 河床上散布着很多大圆石。
 - River section analysis is the foundation of riverbed evolution analysis .

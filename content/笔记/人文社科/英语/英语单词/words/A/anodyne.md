@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈænədaɪn/； 美：/ˈænədaɪn/
 - #词性/adj  温和的；不得罪人的
 - #词性/n  止痛药[剂]
-# 例句
+##### 例句
 - Their quarterly meetings were anodyne affairs .
 	- 他们的季度会议乏善可陈。
 - Friendship is not only the condiment but also the anodyne of life .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈzɒstə(r)/； 美：/ˈzɑːstər/
 - #词性/n  带状疱疹
-# 例句
+##### 例句
 - Clinical Observation of the Effect on the Treatment of Herpes Zoster with Ionic Atmosphere and Capping and Medicine
 	- 离子喷雾拔火罐等综合治疗带状疱疹疗效观察
 - Observation on Clinical Efficacy of Valaciclovir Hydrochloride Combined with Compound Glycyrrhizin for the Therapy of Herpes Zoster

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  暂时性；短暂；短暂的
-# 例句
+##### 例句
 - What I believe , what I value most , is transitoriness .
 	- 短暂是我的信仰，也是我认为最重要的东西。
 - Without transitoriness , without beginning or end , birth or death , there is no time , either .

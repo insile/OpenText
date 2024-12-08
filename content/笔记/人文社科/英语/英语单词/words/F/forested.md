@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɒrɪstɪd/； 美：/ˈfɔːrɪstɪd/
 - #词性/adj  林木覆盖的；满是森林的
-# 例句
+##### 例句
 - The road snaked through forested mountains , past the village of San Antonio .
 	- 这条路在林木覆盖的山上蜿蜒前行，经过圣安东尼奥村。
 - The province is heavily forested and sparsely populated .

@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈlɪptɪkl/； 美：/ɪˈlɪptɪkl/
 - #词性/adj  椭圆的；椭圆形；省略的；隐晦的
-# 例句
+##### 例句
 - The stadium is elliptical in plan .
 	- 在设计图上，体育场呈椭圆形。
 - Yet there is also some elliptical motion to this general trend .

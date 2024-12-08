@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌretrɪˈbjuːʃn/； 美：/ˌretrɪˈbjuːʃn/
 - #词性/n  惩罚；报应；报答，回报；严惩
-# 例句
+##### 例句
 - People are seeking retribution for the latest terrorist outrages .
 	- 人们在设法对恐怖分子最近的暴行进行严惩。
 - Neither deterrence of future crimes nor retribution demand that every white collar fraudster with a yacht and a share in a private jet gets a spectacular punishment a harsh one is sufficient .

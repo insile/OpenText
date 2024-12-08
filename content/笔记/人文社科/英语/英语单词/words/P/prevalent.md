@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈprevələnt/； 美：/ˈprevələnt/
 - #词性/adj  流行的；盛行的；普遍存在的
-# 例句
+##### 例句
 - Web Information System with workflow is a prevalent mode of system application .
 	- 包含工作流的Web信息系统是目前较为流行的一种系统应用模式。
 - Relational data model and object-oriented data model are prevalent now .

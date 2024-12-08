@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmæθəˈmætɪks/； 美：/ˌmæθəˈmætɪks/
 - #词性/n  数学；计算；运算
-# 例句
+##### 例句
 - He can 't grasp the basic concepts of mathematics .
 	- 他无法掌握数学的基本概念。
 - Mathematics was never my strong point .

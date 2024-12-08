@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌreɪdiəʊˈmetrɪk/； 美：/ˌreɪdioʊˈmetrɪk/
 - #词性/adj  辐射度测量的
-# 例句
+##### 例句
 - Data processing optimization system for hydrocarbon reservoir exploration using radiometric method
 	- 放射性方法勘查油气藏的数据处理优化系统
 - A study of the difference between true surface temperature and radiometric surface temperature

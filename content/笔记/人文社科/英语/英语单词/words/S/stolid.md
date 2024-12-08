@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈstɒlɪd/； 美：/ˈstɑːlɪd/
 - #词性/adj  无动于衷的；淡漠的；不动感情的；呆板的；不关心的
-# 例句
+##### 例句
 - He conceals his feelings behind a rather stolid manner .
 	- 他装作无动于衷的样子以掩盖自己的感情。
 - He glanced furtively at the stolid faces of the two detectives .

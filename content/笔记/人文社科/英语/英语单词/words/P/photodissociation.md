@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  光解离；光致离解；光解作用
-# 例句
+##### 例句
 - Time delay control of Na + 2 photodissociation by two intense femtosecond
 	- 二个强飞秒延时激光脉冲对Na2~+光解离的控制
 - Studies on Photodissociation of Bromine-Containing Compounds Using Ion Velocity Imaging Method

@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  美学上；审美地；美学观点上地
-# 例句
+##### 例句
 - Segmental construction contributes toward aesthetically pleasing structures in many different sites .
 	- 对于许多不同的现场条件，分段施工都能提供美观，颇有魄力的桥型结构。
 - All isolation techniques may be aesthetically unacceptable or even dirty .

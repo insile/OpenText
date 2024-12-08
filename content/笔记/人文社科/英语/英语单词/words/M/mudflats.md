@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  泥滩(涨潮时才被海水淹没的海边平坦空地)
-# 例句
+##### 例句
 - The mudflats offer a winter home to thousands of migrating swans .
 	- 泥滩成为成千上万只迁徙的天鹅越冬的场所。
 - The other part of the festival is pitching beauty and skincare products made with mud from the nearby mudflats .

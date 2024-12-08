@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈveəriəbli/； 美：/ɪnˈveriəbli/
 - #词性/adv  一成不变；始终如一地；一贯地
-# 例句
+##### 例句
 - This acute infection of the brain is almost invariably fatal .
 	- 这种急性大脑传染病几乎总是导致死亡。
 - This is not invariably the case .

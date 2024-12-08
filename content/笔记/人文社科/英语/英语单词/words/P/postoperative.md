@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpəʊst ˈɒpərətɪv/； 美：/ˌpoʊst ˈɑːpərətɪv/
 - #词性/adj  术后；手术后的
-# 例句
+##### 例句
 - Postoperative cognitive dysfunction in patients undergoing cardiac surgery
 	- 心脏手术后的认知功能障碍
 - Postoperative oxygen saturation and pulse rate were similar in the two groups .

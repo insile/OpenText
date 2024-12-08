@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhɪəseɪ/； 美：/ˈhɪrseɪ/
 - #词性/n  传闻；道听途说
 - #词性/adj  风闻的
-# 例句
+##### 例句
 - Much of what was reported to them was hearsay
 	- 向他们汇报的消息中很多都是道听途说。
 - Certainly , no all-round knowledge can be acquired merely by glancing this way and that and relying on hearsay .

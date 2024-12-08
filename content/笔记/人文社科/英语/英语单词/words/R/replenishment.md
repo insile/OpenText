@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈplenɪʃmənt/； 美：/rɪˈplenɪʃmənt/
 - #词性/n  补充;充满
-# 例句
+##### 例句
 - There is a concern about replenishment of the population .
 	- 有人担心人口的补充问题。
 - Since the wartime population needed replenishment , pregnancies were a good sign .

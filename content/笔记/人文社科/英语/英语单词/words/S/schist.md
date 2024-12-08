@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʃɪst/； 美：/ʃɪst/
 - #词性/n  片岩
-# 例句
+##### 例句
 - The shortage of bearing capacity is often encountered in pile foundation construction in complex schist area .
 	- 复杂片岩地区的桩基工程常出现桩基承载力不足的问题。
 - Mechanics property experiment of the green schist

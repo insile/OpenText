@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdʒerɪˈmaɪæd/； 美：/ˌdʒerɪˈmaɪæd/
 - #词性/n  哀诉；诉求清单
-# 例句
+##### 例句
 - Throughout literary history , many people have written works which have added to the tradition of the American jeremiad .
 	- 在整个文学史上，很多人的作品都为传统美国悲叹文学添砖加瓦。
 - Jeremiad wreathes upon my feeling , while shadow of shiver covers my mood .

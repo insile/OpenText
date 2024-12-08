@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prəˈnaʊnsəbl/； 美：/prəˈnaʊnsəbl/
 - #词性/adj  发音的；读得出的
-# 例句
+##### 例句
 - Design on the pronunciation device of pronounceable electronic balance
 	- 语音电子秤之语音发生装置的设计
 - We wonder if there is a way to generate random but pronounceable passwords .

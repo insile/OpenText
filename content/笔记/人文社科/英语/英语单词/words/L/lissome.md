@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  敏捷的；柔软的；柔软
-# 例句
+##### 例句
 - His works often present a smart and lissome feeling .
 	- 他的作品通常给人以灵动而轻盈的观感。
 - The lissome birchbark canoe seemed to be a fish , so easily did it cut through the rolling black waves and ranks of ice .

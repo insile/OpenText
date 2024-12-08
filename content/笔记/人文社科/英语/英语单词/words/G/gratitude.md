@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡrætɪtjuːd/； 美：/ˈɡrætɪtuːd/
 - #词性/n  感谢；感激
-# 例句
+##### 例句
 - She was presented with the gift in gratitude for her long service .
 	- 这礼物赠送给她以表达对她长期服务的感激之情。
 - I owe a debt of gratitude to all my family .

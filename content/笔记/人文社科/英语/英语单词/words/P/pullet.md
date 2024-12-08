@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpʊlɪt/； 美：/ˈpʊlɪt/
 - #词性/n  (尤指不足一年的)小母鸡
-# 例句
+##### 例句
 - New concepts in nutritional management of the pullet Breast Carcinoma in Young People
 	- 青年母鸡营养安排的新概念
 - The standard curve of shank length for Beijing white commercial pullet

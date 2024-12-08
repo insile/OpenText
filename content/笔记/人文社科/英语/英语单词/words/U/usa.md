@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌjuː es ˈeɪ/； 美：/ˌjuː es ˈeɪ/
 - #词性/abbr  美国；美利坚合众国
-# 例句
+##### 例句
 - Do you need a visa for the USA ?
 	- 你需要美国签证吗？
 - That 's a general British failing . In the USA it 's quite different

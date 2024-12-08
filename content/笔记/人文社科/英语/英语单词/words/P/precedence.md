@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpresɪdəns/； 美：/ˈpresɪdəns/
 - #词性/n  优先；优先权
-# 例句
+##### 例句
 - Research on Global or Local Precedence Effect in Chinese Character Recognition
 	- 汉字视知觉的整体或局部优先效应的实验研究
 - Development Mechanism of Coal Environment Industrial and Its Precedence domain

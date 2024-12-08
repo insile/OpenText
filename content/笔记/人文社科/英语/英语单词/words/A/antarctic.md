@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ænˈtɑːktɪk/； 美：/ænˈtɑːrktɪk/
 - #词性/adj  南极的；南极地带的
 - #词性/n  南极地区
-# 例句
+##### 例句
 - to get here in time for the Antarctic summer .
 	- 以赶上南极的夏天
 - The ecological study in the Antarctic sea ice zone

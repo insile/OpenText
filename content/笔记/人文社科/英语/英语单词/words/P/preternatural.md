@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpriːtəˈnætʃrəl/； 美：/ˌpriːtərˈnætʃrəl/
 - #词性/adj  超自然的；不寻常的；难以解释的
-# 例句
+##### 例句
 - In Pearl 's young beauty , as in the wrinkled witch , it has a preternatural effect .
 	- 在年幼、美丽的珠儿身上，和那满脸皱纹的老妖婆一样，准有一种超自然的力量。
 - " He clearly has inherited her preternatural gift for empathy ," he says . " Wills is more his mother 's son than his father 's , and that would please her , of course . "

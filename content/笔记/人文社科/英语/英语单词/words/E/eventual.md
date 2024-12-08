@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈventʃuəl/； 美：/ɪˈventʃuəl/
 - #词性/adj  最终的；最后的；结果的
-# 例句
+##### 例句
 - Other control measurements are normally made across the joints or at the base of the principal cantilever to determine the eventual separation movements .
 	- 通常沿着各条接缝或主悬臂梁的基底作其它控制测量，以确定最后的分离运动。
 - They are still preparing for an eventual attack , said Ryan Olson , the director of threat intelligence at Palo Alto Networks .

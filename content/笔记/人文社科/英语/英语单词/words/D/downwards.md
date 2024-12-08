@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdaʊnwədz/； 美：/ˈdaʊnwərdz/
 - #词性/adv  向下
-# 例句
+##### 例句
 - Discussion on Application of Mixing Type Vertical Downwards Welding Technology
 	- 浅谈混合型立向下焊焊接工艺的应用
 - Pull the control unit to the right and downwards .

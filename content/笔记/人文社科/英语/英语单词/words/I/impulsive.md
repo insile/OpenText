@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈpʌlsɪv/； 美：/ɪmˈpʌlsɪv/
 - #词性/adj  易冲动的；凭冲动行事的
-# 例句
+##### 例句
 - He has an impulsive nature .
 	- 他生性冲动。
 - You 're so impulsive !

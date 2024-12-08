@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhɛndəsən/； 美：/ˈhɛndərsən/
 - #词性/n  亨德森（姓氏）；汉德森；恒基兆业；韩德森
-# 例句
+##### 例句
 - Henderson recalled that he first met Pollard during a business trip to Washington
 	- 亨德森记起他第一次见到波拉德是在一次去华盛顿出差的时候。
 - Henderson was momentarily jolted by the news .

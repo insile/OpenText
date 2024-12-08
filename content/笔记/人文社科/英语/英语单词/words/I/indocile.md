@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  不听话的；不顺从的；难教的；难顺服的；难驯服的
-# 例句
+##### 例句
 - The student of average middle school is really indocile !
 	- 普通中学的学生真难教啊！
 - It was an indocile , a scornful and a sarcastic face-the face of a man difficult to lead and impossible to drive .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  遮蔽
 - #词性/n  遮蔽
-# 例句
+##### 例句
 - Research on Terrain Defilade Algorithm for Early Warning System to Low Altitude Target Detecting
 	- 预警系统对低空目标探测的地形遮蔽算法研究
 - A colour cooperate method for improving defilade property of fine silk fabric

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈsʌŋ/； 美：/ˌʌnˈsʌŋ/
 - #词性/adj  被埋没的；未被颂扬的
-# 例句
+##### 例句
 - The whole article is devoted to the goalkeeper , that unsung hero of the football pitch .
 	- 整篇文章的笔墨都集中于守门员，那位未被颂扬的足球场。
 - They are among the unsung heroes of our time

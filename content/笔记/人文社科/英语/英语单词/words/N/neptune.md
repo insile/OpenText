@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈneptjuːn/； 美：/ˈneptjuːn/
 - #词性/n  海王星
-# 例句
+##### 例句
 - Neptune is the furthest planet from the sun .
 	- 海王星是离太阳最远的行星。
 - Neptune turned out to be a dynamic , stormy world .

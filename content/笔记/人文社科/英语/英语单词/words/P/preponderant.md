@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prɪˈpɒndərənt/； 美：/prɪˈpɑːndərənt/
 - #词性/adj  主要的；占优势的；主导的；占多数的
-# 例句
+##### 例句
 - This is still a possible outcome but no longer the preponderant probability .
 	- 这仍是一个可能的结果，但不再具有占优势的可能性。
 - Discussion on output control problem of Chinese preponderant strategic mineral resources

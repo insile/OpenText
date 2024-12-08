@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmerəˈtrɪʃəs/； 美：/ˌmerəˈtrɪʃəs/
 - #词性/adj  华而不实的；虚有其表的；金玉其外的
-# 例句
+##### 例句
 - Her room was painted in meretricious technicolour .
 	- 她的房间刷着俗艳的颜色。
 - A wooden building painted to look like marble is meretricious .

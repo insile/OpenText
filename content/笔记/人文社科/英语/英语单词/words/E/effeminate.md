@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈfemɪnət/； 美：/ɪˈfemɪnət/
 - #词性/adj  女人气的
-# 例句
+##### 例句
 - His voice was curiously high-pitched , reedy , almost effeminate .
 	- 他的嗓音出奇地高，尖声尖气，有些娘娘腔。
 - Wen tingyun 's Ci poems are effeminate , redolent with the fragrance of women .

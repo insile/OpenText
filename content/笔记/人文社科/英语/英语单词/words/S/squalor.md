@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈskwɒlə(r)/； 美：/ˈskwɑːlər/
 - #词性/n  肮脏；邋遢；脏乱环境
-# 例句
+##### 例句
 - Squalor and poverty lay behind the city 's glittering fa ç ade .
 	- 表面的繁华掩盖了这座城市的肮脏和贫穷。
 - It tells the story of an aspiring young man 's attempt to rise above the squalor of the street .

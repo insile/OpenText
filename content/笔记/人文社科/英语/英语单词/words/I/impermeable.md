@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈpɜːmiəbl/； 美：/ɪmˈpɜːrmiəbl/
 - #词性/adj  不可渗透的；不透水的；不透气的
-# 例句
+##### 例句
 - It is observed that the crack impermeable model can be used under some condition .
 	- 结果表明，裂缝不可渗透的边界模型在一定条件下可以合理使用。
 - However , all boundaries for moisture flow are considered to be impermeable .

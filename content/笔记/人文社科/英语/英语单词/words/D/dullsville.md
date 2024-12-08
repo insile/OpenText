@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdʌlzvɪl/； 美：/ˈdʌlzvɪl/
 - #词性/n  沉闷乏味的地方(或状况)
-# 例句
+##### 例句
 - There are times I wish it WAS dullsville at work .
 	- 你上班的时候打瞌睡吗？Isyourworkdullsville？
 - LL : So , when I said the movie was " dullsville ," I was suggesting the movie was so boring , it was like living in the town of dull .

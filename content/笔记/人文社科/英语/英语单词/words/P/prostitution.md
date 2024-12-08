@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌprɒstɪˈtjuːʃn/； 美：/ˌprɑːstɪˈtuːʃn/
 - #词性/n  卖淫；当男妓；为娼；才能的滥用(或糟蹋)
-# 例句
+##### 例句
 - Her article lifts the lid on child prostitution .
 	- 她的文章揭露了儿童卖淫的丑闻。
 - Many women were forced into prostitution .

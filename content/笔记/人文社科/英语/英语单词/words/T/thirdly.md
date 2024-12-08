@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈθɜːdli/； 美：/ˈθɜːrdli/
 - #词性/adv  (用于讲话或文章中列举事项)第三，第三点
-# 例句
+##### 例句
 - Thirdly , the metaphoric language means the counteraction of moralism .
 	- 第三，这种比喻性语言意味着对道德丰义的反拨。
 - Thirdly , the design and establishment of the management system are introduced .

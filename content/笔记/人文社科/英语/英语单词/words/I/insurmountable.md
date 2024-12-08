@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnsəˈmaʊntəbl/； 美：/ˌɪnsərˈmaʊntəbl/
 - #词性/adj  不可逾越的；无法克服的；难以解决的
-# 例句
+##### 例句
 - First , there 's the almost insurmountable issue of language .
 	- 首先语言本身存在大量无法克服的问题。
 - These problems , however , are not insurmountable for determined politicians .

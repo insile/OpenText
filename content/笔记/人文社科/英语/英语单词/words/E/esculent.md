@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  适于食用的，可食的
 - #词性/n  食用品，可食用物
-# 例句
+##### 例句
 - Rapid extraction method of esculent DNA from green tea using PEF
 	- 茶叶可食性DNA的PEF快速提取方法
 - The percentage of esculent part of fruit is low .

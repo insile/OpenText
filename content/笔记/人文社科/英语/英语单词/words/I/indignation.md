@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪndɪɡˈneɪʃn/； 美：/ˌɪndɪɡˈneɪʃn/
 - #词性/n  愤怒；愤慨；义愤
-# 例句
+##### 例句
 - The rejection of this measure aroused the people to indignation .
 	- 对该议案的否决激起人民的愤慨。
 - It caused some protest and indignation .

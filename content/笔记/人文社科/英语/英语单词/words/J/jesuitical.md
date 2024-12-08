@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  耶稣会来的；挥别耶稣会的；虚伪的；阴险的
-# 例句
+##### 例句
 - It was a most philosophic and jesuitical motorman .
 	- 这是个十分善辩且狡猾的司机。
 - The emphasis is once more on jesuitical methods within the organisation .

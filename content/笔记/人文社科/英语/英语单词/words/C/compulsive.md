@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəmˈpʌlsɪv/； 美：/kəmˈpʌlsɪv/
 - #词性/adj  禁不住的；引人入胜的；难控制的；难以制止的；无法控制行为的
-# 例句
+##### 例句
 - The programme made compulsive viewing .
 	- 这节目引人入胜，收看起来欲罢不能。
 - Compulsive gamblers are more to be pitied than condemned .

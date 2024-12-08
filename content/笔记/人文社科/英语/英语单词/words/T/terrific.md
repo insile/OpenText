@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/təˈrɪfɪk/； 美：/təˈrɪfɪk/
 - #词性/adj  了不起的；极好的；巨大的；很大的；绝妙的；异乎寻常的
-# 例句
+##### 例句
 - You 're in terrific shape and feeling better every day !
 	- 你每天是处在极好的状态和更好的感觉中。
 - I found it a terrific way to hold attention .

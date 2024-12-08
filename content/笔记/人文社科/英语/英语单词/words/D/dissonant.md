@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  刺耳的；不谐和的；不调和的
-# 例句
+##### 例句
 - They chose to include all of these dissonant voices together .
 	- 他们把那些不和谐的声音也放在了里面
 - Research on Children 's Dissonant Psychology after Their Moral Transgressions

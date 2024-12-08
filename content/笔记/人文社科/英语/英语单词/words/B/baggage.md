@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbæɡɪdʒ/； 美：/ˈbæɡɪdʒ/
 - #词性/n  行李；(因阅历而形成的)信仰，看法
-# 例句
+##### 例句
 - The insurance policy covers all baggage and personal effects .
 	- 这份保险单为全部行李和个人财产提供保险。
 - She was carrying a lot of emotional baggage .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/bɪs/； 美：/bɪs/
 - #词性/adv  重复
-# 例句
+##### 例句
 - Review of Accounting Model for Integrated A \/ BIS in Enterprise Based on IT
 	- 基于IT的企业A\/BIS一体化会计模型研究述评
 - BIS has attracted more attention in international financial affairs .

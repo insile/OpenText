@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwʊmənhʊd/； 美：/ˈwʊmənhʊd/
 - #词性/n  (统称)妇女；女人味；成年女子的状态
-# 例句
+##### 例句
 - Why do you reduce womanhood to high hills and lipstick colors ?
 	- 为什么口红的颜色会减少女人味？
 - It is symbolic of the fighting spirit of modern womanhood .

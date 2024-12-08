@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈstʌbənnɪs/； 美：/ˈstʌbənnɪs/
 - #词性/n  固执
-# 例句
+##### 例句
 - His refusal to talk was simple stubbornness .
 	- 他拒绝交谈完全是因为固执。
 - He is also known for his stubbornness in love and life in general .

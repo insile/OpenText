@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfensə(r)/； 美：/ˈfensər/
 - #词性/n  击剑运动员
-# 例句
+##### 例句
 - Mental Training of Fencer Prior to Competition
 	- 击剑运动员赛前的心理训练
 - But officials from the Child Protection in Sports Unit reported Blair to police who then questioned promising fencer Gandolfi about the incident .

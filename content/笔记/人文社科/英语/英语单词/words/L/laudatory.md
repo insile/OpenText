@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlɔːdətəri/； 美：/ˈlɔːdətɔːri/
 - #词性/adj  赞美的；称赞的；颂扬的
-# 例句
+##### 例句
 - She was the subject of laudatory articles in several new York magazines .
 	- 她是几家纽约杂志的文章称赞的对象。
 - The New York Times has this very laudatory article about your retirement

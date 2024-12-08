@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  短暂的；转瞬即逝的；易逃逸的；早（先）落的，很快枯萎的
-# 例句
+##### 例句
 - Medical service product has four main characteristics of service product , & intangibility , inseparability , changeability and fugacious ;
 	- 医疗服务产品具有服务产品的四个主要特点，无形性、不可分离性、可变性、易消失性；
 - Some patients appear cry laugh fugacious , depressed wait for a symptom alternately with excitement , call " disease of benzine sex hysteria " .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkrɪstəlaɪn/； 美：/ˈkrɪstəlaɪn/
 - #词性/adj  结晶的；透明的；晶状的；清澈的；晶莹的；水晶制的
-# 例句
+##### 例句
 - Impurities influence greatly crystalline quality and morphology .
 	- 杂质严重影响了结晶的质量和外形；
 - Glass is amorphous , while sugar is crystalline .

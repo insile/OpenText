@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  胚胎学的；胚胎的
-# 例句
+##### 例句
 - Consideration on reform for histological and embryological teaching contents on eight-year program medical students
 	- 对八年制医学生组织胚胎学教学内容改革的思考
 - An Embryological Study of Seed Abortion in a Seedless Litchi Strain

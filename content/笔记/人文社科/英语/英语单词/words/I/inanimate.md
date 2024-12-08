@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈænɪmət/； 美：/ɪnˈænɪmət/
 - #词性/adj  无生命的；死的；像已死的
-# 例句
+##### 例句
 - For instance , when a customer calls a virtual agent stupid , one of the possible responses is : I 'm an inanimate object .
 	- 例如，当一个客户说虚拟代理是傻瓜时，这个虚拟代理可能的回答之一是：我是一个无生命的物体。
 - This rule of silence had had this effect , that throughout the whole convent , speech had been withdrawn from human creatures , and bestowed on inanimate objects .

@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/mi/； 美：/mi/
 - #词性/pron  (I 的宾格)我
 - #词性/n  大调音阶的第3音
-# 例句
+##### 例句
 - Don 't try to put one over on me !
 	- 你甭想蒙我！
 - They couldn 't give me any more information .

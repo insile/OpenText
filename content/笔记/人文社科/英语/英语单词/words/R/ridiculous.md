@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈdɪkjələs/； 美：/rɪˈdɪkjələs/
 - #词性/adj  荒谬的；荒唐的；愚蠢的
-# 例句
+##### 例句
 - It was a ridiculous thing to do , to my mind .
 	- 依我看，这样做是很荒唐的。
 - A ridiculous diplomatic ritual will play out once again .

@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈrekləs/； 美：/ˈrekləs/
 - #词性/adj  鲁莽的；不计后果的；无所顾忌的
-# 例句
+##### 例句
 - He is a reckless driver .
 	- 他是个鲁莽的司机。
 - The reckless hunters and brave knights of the sea go down into the depths on quests and adventures , but return home to the heights for rest and peace , courtesy and council , the sports , the dances and the songs .

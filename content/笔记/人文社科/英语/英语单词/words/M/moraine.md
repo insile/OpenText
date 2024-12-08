@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/məˈreɪn/； 美：/məˈreɪn/
 - #词性/n  冰碛；冰碛土
-# 例句
+##### 例句
 - Improving critical height formula of overflow head causing to Moraine Lake burst
 	- 冰碛湖溃决临界漫溢水头公式的改进
 - New Achievements of Studies on the Deposits of Moraine and Glacial Debris Flow

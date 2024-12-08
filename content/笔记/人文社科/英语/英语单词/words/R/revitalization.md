@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌri:ˌvaɪtəlaɪ'zeɪʃn/； 美：/ˌriˌvaɪtəlaɪ'zeɪʃn/
 - #词性/n  新生；恢复元气；复活；回阳
-# 例句
+##### 例句
 - Whenever chamois dries up and becomes hard , Soak it in water for revitalization .
 	- 每当羚羊烘干和艰苦成为，浸泡它在水中为复活。
 - 18-hour cities combine the best of 24-hour and 9-5 cities , which contributes to downtown revitalization .

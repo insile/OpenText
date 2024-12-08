@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/bəˈzɜːk/； 美：/bərˈzɜːrk/
 - #词性/adj  狂暴；发狂；暴跳如雷；盛怒；极为激动；兴奋不已
 - #词性/n  同“berserker”
-# 例句
+##### 例句
 - Creatures under berserk spell effect always attack now .
 	- 受狂暴魔法影响的生物会不断攻击。
 - Berserk : Also reduces the rage cost of all your Bear Form abilities by50 % .

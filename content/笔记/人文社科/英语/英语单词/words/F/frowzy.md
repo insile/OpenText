@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  皱眉头的；很闷的；肮脏邋遢
-# 例句
+##### 例句
 - I also think it will match your frowzy room .
 	- 我还觉得它和你乱七八糟的房间正好相配。
 - Mark : Oh , you mean one of those frowzy glen plaid numbers you see everywhere this season ?

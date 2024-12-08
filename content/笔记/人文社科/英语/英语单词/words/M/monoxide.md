@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/mənˈɒksaɪd/； 美：/mənˈɑːksaɪd/
 - #词性/n  一氧化碳；一氧化物
-# 例句
+##### 例句
 - The limit for carbon monoxide is 4.5 per cent of the exhaust gas .
 	- 尾气中一氧化碳的排放限量为4.5%。
 - Both nicotine and carbon monoxide inhaled with cigarette smoking have been incriminated as causative factors .

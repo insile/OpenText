@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈeksəʊkraɪn/； 美：/ˈeksəkrɪn/
 - #词性/adj  外分泌的；外分泌腺的
-# 例句
+##### 例句
 - Clinical study of pancreatic exocrine function in patients with pancreatic cancer
 	- 胰头癌胰腺外分泌功能的临床研究
 - Progress of study on pancreatic exocrine function after acute pancreatitis

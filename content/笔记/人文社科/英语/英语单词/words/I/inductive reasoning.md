@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈdʌktɪv ˈriːznɪŋ/； 美：/ɪnˈdʌktɪv ˈriːznɪŋ/
 - #词性/n  归纳推理；归纳推理能力；归纳法
-# 例句
+##### 例句
 - The Base of Infants ' Inductive Reasoning : Perceptional Similarity or Category Concept ?
 	- 幼儿归纳推理的依据：知觉相似性还是类别概念？
 - There is a very important phenomenon in the researches on inductive reasoning : the number of premises has a great influence on inductive strength , called monotonic effect or non-monotonic effect .

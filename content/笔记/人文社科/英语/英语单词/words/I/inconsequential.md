@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˌkɒnsɪˈkwenʃl/； 美：/ɪnˌkɑːnsɪˈkwenʃl/
 - #词性/adj  无关紧要的；不重要的；微不足道的；细琐的
-# 例句
+##### 例句
 - They spend so much time arguing the toss over inconsequential matters .
 	- 他们花了这么多时间为无关紧要的事争个没完。
 - It 's a simple term that encapsulates the fact that relationships at work can reasonably be non-intimate , inconsequential , unimportant and even , dare I say it , disposable or substitutable .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/tʃəˈruːbɪk/； 美：/tʃəˈruːbɪk/
 - #词性/adj  天使的；天使般可爱的；天使般纯真的
-# 例句
+##### 例句
 - I was born cherubic and chubby .
 	- 我出生时胖乎乎的，像天使般可爱。
 - Do you think of tiny cherubic angels , like the ones that dot Sunday school materials ?

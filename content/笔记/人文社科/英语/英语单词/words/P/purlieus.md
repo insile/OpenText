@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɜːljuːz/； 美：/ˈpɜːrluːz/
 - #词性/n  周围地区；临近地区
-# 例句
+##### 例句
 - Exploring the overgrown purlieus of the temple .
 	- 探察杂草丛生的寺院周围地区。
 - But she had no proof of this , and her instinct in the circumstances was to avoid its purlieus .

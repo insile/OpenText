@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪstɪˈleɪʃn/； 美：/dɪstɪˈleɪʃn/
 - #词性/n  蒸馏；蒸馏法
-# 例句
+##### 例句
 - Study on Distillation Process of Acetic Acid - Water System
 	- 醋酸&水体系的精馏过程研究
 - Simulation of distillation process TIME PROCEDURE MAKING CONTROL MACHINE

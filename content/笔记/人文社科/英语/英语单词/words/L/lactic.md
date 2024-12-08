@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlæktɪk/； 美：/ˈlæktɪk/
 - #词性/adj  乳的；（得自）乳汁的；产乳酸的
-# 例句
+##### 例句
 - Studies on Bioconversion of Renewable Cellulosic Material to Produce Lactic Acid
 	- 可再生纤维素原料生物转化产乳酸的研究
 - Production of Lactic Acid by Pellets of Rhizopus oryzae in Semi-continuous Fermentation

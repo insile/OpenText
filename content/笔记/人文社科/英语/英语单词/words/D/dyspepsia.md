@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪsˈpepsiə/； 美：/dɪsˈpepʃə/
 - #词性/n  消化不良
-# 例句
+##### 例句
 - Effect of paroxetine on life quality of patients with functional dyspepsia
 	- 帕罗西汀对功能性消化不良患者生活质量的影响
 - Using various treatment on patients with functional dyspepsia

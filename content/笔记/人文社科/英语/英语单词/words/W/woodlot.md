@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  林地；小林地；植林地；小片林
-# 例句
+##### 例句
 - She had a good turnout at an initial information meeting to present the idea to small woodlot owners .
 	- 她组织了一次构想说明会，很多小树林主都出席了。
 - Federation of British Columbia woodlot associations ;

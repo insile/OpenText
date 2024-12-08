@@ -9,11 +9,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪntərɪm/； 美：/ˈɪntərɪm/
 - #词性/adj  临时的；过渡的；期中的；暂时的
 - #词性/n  间歇，过渡期间
-# 例句
+##### 例句
 - The rule is an interim one , but expected to become permanent next April .
 	- 该规定只是临时的，但是预期明年四月份将成为永久性的。
 - Interim arrangements , measures , proposals , etc

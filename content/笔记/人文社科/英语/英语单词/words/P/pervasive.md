@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pəˈveɪsɪv/； 美：/pərˈveɪsɪv/
 - #词性/adj  普遍的；弥漫的；遍布的；充斥各处的
-# 例句
+##### 例句
 - But the most pervasive problem is less obvious : our own behaviour .
 	- 但最普遍的问题却不那么显而易见：我们自己的行为。
 - It is the most pervasive compound on earth .

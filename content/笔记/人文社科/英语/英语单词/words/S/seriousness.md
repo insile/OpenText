@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɪəriəsnəs/； 美：/ˈsɪriəsnəs/
 - #词性/n  严重；认真；严肃
-# 例句
+##### 例句
 - I hope you realize the seriousness of this crime .
 	- 我希望你能认识到这一罪行的严重性。
 - It would be a mistake to understate the seriousness of the problem .

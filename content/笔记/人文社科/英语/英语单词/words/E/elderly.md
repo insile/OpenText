@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈeldəli/； 美：/ˈeldərli/
 - #词性/adj  老年人；老人；上了年纪的人；年纪较大的，上了年纪的(婉辞，与old同义)
 - #词性/n  老人；上了年纪的人
-# 例句
+##### 例句
 - Advertising like this is a cynical manipulation of the elderly .
 	- 作这样的广告宣传就是耍弄老年人。
 - Elderly people are easy prey for dishonest salesmen .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  实例化；例示
-# 例句
+##### 例句
 - Instantiate creates a new key of a specified type .
 	- instantiate创建指定类型的一个新密钥。
 - Select the image that you want to instantiate and click Next .

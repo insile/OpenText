@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡruːsəm/； 美：/ˈɡruːsəm/
 - #词性/adj  可怕的；恐怖的；令人厌恶的
-# 例句
+##### 例句
 - They 're quite , quite gruesome .
 	- 他们是非常、非常令人厌恶的。
 - Fortunately , not every watery display told such a gruesome story .

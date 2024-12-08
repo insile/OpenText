@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  下层；下层植物；下（层林）木
-# 例句
+##### 例句
 - Study on the amount of understory resource of cutting area
 	- 伐区下木资源数量的调查研究
 - Understory vegetation is one of the main components of forest ecosystem .

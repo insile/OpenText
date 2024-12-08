@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈkəʊət/； 美：/ɪnˈkoʊət/
 - #词性/adj  不成熟的；初期的；雏形的
-# 例句
+##### 例句
 - They may be diffuse and inchoate .
 	- 它们或许是散漫而不成熟的。
 - His dreams were senseless and inchoate .

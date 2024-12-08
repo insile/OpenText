@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdɪsprəˈpɔːʃənət/； 美：/ˌdɪsprəˈpɔːrʃənət/
 - #词性/adj  不成比例的；不相称的；太大(或太小)的
-# 例句
+##### 例句
 - Because you need help to ascend , what is being given to you may be looked upon as disproportionate assistance according to your size .
 	- 因为你们需要帮助来扬升，你们被给予的可以看作是按照你们的尺寸来说是不成比例的援助。
 - Meanwhile , as plans for worldwide fiscal consolidation start to bite on household budgets , disproportionate pay and bonus packages will only further stoke public outrage .

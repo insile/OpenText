@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˌvæpəˈreɪʃn/； 美：/ɪˌvæpəˈreɪʃn/
 - #词性/n  蒸发；蒸发，挥发，汽化
-# 例句
+##### 例句
 - Our bodies can sweat , thereby losing heat by evaporation
 	- 我们的身体能出汗，由此可以蒸发散热。
 - Precisely measuring soil evaporation is important for improving water use efficiency .

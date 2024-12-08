@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈməʊdɪʃ/； 美：/ˈmoʊdɪʃ/
 - #词性/adj  时髦的；流行的
-# 例句
+##### 例句
 - Rhoda 's willowy figure , modish straw hat , and fuchsia gloves and shoes surprised Janice .
 	- 罗达的苗条身材，时髦的草帽，紫红色的手套和鞋使杰妮丝有些惊讶。
 - If I were cleverer , I would think up one of those annoying , modish words such as " trope " or " meme " to describe my micro-phenomenon .

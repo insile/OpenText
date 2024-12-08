@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  非常热心的；热烈（情）的；极端或过分热情的
-# 例句
+##### 例句
 - In the commodity economics society , perfervid competition leads the technology homogeneity and industry tiny profit .
 	- 在全球商品经济环境下，白热化的竞争导致技术同质化和行业微利化。
 - At present , the arguments concerning the existence of real estate foam have reached a perfervid degree .

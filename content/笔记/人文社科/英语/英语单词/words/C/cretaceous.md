@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/krɪˈteɪʃəs/； 美：/krɪˈteɪʃɪs/
 - #词性/n  白垩（系，纪）
 - #词性/adj  白垩（质，系，纪）的
-# 例句
+##### 例句
 - The groundwater system analysis of Cretaceous system of Ordos basin
 	- 鄂尔多斯盆地白垩系含水层系统分析
 - New understanding of distribution of Upper Cretaceous in South Margin

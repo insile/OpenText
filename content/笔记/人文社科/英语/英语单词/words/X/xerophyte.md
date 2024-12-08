@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  旱生植物；旱（沙）生植物
-# 例句
+##### 例句
 - Land plant growing in surroundings having an average supply of water ; compare xerophyte and hydrophyte .
 	- 生长在中等水源环境下的陆地植物；与旱生植物和水生植物构成对比。
 - Study on the Leaf Structure of Xerophyte Zizyphus Jujuba Mill A Review on the Phytotomy Research of Xerophytes in China

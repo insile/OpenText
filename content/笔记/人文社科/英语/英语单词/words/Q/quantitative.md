@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkwɒntɪtətɪv/； 美：/ˈkwɑːntəteɪtɪv/
 - #词性/adj  量化的；数量的；定量性的
-# 例句
+##### 例句
 - However , due to the complexity of tribological system , it is definitely difficult to gain accurate quantitative wear laws to monitor \/ predict wear status or provide a guide for tribological design .
 	- 但是由于摩擦学系统的复杂性，很难获得准确的定量性的磨损定律，并应用到机械的摩擦学设计、磨损状态的监测和预测上。
 - Resources science occupies an important position in the theoretical system of sustainable development research , which determines that both qualitative policy researches from macro management level and quantitative researches from micro administrative level should be carried out at the same time .

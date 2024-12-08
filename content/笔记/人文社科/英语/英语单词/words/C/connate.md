@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  合生的；原（同）生的；同源的；同族的；先天的；性质一致的
-# 例句
+##### 例句
 - The term connate implies born , produced or originated together .
 	- 术语原生意指一起出生，产生或同源。雌雄同体的水生陆生或寄生环节动物。
 - In a word , the effect of connate water and stress sensitivity on development of low-permeability gas reservoir should be paid enough attention .

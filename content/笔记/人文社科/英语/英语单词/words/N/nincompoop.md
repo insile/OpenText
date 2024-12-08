@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnɪŋkəmpuːp/； 美：/ˈnɪŋkəmpuːp/
 - #词性/n  傻子；头脑简单的人；幼稚的人
-# 例句
+##### 例句
 - In order , nincompoop , that she should believe that you 're her husband .
 	- 为了让她以为你是她丈夫，傻瓜。
 - A person without regrets is a nincompoop .

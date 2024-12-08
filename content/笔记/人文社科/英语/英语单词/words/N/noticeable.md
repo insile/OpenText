@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnəʊtɪsəbl/； 美：/ˈnoʊtɪsəbl/
 - #词性/adj  显著的；值得注意的；显而易见的
-# 例句
+##### 例句
 - The engine for maglev trains is rather in noticeable .
 	- 磁悬浮列车的车头是相当值得注意的。
 - This paper discusses some noticeable issues in drafting assessment report of nuclear and radiation environmental impacts and relevant aspects needed to be considered from the point of view of comprehensive environmental assessment .

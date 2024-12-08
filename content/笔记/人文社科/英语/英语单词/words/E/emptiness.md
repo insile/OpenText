@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈemptinəs/； 美：/ˈemptinəs/
 - #词性/n  空虚；空旷；空地；空无
-# 例句
+##### 例句
 - There was an aching emptiness in her heart .
 	- 她的内心有一种隐隐作痛的空虚感。
 - The result later in life may be feelings of emptiness and depression .

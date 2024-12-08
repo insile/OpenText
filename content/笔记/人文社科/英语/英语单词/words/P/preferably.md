@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'pref(ə)rəbli/； 美：/'pref(ə)rəbli/
 - #词性/adv  最好；宁可；更可取地
-# 例句
+##### 例句
 - We 're looking for a new house , preferably one near the school .
 	- 我们正在找新房子，最好是靠近学校的。
 - We need a comprehensive assessment of the recombinant DNA issue , preferably under the auspices of the federal government .

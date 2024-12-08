@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈiːən/； 美：/ˈiːən/
 - #词性/n  eon公司；永世，无数的年代，极长时期
-# 例句
+##### 例句
 - The Research of Engine Mechanism Movement Virtual Simulation Based on Eon
 	- 基于Eon的发动机机构运动虚拟仿真研究
 - Study on Simulation Application of Agricultural Machinery Exercise Based on EON Studio Software

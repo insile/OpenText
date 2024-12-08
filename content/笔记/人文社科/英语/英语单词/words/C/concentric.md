@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈsentrɪk/； 美：/kənˈsentrɪk/
 - #词性/adj  同心的
-# 例句
+##### 例句
 - Its most prominent feature is the concentric canal ring begun in the17th century .
 	- 它最显著的特点就是自17世纪就开始挖的围绕市中心的一个个同心的运河圈。
 - The curvature of the film is concentric with the mirror behind the meniscus .

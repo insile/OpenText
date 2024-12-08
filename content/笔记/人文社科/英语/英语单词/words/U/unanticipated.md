@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnænˈtɪsɪpeɪtɪd/； 美：/ˌʌnænˈtɪsɪpeɪtɪd/
 - #词性/adj  未预料到的；没想到的
-# 例句
+##### 例句
 - But then , something really interesting and completely unanticipated happened before I got there .
 	- 但在当时，在我实现之前，确实发生了有趣的和没想到的事。
 - Two days later , the Sun and Uranus will conjoin in Pisces bringing even more unanticipated events .

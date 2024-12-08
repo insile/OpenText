@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/huˈreɪ/； 美：/huˈreɪ/
 - #词性/int  (表示快乐或赞同)好极了，好哇；再见
 - #词性/n  万岁
-# 例句
+##### 例句
 - Amy : Hooray ! Lingling is a fantastic goalkeeper .
 	- 埃米：好哇！玲玲是一名奇妙的守门员。
 - Hooray ! It 's the last day of school .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpɑːtjuˈrɪʃn/； 美：/ˌpɑːrtʃəˈrɪʃn/
 - #词性/n  分娩
-# 例句
+##### 例句
 - Did the parturition go well yesterday evening ?
 	- 昨天晚上分娩顺利吗？
 - Clinical observation and experience in parturition for company of family member

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈliːənaɪn/； 美：/ˈliːənaɪn/
 - #词性/adj  狮子般的；像狮子一样的
-# 例句
+##### 例句
 - Say so , the lion , should have leonine vivid law and look .
 	- 所以说，狮子，应该有狮子的活法和样子。
 - His goat-like lower body , however , had hooves and a long leonine tail .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈstʌntmæn/； 美：/ˈstʌntmæn/
 - #词性/n  特技演员；(电影等中的)特技替身演员；特技表演者
-# 例句
+##### 例句
 - The stuntman will double for the main actor during the action scenes .
 	- 一些动作场景中，特技演员代替主演。
 - The stuntman flew the aircraft upside-down within a hair 's breadth of the rooftops .

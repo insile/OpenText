@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  班图；班图人；班图语
-# 例句
+##### 例句
 - It just doesn 't call this " Bantu education . "
 	- 美国只是不把这称作“班图人教育”。
 - A member of a Bantu people living chiefly in Botswana and western South Africa .

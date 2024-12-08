@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈflætjʊlənt/； 美：/ˈflætʃələnt/
 - #词性/adj  浮夸的；患肠胃气胀的；虚夸的
-# 例句
+##### 例句
 - The modified soybean oligosaccharides don 't have flatulent phenomenon .
 	- 试验结果表明：改性大豆低聚糖无胀气现象；
 - With a flatulent noise of satisfaction , the Vogon Captain sat back to watch .

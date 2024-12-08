@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌhaɪəˈrɑːkɪkl/； 美：/ˌhaɪəˈrɑːrkɪkl/
 - #词性/adj  等级制度的；等级制的；按等级划分的
-# 例句
+##### 例句
 - Yes , it 's still hierarchical , but at the same time , wealth is distributed , each person has his own form of asserting dignity , and so on .
 	- 是，社会仍是等级制的，但与此同时，财富得到了分配，每个人都有，自己维护尊严的独特方式，等。
 - Those objective factors include at least four aspects , such as the restriction of natural environment , the hierarchical limits of Ming Dynasty and the prohibits under ceremonial rites and regulations .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  疲劳；疲倦；疲惫；劳累
-# 例句
+##### 例句
 - Tiredness affects your powers of concentration .
 	- 疲劳影响注意力的集中。
 - Tiredness while driving can kill .

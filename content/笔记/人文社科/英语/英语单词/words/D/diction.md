@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdɪkʃn/； 美：/ˈdɪkʃn/
 - #词性/n  用语；措辞；用词；吐字；发音方式
-# 例句
+##### 例句
 - Clear diction is important .
 	- 吐字清晰非常重要。
 - He was adored and praised for his warm voice , clear diction , and large personality .

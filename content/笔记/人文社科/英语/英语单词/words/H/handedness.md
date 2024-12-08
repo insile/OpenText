@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhændɪdnəs/； 美：/ˈhændɪdnəs/
 - #词性/n  用手习惯
-# 例句
+##### 例句
 - The distribution of left and right handedness in Chinese people
 	- 中国人的左右利手分布
 - An experimental study of the handedness of mentally retarded children

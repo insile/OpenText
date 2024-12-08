@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsemiˈsɜːkjələ(r)/； 美：/ˌsemiˈsɜːrkjələr/
 - #词性/adj  半圆形的
-# 例句
+##### 例句
 - A semicircular Congress Hall that dwarfs any structure at Lincoln Center .
 	- 半圆形的国会大厅让林肯中心（LincolnCenter）的任何建筑都相形见绌；
 - Semicircular seating arrangements are ideal for comfort , interaction and line of sight .

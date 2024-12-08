@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  无文字社会的；无文字记录；无文字；有文字社会前的；文字出现以前的；无文字记录的
-# 例句
+##### 例句
 - A social division of ( usually preliterate ) people .
 	- 民族的一种社会分类（通常是文字出现以前的）。
 - He spent a year in africa , studying the customs and traditions of preliterate tribes .

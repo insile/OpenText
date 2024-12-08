@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪməˈtjʊə(r)/； 美：/ˌɪməˈtʃʊr/
 - #词性/adj  (行为)不成熟的；幼稚的；发育未全的；未长成的
-# 例句
+##### 例句
 - Immature love says : 'I love you because I need you .
 	- 我认为庆祝这一天是幼稚的。
 - Cell membrane potential analysis found iNPCs could be induced some immature action potential .

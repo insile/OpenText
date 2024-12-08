@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈækni/； 美：/ˈækni/
 - #词性/n  痤疮；粉刺
-# 例句
+##### 例句
 - Severe shock can bring on an attack of acne
 	- 严重的惊吓会造成痤疮突发。
 - Research Progress on the Mechanism of Chinese Medicine in Treating Acne

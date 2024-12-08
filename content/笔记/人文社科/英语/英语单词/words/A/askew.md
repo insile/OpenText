@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈskjuː/； 美：/əˈskjuː/
 - #词性/adv #词性/adj  歪；斜
-# 例句
+##### 例句
 - Even though my mustache is a tad askew .
 	- 即使我的胡须有点歪了。
 - Analyzing to Inner-layer Askew Hole

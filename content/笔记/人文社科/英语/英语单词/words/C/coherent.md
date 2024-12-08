@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəʊˈhɪərənt/； 美：/koʊˈhɪrənt/
 - #词性/adj  连贯的；有条理的；合乎逻辑的；清楚易懂的；有表达能力的；能把自己的意思说清楚的
-# 例句
+##### 例句
 - The subjects of the curriculum form a coherent whole .
 	- 课程中的科目构成了一个连贯的整体。
 - Little attempt was made to integrate the parts into a coherent whole

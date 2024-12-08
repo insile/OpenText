@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsferɪkl/； 美：/ˈsferɪkl/
 - #词性/adj  球形的；球状的
-# 例句
+##### 例句
 - Stirring rate between 300r \/ min and 450r \/ min was necessary for good spherical particles .
 	- 要得到具有良好球形的海藻酸钙凝胶粒子，搅拌速度应控制在300r\/min－450r\/min之间；
 - Spherical k-means algorithm is applied to obtain the category label of each text , and a classier is built based on the Boosting algorithm .

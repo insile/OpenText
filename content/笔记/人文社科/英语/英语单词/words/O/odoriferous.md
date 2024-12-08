@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  有气味的；散发气味的
-# 例句
+##### 例句
 - Hydrogeological Features and Genesis of Odoriferous Springs in Liupan Mountain Area
 	- 六盘山区臭水泉群的水文地质特征与成因
 - There are a great number of Odoriferous fountains in Liupanshan Mountain area , south Ningxia .

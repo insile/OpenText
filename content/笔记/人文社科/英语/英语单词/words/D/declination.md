@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  倾斜；下倾；偏斜；赤纬；偏角；方位角
-# 例句
+##### 例句
 - Study on the Formula of the Solar Declination and Time Difference in Meteorology
 	- 气象用太阳赤纬和时差计算方法研究
 - Scanning in declination may be achieved by tilting the aerial system .

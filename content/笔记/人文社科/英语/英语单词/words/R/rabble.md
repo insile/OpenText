@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈræbl/； 美：/ˈræbl/
 - #词性/n  乌合之众；暴民；贱民；下等人
-# 例句
+##### 例句
 - Her speech stirred the emotions of the rabble .
 	- 她的演说煽动起了暴民的情绪。
 - The rabble soon grew violent and unmanageable .

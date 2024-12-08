@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rəʊˈtʌnd/； 美：/roʊˈtʌnd/
 - #词性/adj  圆胖的；肥圆的
-# 例句
+##### 例句
 - A rotund , smiling , red-faced gentleman appeared .
 	- 一位身材圆胖、面带笑容、满脸通红的先生出现了。
 - Children in the neighbourhood all like that rotund gentleman .

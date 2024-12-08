@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlaʊndʒə(r)/； 美：/ˈlaʊndʒər/
 - #词性/n  躺椅；闲荡的人；懒人
-# 例句
+##### 例句
 - I have set a sun lounger on the beach .
 	- 我已经在沙滩上放了一张日光躺椅。
 - Broad muscular fields , branches of live oak , loving lounger in my .

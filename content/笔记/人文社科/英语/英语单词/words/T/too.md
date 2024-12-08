@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/tuː/； 美：/tuː/
 - #词性/adv  (用于形容词和副词前)太，过于，过度；还；(评说某事物使情况更糟)而且；很；也；又
-# 例句
+##### 例句
 - This is too big ─ have you got a small one ?
 	- 这个太大——有没有小的？
 - There are too many errors in your work .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  制霉菌素；制霉素
-# 例句
+##### 例句
 - Conclusion At present , the resistance of Saccharomyces in patients with oral fungal infection is not significant , most Saccharomyces albicans are sensitive to fluconazole , ketoconazole and nystatin .
 	- 结论目前口腔假丝酵母菌感染患者口内菌株的耐药现象并不突出，白色假丝酵母菌对氟康唑、酮康唑、制霉菌素的敏感率均较高；
 - Studies on the composition of nystatin by high performance liquid chromatography

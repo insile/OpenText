@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  不情愿地；勉强地；违心地
-# 例句
+##### 例句
 - She came very unwillingly .
 	- 她非常勉强地来了。
 - Unwillingly Ralph turned away from the splendid , awful sight .

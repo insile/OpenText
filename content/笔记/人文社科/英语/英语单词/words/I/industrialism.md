@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈdʌstriəlɪzəm/； 美：/ɪnˈdʌstriəlɪzəm/
 - #词性/n  工业主义；产业主义
-# 例句
+##### 例句
 - But the social tension due to the development of urban industrialism grew .
 	- 但是，由于城市工业主义的发展，社会紧张局势日益加剧。
 - But the industrialism breaks its close structure and gives birth to a variational and wizardly urban life .

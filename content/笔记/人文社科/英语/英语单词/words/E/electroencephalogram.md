@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˌlektrəʊɪnˈsefələɡræm/； 美：/ɪˌlektroʊɪnˈsefələɡræm/
 - #词性/n  脑电图
-# 例句
+##### 例句
 - Analysis of electroencephalogram and cerebral blood flow in patients with Alzheimer disease
 	- 阿尔茨海默病患者的脑电图和脑血流分析
 - Methods : To analyze the results of 117 patients ' video electroencephalogram monitoring .

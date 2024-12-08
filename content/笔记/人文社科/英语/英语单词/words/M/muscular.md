@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmʌskjələ(r)/； 美：/ˈmʌskjələr/
 - #词性/adj  肌肉的；肌肉发达的；强壮的
-# 例句
+##### 例句
 - As a general rule , all muscular effort is enhanced by breathing in as the effort is made
 	- 通常，肌肉的力量能通过使劲儿吸气增强。
 - Become muscular or fleshy .

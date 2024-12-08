@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/mɔːrˈəʊvə(r)/； 美：/mɔːrˈoʊvər/
 - #词性/adv  此外；而且
-# 例句
+##### 例句
 - Moreover , they are also quieter , as they are not driven by an airscrew .
 	- 此外，由于不用空气螺旋桨驱动，所以噪音也比较小。
 - Moreover , it can be used to assess economic performance both across countries and over time .

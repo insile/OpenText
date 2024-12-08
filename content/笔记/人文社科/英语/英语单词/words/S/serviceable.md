@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɜːvɪsəbl/； 美：/ˈsɜːrvɪsəbl/
 - #词性/adj  可使用的；能用的
-# 例句
+##### 例句
 - The carpet is worn but still serviceable .
 	- 地毯旧了，但还能用。
 - His Arabic was not as good as his English , but serviceable enough

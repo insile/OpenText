@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsnɒbəri/； 美：/ˈsnɑːbəri/
 - #词性/n  势利；势利态度(或行为)；自以为优越的态度(或行为)
-# 例句
+##### 例句
 - He is spoiled , arrogant and has a tendency towards snobbery
 	- 他被宠坏了，傲慢无礼，而且经常自命不凡。
 - Isabelle is quick to refute any suggestion of intellectual snobbery .

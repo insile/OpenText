@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfreʃli/； 美：/ˈfreʃli/
 - #词性/adv  (通常后接过去分词)刚刚，新近
-# 例句
+##### 例句
 - She wore a freshly laundered and starched white shirt .
 	- 她穿一件刚刚浆洗熨烫过的白色衬衣。
 - Hot food should be thoroughly cooked and freshly made .

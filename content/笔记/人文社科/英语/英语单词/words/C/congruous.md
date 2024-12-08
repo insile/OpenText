@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  一致的；适（符）合的；协调的；全等的
-# 例句
+##### 例句
 - Establishing a Sustainable Ongoing Supervision Framework Congruous With Our National Conditions
 	- 构建符合我国国情的持续性监管工作框架
 - A New Type Variable - Reluctance Resolver Congruous for Integrated Motor Systems

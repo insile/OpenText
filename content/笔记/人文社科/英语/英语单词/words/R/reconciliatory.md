@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  和解的，调和的
-# 例句
+##### 例句
 - I have faith in your reconciliatory navigational skills .
 	- 我对你的“和解式”导航法相当有信心。
 - It is reconciliatory politics that can supply the frame for modern politics . It absorbs basic assumptions of civilizations , and takes peace and reason as the most ultimate commitment .

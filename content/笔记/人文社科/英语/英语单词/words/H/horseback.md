@@ -5,12 +5,12 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhɔːsbæk/； 美：/ˈhɔːrsbæk/
 - #词性/n  马背
 - #词性/adj  骑着马的
 - #词性/adv  在马背上
-# 例句
+##### 例句
 - She loved to ride ; on horseback , she was reckless and utterly without fear
 	- 她喜欢骑马；在马背上，她纵横驰骋，毫无畏惧。
 - On horseback it is possible to get quite close to elephants , giraffes and many other animals .

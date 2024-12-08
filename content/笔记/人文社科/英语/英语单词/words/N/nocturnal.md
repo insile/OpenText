@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/nɒkˈtɜːnl/； 美：/nɑːkˈtɜːrnl/
 - #词性/adj  夜间活动的；<音>夜曲的；夜行的，夜出的；夜间发生的；夜间开花的
-# 例句
+##### 例句
 - 18 . Nocturnal ( active at night ; an owl )
 	- 18.夜行的（夜晚活跃：猫头鹰）
 - He vaguely recalled his other nocturnal trip in the vast plain in the neighborhood of d & , eight years previously , and it seemed but yesterday .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌself ˌriːəlaɪˈzeɪʃn/； 美：/ˌself ˌriːələˈzeɪʃn/
 - #词性/n  自我实现(利用自身技能取得尽可能大的成就)
-# 例句
+##### 例句
 - Human nature is the basis of human self-realization .
 	- 人的本质是人自我实现的根据。
 - People cannot surpass the physiological needs and reach the self-realization needs directly .

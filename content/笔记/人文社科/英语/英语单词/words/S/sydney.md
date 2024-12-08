@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  悉尼
-# 例句
+##### 例句
 - Sydney is one of the world 's must-see cities .
 	- 悉尼是世界上的必游城市之一。
 - News Corporation was headquartered in Sydney .

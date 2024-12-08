@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  口头的，口述的
-# 例句
+##### 例句
 - A notarial will may not be revoked or altered by a testator-written will , a will written on behalf of the testator , a will in the form of a sound - recording or a nuncupative will .
 	- 自书、代书、录音、口头遗嘱，不得撤销、变更公证遗嘱。
 - A testator may , in an emergency situation , make a nuncupative will , which shall be witnessed by two or more witnesses .

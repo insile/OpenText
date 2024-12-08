@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɔːlˈredi/； 美：/ɔːlˈredi/
 - #词性/adv  已经(强调情况或问题存在)；(表示惊奇)已经，都；早已
-# 例句
+##### 例句
 - He already had an idea for his next novel .
 	- 他已经构思好了下一部小说。
 - I 'm going ─ I 've done enough damage here already .

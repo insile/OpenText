@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnkəˈrekt/； 美：/ˌɪnkəˈrekt/
 - #词性/adj  不正确的；(说话或举止)不合规矩的，不当的，不端的；不准确的；不真实的
-# 例句
+##### 例句
 - Many of the figures were incorrect .
 	- 这些数字有许多是不准确的。
 - Therefore , for the volatile measured , the relationship is incorrect .

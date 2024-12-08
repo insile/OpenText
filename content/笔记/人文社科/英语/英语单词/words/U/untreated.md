@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈtriːtɪd/； 美：/ˌʌnˈtriːtɪd/
 - #词性/adj  未处理的；没有接受治疗的；未经防护处理的
-# 例句
+##### 例句
 - In poor , dry regions , untreated wastewater is the only viable irrigation source to keep farmers in business .
 	- 在贫困、干旱的地区，未处理的废水是农民唯一可以用来灌溉的水资源。
 - But Pay Drechsel , an environmental scientist , argues that the social and economic benefits of using untreated human waste to grow food outweigh the health risks .

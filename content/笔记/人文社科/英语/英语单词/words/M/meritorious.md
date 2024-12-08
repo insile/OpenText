@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmerɪˈtɔːriəs/； 美：/ˌmerɪˈtɔːriəs/
 - #词性/adj  值得赞扬的
-# 例句
+##### 例句
 - I had been promoted for what was called gallant and meritorious service .
 	- 我之所以得到提拔是由于立下了所谓的英勇卓越的功勋。
 - He thought that he , far from being a routed general , had meritorious service to his credit .

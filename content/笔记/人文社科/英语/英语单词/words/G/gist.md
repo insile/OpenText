@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dʒɪst/； 美：/dʒɪst/
 - #词性/n  要点；主旨；大意
-# 例句
+##### 例句
 - That I take to be the gist of our political theory .
 	- 我将此视为我们政治理论的主旨。
 - Then I interpreted the gist and purpose of this paper .

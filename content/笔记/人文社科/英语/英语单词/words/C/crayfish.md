@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkreɪfɪʃ/； 美：/ˈkreɪfɪʃ/
 - #词性/n  淡水螯虾；海水大龙虾
-# 例句
+##### 例句
 - Clinical signs of bacteremia in freshwater crayfish are non-specific and typically are limited to increasing apathy and paralysis immediately prior to death .
 	- 临床上淡水螯虾的菌血症是非特异性的和典型精神呆滞和瘫痪并立刻死亡。
 - There are more than 540 species of crayfish in the world . Crayfish are widely natively distributed in the world except Africa and Antarctica .

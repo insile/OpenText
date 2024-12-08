@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/mɪˈmetɪk/； 美：/mɪˈmetɪk/
 - #词性/adj  模仿的；拟态的
-# 例句
+##### 例句
 - The appearance of low mimetic promotes the basic form of novels in modern times .
 	- 低模仿的出现促使近代长篇小说基本成型。
 - Both realism and naturalism are mimetic systems or practices of representation .

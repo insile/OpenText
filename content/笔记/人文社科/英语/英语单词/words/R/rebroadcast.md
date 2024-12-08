@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  重播（或转播）（节目，信号）
 - #词性/n  转播；重播
-# 例句
+##### 例句
 - Accurate progressive scanning technology , high definition image rebroadcast , reproducing ultimate beautiful pictures .
 	- 精确逐行扫描技术，高清晰影像重播，再现至美画面。
 - Viewership was double the network 's average , and it rebroadcast the show .

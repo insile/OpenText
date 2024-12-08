@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈæbstɪnənt/； 美：/ˈæbstɪnənt/
 - #词性/adj  禁欲的；(因道德、宗教或健康原因对酒等)节制的
-# 例句
+##### 例句
 - People can be abstinent , and it 's not weird .
 	- 人是能够禁欲的。这没有什么可奇怪的。
 - During treatment , sexual activity should be abstinent .

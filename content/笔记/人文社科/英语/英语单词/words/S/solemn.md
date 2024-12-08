@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɒləm/； 美：/ˈsɑːləm/
 - #词性/adj  庄严的；郑重的；隆重的；严正的；表情严肃的；冷峻的
-# 例句
+##### 例句
 - At the most solemn moments he will flash a mocking smile or make an ironic remark
 	- 在最庄严的时刻他脸上会闪现嘲弄的微笑或说一句讽刺挖苦的话。
 - Drums and cymbals beat out a solemn rhythm .

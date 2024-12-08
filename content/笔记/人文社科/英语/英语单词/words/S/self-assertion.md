@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌself əˈsɜːʃn/； 美：/ˌself əˈsɜːrʃn/
 - #词性/n  主见;自我主张
-# 例句
+##### 例句
 - Self-assertion was not thought seemly in a woman .
 	- 人们认为女性不应该过于自信。
 - They are driven on partly by a wish for democracy , but also by a desire for national self-assertion .

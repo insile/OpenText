@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌæbəˈlɪʃn/； 美：/ˌæbəˈlɪʃn/
 - #词性/n  (法律、制度、习俗等的)废除，废止
-# 例句
+##### 例句
 - Islanders have campaigned for the abolition of one of the three tiers of municipal power on the island .
 	- 岛上居民发起一场运动，要求废除岛上三级市政管理层中的一级。
 - They preach the abolition of established systems but prose nothing to replace them .

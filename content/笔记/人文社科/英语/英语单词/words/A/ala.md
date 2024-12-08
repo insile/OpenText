@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈeɪlə/； 美：/ˈeɪlə/
 - #词性/abbr  American Library Association 美国图书馆协会
 - #词性/n  【生】翼；翼状部
-# 例句
+##### 例句
 - The serum ala - nine transaminase activity increased markedly in the I \/ R groups ( P < 0.01 ) .
 	- 血清丙氨酸转氨酶活性在肠缺血再灌注后各组都有明显升高（P＜0.01）。
 - The absorption peak was at 230 nm . The concentrations of GLY , PRO and ALA were highest by amino acid analysis .

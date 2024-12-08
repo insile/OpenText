@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈaʊtwədz/； 美：/ˈaʊtwərdz/
 - #词性/adv  向外；朝外
-# 例句
+##### 例句
 - Factories were spreading outwards from the old heart of the town .
 	- 工厂从旧城中心逐渐向外扩展。
 - The door opens outwards .

@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈskriːt/； 美：/dɪˈskriːt/
 - #词性/adj  离散的；分离的；各别的；互不相连的
-# 例句
+##### 例句
 - Social structures are not discrete objects ; they overlap and interweave .
 	- 社会结构之间不是离散的，他们相互重叠交织。
 - The discrete Kirchhoff theory element is generalized on analyses of ordinary shell structures .

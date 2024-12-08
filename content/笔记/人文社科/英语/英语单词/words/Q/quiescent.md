@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kwiˈesnt/； 美：/kwiˈesnt/
 - #词性/adj  静态的；静止的；静止状态的；沉寂的
-# 例句
+##### 例句
 - Typical morphological change and DNA laddering did not occur in quiescent mesangial cell in our study .
 	- 本实验在相对静止的系膜细胞中没有观察到典型的形态变化和DNA梯形带。
 - Micellar surfactant solutions are found to increase methane hydrate formation rate in a quiescent system and to improve methane storage capacity in hydrates , and finally to alter formation mechanism for natural gas hydrates .

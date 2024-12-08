@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪnsələnt/； 美：/ˈɪnsələnt/
 - #词性/adj  无礼的；粗野的；侮慢的
-# 例句
+##### 例句
 - I put my request in an absurd , almost insolent form .
 	- 我把我的请求用荒谬的甚至无礼的形式说出来了。
 - An insolent boy stuck his tongue out at us .

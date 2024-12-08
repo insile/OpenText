@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtʃɔːki/； 美：/ˈtʃɔːki/
 - #词性/adj  含(或似)白垩的；含(或似)粉笔的
-# 例句
+##### 例句
 - Incorporating organic material into chalky soils will reduce the alkalinity .
 	- 在白垩质土壤中添加有机物可降低其碱性。
 - Her face became a chalky white .

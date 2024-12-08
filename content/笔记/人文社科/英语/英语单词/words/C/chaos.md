@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkeɪɒs/； 美：/ˈkeɪɑːs/
 - #词性/n  混乱；紊乱；杂乱
-# 例句
+##### 例句
 - Heavy snow has caused total chaos on the roads .
 	- 大雪导致道路上交通一片混乱。
 - Fighting had broken out and all was chaos and confusion .

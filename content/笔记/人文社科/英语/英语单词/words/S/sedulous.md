@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsedjʊləs/； 美：/ˈsedʒələs/
 - #词性/adj  勤勉的；孜孜不倦的；勤奋的
-# 例句
+##### 例句
 - Her assiduous attempts to learn French ; assiduous research ; sedulous pursuit of legal and moral principles .
 	- 她刻苦的学习法语；勤奋的研究；孜孜不倦的研究法律和道德的原则。
 - A sedulous researcher , journalist , etc

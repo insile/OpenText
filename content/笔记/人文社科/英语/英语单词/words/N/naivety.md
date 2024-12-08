@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  天真；无邪的行为；天真烂漫（等于naivete）
-# 例句
+##### 例句
 - She has lost none of her naivety .
 	- 她丝毫没有失去那份天真烂漫。
 - Chapter one expounds child 's naivety narration tactics of the article .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pʌŋkˈtɪliəs/； 美：/pʌŋkˈtɪliəs/
 - #词性/adj  一丝不苟的；循规蹈矩的
-# 例句
+##### 例句
 - Billy is punctilious in the performance of his duties .
 	- 毕利执行任务总是一丝不苟的。
 - However , Badigin is very precise and punctilious person .

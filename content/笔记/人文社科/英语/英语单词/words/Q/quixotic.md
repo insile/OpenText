@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kwɪkˈsɒtɪk/； 美：/kwɪkˈsɑːtɪk/
 - #词性/adj  不切实际的，异想天开的，想入非非的；堂吉诃德式的，愚侠的
-# 例句
+##### 例句
 - He has always lived his life by a hopelessly quixotic code of honour .
 	- 他生活中一直遵循一种完全不切实际的堂吉诃德式的道德准则。
 - Not long ago , selling American cars in Japan was downright quixotic .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnɪkətiːn/； 美：/ˈnɪkətiːn/
 - #词性/n  尼古丁；烟碱
-# 例句
+##### 例句
 - After about three months , I was no longer addicted to nicotine .
 	- 大约3个月后，我就不再对尼古丁上瘾了。
 - A nicotine spray can help smokers quit the habit without putting on weight

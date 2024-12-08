@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈreɪkɪʃ/； 美：/ˈreɪkɪʃ/
 - #词性/adj  放荡的；(把帽子)潇洒地歪戴着的；肆无忌惮的
-# 例句
+##### 例句
 - Just like that . see , at kind of a rakish angle .
 	- 就是这样，有点倾斜的角度。
 - He was a serious young man , not rakish or loud-voiced like the others .

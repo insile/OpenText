@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwʌndəfəli/； 美：/ˈwʌndərfəli/
 - #词性/adv  非常；很好地；令人惊奇地；异乎寻常地
-# 例句
+##### 例句
 - The hotel is wonderfully comfortable .
 	- 这家旅馆非常舒适。
 - A term in prison will concentrate his mind wonderfully .

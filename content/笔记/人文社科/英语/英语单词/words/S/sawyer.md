@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɔːjə/； 美：/ˈsɔjər/
 - #词性/n  锯木工；锯木匠，漂流水中的树木，显赫天牛（其幼虫钻木为穴）
-# 例句
+##### 例句
 - Professor Sawyer was formally installed as President last Thursday
 	- 索耶教授上周四被正式任命为校长。
 - Few American schoolboys escaped acquaintance with the adventures of Tom sawyer .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/mɪˈsɒdʒɪni/； 美：/mɪˈsɑːdʒɪni/
 - #词性/n  厌女症；厌恶女性
-# 例句
+##### 例句
 - Misogyny is the hatred2 of , contempt for , or prejudice against women or girls .
 	- “厌女症”指的是对妇女或者女孩儿怀有仇恨、蔑视、或者歧视心理。
 - The club 's refusal to allow women to become members is sheer misogyny .

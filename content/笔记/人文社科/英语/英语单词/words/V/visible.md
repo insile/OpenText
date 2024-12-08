@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɪzəbl/； 美：/ˈvɪzəbl/
 - #词性/adj  可见的；明显的；看得见的；能注意到的
 - #词性/n  现实世界；看得见的事物；直观教具
-# 例句
+##### 例句
 - Well , if we 're talking visible , tangible things , he will receive a certificate of authenticity that proves " I Am " is the property of the buyer .
 	- 如果你指的是看得见的有形的东西，那么他将获得一份真品证书，证明“我存在”是他的财产。
 - we endeavored to resolve deep-seated problems and difficulties , took reform and opening up as the fundamental way to advance evelopment , and gave full rein to both the invisible hand of the market and the visible hand of the government to promote steady economic growth .

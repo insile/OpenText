@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈaɪdli/； 美：/ˈaɪdli/
 - #词性/adv  漫不经心地；闲散地；无理由地；无目的地
-# 例句
+##### 例句
 - He wondered idly what would happen .
 	- 他漫不经心地幻想着会发生什么事。
 - She stared at the floor , idly playing with the strap of her handbag .

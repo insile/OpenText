@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɪŋkrənaɪzə/； 美：/ˈsɪŋkrəˌnaɪzər/
 - #词性/n  同步器；同步装置
-# 例句
+##### 例句
 - The Synchronizer allows you to synchronize folders , disks or computers .
 	- 同步器可让您同步文件夹，磁盘或计算机上
 - Development of Vehicle Synchronizer Testing System Based on Computer Control

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈluːkəsaɪt/； 美：/ˈluːkəsaɪt/
 - #词性/n  白细胞；白血球；白血细胞
-# 例句
+##### 例句
 - The increased leucocyte count is related to degree of infarction .
 	- 白细胞计数的升高与梗死程度相关。
 - Application of leucocyte reference material and its assignment of value

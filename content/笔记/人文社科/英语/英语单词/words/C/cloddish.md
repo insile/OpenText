@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  粗鲁的；土块一样的；土里土气的
-# 例句
+##### 例句
 - He cannot prevent the reader from preferring Ethan Brand to the cloddish villagers of the tale .
 	- 读者还是喜欢伊桑？布兰德而讨厌故事里那些土头土脑的乡民。这他是阻止不了的。
 - Screen word is for game the player can have the game environment with a good health in game , make low common won 't appear in game cloddish reach abusive character .

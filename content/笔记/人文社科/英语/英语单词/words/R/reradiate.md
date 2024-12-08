@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vt  再辐射
 - #词性/vi  再辐射
-# 例句
+##### 例句
 - The starlight heats up the dust grains , which then reradiate this energy at far-infrared wavelengths .
 	- 受星光加热的尘埃颗粒，会于远红外波段再辐射出那个能量。
 - Reradiate Computation Model of Transmission Line to the Shortwave

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  血管紧张（缩）素；血管紧张肽
-# 例句
+##### 例句
 - Effects of Angiotensin - ( 1-7 ) on Cardiovascular System
 	- 血管紧张素-（1-7）在心血管系统中的作用
 - Progress in Research of Effect of Angiotensin Convert Enzyme 2 on Heart

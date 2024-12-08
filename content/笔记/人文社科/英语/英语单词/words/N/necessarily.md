@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌnesəˈserəli/； 美：/ˌnesəˈserəli/
 - #词性/adv  必然地；必要地；不可避免地
-# 例句
+##### 例句
 - Be necessarily associated with or result in or involve .
 	- 被必要地联系或者导致或者包含。
 - We 're hedging with words like " generally " and " necessarily " because any role can be assigned any right .

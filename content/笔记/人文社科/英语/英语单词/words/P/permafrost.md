@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɜːməfrɒst/； 美：/ˈpɜːrməfrɔːst/
 - #词性/n  永冻层；(寒带)永冻土层
-# 例句
+##### 例句
 - She urged anyone with doubts to go to Alaska , where the permafrost is dying , or to California 's Sierra Mountains , where snow is melting earlier in the spring , creating havoc for water supplies .
 	- 她敦促持怀疑态度的人前往阿拉斯加，那里的永冻土层将要消失，或者前往加利福尼亚州的塞拉山脉，那里的冰雪在早春时节便已融化，严重破坏了水供给。
 - It might be possible for similar organisms to survive for billions of years below the permafrost layer on Mars , where water is liquid , radiation supplies energy , and carbon dioxide provides carbon .

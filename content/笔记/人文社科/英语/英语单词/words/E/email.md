@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈiːmeɪl/； 美：/ˈiːmeɪl/
 - #词性/n  电子邮件(通信方式)
 - #词性/v  (给…)发电子邮件；用电邮发送
-# 例句
+##### 例句
 - Can you explain how the email system works ?
 	- 你能说明一下电子邮件系统的工作原理吗？
 - Each student has been given their own email address .

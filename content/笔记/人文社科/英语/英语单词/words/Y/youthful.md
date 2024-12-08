@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈjuːθfl/； 美：/ˈjuːθfl/
 - #词性/adj  青年的；青春的；年轻人的；年轻的；显得年轻的
-# 例句
+##### 例句
 - He was full of youthful idealism .
 	- 他满脑子都是年轻人的理想主义。
 - He has given up youthful follies .

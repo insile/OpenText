@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈəʊnərəs/； 美：/ˈoʊnərəs/
 - #词性/adj  繁重的；艰巨的；费力的；令人焦虑的
-# 例句
+##### 例句
 - Cleaning them and maintaining them can be an onerous task because each material requires a different type of care .
 	- 清洗和维护他们可以成为他们繁重的任务，因为每个材料需要不同类型的照顾。
 - Water resources is the important infrastructure industry of national economy development and water resources in the 21st century is confronted with onerous tasks .

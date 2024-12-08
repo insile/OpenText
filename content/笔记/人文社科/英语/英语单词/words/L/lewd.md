@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/luːd/； 美：/luːd/
 - #词性/adj  猥亵的；淫荡的；粗野下流的
-# 例句
+##### 例句
 - It is difficult for many to distinguish a healthy openness and lewd behaviors .
 	- 对很多人而言，要区分健康的开放行为和猥亵的行为是很困难的。
 - Drew spends all day eyeing up the women and making lewd comments .

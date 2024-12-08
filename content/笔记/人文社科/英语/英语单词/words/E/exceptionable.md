@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  可例外的；可反对的；可抗议的
-# 例句
+##### 例句
 - Many people find that sort of newspaper article highly exceptionable .
 	- 许多人发现那种报纸文章非常令人恼火。
 - The legal basis of the exceptionable rule of criminal illegal proof .

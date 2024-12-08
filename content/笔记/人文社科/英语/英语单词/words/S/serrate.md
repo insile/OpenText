@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɛrɪt/； 美：/ˈsɛˌreɪt/
 - #词性/n  【军】飞机的反截击雷达设备
 - #词性/adj  【生】锯齿形的；有锯齿的
-# 例句
+##### 例句
 - Experimental study on mechanical properties of Serrate structure surface
 	- 锯齿状结构面力学效应实验研究
 - European perennial whose serrate leaves yield a yellow dye .

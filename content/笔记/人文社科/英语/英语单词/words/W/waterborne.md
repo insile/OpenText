@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwɔːtəbɔːn/； 美：/ˈwɔːtərbɔːrn/
 - #词性/adj  水传播的；水运的；经水路的；水源传染的
-# 例句
+##### 例句
 - It says a principle aim of this program is to raise public awareness about what needs to be done to prevent outbreaks of waterborne diseases and , failing that , to effectively respond to outbreaks of disease .
 	- 红十字会说，这个项目的一个主要目标，是要提高大众对如何预防通过水传播的疾病的认识，如果做不到这一点，就不能有效地对疾病疫情的爆发做出反应。
 - The disease causes acute diarrhea that can lead to severe Most of the more than one million Haitians displaced by a powerful earthquake last January live in tent cities around the capital , and waterborne cholera bacteria spread easily in conditions where supplies are shared for cooking and washing .

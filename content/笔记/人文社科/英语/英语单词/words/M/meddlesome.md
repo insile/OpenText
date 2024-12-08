@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmedlsəm/； 美：/ˈmedlsəm/
 - #词性/adj  好管闲事的；爱干预的
-# 例句
+##### 例句
 - By this means the meddlesome woman cast in a bone between the wife and the husband .
 	- 这爱管闲事的女人就用这种手段挑起他们夫妻这间的不和。
 - Get rid of that meddlesome fool !

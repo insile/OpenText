@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈefɪkəsi/； 美：/ˈefɪkəsi/
 - #词性/n  功效；(尤指药物或治疗方法的)效力
-# 例句
+##### 例句
 - Mix Optimization of High Performance Concrete Based on Efficacy Coefficient Method
 	- 基于功效函数法的高性能混凝土配合比优化
 - The Health Protection Efficacy of Ginkgo and Application in Food Industry

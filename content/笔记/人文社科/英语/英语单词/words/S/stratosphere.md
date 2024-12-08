@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈstrætəsfɪə(r)/； 美：/ˈstrætəsfɪr/
 - #词性/n  平流层
-# 例句
+##### 例句
 - Most of the chlorofluoromethanes reside in the lower stratosphere .
 	- 大多数氯氟甲烷存留在平流层下部。
 - A kind of New Developing Mobile Communication Method & Research of Stratosphere Communication

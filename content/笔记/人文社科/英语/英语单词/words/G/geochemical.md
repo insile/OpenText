@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  地球化学的
-# 例句
+##### 例句
 - Principle of geochemical distribution widely distributed Old World white egret .
 	- 地球化学的分布法则广泛分布的东半球白鹭。
 - Responses of aquatic environment to river damming & from the geochemical view

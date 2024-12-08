@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkɜːsəri/； 美：/ˈkɜːrsəri/
 - #词性/adj  粗略的；仓促的
-# 例句
+##### 例句
 - The material covered in this installment has provided only a cursory glance at the basic implementation of the message bus pattern .
 	- 在这部分所涵盖的内容当中只是粗略的提供了对消息总线模型实现。
 - The report identifies major segments of the sporting goods industry , and gives a cursory view of the market together with the latest mergers , acquisitions , and other strategic developments .

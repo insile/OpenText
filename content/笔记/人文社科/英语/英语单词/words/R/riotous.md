@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈraɪətəs/； 美：/ˈraɪətəs/
 - #词性/adj  狂欢的；骚乱的；暴乱的；纵情欢闹的
-# 例句
+##### 例句
 - In a tumultuous and riotous manner .
 	- 以喧嚣、骚乱的方式。
 - Even in the Eternal City , says the silent Augusteum , one must always be prepared for riotous and endless waves of transformation . Eat , Pray , Love

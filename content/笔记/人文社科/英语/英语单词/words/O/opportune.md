@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɒpətjuːn/； 美：/ˌɑːpərˈtuːn/
 - #词性/adj  适当的；及时的；恰当的；适时的；恰好的
-# 例句
+##### 例句
 - He arrived at the most opportune moment .
 	- 他在最适当的时候到达。
 - CASE REPORT The method of hemodialysis was reasonably made , and an opportune moment , indication and contraindication were selected .

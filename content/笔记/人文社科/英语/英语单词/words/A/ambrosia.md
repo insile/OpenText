@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/æmˈbrəʊziə/； 美：/æmˈbroʊʒə/
 - #词性/n  珍馐；美味佳肴；神的食物；神肴；仙馐
-# 例句
+##### 例句
 - Analysis of the component forestry harmful plant of Ambrosia artemisiifolia essential oil by Gas Chromatography-Mass Spectrometry
 	- 林业有害植物豚草挥发油GC&MS成分分析
 - As pesticides and antibacterial agents , the safe of the activity components of Ambrosia artemisiifolia was better than organophosphorus pesticide .

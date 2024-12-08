@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌnɔːθˈwɛstən/； 美：/ˌnɔrˈθwɛstərn/
 - #词性/adj  （来自，在，向）西北的；缩写词为NW或nw
-# 例句
+##### 例句
 - SUN Yat-sen and the Social Transformation in 20th Century Northwestern China
 	- 孙中山与20世纪中国西北的社会变革
 - People in northwestern Qinghai province are also preparing for singing and dancing .

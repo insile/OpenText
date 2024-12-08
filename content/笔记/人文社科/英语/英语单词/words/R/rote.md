@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rəʊt/； 美：/roʊt/
 - #词性/n  死记硬背
-# 例句
+##### 例句
 - He is very sceptical about the value of rote learning
 	- 他非常怀疑死记硬背是否有用。
 - You are merely reciting facts that you have learned by rote .

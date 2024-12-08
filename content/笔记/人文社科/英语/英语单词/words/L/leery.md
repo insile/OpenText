@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlɪəri/； 美：/ˈlɪri/
 - #词性/adj  猜疑的；谨防的；极力躲避的
-# 例句
+##### 例句
 - The government is leery of changing the current law .
 	- 政府对是否修改现行法律存有疑虑。
 - Executives say they are leery of the proposed system

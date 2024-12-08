@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  破败；破损；崩塌；荒废
-# 例句
+##### 例句
 - Yet all this was apart from any extraordinary dilapidation .
 	- 特别破落的样子倒也找不出。
 - An Introduction to Computer Expert System & New Evaluation Methods of the Dilapidation

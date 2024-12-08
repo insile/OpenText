@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈbrɪdʒəbl/； 美：/ʌnˈbrɪdʒəbl/
 - #词性/adj  (分歧、意见等)无法弥合的；无法沟通的
-# 例句
+##### 例句
 - The gap between the President and his opponents is unbridgeable .
 	- 总统和反对派之间的嫌隙是不可弥合的。
 - The similarity in psychological makeup was just enough to make the ultimate differences unbridgeable .

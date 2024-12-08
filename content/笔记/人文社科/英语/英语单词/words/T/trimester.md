@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/traɪˈmestə(r)/； 美：/traɪˈmestər/
 - #词性/n  妊娠期(以三个月为单位)
-# 例句
+##### 例句
 - Study of Effect of Ultrasound on the Third Trimester Fetal Blood Cells
 	- 超声对晚孕胎儿血细胞影响的观察
 - Members can choose to study either one or two subjects per trimester .

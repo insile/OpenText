@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈweɪtləs/； 美：/ˈweɪtləs/
 - #词性/adj  失重的；无重量的；似无重量的
-# 例句
+##### 例句
 - I no longer * my muscles don 't feel anything and the bottle is therefore weightless .
 	- 我的肌肉没有感觉到任何承重，所以壶是无重量的。
 - The ballet stage is a bright , seemingly weightless world where gravity is continually being & by the dancers .

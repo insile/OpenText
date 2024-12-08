@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdɒmɪˈneɪʃən/； 美：/ˌdɑməˈneɪʃən/
 - #词性/n  统治；控制
-# 例句
+##### 例句
 - The appointment of a woman was one in the eye for male domination .
 	- 任命女性担任这个职位是对男权统治的严重打击。
 - It is not true that the enfranchisement of all will result in racial domination .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvendʒfl/； 美：/ˈvendʒfl/
 - #词性/adj  复仇的；心存报复的
-# 例句
+##### 例句
 - He was stabbed to death by his vengeful wife
 	- 他被图谋报复的妻子拿刀捅死了。
 - He did not think he was any more cruel , any more vengeful than other men .

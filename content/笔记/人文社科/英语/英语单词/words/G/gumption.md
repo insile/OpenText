@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡʌmpʃn/； 美：/ˈɡʌmpʃn/
 - #词性/n  勇气；精明；决心；老练；胆力；机智
-# 例句
+##### 例句
 - He didn 't have the gumption to keep his mouth shut .
 	- 他这人不老练，嘴不严。
 - I 'd never have had the gumption to do what he had done .

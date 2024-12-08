@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  标称；名义；名义上；名义上的；名义上地
-# 例句
+##### 例句
 - He was nominally Deputy Prime Minister , certainly , but his influence was clearly on the wane
 	- 当然，他名义上是副首相，但是显然他的影响力正在下降。
 - He was nominally the leader , but others actually wielded the power .

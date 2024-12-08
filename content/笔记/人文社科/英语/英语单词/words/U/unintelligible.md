@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnɪnˈtelɪdʒəbl/； 美：/ˌʌnɪnˈtelɪdʒəbl/
 - #词性/adj  难以理解的；难懂的
-# 例句
+##### 例句
 - If a computer is given unintelligible data , it returns unintelligible results .
 	- 如果计算机得到的是难以理解的数据，它给出的也将是难以理解的结果。
 - Knowing a second language can make you more employable and a better traveler , not to mention provide you with a whole new set of creative ( and unintelligible ) swear words to use when you accidentally bang your head on a cabinet door .

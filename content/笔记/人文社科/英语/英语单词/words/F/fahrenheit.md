@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfærənhaɪt/； 美：/ˈfærənhaɪt/
 - #词性/adj  华氏的；华氏温度计的(冰点为32度，沸点为212度)
 - #词性/n  飞轮海
-# 例句
+##### 例句
 - Still , I 'm grateful to be part of fahrenheit .
 	- 一直都很感激我是飞轮海的一份子。
 - Any interesting websites to share even though it 's not related to Fahrenheit ?

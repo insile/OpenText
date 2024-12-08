@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌfɪzɪəˈlɒdʒɪkəli/； 美：/ˌfɪziəˈlɑdʒɪkli/
 - #词性/adv  生理的；生理；生理上的；生理学上
-# 例句
+##### 例句
 - Physiologically , the likely substrate for NCC is a coalition of pyramidal neurons a type of neuron that communicates over long ranges within the cerebral cortex .
 	- 从生理的角度而言，NCC的基础可能是大脑皮质内锥体神经元组成的联盟，这种神经元可以长距离沟通。
 - Although teachers such as Richard Miller try to use scientifically , physiologically valid methods , this is a relatively new phenomenon .

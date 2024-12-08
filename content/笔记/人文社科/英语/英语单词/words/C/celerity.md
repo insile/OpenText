@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  快速；敏捷；波速
-# 例句
+##### 例句
 - Experiment results show that the system work with celerity , accuracy and reliability .
 	- 实验结果表明：整个系统能够快速、准确、可靠地工作。
 - Demonstrating a New Management Mode of Laboratory Quality and Laboratory Celerity

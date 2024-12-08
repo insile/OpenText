@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɜːθ/； 美：/dɜːrθ/
 - #词性/n  缺乏；不足
-# 例句
+##### 例句
 - There was a dearth of reliable information on the subject .
 	- 关于这个课题缺乏可靠资料。
 - A dearth of technical talent seems to be another widespread problem .

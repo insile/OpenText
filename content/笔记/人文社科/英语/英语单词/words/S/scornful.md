@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈskɔːnfl/； 美：/ˈskɔːrnfl/
 - #词性/adj  轻蔑的；鄙夷的
-# 例句
+##### 例句
 - The scornful nostril and the high head gather not the ordors that lie on the track of truth .
 	- 真理的气息。轻蔑的鼻孔和傲慢的脑袋不能聚集真理之路上的气息。
 - Or scornful smiles or pungent satire .

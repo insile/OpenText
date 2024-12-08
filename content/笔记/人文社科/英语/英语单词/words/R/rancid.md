@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈrænsɪd/； 美：/ˈrænsɪd/
 - #词性/adj  (含油食品)变质的，变味的，哈喇的
-# 例句
+##### 例句
 - Rancid oil will taint the flavour .
 	- 变质的油会破坏味道。
 - We all know that fats spoil by becoming rancid

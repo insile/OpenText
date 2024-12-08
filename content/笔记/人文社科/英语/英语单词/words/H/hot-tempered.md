@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌhɒt ˈtempəd/； 美：/ˌhɑːt ˈtempərd/
 - #词性/adj  暴躁的；易怒的
-# 例句
+##### 例句
 - Sara has decided to burn bridges with her hot-tempered boyfriend .
 	- 莎拉决定和脾气暴躁的男朋友断绝联系。
 - He is so hot-tempered and excitable , like a bottle of soda water exploding .

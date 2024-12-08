@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɜːkjəri/； 美：/ˈmɜːrkjəri/
 - #词性/n  汞；水银
-# 例句
+##### 例句
 - What 's the chemical symbol for mercury ?
 	- 汞的化学元素符号是什么？
 - In the early1960s there became an awareness of a mercury problem in sweden .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdʒentli/； 美：/ˈdʒentli/
 - #词性/adv  轻轻地；温柔地；温和地；慢点；和缓地；文静地；小心点；注意点
-# 例句
+##### 例句
 - Gently , she took hold of the door handle and turned it .
 	- 她轻轻地握住门把手扭动了它。
 - She laid the baby down gently on the bed .

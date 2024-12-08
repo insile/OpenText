@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌænɪsˈθɛtɪk/； 美：/ˌænəˈsθɛtɪk/
 - #词性/n  麻醉剂；麻醉药
 - #词性/adj  同“anaesthetic”
-# 例句
+##### 例句
 - Might be time to start the anesthetic , jason .
 	- 也许是用麻醉药的时候了，詹森。
 - An Experimental Study of the Computer-Controlled Equipment for Delivering Volatile Anesthetic Agent

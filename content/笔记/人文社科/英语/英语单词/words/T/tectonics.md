@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/tekˈtɒnɪks/； 美：/tekˈtɑːnɪks/
 - #词性/n  构造学；构造；板块构造理论
-# 例句
+##### 例句
 - Research Program and Development Model for Tectonics
 	- 大地构造学的研究纲领与发展模式
 - Keeping pace with the times to develop the tectonics of China

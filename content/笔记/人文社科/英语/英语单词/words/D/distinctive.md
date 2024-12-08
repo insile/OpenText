@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈstɪŋktɪv/； 美：/dɪˈstɪŋktɪv/
 - #词性/adj  独特的；特别的；有特色的
-# 例句
+##### 例句
 - She was a singer with a distinctive voice .
 	- 她是一位音色独特的歌手。
 - Beijing opera has a distinctive artistic style .

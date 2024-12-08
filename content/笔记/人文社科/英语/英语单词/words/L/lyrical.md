@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlɪrɪkl/； 美：/ˈlɪrɪkl/
 - #词性/adj  抒情的
-# 例句
+##### 例句
 - First , " new and lyrical theory " .
 	- 新的抒情的理论。
 - A pensive lyrical piece of music ( especially for the piano ) .

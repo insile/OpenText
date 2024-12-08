@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmeθənɒl/； 美：/ˈmeθənɔːl/
 - #词性/n  甲醇
-# 例句
+##### 例句
 - Developing the measurement and control system of direct methanol fuel cell
 	- 直接甲醇燃料电池测控系统的研制
 - Simulation and Analysis of the Operating Conditions of Methanol Synthesis Converter

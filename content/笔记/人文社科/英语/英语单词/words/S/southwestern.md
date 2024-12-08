@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsaʊθˈwɛstən/； 美：/ˌsaʊˈθwɛstərn/
 - #词性/adj  西南；西南部的
 - #词性/n  住在西南部的人
-# 例句
+##### 例句
 - Distance education in China West Project in Southwestern Institute of Technology
 	- 西南工学院实施中国西部远程教育的实践与思考
 - Age analysis of seismic sequences in the southwestern South China Sea

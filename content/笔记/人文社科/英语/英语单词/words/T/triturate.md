@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vt  磨碎；把……研成粉末
 - #词性/n  磨碎物
-# 例句
+##### 例句
 - Methods : 1 : To triturate the a - interferon suppository and dust it on the wound surface .
 	- 方法：1将α-干扰素研碎均匀撒于糜烂面上。
 - The surface material under the condition of half melting is compelled to flow to the reverse direction , that is none restraint free surface . Thus , the grinding triturate is formed .

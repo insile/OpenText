@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ədˈmɪtɪdli/； 美：/ədˈmɪtɪdli/
 - #词性/adv  诚然；(尤用于句首)无可否认
-# 例句
+##### 例句
 - It 's only a theory , admittedly , but the pieces fit together
 	- 诚然，这只是一种理论，但各部分互相吻合。
 - Admittedly , this relationship is based on correlations4 , which means they don 't say a nutrient1 caused anything .

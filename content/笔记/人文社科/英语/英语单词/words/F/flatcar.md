@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈflætkɑː(r)/； 美：/ˈflætkɑːr/
 - #词性/n  (铁路)平板货车，敞车；平板车
-# 例句
+##### 例句
 - Vibration fatigue analysis of a container flatcar based on rigid-flexible coupling simulation
 	- 基于刚柔耦合仿真的集装箱车体振动疲劳分析
 - Performance Evaluation of 120 km \/ h Special Container Flatcar for Fast Transport

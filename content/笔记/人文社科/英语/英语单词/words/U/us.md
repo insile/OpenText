@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əs/； 美：/əs/
 - #词性/pron  我们；我
-# 例句
+##### 例句
 - Most of us use public transport to get to work .
 	- 我们大多数人都乘公交车辆上班。
 - There were only three of us on the advanced course .

@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈʌpəməʊst/； 美：/ˈʌpərmoʊst/
 - #词性/adj  最上面的；最高的；最上端的；最重要；最关键
 - #词性/adv  处于最高位置；面向上地
-# 例句
+##### 例句
 - The uppermost watertight deck . I 'll have watertight windows fixed .
 	- 最高的不漏水的舱面。我要装上不漏水的窗。
 - We find the additive NaClO_2 which have the uppermost denitrification efficiency by the fixture bed experiment .

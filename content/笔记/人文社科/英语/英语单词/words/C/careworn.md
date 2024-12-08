@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkeəwɔːn/； 美：/ˈkerwɔːrn/
 - #词性/adj  忧心忡忡的；忧虑憔悴的
-# 例句
+##### 例句
 - Her face was careworn with anxiety .
 	- 她脸上一副焦虑万分的神情。
 - It 's sad to see the careworn face of the mother of a large poor family .

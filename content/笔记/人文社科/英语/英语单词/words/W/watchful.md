@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwɒtʃfl/； 美：/ˈwɑːtʃfl/
 - #词性/adj  注意的；警惕的；提防的
-# 例句
+##### 例句
 - Some Questions That Should be Watchful in Comparative Study of the History of China and Foreign Countries
 	- 略论中外历史比较研究应注意的几个问题
 - This paper introduce the system of Marine Corps combat water survival training , the training content and watchful proceeding .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈməʊtɪv/； 美：/ɪˈmoʊtɪv/
 - #词性/adj  激动人心的；有感染力的；激起感情的
-# 例句
+##### 例句
 - Capital punishment is a highly emotive issue .
 	- 死刑是极易引起激烈争论的问题。
 - Embryo research is an emotive issue .

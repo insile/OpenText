@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪntərˈæktɪv/； 美：/ˌɪntərˈæktɪv/
 - #词性/adj  〈计〉交互的，人机对话的；互动的，互相交流的；互相作用的，互相影响的
-# 例句
+##### 例句
 - A child 's development is an interactive process .
 	- 孩子的发展是一个与其成长环境相互影响的过程。
 - Study of Technical Diffusion Model on Revenue and Interactive

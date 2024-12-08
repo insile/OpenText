@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtaɪtli/； 美：/ˈtaɪtli/
 - #词性/adv  紧紧地；紧密地；牢固地
-# 例句
+##### 例句
 - The girl held her father 's hand tightly .
 	- 女孩紧紧地拉着她父亲的手。
 - She held her little bundle tightly in her arms .

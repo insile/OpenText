@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈkaʊntəbl/； 美：/əˈkaʊntəbl/
 - #词性/adj  负有责任的；(对自己的决定、行为)负有责任，有说明义务
-# 例句
+##### 例句
 - Sole proprietors are reassuring to customers who believe an individual who is accountable will do a good job .
 	- §顾客总是相信一个负有责任的人会把事情做好，因此个体业主可以使顾客放心。
 - For the present , however , the more immediate-and more pragmatic-task for administrative law is to evaluate and further refine the doctrines and techniques for making bureaucratic power accountable , without destroying the effectiveness of those administrative agencies considered necessary .

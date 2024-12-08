@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsʌmətaɪm/； 美：/ˈsʌmərtaɪm/
 - #词性/n  夏季；夏天；夏令
-# 例句
+##### 例句
 - It 's a very beautiful place in the summertime .
 	- 这里夏季非常漂亮。
 - Brits stayed up a half-hour later to watch it , and then they woke up earlier than usual the next morning thanks to summer nights , the phenomenon in which the sun barely sets in northern countries in the summertime .

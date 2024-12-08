@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪmprɪˈsaɪs/； 美：/ˌɪmprɪˈsaɪs/
 - #词性/adj  不精确的；不确切的；不明确的
-# 例句
+##### 例句
 - The high-level , often imprecise rules of thumb and intuitive reasoning that experts use to solve problems .
 	- 专家用于求解问题的高级的但常常是不确切的经验法则和直觉推理法。
 - Utilitarianism is a very broad , imprecise concept that covers a multitude of underlying theoretical positions .

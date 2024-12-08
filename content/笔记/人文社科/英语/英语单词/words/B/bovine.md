@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbəʊvaɪn/； 美：/ˈboʊvaɪn/
 - #词性/adj  牛的；反应迟钝的；与牛有关的；愚笨的
 - #词性/n  牛科动物
-# 例句
+##### 例句
 - These suggesting that bovine CIDEC gene has an important role in lipid metabolism . 2 .
 	- 提示CIDEC在牛的脂质代谢方面有重要作用。
 - The Bovine Genome Sequencing Project found that the cow genome contains at least twenty-two thousand genes .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsteɪdʒi/； 美：/ˈsteɪdʒi/
 - #词性/adj  做作的；演戏似的；不自然的
-# 例句
+##### 例句
 - In a stagy and theatrical manner .
 	- 以做作的、演戏似的方式。
 - With a rather stagy flourish he left the room .

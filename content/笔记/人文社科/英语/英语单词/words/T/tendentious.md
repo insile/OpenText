@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/tenˈdenʃəs/； 美：/tenˈdenʃəs/
 - #词性/adj  倾向性的；有偏见的；有争议的
-# 例句
+##### 例句
 - She made a tendentious speech .
 	- 她发表了有倾向性的讲话。
 - His statement was frankly tendentious .

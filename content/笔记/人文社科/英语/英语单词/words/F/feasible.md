@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfiːzəbl/； 美：/ˈfiːzəbl/
 - #词性/adj  可行的；行得通的
-# 例句
+##### 例句
 - We all think this proposal feasible .
 	- 大家认为这个建议是可行的。
 - This is a feasible scheme .

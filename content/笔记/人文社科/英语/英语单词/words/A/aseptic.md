@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌeɪˈseptɪk/； 美：/ˌeɪˈseptɪk/
 - #词性/adj  无(病)菌的
 - #词性/n  防腐药
-# 例句
+##### 例句
 - When cultures are grown without phages or under aseptic conditions ( starters ), they lose their phage resistance .
 	- 当培养物存在于没有噬菌体或无菌的条件时，它们便失去了抵抗噬菌体的能力。
 - 10-year-old Black Pines were inoculated with aseptic pine wood nematodes ( Bursaphelenchus xylophilus ) in September 2001 , and examined in August 2002 . The nematodes and the bacterium were isolated from the Black Pines which were inoculated .

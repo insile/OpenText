@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/klænˈdestɪn/； 美：/klænˈdestɪn/
 - #词性/adj  秘密的；保密的；暗中从事的
-# 例句
+##### 例句
 - Others confess very bad sins , like killing someone during a clandestine government operation .
 	- 其他人则忏悔深重的罪孽，比如在秘密的政府行动中谋杀某人。
 - We have to make sure there is no clandestine uranium enrichment program that is somehow undeclared and unexcavated .

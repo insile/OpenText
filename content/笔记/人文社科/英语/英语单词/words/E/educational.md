@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌedʒuˈkeɪʃənl/； 美：/ˌedʒuˈkeɪʃənl/
 - #词性/adj  教育的；有关教育的；有教育意义的
-# 例句
+##### 例句
 - Educational success is mediated by economic factors .
 	- 经济因素影响着教育的成功。
 - Recent events have radicalized opinion on educational matters .

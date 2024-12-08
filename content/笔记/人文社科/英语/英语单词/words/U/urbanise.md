@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  （使）城市化；（使）农村人口迁徙到城市（等于 urbanize）
-# 例句
+##### 例句
 - First , China will continue to urbanise rapidly , which will raise household income and create new sources of growth .
 	- 首先，中国将继续快速实现城市化，这将提高家庭收入，创造新的增长来源。
 - As we urbanise and improve living standards , there will be increasing competition for drinking-quality water , putting agriculture under further pressure .

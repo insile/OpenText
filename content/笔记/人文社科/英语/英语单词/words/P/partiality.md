@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpɑːʃiˈæləti/； 美：/ˌpɑːrʃiˈæləti/
 - #词性/n  偏袒；偏爱；特别喜爱；酷爱
-# 例句
+##### 例句
 - She could not help showing her partiality towards her own team .
 	- 她禁不住流露出对自己球队的偏爱。
 - A display of partiality toward a favored person or group .

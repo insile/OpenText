@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  吝啬的；<非正>非常小气的；手紧
-# 例句
+##### 例句
 - His tightfisted employer was unwilling to give him a raise .
 	- 他那吝啬的雇主不肯给他加薪。
 - His tightfisted employer is unwilling to give him a raise .

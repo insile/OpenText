@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  词缀；添加
-# 例句
+##### 例句
 - A Brief Analysis on Affixation Rhetorical Function of Chinese Words
 	- 浅析汉语词语的附加修辞功能
 - The rhetorical function of Chinese words is very abundant , the affixation rhetorical function is one of them .

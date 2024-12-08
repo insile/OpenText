@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  【参见】install
-# 例句
+##### 例句
 - Microcomputer Automatic Quality Testing and Management System for Air Conditioner Instal Line
 	- 空调机生产线微机自动质量检测与管理系统
 - If " Project Trumpmore " raises enough money , the group says that they will instal a live stream of the sculpture as it melts .

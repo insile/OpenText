@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  节日的
-# 例句
+##### 例句
 - Even the people performing festal services were his friends .
 	- 甚至执行节日服务的人也是他的朋友。
 - As though some primitive festal act was taking place .

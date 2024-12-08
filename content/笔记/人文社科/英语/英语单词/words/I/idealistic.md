@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌaɪdiəˈlɪstɪk/； 美：/ˌaɪdiəˈlɪstɪk/
 - #词性/adj  理想主义的；空想的
-# 例句
+##### 例句
 - This idealistic concept is at variance with reality .
 	- 这种理想主义的观念和现实相矛盾。
 - This idealistic view of rights must affect the realization of rights in practice .

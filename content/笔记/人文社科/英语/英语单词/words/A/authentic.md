@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɔːˈθentɪk/； 美：/ɔːˈθentɪk/
 - #词性/adj  真实的；真正的；真品的；真迹的；逼真的
-# 例句
+##### 例句
 - She has authentic charm whereas most people simply have nice manners
 	- 她散发出真正的魅力，而大多数人只是举止优雅。
 - This is an authentic Persian rug .

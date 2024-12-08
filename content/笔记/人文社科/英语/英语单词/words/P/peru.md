@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pə'rʊ/； 美：/pə'rʊ/
 - #词性/n  秘鲁
-# 例句
+##### 例句
 - About two-hundred people died in the earthquake which hit northern Peru
 	- 约200人在秘鲁北部发生的地震中丧生。
 - In 1987 , Garcia introduced legislation to nationalize Peru 's banking and financial systems

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/məˈlɒdɪk/； 美：/məˈlɑːdɪk/
 - #词性/adj  旋律的；主旋律的
-# 例句
+##### 例句
 - Harmony in which each chord has four notes that create four melodic lines .
 	- 每次和声有四个音符，每个音符产生一种旋律的和声。
 - Melodic subject of a musical composition .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ləˈbɔːriəs/； 美：/ləˈbɔːriəs/
 - #词性/adj  费力的；辛苦的
-# 例句
+##### 例句
 - The approach usually requires laborious modeling and expensive rendering hardware with special purpose .
 	- 这种方法需要费时费力的建模和昂贵的专用绘制硬件。
 - One way to offset this laborious task is to invest in preemptive tools that help you conduct penetration testing and vulnerability assessments .

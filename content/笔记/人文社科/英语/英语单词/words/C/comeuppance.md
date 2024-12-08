@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kʌmˈʌpəns/； 美：/kʌmˈʌpəns/
 - #词性/n  报应；应得的惩罚
-# 例句
+##### 例句
 - This kind of " comeuppance " has no place in a loving relationship .
 	- 这种类的“应得的惩罚”没有在一深情的之间的关系中的地方。
 - I was glad to see that the bad guy got his comeuppance at the end of the movie .

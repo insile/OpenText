@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/eə(r)/； 美：/er/
 - #词性/conj #词性/prep  在…之前
-# 例句
+##### 例句
 - Ere long they returned .
 	- 他们不久就回来了。
 - Take the water ere the clock strikes twelve .

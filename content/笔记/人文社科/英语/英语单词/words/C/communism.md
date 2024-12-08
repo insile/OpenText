@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkɒmjunɪzəm/； 美：/ˈkɑːmjunɪzəm/
 - #词性/n  共产主义；共产主义制度
-# 例句
+##### 例句
 - Tito forged a unique model of communism after breaking with Stalin in 1948 .
 	- 1948年铁托在和斯大林决裂后创建了一种独特的共产主义模式。
 - Later I believed for a while that communism offered the best hope for this world .

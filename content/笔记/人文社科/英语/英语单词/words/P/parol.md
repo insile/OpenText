@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  口头言词；口头答辩；石蜡燃料
 - #词性/adj  口头的；没有签章的
-# 例句
+##### 例句
 - A Talk about Chinese Quality Education from Confucian Parol Education
 	- 从孔子言语教育谈语文素质教育
 - The operation of parol education mainly involves the adoption of teaching method and the appliance of teaching medium .

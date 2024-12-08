@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/zɪltʃ/； 美：/zɪltʃ/
 - #词性/n  没有；毫无
-# 例句
+##### 例句
 - I arrived in this country with zilch .
 	- 我来到这个国家时身上一无所有。
 - At the moment these shares are worth zilch .

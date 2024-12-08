@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkɒɡnətɪv/； 美：/ˈkɑːɡnətɪv/
 - #词性/adj  认知的；认识的；感知的
-# 例句
+##### 例句
 - We 're all well aware of how dressing up in different ways can make us feel more attractive , sporty or professional , depending on the clothes we wear , but can the clothes actually change cognitive performance or is it just a feeling ?
 	- 我们都很清楚，不同的着装方式会令我们感到自己更有吸引力。运动风也好职业风也罢，这取决于我们所穿的衣服。但这些衣服真的能改变认知的表现吗？还是说，这只是一种感觉？
 - Therefore , emotion study is one part of cognitive study .

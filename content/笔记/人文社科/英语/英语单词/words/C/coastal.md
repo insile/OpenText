@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkəʊstl/； 美：/ˈkoʊstl/
 - #词性/adj  沿海的，靠近海岸的，海岸的
-# 例句
+##### 例句
 - Is the coastal plain good for growing crops ?
 	- 沿海的平原适合种庄稼吗？
 - The coastal assessment identified two access points to the island .

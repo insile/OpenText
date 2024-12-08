@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  多才多艺；技术全面；用途广泛
-# 例句
+##### 例句
 - She is a designer of extraordinary versatility .
 	- 她是位特别多才多艺的设计师。
 - Taylor eulogised about Steven 's versatility .

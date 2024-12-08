@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɔːtəˈməʊtɪv/； 美：/ˌɔːtəˈmoʊtɪv/
 - #词性/adj  汽车的；机动车辆的
-# 例句
+##### 例句
 - Petroleum is still a main automotive fuel in the early 21st century .
 	- 21世纪初石油燃料仍将是汽车的主要燃料。
 - Reducing automotive emission has become an urgent problem .

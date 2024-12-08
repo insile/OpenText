@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkrəʊniɪzəm/； 美：/ˈkroʊniɪzəm/
 - #词性/n  任人唯亲；任用亲信
-# 例句
+##### 例句
 - Bringing business people into politics can also produce corruption and cronyism .
 	- 商人从政也容易带来腐败和任人唯亲。
 - Many small town mayor and city official practice cronyism .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'emfəsaɪz/； 美：/'emfəsaɪz/
 - #词性/v  强调；使突出；着重；重视
-# 例句
+##### 例句
 - Business schools emphasise how to make you toe the line .
 	- 而商学院强调的则是循规蹈矩。
 - However , the governors ' new standards still emphasise academic skills .

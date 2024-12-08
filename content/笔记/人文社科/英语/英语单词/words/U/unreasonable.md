@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈriːznəbl/； 美：/ʌnˈriːznəbl/
 - #词性/adj  不合理的；不公正的；期望过高的
-# 例句
+##### 例句
 - They contested against unreasonable regulations .
 	- 他们反对不合理的规定。
 - Unreasonable urban consumption brings damage to the living environment of human .

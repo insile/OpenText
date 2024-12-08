@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  潮（线）间的
-# 例句
+##### 例句
 - The surface sediment types and distribution of Tianjin intertidal zone , China
 	- 天津市潮间带表层沉积物的类型及其分布
 - Study on the Pattern of Land Use of Intertidal Zone in Huanghua

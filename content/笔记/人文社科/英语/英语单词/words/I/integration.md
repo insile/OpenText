@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪntɪˈɡreɪʃn/； 美：/ˌɪntɪˈɡreɪʃn/
 - #词性/n  整合；一体化；结合；(不同肤色、种族、宗教信仰等的人的)混合，融合
-# 例句
+##### 例句
 - His music is an integration of tradition and new technology .
 	- 他的音乐结合了传统和新技术。
 - It adopted the method of integration of theoretical analysis with practice .

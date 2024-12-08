@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈfləʊt/； 美：/əˈfloʊt/
 - #词性/adj  (在水上)漂浮；能维持下去；有偿债能力
 - #词性/adv  漂浮；传播；在海上；在船上
-# 例句
+##### 例句
 - Three hours is a long time to try to stay afloat in these conditions .
 	- 在这样的条件下漂浮3个小时是够久的。
 - They talked modestly of their valiant efforts to keep the tanker afloat

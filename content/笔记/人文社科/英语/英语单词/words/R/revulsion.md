@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈvʌlʃn/； 美：/rɪˈvʌlʃn/
 - #词性/n  厌恶；恶心；嫌恶；惊恐
-# 例句
+##### 例句
 - I started to feel a revulsion against their decadent lifestyle .
 	- 我对他们那腐朽的生活方式开始感到厌恶。
 - He tried to conceal his instinctive revulsion at the idea .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbləʊhəʊl/； 美：/ˈbloʊhoʊl/
 - #词性/n  (鲸头顶的)呼吸孔；(供海豹等呼吸的)冰窟窿
-# 例句
+##### 例句
 - Spout moist air from the blowhole , as of some marine mammals .
 	- 如一些哺乳动物（鲸等）一样从呼吸孔中喷出的潮湿的气。
 - The blowhole is a flap of skin that is thought to open and close under the voluntary control of the animal .

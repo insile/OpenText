@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkɒlərɪk/； 美：/ˈkɑːlərɪk/
 - #词性/adj  暴躁的；易怒的；脾气不好的
-# 例句
+##### 例句
 - Men of the choleric type take to kicking and smashing - H.G.Wells .
 	- 易怒的人喜欢踢和打碎东西-H.G.韦尔斯。
 - He was affable at one moment , choleric the next .

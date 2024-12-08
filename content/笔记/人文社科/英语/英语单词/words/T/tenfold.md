@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtenfəʊld/； 美：/ˈtenfoʊld/
 - #词性/adv #词性/adj  十倍；十倍地（的）
-# 例句
+##### 例句
 - After swimming across a river infested with crocodiles , Marquis wrote that every time she finds herself in the bush , my happiness increases tenfold .
 	- 游过鳄鱼肆虐的河流之后，马奎斯写道，每当她发现自己置身丛林，我的欢愉就会十倍地增长。
 - The two companies grew tenfold in the ensuing ten years .

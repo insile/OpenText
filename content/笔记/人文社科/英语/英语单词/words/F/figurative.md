@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɪɡərətɪv/； 美：/ˈfɪɡjərətɪv/
 - #词性/adj  形象的；比喻的
-# 例句
+##### 例句
 - He imprisoned her , in a figurative sense .
 	- 在比喻的意义上，他把她关在牢里了。
 - This has long been taken no_only literally , but also in a figurative sense , for the Orient has been considered as the source of wisdom and illumination .

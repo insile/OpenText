@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  中纬度
-# 例句
+##### 例句
 - Overland Rainfall Estimates in Midlatitude by Using MODIS Infrared Channel
 	- 利用MODIS的热红外通道估计中纬度降雨
 - Storm track variations in the North Pacific in winter season and the coupled pattern with the midlatitude atmosphere-ocean system

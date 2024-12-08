@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdʒi(ː)əʊmægˈnɛtɪk(əl)/； 美：/ˌdʒioʊmægˈnɛtɪk/
 - #词性/adj  地磁的
-# 例句
+##### 例句
 - The geomagnetic precursor law and its magnitude formula
 	- 地磁的前兆规律及其震级公式
 - Information disclosure is insufficient and not timely ; Study on False Geomagnetic Anomalies in Xichang before the Three Earthquakes with about M6 in 2001

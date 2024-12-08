@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pɔːˈtentəs/； 美：/pɔːrˈtentəs/
 - #词性/adj  预示(坏事)的；先兆的；装腔作势的；预示性的；煞有介事的；装模作样的
-# 例句
+##### 例句
 - In social politics , too , the city 's contribution to 20th century thought and culture was no less portentous
 	- 同样从社会政治学上看，城市对20世纪思想、文化的贡献也意义重大。
 - Portentous choices were forced on him by the dozen .

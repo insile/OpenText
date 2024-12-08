@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪsˈpæʃənət/； 美：/dɪsˈpæʃənət/
 - #词性/adj  冷静的；不动感情的；不带偏见的
-# 例句
+##### 例句
 - He spoke in the flat , dispassionate tone of a lecturer .
 	- 他以一个讲师般平板、不动感情的口吻说话。
 - " Has anyone tried approaching the company with a dispassionate attitude ?" asked Tom .

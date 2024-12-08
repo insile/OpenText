@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəmˌpætəˈbɪləti/； 美：/kəmˌpætəˈbɪləti/
 - #词性/n  (尤指计算机及程序的)兼容性，相容性；相容；并存；和睦相处
-# 例句
+##### 例句
 - The true measureof compatibility occurs shortly there after .
 	- 而能否和睦相处的真正考验在不久后就会来临。
 - Chamber compatibility and injector durability involve the control of the combustion environment .

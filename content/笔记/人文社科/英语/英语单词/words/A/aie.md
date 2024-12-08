@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/abbr  空中接口演进；艾奥梅；急性感染性心内膜炎；自适应图像增强器；挨饿
-# 例句
+##### 例句
 - The measuring principle hardware configuration and error analysis aie also presented .
 	- 并介绍了测量原理、硬件配置及误差分析。
 - The follow-up Investigation and Policy Research of AIE 's Graduates

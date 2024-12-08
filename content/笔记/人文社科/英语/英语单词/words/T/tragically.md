@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  悲惨地
-# 例句
+##### 例句
 - Tragically he committed suicide when the investment went wrong .
 	- 在投资失利后，他悲惨地选择了自杀。
 - Three lives were tragically taken last Monday – and a police officer was killed on Thursday .

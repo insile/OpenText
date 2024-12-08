@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  乳齿象；庞然大物；柱牙象；乳齿象乐队
-# 例句
+##### 例句
 - The ancestors of American Indians probably knew the mastodon .
 	- 美洲印第安人的祖先大概知道乳齿象。
 - They hunted huge creatures like the mastodon , which were similar to the modern elephant .

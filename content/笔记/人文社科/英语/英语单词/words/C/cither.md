@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  齐特拉琴；西特琴
-# 例句
+##### 例句
 - Both Input and output of the networks are cither procedures or functions .
 	- 网络的输入输出可为过程或时变函数。
 - In view of the fact that the air flow is not orthogonal to the heat exchanger surface in many cascs for thc direct and indirect dry cooling systems with cither surface or inject condensers .

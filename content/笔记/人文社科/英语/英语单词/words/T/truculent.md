@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtrʌkjələnt/； 美：/ˈtrʌkjələnt/
 - #词性/adj  好斗的；粗暴的；寻衅的；爱争吵的
-# 例句
+##### 例句
 - It was his usual aspect , and a truculent one .
 	- 这是他惯常的模样，是一种好斗的表情。
 - The real question , then , is what the truculent teen can hope to extract from the US in return assuming the subsequent exchange rate movements are deemed to be sufficiently deserving .

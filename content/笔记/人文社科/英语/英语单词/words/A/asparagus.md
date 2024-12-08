@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈspærəɡəs/； 美：/əˈspærəɡəs/
 - #词性/n  芦笋；龙须菜
-# 例句
+##### 例句
 - Now British asparagus is in season .
 	- 现在英国芦笋正当令。
 - Trim any tough or woody stalks from the asparagus .

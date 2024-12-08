@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  区域主义者；地方主义者；本土主义
-# 例句
+##### 例句
 - A Study on China 's Regionalist Strategies
 	- 中国地区主义战略研究
 - Academic demarcations and interpretations are presented as regards the concepts and characteristics of regionalist strategies .

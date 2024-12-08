@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfiːdbæk/； 美：/ˈfiːdbæk/
 - #词性/n  反馈；反馈的意见(或信息)；(电器的)反馈噪音
-# 例句
+##### 例句
 - Continue to ask for feedback on your work
 	- 继续征求对你的工作的反馈意见。
 - You need feedback to monitor progress .

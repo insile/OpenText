@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsnæpɪʃ/； 美：/ˈsnæpɪʃ/
 - #词性/adj  (对人说话的方式)恶狠狠的，疾言厉色的，发急的
-# 例句
+##### 例句
 - ' That is beautiful , Tony , ' Momma said , no longer sounding at all snappish .
 	- “真美呀，托尼，”妈妈说道，话音里的恶声恶气不见了。
 - He 's very snappish when he arrives at work in the morning .

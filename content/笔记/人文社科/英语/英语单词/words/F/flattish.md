@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  扁平的；有点平的；有点单调的；有点平凡的
-# 例句
+##### 例句
 - LVMH MC.FR shares dropped recently after the company said China sales were ' flattish ' in the last year or so .
 	- 路易威登（LVMH）最近表示过去一年在中国的销售业绩平平之后，股价应声下跌。
 - " It 's sort of like a native cat with a broad flattish head with large canines ," Godthelp told AFP .

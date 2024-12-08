@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/vɪˈtjuːpərətɪv/； 美：/vaɪˈtuːpəreɪtɪv/
 - #词性/adj  辱骂的；谩骂的；责骂的
-# 例句
+##### 例句
 - He is often the victim of vituperative remarks concerning his wealth .
 	- 他经常因为富有而受到辱骂。
 - I was really taken aback by their vituperative animosity toward the Soviet Union .

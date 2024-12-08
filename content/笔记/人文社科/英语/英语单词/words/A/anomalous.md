@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈnɒmələs/； 美：/əˈnɑːmələs/
 - #词性/adj  异常的；反常的
-# 例句
+##### 例句
 - The internal friction peak shows an anomalous amplitude effect , i.e. , at a given temperature of measurement an internal friction peak is obtained when the internal friction is plotted against the stress amplitude .
 	- 所得的内耗峰表现有反常的振幅效应，即在一定的观测温度时，如将内耗表示为外加应力的函数，则也得到一个内耗峰。
 - Anomalous temperature distributions are often an indication of atypical behavior in a device under investigation . Infrared cameras provide a convenient effective method for measuring both absolute and relative temperature distributions of an object .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  灵感
-# 例句
+##### 例句
 - The Third Way to Get Acquainted with the Essence of Afflatus
 	- 试论认识灵感本质的第三条途径
 - So the afflatus of clothing design must be pursued from all-around and multiple directions .

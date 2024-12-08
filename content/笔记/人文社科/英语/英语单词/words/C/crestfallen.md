@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkrestfɔːlən/； 美：/ˈkrestfɔːlən/
 - #词性/adj  垂头丧气的；沮丧的；灰心失望的
-# 例句
+##### 例句
 - He did it awfully well ,' said the crestfallen Rat .
 	- 他装得太到家了！垂头丧气的河鼠说。
 - Mr Fogg , offering his arm to Aouda , then departed , followed by the crestfallen Passepartout .

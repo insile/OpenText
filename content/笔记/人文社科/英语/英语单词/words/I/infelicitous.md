@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  不恰当的；不适当的；不合适的；不幸的
-# 例句
+##### 例句
 - There are several infelicitous remarks in this article .
 	- 文中有一些不贴切的措辞。
 - The infelicitous typesetting was due to illegible copy .

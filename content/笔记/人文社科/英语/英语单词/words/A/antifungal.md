@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  抗真菌剂，抗霉剂
 - #词性/adj  抗真菌的
-# 例句
+##### 例句
 - Progress on Antifungal Activity of Chinese Traditional Medicine
 	- 中药抗真菌的研究进展
 - Antifungal creams and sprays are also effective at managing the infection .

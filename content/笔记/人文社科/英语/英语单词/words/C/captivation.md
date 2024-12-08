@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  俘虏；迷惑；逮捕
-# 例句
+##### 例句
 - The young man did not analyze the process of his captivation and enrapturement , for love to him was a mystery and could not be analyzed .
 	- 这年轻人没有分析自己蛊惑著迷的过程，因为对他来说，爱是个不可分析的迷
 - Somewhere in my captivation , I heard this little voice inside my head say these words ,

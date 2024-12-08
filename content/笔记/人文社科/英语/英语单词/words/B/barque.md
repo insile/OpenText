@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/bɑːk/； 美：/bɑːrk/
 - #词性/n  三桅(或多桅)帆船
-# 例句
+##### 例句
 - An improbable sort of barque , but at least it floats .
 	- 虽是一叶轻舟，它至少还浮在水面上。
 - Of course when Peter landed he beached his barque in a place where the bird would easily find it ;

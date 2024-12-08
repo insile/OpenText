@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/səˈlɪsɪtəs/； 美：/səˈlɪsɪtəs/
 - #词性/adj  关切的；关怀的；操心的
-# 例句
+##### 例句
 - Solicitous enquiries about her health
 	- 对她健康的关切的询问
 - He was so solicitous of his guests .

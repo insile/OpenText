@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpepsɪn/； 美：/ˈpepsɪn/
 - #词性/n  胃蛋白酶
-# 例句
+##### 例句
 - Chymotrypsin attacks the same peptide bonds that pepsin does .
 	- 胰凝乳蛋白酶分解胃蛋白酶所分解的同一类肽健。
 - Influence of Pepsin on Biochemical Characteristics and Biological Activity of Transfer Factor In Vitro

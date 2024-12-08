@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/njuːˈmætɪk/； 美：/nuːˈmætɪk/
 - #词性/adj  气动的；充气的；风动的；由压缩空气操作的
 - #词性/n  (风琴的)管；气胎；有气胎的自行车
-# 例句
+##### 例句
 - Cushion , of cellular rubber or plastics ( excl. pneumatic )
 	- 泡沫橡胶或泡沫塑料靠垫（充气的除外）
 - Design the injection molding with pneumatic ejecting , so as to suit the injection molding with big ejecting force in deep mold and thin wall barrel .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdɒldrəmz/； 美：/ˈdoʊldrəmz/
 - #词性/n  萧条；忧郁；消沉；停滞；无生气；郁闷；没精打采
-# 例句
+##### 例句
 - Doldrums , sadness , anger , nothingness & Analyzing Shakespeare 's early works starting with his early creative emotional appeal
 	- 忧郁、感伤、激愤、虚无&从十四行诗看莎士比亚早期的创作情调
 - The doldrums and the self-humiliation made them take pity on themselves and even be disgusted of themselves .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbaʊnsi/； 美：/ˈbaʊnsi/
 - #词性/adj  精神饱满的；生气勃勃的；弹性好的；有反弹力的
-# 例句
+##### 例句
 - The band alternated romantic love songs with bouncy dance numbers .
 	- 乐队轮番献上浪漫情歌和劲歌热舞。
 - She was bouncy and full of energy .

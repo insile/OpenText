@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈθɔːtləs/； 美：/ˈθɔːtləs/
 - #词性/adj  轻率的；欠考虑的；粗心大意的
-# 例句
+##### 例句
 - It was just a thoughtless remark .
 	- 那不过是一句欠考虑的话。
 - I was an unwilling participant in many of qetesh 's thoughtless actions .

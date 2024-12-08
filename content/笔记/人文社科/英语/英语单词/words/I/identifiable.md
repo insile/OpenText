@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/aɪˌdentɪˈfaɪəbl/； 美：/aɪˌdentɪˈfaɪəbl/
 - #词性/adj  可识别；可辨认的
-# 例句
+##### 例句
 - Divide your programs into methods that perform one identifiable task .
 	- 把程序划分为方法，每个方法执行一个可识别的任务。
 - An Ecological , Humanistic Identifiable Campus The New Campus Planning of Wuhan University of Technology

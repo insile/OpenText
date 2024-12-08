@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌfɑːməˈkɒlədʒi/； 美：/ˌfɑːrməˈkɑːlədʒi/
 - #词性/n  药理学；药物学
-# 例句
+##### 例句
 - Reflections on improving the effectiveness of pharmacology classroom teaching
 	- 提高《药物学》课堂教学效果的思考
 - She took up a post as research assistant in the Department of Pharmacology .

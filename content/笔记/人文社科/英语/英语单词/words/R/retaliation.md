@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˌtæliˈeɪʃn/； 美：/rɪˌtæliˈeɪʃn/
 - #词性/n  报复
-# 例句
+##### 例句
 - The shooting may have been in retaliation for the arrest of the terrorist suspects .
 	- 枪击事件可能是对逮捕嫌疑恐怖分子进行的报复行动。
 - The armed forces were on high alert to guard against any retaliation .

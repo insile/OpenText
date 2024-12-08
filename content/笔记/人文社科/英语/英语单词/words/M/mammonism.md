@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  拜金主义
-# 例句
+##### 例句
 - It is generally said that mammonism is the root cause .
 	- 一般会说拜金主义是根本原因。
 - I didn 't want to fall a victim to mammonism .

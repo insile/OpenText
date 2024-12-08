@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈdefɪnət/； 美：/ɪnˈdefɪnət/
 - #词性/adj  无限期的；不明确的；模糊不清的；期限不定的
-# 例句
+##### 例句
 - Such a policy would consign the poor to indefinite poverty .
 	- 这样一种政策将会使穷人陷于无限期的贫困。
 - However , The indefinite criminal record has many disadvantages , especially for minors .

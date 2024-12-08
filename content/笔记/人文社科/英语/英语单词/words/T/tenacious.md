@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/təˈneɪʃəs/； 美：/təˈneɪʃəs/
 - #词性/adj  顽强的；坚持的；坚忍不拔的；紧握的；不松手的
-# 例句
+##### 例句
 - Tenacious quality in will can stimulate the students ' voluntariness .
 	- 顽强的意志品质会激发学生的自觉性；
 - They put up a tenacious fight against the drought .

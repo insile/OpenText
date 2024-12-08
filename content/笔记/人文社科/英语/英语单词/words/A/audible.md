@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɔːdəbl/； 美：/ˈɔːdəbl/
 - #词性/adj  听得见的
-# 例句
+##### 例句
 - Noise from outside the shell also can change the intensity of the sound you hear inside the shell . You can look at the shell as a resonating chamber . When sound from outside enters the shell , it bounces around , thus creating an audible noise .
 	- 外界的声响也会影响到你从海螺里听到声响的强弱，你可以把螺体看做一个共鸣腔，外界的声波传到螺内之后会在里面来回反弹，从而形成了听得见的声响。
 - There is an audible stillness , In which the common voice sounds strange .

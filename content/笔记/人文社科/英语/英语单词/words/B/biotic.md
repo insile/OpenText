@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/baɪˈɒtɪk/； 美：/baɪˈɑːtɪk/
 - #词性/adj  生物的；生命的
-# 例句
+##### 例句
 - What symbol is used to denote the intrinsic rate of increase or biotic potential ?
 	- 什么是用来表示固有的增长比例和生物的潜力的标志？
 - Forest fragmentation causes large changes of the physical environment as well as biotic changes in forest edges .

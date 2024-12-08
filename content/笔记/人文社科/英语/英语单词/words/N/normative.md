@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnɔːmətɪv/； 美：/ˈnɔːrmətɪv/
 - #词性/adj  规范的；标准的
-# 例句
+##### 例句
 - Therefore , must formulate normative responsibility mechanism and interest angle mechanism .
 	- 因此，必须要制订出规范的责任分担机制和利益追逐机制。
 - We can use the Online Communication Management System and normative communication system and canonical communication form to decrease or avoid asymmetric information .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  鲁莽；轻率；草率；卤莽
-# 例句
+##### 例句
 - He suddenly realized the rashness of what he had said .
 	- 他突然意识到他出言鲁莽。
 - It is a form of rashness , he says .

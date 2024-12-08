@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɒstjʊməs/； 美：/ˈpɑːstʃəməs/
 - #词性/adj  死后发生(或做、出版等)的
-# 例句
+##### 例句
 - His family and supporters have campaigned for many years for a posthumous pardon .
 	- 他的家人和支持者为争取其获得身后赦免而开展了多年的运动。
 - The legendary actor received a posthumous achievement award .

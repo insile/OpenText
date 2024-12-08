@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈiːvənnəs/； 美：/ˈiːvənnəs/
 - #词性/n  平均；平等；平坦；均匀性
-# 例句
+##### 例句
 - Research on the relationship between surface evenness and operating speed
 	- 路面不平度与汽车运行速度的关系研究
 - Study of relationship between road surface evenness and ride quality

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  （教会法）（教会的）诅咒；咒骂
-# 例句
+##### 例句
 - Shakespeare 's remains were guarded by a malediction .
 	- 莎士比亚的遗骸被诅咒给守护著。
 - Would you turn their distress into a malediction ?

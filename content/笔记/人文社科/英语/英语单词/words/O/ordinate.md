@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɔːdɪnət/； 美：/ˈɔːrdɪnət/
 - #词性/n  纵坐标
-# 例句
+##### 例句
 - The ordinate scale is linear in decibels .
 	- 纵坐标比例尺以分贝为单位是线性的。
 - A Dimension is an ordinate of a multidimensional structure .

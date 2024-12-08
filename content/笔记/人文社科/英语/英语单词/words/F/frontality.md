@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  正面性；正对观众的；正面性原理；正面绘画；正对镜头
-# 例句
+##### 例句
 - This paper investigates the precise meaning of the term " Frontality " from the perspective of art history .
 	- 本文从美术史的视角出发，探究“正面性”这个词的确切含义。
 - Thus it will be indicated that " Frontality " is an essential prerequisite of " phenomenal transparency " defined by Colin Rowe and Robert Slutzky .

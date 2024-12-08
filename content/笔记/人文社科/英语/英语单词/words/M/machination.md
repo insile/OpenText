@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmæʃɪˈneɪʃn/； 美：/ˌmæʃɪˈneɪʃn/
 - #词性/n  阴谋；诡计
-# 例句
+##### 例句
 - To attempt to counter one 's machination
 	- 试图反击某人之阴谋
 - This is all a machination !

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdaɪstʌf/； 美：/ˈdaɪˌstʌf/
 - #词性/n  染料；染色剂
-# 例句
+##### 例句
 - It makes use of an intermediate of medicine compound and as a disperser in dyestuff .
 	- 本品用作分散染料的中间体和医药中间体
 - Current situation and future development of China 's dyestuff industry

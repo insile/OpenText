@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmɪd'west/； 美：/ˌmɪd'west/
 - #词性/n  中西部；美国中西部；中西；中西部公司
-# 例句
+##### 例句
 - The difference on Midwest diet culture
 	- 大相径庭的中西饮食文化
 - Regarded as westerners who understood the East , the missionary became media that the Midwest associates .

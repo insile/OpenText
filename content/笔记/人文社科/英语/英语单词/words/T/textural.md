@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtekstʃərəl/； 美：/ˈtekstʃərəl/
 - #词性/adj  纹理的；质地的
-# 例句
+##### 例句
 - Emma has studied the textural structure of different wallpaper patterns to develop her own harmonious compositions .
 	- 艾玛系列通过研究不同质地的壁纸花型开发出自己的作品。
 - The effects of cooking temperature and time on the biochemical characteristics and textural property of Young Anchovy were investigated .

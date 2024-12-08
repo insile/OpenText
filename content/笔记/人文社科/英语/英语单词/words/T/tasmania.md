@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/tæzˈmeɪnɪə/； 美：/ˌtæzˈmeɪniə/
 - #词性/n  塔斯马尼亚；塔斯马尼亚州；塔斯马尼亚岛；澳大利亚东南部的塔斯马尼亚岛
-# 例句
+##### 例句
 - I 've got some leave due to me and I was going to Tasmania for a fortnight .
 	- 我打算利用应享有的假期去塔斯马尼亚呆两周。
 - Police in Tasmania say about 80 buildings have been destroyed in one town alone .

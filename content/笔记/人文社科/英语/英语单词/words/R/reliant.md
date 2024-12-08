@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈlaɪənt/； 美：/rɪˈlaɪənt/
 - #词性/adj  依靠的；依赖性的
-# 例句
+##### 例句
 - The hostel is heavily reliant upon charity .
 	- 这家收容所在很大程度上依赖赞助。
 - These people are not wholly reliant on Western charity

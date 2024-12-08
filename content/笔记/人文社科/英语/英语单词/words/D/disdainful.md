@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪsˈdeɪnfl/； 美：/dɪsˈdeɪnfl/
 - #词性/adj  鄙视的；轻蔑的；轻视的；倨傲的
-# 例句
+##### 例句
 - Netizen " disdainful bull-puncher " offer different point of view .
 	- 网友“倨傲的牛仔”提出不同观点。
 - Many hours later , the younger monk is very upset and visibly angry about his friend helping someone so disdainful , and he feels obliged to share his frustration with the older monk :

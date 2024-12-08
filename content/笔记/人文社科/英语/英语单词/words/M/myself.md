@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/maɪˈself/； 美：/maɪˈself/
 - #词性/pron  (用于动作影响说话人或作者时)我自己；(强调说话者在做某事)我本人，亲自
-# 例句
+##### 例句
 - Once I had satisfied myself it was the right decision , we went ahead .
 	- 一旦我自己确信这个决定是正确的，我们便动手干了起来。
 - Funnily enough , I said the same thing myself only yesterday .

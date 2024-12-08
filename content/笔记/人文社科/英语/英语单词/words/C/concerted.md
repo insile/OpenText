@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈsɜːtɪd/； 美：/kənˈsɜːrtɪd/
 - #词性/adj  努力的；同心协力的；共同筹划决定的
-# 例句
+##### 例句
 - We need to make a concerted effort to finish on time .
 	- 我们需要通力合作才能按时完成。
 - She has begun to make a concerted effort to find a job .

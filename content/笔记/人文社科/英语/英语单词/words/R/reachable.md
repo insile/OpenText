@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈriːtʃəbl/； 美：/ˈriːtʃəbl/
 - #词性/adj  可及；可到达；够得到
-# 例句
+##### 例句
 - Reachable Vector Method for Network Decomposition
 	- 信息网络分解的可及向量法
 - In recent days , however , the index has exceeded 4,800 ; 5,000 looks reachable and some boosters are looking for 8,000 before the Beijing Olympics kicks off in August 2008 .

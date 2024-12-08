@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtrænziəns/； 美：/ˈtrænʃəns/
 - #词性/n  短暂；无常；转瞬即逝
-# 例句
+##### 例句
 - There is a sense of transience about her , a feeling that she has only stopped off here en route to another place .
 	- 她给人一种转瞬即逝的感觉，仿佛她只是在前往他处的途中在此略作停留。
 - China transience makes the background of the development of adolescences of new generation .

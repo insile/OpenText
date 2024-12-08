@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  愤怒的；〈诗〉(大海等)汹涌的
-# 例句
+##### 例句
 - And Cain was very wroth , and his countenance fell .
 	- 和该隐是非常愤怒，他的面容下跌。
 - He wroth off a dirty kind of life by killing himself .

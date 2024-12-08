@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪkˈstendəbl/； 美：/ɪkˈstendəbl/
 - #词性/adj  可延伸的；可延长的；可延期的
-# 例句
+##### 例句
 - The visa is for 14 days , extendable to one month .
 	- 此签证有效期为14天，可延期到一个月。
 - These were hung in place with extendable rods .

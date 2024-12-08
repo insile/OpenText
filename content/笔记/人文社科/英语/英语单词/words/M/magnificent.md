@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/mæɡˈnɪfɪsnt/； 美：/mæɡˈnɪfɪsnt/
 - #词性/adj  宏伟的；壮丽的；值得赞扬的
-# 例句
+##### 例句
 - These magnificent ancient buildings demonstrate the great intelligence of the labouring people .
 	- 这些壮丽的古代建筑显示了劳动人民的高度智慧。
 - One day after school , while exploring the green woods of this magnificent mountain , I almost fell on a set of stairs ．

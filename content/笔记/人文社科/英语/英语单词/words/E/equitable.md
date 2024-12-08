@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈekwɪtəbl/； 美：/ˈekwɪtəbl/
 - #词性/adj  公平的；公正的；公平合理的
-# 例句
+##### 例句
 - Aim to More Equitable Education & The Experience from the Developed-country
 	- 致力于更加公平的教育&来自发达国家的经验
 - Social endowment insurance system for the establishment of a unified universal coverage in this mode became effective , equitable and sustainable .

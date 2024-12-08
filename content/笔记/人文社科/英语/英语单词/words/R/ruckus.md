@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈrʌkəs/； 美：/ˈrʌkəs/
 - #词性/n  骚动；喧闹；争吵
-# 例句
+##### 例句
 - She heard a ruckus through her wall .
 	- 她隔着墙听到一阵喧闹。
 - This caused such a ruckus all over Japan that they had to change their mind .

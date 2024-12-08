@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbɒtəni/； 美：/ˈbɑːtəni/
 - #词性/n  植物学，（一个地区的）植物生态；（Botany，n.&adj.）澳洲细羊毛（的）
-# 例句
+##### 例句
 - They shared a common interest in botany .
 	- 他们都对植物学感兴趣。
 - Medicine began to turn away from botany in the scientific revolution of the 17th and 18th centuries .

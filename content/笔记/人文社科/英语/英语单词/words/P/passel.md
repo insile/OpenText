@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  一批；帕塞尔
-# 例句
+##### 例句
 - If developing , the Chinese insurance must have a passel of insurance companies of having international competition ability .
 	- 中国的保险业要发展必须要有一批具有国际竞争能力的保险公司，这离不开对于保险公司核心竞争力的培育。
 - A passel of new residents have moved in , attracted by small town life and low real estate prices .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  非理性地；无理性地；不合理地
-# 例句
+##### 例句
 - The market is irrationally , right ?
 	- 市场的走势是不是有点失去了理性？
 - They reacted irrationally to the challenge of Russian power .

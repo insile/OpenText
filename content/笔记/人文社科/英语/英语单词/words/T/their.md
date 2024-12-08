@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ðeə(r)/； 美：/ðer/
 - #词性/det  他们的；她们的；它们的；在提及性别不详的人时，用以代替his或her
-# 例句
+##### 例句
 - Their success is due in large part to their determination .
 	- 他们的成功在很大程度上应归功于他们的决心。
 - It was time to put their suggestion into practice .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dʒuːlz/； 美：/dʒulz/
 - #词性/n  朱尔斯（男子名）；儒勒；朱尔
-# 例句
+##### 例句
 - But Jules was not eager for classroom learning , he hungered for adventure .
 	- 但朱尔斯对坐在课堂里学习并不热心，他渴望冒险。
 - JULES Well , you know the shows on TV ?

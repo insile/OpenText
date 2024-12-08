@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkwɒlɪtətɪv/； 美：/ˈkwɑːlɪteɪtɪv/
 - #词性/adj  定性的；质量的；性质的
-# 例句
+##### 例句
 - Analytical hierarchy process for environmental qualitative synthetic evaluation of Chemical Factory
 	- 综合评价化工厂环境质量的层次分析法
 - Fuzzy Comprehensive Evaluation and Qualitative Assessment of a Topographic Map

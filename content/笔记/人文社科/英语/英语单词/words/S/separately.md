@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈseprətli/； 美：/ˈseprətli/
 - #词性/adv  单独地；分别地
-# 例句
+##### 例句
 - The user has to drill into each method separately .
 	- 所以，用户不得不分别地展开每个方法。
 - And there are five kinds of the trouble that explained separately .

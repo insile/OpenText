@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˌkɒntrəˈvɜːʃl/； 美：/ˌʌnkɑːntrəˈvɜːrʃl/
 - #词性/adj  无争议的；不会引起不和的
-# 例句
+##### 例句
 - He chose an uncontroversial topic for his speech .
 	- 他为自己的演讲选择了一个不会引起争议的话题。
 - The regeneration plans are uncontroversial enough . London needs more houses .

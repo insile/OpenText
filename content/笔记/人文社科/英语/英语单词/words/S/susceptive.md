@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  敏感的；感受性强的；易接受的
-# 例句
+##### 例句
 - Progress in research on relationship between childhood obesity and susceptive genes of type 2 diabetes mellitus
 	- 儿童肥胖与2型糖尿病易感基因的研究进展
 - Conclusions Genetic polymorphism in heparin-binding domain of EC-SOD is possible susceptive gene in the development of COPD .

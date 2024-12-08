@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dʒəˈnetɪks/； 美：/dʒəˈnetɪks/
 - #词性/n  遗传学
-# 例句
+##### 例句
 - He gave me a piece of advice on how to learn genetics .
 	- 他就如何学好遗传学给我提出了一条建议。
 - The study of psychology has recently been widely cross-fertilized by new discoveries in genetics .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪntə(ː)ˈnæʃənli/； 美：/ˌɪntərˈnæʃənəli/
 - #词性/adv  在国际上；国际性地；在国际间
-# 例句
+##### 例句
 - He became internationally famous for his novels .
 	- 他以小说享誉国际。
 - Chemical weapons are banned internationally .

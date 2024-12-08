@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈruːbɪkənd/； 美：/ˈruːbɪkənd/
 - #词性/adj  健康红润的
-# 例句
+##### 例句
 - She watched the colour drain from Colin 's rubicund face .
 	- 她看见科林原本红润的脸渐渐失去了血色。
 - His rubicund face expressed consternation and fatigue .

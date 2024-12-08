@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  先见之明
-# 例句
+##### 例句
 - The ecological city construction values compensation , lacks foresightedness .
 	- 生态城市建设重补偿，缺乏前瞻性。
 - Because of his foresightedness we have financial stability , security and much peace of mind .

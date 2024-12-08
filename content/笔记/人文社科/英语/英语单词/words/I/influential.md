@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnfluˈenʃl/； 美：/ˌɪnfluˈenʃl/
 - #词性/adj  有权势的；有很大影响（力）的；有支配力的
 - #词性/n  有影响的人；有权势的人
-# 例句
+##### 例句
 - She is one of the most influential figures in local politics .
 	- 她是本地政坛举足轻重的人物。
 - The committee was influential in formulating government policy on employment .

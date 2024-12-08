@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdaɪəˈrɪə/； 美：/ˌdaɪəˈriːə/
 - #词性/n  腹泻
-# 例句
+##### 例句
 - Symptoms include diarrhoea and vomiting .
 	- 症状有腹泻和呕吐。
 - Diarrhoea can make you feel weak , as well as putting you off your food .

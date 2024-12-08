@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  反证；反驳；反证物
-# 例句
+##### 例句
 - He could not believe even with the disproof before his eyes .
 	- 甚至反证摆在眼前，他仍不能相信。
 - This article including four parts : The first parts introduce the origin and development of the indirect disproof theory .

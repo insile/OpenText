@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  羊膜的
-# 例句
+##### 例句
 - Nursing methods of preserving and making of human amniotic membrane was introduced .
 	- 并介绍人羊膜的制作和保存等护理方法。
 - Methods Related literatures on the development of amniotic membrane and its application were extensively reviewed and summarized .

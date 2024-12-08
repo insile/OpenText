@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈdɒmɪtəbl/； 美：/ɪnˈdɑːmɪtəbl/
 - #词性/adj  不屈不挠的；勇敢坚定的
-# 例句
+##### 例句
 - He is endowed with indomitable will .
 	- 他有不屈不挠的意志。
 - What 's more ," Zheng He Spirit " embodied a kind of collective strength and wisdom , the ability of effective organization , the spirit of dedication , and the indomitable willpower .

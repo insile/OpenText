@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  有用的；有用地，有效地
-# 例句
+##### 例句
 - But it usefully distils one concept .
 	- 但是它有用地提炼出了一个概念。
 - Even so , knowing that prices can be wrong suggests that governments could usefully adopt automatic stabilising activity , such as linking the down-payment for mortgages to a measure of real estate frothiness or ensuring that bank reserve requirements are set dynamically according to market conditions .

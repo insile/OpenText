@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɑːˈkeɪɪk/； 美：/ɑːrˈkeɪɪk/
 - #词性/adj  古代的；陈旧的；古旧的；早期的；古体的；早已过时的；已不通用的
-# 例句
+##### 例句
 - The recitation is an old , archaic , New England term .
 	- 背诵课是旧式的陈旧的新英格兰的用语。
 - But you may remember that even that old and archaic technology did quite well in our tests .

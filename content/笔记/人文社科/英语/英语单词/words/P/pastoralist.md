@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  牧民
-# 例句
+##### 例句
 - I worked in northern Kenya , trying to help struggling pastoralist communities survive successive droughts .
 	- 我曾在肯尼亚北部工作，努力帮助苦苦挣扎的牧民度过连续的干旱。
 - Oxfam successfully lobbied the government and supported the community to demand that a pastoralist representative sit on the District Development Committee so that their concerns are taken into account .

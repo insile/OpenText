@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈstjuːt/； 美：/əˈstuːt/
 - #词性/adj  精明的；狡猾的
-# 例句
+##### 例句
 - He made a series of astute business decisions .
 	- 他作出了一系列精明的商业决策。
 - He is an extremely astute political tactician

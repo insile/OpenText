@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  矮松；皮尼翁；皮诺
-# 例句
+##### 例句
 - The high , flat mountaintop is covered with many green juniper and pinon pine trees .
 	- 在高高的山顶有一块被杜松和矮松覆盖的平地。
 - Also along the path are the juniper and pinon pine trees that make Mesa Verde green .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈʃeɪkspɪər/； 美：/ˈʃeɪkspir/
 - #词性/n  莎士比亚(1564-1616，英国诗人、剧作家)
-# 例句
+##### 例句
 - Shakespeare 's work was popular among the common people in his day .
 	- 莎士比亚的作品在他那个年代很受平民百姓的欢迎。
 - The students are already acquainted with the work of Shakespeare .

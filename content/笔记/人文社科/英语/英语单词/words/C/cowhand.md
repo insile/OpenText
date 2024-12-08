@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkaʊhænd/； 美：/ˈkaʊhænd/
 - #词性/n  牧牛工；放牛人
-# 例句
+##### 例句
 - One billowy river appeared in front of the Cowhand .
 	- 一条惊涛骇浪的河在牧牛工前面出现。
 - A cowhand herds cattle past a petroleum processing plant .

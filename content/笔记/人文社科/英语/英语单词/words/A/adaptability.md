@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˌdæptəˈbɪlɪti/； 美：/əˌdæptəˈbɪləti/
 - #词性/n  适应性；适应（合，用）性；可用性；灵活性；适应能力
-# 例句
+##### 例句
 - The gene-base for adaptability must be increased .
 	- 适应性的基因基性必然会有所增加。
 - Featuring outstanding flight range , endurance , carrying capacity and environmental adaptability , the Wing Loong-2H UAV is able to conduct field surveys , support emergency communication and deliver emergency supplies in extreme conditions , such as power and network outages and circuit breaks .

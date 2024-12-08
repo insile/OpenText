@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  （通常指轮胎）防滑的；不滑的
 - #词性/n  防滑装置；防滑装置器
-# 例句
+##### 例句
 - Development and progress in nonskid coatings for aircraft carrier decks
 	- 国外舰载飞机甲板用防滑涂层的研究与进展
 - This kind of tyre is characteristic of nonskid stop on wet road .

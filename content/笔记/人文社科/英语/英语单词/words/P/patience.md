@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpeɪʃns/； 美：/ˈpeɪʃns/
 - #词性/n  耐心；毅力；坚忍；忍耐力；恒心；单人纸牌游戏
-# 例句
+##### 例句
 - Patience is one of the most important attributes in a teacher .
 	- 耐心是教师最重要的品质之一。
 - Teaching children with special needs requires patience and understanding .

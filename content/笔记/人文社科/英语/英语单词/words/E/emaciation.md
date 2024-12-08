@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˌmeɪsiˈeɪʃn/； 美：/ɪˌmeɪsiˈeɪʃn/
 - #词性/n  消瘦；消（瘠）瘦，恶病质
-# 例句
+##### 例句
 - Physical examination showed the patients had polyneuropathy , positive hypotension and emaciation .
 	- 体格检查提示为严重的感觉运动神经病、体位性低血压和消瘦。
 - Clinical observation on auricular-plaster therapy combined with chiropractics for treatment of emaciation in children

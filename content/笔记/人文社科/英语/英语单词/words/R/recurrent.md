@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈkʌrənt/； 美：/rɪˈkɜːrənt/
 - #词性/adj  一再发生的，复发的，反复出现的，周期性的；〈解〉（神经、血管等）返（回）的
-# 例句
+##### 例句
 - These are low risk investments , which provide growing recurrent income over the long term .
 	- 这些业务投资风险低，长远可增加集团的经常性收益。
 - Transform the payment of recurrent capital mainly contributed by students to mainly contributed by the Country .

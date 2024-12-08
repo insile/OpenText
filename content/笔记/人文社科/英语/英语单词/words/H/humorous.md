@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhjuːmərəs/； 美：/ˈhjuːmərəs/
 - #词性/adj  幽默的；有幽默感的；滑稽有趣的
-# 例句
+##### 例句
 - Judging from the way he laughed as he told it , it was meant to be humorous
 	- 从他讲这件事时笑的样子来看，那应该是很幽默的了。
 - His kindly , humorous , understanding eye looked with a wide tolerance on good and bad alike .

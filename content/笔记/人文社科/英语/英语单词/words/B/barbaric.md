@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/bɑːˈbærɪk/； 美：/bɑːrˈbærɪk/
 - #词性/adj  野蛮的；残暴的；野蛮人的；原始部落人的；没有文化的
-# 例句
+##### 例句
 - I think any sport involving animals where the animals do not have a choice is barbaric and uncivilized .
 	- 我认为任何有动物参与其中并且它们别无选择的运动都是野蛮的、不文明的。
 - The currency appearance promoted the humanity transformation from the barbaric primitive people society to civilized society .

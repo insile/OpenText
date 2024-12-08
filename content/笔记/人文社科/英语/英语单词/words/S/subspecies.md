@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  (动物、植物的)亚种
-# 例句
+##### 例句
 - The quality traits of the three subspecies are also different .
 	- 三个亚种的品质性状也存在差异。
 - Economic Integration Subspecies : Study on Subordination of Economic Cycle in Modern China

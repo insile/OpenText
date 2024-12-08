@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪmɪtətɪv/； 美：/ˈɪmɪteɪtɪv/
 - #词性/adj  模仿的；仿制的；仿效的
-# 例句
+##### 例句
 - This disproves the theory that children are purely imitative .
 	- 这证明认为儿童只会单纯地模仿的理论是站不住脚的。
 - Gradually it acquired experience , becoming a complementary rather than an imitative force .

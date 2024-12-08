@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'rʌʃə/； 美：/'rʌʃə/
 - #词性/n  俄罗斯联邦；(1917年以前的)俄罗斯帝国；现俄罗斯
-# 例句
+##### 例句
 - Collect Russia Imperial and French decorative arts .
 	- 收藏俄罗斯帝国和法国的装饰艺术品。
 - Restore the Glory of Imperial Russia !

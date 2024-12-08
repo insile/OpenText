@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈdʒenjuəs/； 美：/ɪnˈdʒenjuəs/
 - #词性/adj  天真的；单纯的
-# 例句
+##### 例句
 - Only the most ingenuous person would believe such a weak excuse !
 	- 只有最天真的人才会相信这么一个站不住脚的借口！
 - An ingenuous girl [ smile ]

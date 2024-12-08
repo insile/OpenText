@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  土器
-# 例句
+##### 例句
 - Technology of making clayware handwork a creator of great skill in the manual arts .
 	- 砂器工艺品的烧制技术在手工艺术方面有很高技艺的创作者。
 - Technology of making clayware handwork The Research on Contemporary Inheritance Problem of Jingdezhen Handmade Ceramic Skills

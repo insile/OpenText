@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈtəʊld/； 美：/ˌʌnˈtoʊld/
 - #词性/adj  难以形容的(大、恶劣等)；未叙述的；未讲过的
-# 例句
+##### 例句
 - The report has yet untold facts .
 	- 这个报告还有未叙述的事实。
 - These gases cause untold damage to the environment .

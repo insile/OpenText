@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈrestruːm/； 美：/ˈrestruːm/
 - #词性/n  (公共场所的)盥洗室，洗手间；公共厕所
-# 例句
+##### 例句
 - I got up to go to the restroom to wash my hands .
 	- 我起身去盥洗室洗手。
 - Unless you want to use the restroom in the office .

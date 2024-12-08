@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdəʊtɪdʒ/； 美：/ˈdoʊtɪdʒ/
 - #词性/n  衰老；年老体衰;年老昏聩
-# 例句
+##### 例句
 - Even in his dotage , the Professor still sits on the committee .
 	- 即便上了年纪，教授仍然是委员会的一员。
 - Sarah moved back in with her father so that she could look after him in his dotage .

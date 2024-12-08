@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈæbsəluːtli/； 美：/ˈæbsəluːtli/
 - #词性/adv  当然，对极了；(强调真实无误)绝对地，完全地；极其
-# 例句
+##### 例句
 - It was like a monkey 's face , absolutely he was like a monkey .
 	- 就像一只猴子的脸，绝对地他像只猴子。
 - Civil action ( contract ) whose content is illegal is absolutely invalid in our present legal provisions .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪsˈlɔɪəlti/； 美：/dɪsˈlɔɪəlti/
 - #词性/n  不忠
-# 例句
+##### 例句
 - Charges had already been made against certain officials suspected of disloyalty .
 	- 对某些有不忠嫌疑的官员已经提起了诉讼。
 - An act of disloyalty or simply a good career move ?

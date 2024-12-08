@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfriːkwəntli/； 美：/ˈfriːkwəntli/
 - #词性/adv  经常；频繁地
-# 例句
+##### 例句
 - Buses run frequently between the city and the airport .
 	- 公共汽车频繁地来往于市区与机场之间。
 - His name features frequently in the social columns of the tabloid newspapers

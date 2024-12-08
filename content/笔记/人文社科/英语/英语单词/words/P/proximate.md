@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈprɒksɪmət/； 美：/ˈprɑːksɪmət/
 - #词性/adj  (时间、顺序等)最接近的，最邻近的
-# 例句
+##### 例句
 - Proximate Analysis Method Study on Reliability Model of Spare Parts Provision and Support System
 	- 备件供应保障系统可靠度模型近似分析方法
 - FIR Digital Filter Design Based on Proximate Best Uniform Approximation Theory

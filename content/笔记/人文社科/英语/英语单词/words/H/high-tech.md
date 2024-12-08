@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌhaɪ ˈtek/； 美：/ˌhaɪ ˈtek/
 - #词性/adj  高技术的，高科技的(尤指电子方面)；样式新颖的；用高新技术材料的
 - #词性/n  高科技
-# 例句
+##### 例句
 - Strategic Analysis of Sustainable Development Based on High-tech
 	- 基于高技术的可持续发展战略分析
 - We should also develop high-tech design idea and new technical application ecology idea .

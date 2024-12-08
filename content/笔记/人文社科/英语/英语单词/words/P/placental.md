@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pləˈsentl/； 美：/pləˈsentl/
 - #词性/adj  胎盘的；有胎盘的；有胎座的
 - #词性/n  【动】有胎盘哺乳动物
-# 例句
+##### 例句
 - The placental pathology change was observed by hematoxylin and eosin stain .
 	- 同时做苏木精伊红染色观察妊高征时胎盘的病理改变。
 - Placental mammal having hooves with an even number of functional toes on each foot .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  凝聚（的；层）
 - #词性/n  凝聚层；凝聚
-# 例句
+##### 例句
 - The type of coacervate formed varies depending on the cationic polymer and the surfactant system used in the formulation .
 	- 凝聚物的类型因配方中使用的阳离子聚合物和表面活性剂体系而不同。
 - The result showed that solubilization of phenol in coacervate phase was related to the structure of surfactant micelle .

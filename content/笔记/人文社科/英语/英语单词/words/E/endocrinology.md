@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌendəʊkrɪˈnɒlədʒi/； 美：/ˌendoʊkrɪˈnɑːlədʒi/
 - #词性/n  内分泌学
-# 例句
+##### 例句
 - A Philosophic Reflection on the Development of Endocrinology in the 21st Century
 	- 21世纪内分泌学发展的哲学思考
 - The Promotion of Endocrinology through Modern Biological Techniques

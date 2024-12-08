@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈreɡjələli/； 美：/ˈreɡjələrli/
 - #词性/adv  经常；有规律地；均匀地；匀称地；间隙均匀地
-# 例句
+##### 例句
 - As this article explains , you get maximum benefits when you use Purify regularly and systematically .
 	- 正如这篇文章所描述的，当您有规律地并系统地使用Purify时，您可以获得最大利益。
 - For each work branch , CI server automatically and regularly ( if not continuously ) runs integration tests and regression tests .

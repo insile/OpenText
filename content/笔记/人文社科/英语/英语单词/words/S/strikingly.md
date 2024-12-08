@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  惊人的；极；醒目地
-# 例句
+##### 例句
 - But her condition is strikingly similar to Mike ryerson .
 	- 但她的情况同迈克惊人的相似。
 - A chart , produced by the authors , shows how these increases in free choice and subjective well-being are strikingly related .

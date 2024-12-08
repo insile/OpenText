@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈspætʃ/； 美：/dɪˈspætʃ/
 - #词性/v  发送；速遣，发运
 - #词性/n  派遣；发送
-# 例句
+##### 例句
 - As we are in urgent need of the articles , we must ask you to arrange for the despatch of replacement at once .
 	- 由于我们急需此货，故我们不得不要求你方立即安排发运换货。
 - He feels we should act with despatch .

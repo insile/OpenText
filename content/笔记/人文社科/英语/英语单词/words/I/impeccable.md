@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈpekəbl/； 美：/ɪmˈpekəbl/
 - #词性/adj  无可挑剔的，完美的；无错误的，无瑕疵的；毋庸置疑的
 - #词性/n  无瑕疵的完人；清白无辜的人
-# 例句
+##### 例句
 - He has an impeccable sense of timing
 	- 他有着无可挑剔的节奏感。
 - He was from the same mould as the men she had gazed at worshipfully when a child : rich , handsome , of impeccable social standing .

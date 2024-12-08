@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈʃʊgəkeɪn/； 美：/ˈʃʊgərˌkeɪn/
 - #词性/n  甘蔗
-# 例句
+##### 例句
 - He cut the sugarcane into several pieces .
 	- 他把甘蔗截成几节。
 - The Design and Application on the Data Base System on Sugarcane Parents

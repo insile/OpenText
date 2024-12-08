@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈbleɪz/； 美：/əˈbleɪz/
 - #词性/adj  燃烧；闪耀；发光；明亮；色彩鲜艳；充满激情的；情绪激动的；猛烈燃烧
-# 例句
+##### 例句
 - Set these black nights ablaze
 	- 在这些黑夜里燃烧起来
 - But the minute you switch on the light in your bathroom , the world is ablaze with color and energy .

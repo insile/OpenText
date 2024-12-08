@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkɒnsɪkwəntli/； 美：/ˈkɑːnsɪkwentli/
 - #词性/adv  因此；所以
-# 例句
+##### 例句
 - Relations between the two companies had , consequently , never been close .
 	- 因此，两家公司之间的关系一直都不太亲密。
 - Consequently , we should have no problem reaching our goals this year .

@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  有系统地；有组织地
-# 例句
+##### 例句
 - Where changes are subtle , they can effect the overall when done systematically .
 	- 如果所做的改变是微妙的，你就可以有系统地影响全局。
 - In this context the acquisition is an important step toward systematically expanding the company 's technology business .

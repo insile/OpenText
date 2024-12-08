@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  真声演唱的歌手
-# 例句
+##### 例句
 - When the surface electric charge in the solid particle gets higher , the belter strengthening result can get .
 	- CMS的粒子表面电荷越高，羧甲基淀粉钠的增强效果越好。
 - Knowledge is another character of Chinese subject . The character demands Chinese teachers for higher and belter professional knowledge qualities .

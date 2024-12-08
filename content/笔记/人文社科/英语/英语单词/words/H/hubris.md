@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhjuːbrɪs/； 美：/ˈhjuːbrɪs/
 - #词性/n  傲慢；狂妄
-# 例句
+##### 例句
 - Google 's conclusion is not the result of hubris , however .
 	- 但是谷歌得出这样的论断并不是因为傲慢。
 - One is hubris , and the other is the lack of people skills .

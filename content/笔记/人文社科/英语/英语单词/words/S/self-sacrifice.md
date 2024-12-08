@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌself ˈsækrɪfaɪs/； 美：/ˌself ˈsækrɪfaɪs/
 - #词性/n  自我牺牲
-# 例句
+##### 例句
 - I thanked my parents for all their self-sacrifice on my behalf .
 	- 我感谢父母为我做出的所有自我牺牲。
 - They argued for a new morality based on self-sacrifice and honesty .

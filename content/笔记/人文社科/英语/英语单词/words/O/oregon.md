@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɒrɪgən/； 美：/ˈɔrəgən/
 - #词性/n  俄勒冈州（美国州名）；（美国）《俄勒冈日报》
-# 例句
+##### 例句
 - In the months leading up to the 2016 Oregon Repertory Singers Christmas concert , Naomi told the director she had a special one in mind : " Melancholy Flower "
 	- 2016年，俄勒冈州圣诞演唱会开始前的几个月里,内奥米告诉导演她有一个特别的想法："忧郁之花"
 - The idea began in Portland , Oregon , in 1994 .

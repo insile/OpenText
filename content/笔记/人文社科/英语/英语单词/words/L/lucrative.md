@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈluːkrətɪv/； 美：/ˈluːkrətɪv/
 - #词性/adj  有利可图的；赚大钱的；获利多的
-# 例句
+##### 例句
 - Firstly , because I have a very lucrative system to protect .
 	- 首先，因为我有一个非常有利可图的系统，以保护。
 - Private banks have even turned this into a lucrative line of business .

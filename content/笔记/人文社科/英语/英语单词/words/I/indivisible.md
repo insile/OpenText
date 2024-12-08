@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪndɪˈvɪzəbl/； 美：/ˌɪndɪˈvɪzəbl/
 - #词性/adj  不可分割的；分不开的
 - #词性/n  不能分割的东西；微量
-# 例句
+##### 例句
 - Japanese has its own particular expression which is indivisible with its nation , culture and religion .
 	- 日语具有独特的表达方式，这与民族、文化、宗教等因素的影响是分不开的。
 - Far from being separate , the mind and body form an indivisible whole .

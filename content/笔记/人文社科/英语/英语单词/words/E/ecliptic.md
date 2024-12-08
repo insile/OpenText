@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈklɪptɪk/； 美：/ɪˈklɪptɪk/
 - #词性/n  黄道；【天文学】黄道；日[月]蚀
 - #词性/adj  【天文学】黄道的；日[月]蚀的
-# 例句
+##### 例句
 - Nevertheless , he was looking out along the Ecliptic , in that general direction .
 	- 但无论如何，它正在沿黄道面朝那个大致方向望出去。
 - This lean also skews your view of the Ecliptic , changing the angle .

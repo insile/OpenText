@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈrekɪdʒ/； 美：/ˈrekɪdʒ/
 - #词性/n  (车辆等的)残骸；(建筑物等的)废墟
-# 例句
+##### 例句
 - Wreckage from the plane was scattered over a wide area .
 	- 飞机失事残骸散落在一个广阔地域。
 - Three people were freed from the wreckage .

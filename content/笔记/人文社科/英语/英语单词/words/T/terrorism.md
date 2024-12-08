@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈterərɪzəm/； 美：/ˈterərɪzəm/
 - #词性/n  恐怖主义
-# 例句
+##### 例句
 - Terrorism has gripped the country for the past two years .
 	- 两年来恐怖主义一直笼罩着这个国家。
 - The government is taking a firm line on terrorism .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkɒntrəˈvɜːʃl/； 美：/ˌkɑːntrəˈvɜːrʃl/
 - #词性/adj  有争议的；引起争论的
-# 例句
+##### 例句
 - This controversial aspect of computer research .
 	- 计算机研究中这一引起争论的方面。
 - A controversial decision [ statement ]

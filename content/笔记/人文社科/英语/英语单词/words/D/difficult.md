@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdɪfɪkəlt/； 美：/ˈdɪfɪkəlt/
 - #词性/adj  困难的；麻烦的；难做的；费力的；难解的；难以取悦的；问题很多的；难以讨好的；充满艰难困苦的；不愿帮助的
-# 例句
+##### 例句
 - Young people today face a very difficult future at work .
 	- 如今的年轻人面临着充满困难的工作前景。
 - It was a difficult situation , when you think about it .

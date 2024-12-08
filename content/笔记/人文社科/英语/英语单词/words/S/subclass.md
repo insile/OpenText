@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  子类
-# 例句
+##### 例句
 - Extend an existing View class or subclass with your own class .
 	- 从现有控件类或其子类扩展你自己的类。
 - The Design of Application System SubClass in VFP

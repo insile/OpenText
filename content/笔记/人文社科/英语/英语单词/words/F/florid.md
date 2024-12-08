@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈflɒrɪd/； 美：/ˈflɔːrɪd/
 - #词性/adj  华丽的；红润的；过分装饰的；过多修饰的
-# 例句
+##### 例句
 - Do you like florid Baroque architecture ?
 	- 你喜欢华丽的巴洛克式建筑吗？
 - Such sculptures coupled with murals give the structure an elegant and florid effect under the background of white granite basement .

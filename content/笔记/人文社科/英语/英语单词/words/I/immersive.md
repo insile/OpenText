@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈmɜːsɪv/； 美：/ɪˈmɜːrsɪv/
 - #词性/adj  (计算机系统或图像)沉浸式虚拟现实的
-# 例句
+##### 例句
 - Research on User Experience of Immersive Web Navigation Design
 	- 浅谈沉浸式网页导航设计的用户体验
 - Design implementation of a collaborative design system of immersive visualization based on access grid

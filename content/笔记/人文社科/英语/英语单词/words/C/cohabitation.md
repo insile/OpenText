@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkəʊhæbɪˈteɪʃən/； 美：/koʊˌhæbəˈteɪʃən/
 - #词性/n  同居；姘居
-# 例句
+##### 例句
 - While cohabitation has been on the rise , the overall share of young adults either married or living with an unmarried patner has substantially fallen since 1990 .
 	- 尽管同居率呈上升趋势，但自1990年以来，已婚和未婚同居的年轻人的总体比例大幅下降。
 - The cohabitation rate is also on the rise among young Chinese .

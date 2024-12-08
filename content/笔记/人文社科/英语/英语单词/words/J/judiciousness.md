@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  明智；明断
-# 例句
+##### 例句
 - When it comes to judiciousness in investing in stocks I don 't think you need any outside amateur help .
 	- 说到炒股票的智慧，我倒觉得你用不着外行帮忙
 - Here , with care and precision and judiciousness , was an attempt to make the broadest possible appeal to human fraternity and tolerance .

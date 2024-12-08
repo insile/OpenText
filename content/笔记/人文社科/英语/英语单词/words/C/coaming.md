@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkəʊmɪŋ/； 美：/ˈkoʊmɪŋ/
 - #词性/n  (船的)舱口围板
-# 例句
+##### 例句
 - A Stress Calculation Method for Coaming Reinforced Opening on Cylindrical Shell
 	- 用围壁加强的圆柱壳开孔的应力计算方法
 - Physical Simulation Experimental Research on the Deck Barge Cargo Compartment Coaming Movable Gate

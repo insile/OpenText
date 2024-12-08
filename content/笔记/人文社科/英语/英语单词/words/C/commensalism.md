@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  共栖
-# 例句
+##### 例句
 - Some associations of species are almost a form of commensalism .
 	- 有些种类的组合几乎是共栖的形式。
 - Commensalism phenomenon of composite controlled flying saucer

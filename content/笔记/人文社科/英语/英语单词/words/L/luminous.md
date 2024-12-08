@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈluːmɪnəs/； 美：/ˈluːmɪnəs/
 - #词性/adj  发光的；夜光的；发亮的；鲜艳的；鲜亮的
-# 例句
+##### 例句
 - A legend can be made luminous jewelry .
 	- 传说中的一种可发夜光的珠宝。
 - The markers are luminous .

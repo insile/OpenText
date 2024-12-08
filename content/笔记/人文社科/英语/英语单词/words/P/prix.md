@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpriː/； 美：/ˈpriː/
 - #词性/n  大奖赛；（法）奖金、奖品、奖偿
-# 例句
+##### 例句
 - He never won the British Grand Prix .
 	- 他从未赢过英国国际汽车大奖赛。
 - Britain came second in the Prix St Georges Derby .

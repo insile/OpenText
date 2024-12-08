@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  偏移的；偏离的；离题的；散漫的
-# 例句
+##### 例句
 - Adopt intestines push movement and excursive intestines flesh experimentation to determine motor function .
 	- 采用肠推进运动及离体肠肌实验法测定消化道运动功能。
 - Organize language answering question around him examination questions , the space of free play is larger , but cannot take off excursive aim completely .

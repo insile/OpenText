@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  社交能力；好交际，社交性，善于交际
-# 例句
+##### 例句
 - SNS characterised of interactivity and sociability , provides an opportunity for the reform of the network teaching platform .
 	- 以交互性和社交性见长的SNS的兴起为网络教学平台的改进提供了契机。
 - The same education level , gender-athletes of their excitability , aggressive and sociability have significant differences .

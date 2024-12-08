@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  （身体某部分）肿胀的；（语言、文体）浮夸的，浮华的
-# 例句
+##### 例句
 - Tumid lupus erythematosus occurring following highly active antiretroviral therapy for HIV infection : A manifestation of immune restoration
 	- 高效抗病毒治疗HIV感染后出现肿胀性红斑狼疮：一种免疫恢复现象
 - Flower of choice mint , gold and pleasant chrysanthemum and so on can eliminate oil of tumid plant essence of life to massage , hold concurrently lightsome with life-giving effect , very appropriate .

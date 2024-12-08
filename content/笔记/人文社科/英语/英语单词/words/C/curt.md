@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kɜːt/； 美：/kɜːrt/
 - #词性/adj  唐突无礼的；简短而失礼的
 - #词性/n  男子名
-# 例句
+##### 例句
 - Differences between Shao and Fu ; a curt answer , rebuke , etc
 	- 唐突无礼的回答、责难等
 - His tone was curt and unfriendly .

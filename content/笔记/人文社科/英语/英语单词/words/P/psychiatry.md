@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/saɪˈkaɪətri/； 美：/saɪˈkaɪətri/
 - #词性/n  精神病学；精神病治疗
-# 例句
+##### 例句
 - Psychiatry is an accepted branch of medicine .
 	- 精神病学是公认的医学分支。
 - Application and experience of multimedia technology in psychiatry teaching

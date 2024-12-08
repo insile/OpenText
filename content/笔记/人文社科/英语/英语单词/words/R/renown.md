@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈnaʊn/； 美：/rɪˈnaʊn/
 - #词性/n  名声；声望；名誉
-# 例句
+##### 例句
 - His renown has spread throughout the country .
 	- 他的名声已传遍全国。
 - They are three families of great renown in the animal kingdom .

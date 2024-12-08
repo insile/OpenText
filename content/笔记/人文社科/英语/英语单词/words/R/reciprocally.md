@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  往复；相互；相互地；相反地
-# 例句
+##### 例句
 - It opens channels from heart to heart so that feelings can flow reciprocally .
 	- 它打开诚实的渠道，以便情感能相互地流动。
 - Substance culture and information culture are transforming reciprocally and integrating in the present and future development of library .

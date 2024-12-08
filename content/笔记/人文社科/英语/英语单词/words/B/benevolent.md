@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/bəˈnevələnt/； 美：/bəˈnevələnt/
 - #词性/adj  仁慈的；慈善的；乐善好施的；用于慈善机构名称
-# 例句
+##### 例句
 - Benevolent : Love , kindness , beauty , calmness and contentment .
 	- 慈善的：爱，善意，美好，平静与满足。
 - The traditional macroeconomics places the hopes of stabilizing economy and eliminating unemployment on government , which is supposed to be a rational , all-round and benevolent social programmer .

@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvenəməs/； 美：/ˈvenəməs/
 - #词性/adj  有毒的；恶毒的；恶意的；分泌毒液的；充满仇恨的
-# 例句
+##### 例句
 - Large venomous ray with large barbed spines near the base of a thin whiplike tail capable of inflicting severe wounds .
 	- 能分泌毒液的大型鳐，其鞭形的尾部生有有毒的背棘，能造成严重的伤害。
 - The British government was concerned about the number of venomous cobra snakes in Delhi . The government therefore offered a bounty4 for every dead cobra .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  预测；预言
-# 例句
+##### 例句
 - Unfortunately , I am not able to prognosticate how everything will eventually shake out .
 	- 不幸的是，我无法预言每件事的最终结果将会怎样。
 - Then they prognosticate on whether what happened in Argentina is a good sign for the senator from New York .

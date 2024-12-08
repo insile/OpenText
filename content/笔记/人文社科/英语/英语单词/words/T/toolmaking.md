@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  工具制造；机床维修
-# 例句
+##### 例句
 - The Vienna-based company says it makes hundreds of different grades of steel for toolmaking .
 	- 这家总部位于维也纳的公司表示，它能生产数百种不同的工具制造用钢。
 - Communicating with a non-technical customer in regard to toolmaking issues is always difficult .

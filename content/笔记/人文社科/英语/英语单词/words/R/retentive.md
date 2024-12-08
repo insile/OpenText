@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈtentɪv/； 美：/rɪˈtentɪv/
 - #词性/adj  记忆力强的；有记性的
-# 例句
+##### 例句
 - Luke had an amazingly retentive memory .
 	- 卢克记忆力惊人。
 - He is a scholar who has wide learning and a retentive memory .

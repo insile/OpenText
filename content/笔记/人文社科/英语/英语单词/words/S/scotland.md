@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈskɒtlənd/； 美：/ˈskɑːtlənd/
 - #词性/n  苏格兰；斯科特兰
-# 例句
+##### 例句
 - He has written a natural history of Scotland .
 	- 他写了一本苏格兰博物志。
 - Living in Scotland has its good points but the weather is not one of them .

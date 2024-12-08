@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  可耗尽的；可用尽的，会枯竭的
-# 例句
+##### 例句
 - Possible long term shortages of exhaustible resources .
 	- 会枯竭的资源可能出现的长期短缺。
 - Study On the Continuous Industry Development in the Exhaustible Resource Areas

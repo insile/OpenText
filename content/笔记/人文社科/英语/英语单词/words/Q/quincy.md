@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  【地名】【美国】昆西
-# 例句
+##### 例句
 - One spring morning a handful of potential investors assembled in Quincy .
 	- 春天的一个早上，几位有望投资者聚集在昆西。
 - Quincy wants a job in construction .

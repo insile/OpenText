@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈæməti/； 美：/ˈæməti/
 - #词性/n  友好；和睦
-# 例句
+##### 例句
 - He lives in amity with his neighbours .
 	- 他和他的邻居相处得很和睦。
 - Harmonious society is a social state with amity of various relationships and progress within society .

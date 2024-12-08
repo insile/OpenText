@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmʌzi/； 美：/ˈmʌzi/
 - #词性/adj  头脑混乱的；迷糊的；模模糊糊的；不清楚的
-# 例句
+##### 例句
 - Those drugs made me feel muzzy .
 	- 那些药使我昏昏欲睡。
 - After a couple of whiskies my head felt all muzzy .

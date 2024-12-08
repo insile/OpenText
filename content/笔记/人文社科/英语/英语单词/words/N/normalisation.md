@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  正常化；标准化；正态化
-# 例句
+##### 例句
 - He told reporters that he thought the time was ripe for a normalisation of relations
 	- 他告诉记者他认为是时候恢复两国间正常关系。
 - The conventional normalisation approach is based on parallel sensor model .

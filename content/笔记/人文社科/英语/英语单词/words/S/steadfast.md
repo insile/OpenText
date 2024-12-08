@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈstedfɑːst/； 美：/ˈstedfæst/
 - #词性/adj  坚定的；不动摇的
-# 例句
+##### 例句
 - Her steadfast belief never left her for one moment .
 	- 她坚定的信仰从未动摇过。
 - The years roll by . But a hundred years to a steadfast heart are but a day .

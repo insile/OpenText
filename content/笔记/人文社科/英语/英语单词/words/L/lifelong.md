@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlaɪflɒŋ/； 美：/ˈlaɪflɔːŋ/
 - #词性/adj  终身的；毕生的
-# 例句
+##### 例句
 - It was his lifelong regret that he had not gone to university .
 	- 没上过大学是他终身的遗憾。
 - The physics course should also offer students access to scientific research by teaching relevant research methods , acquiring lifelong interest of exploration , good habits of thinking , preliminary abilities of scientific practice and notions of innovation .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  可教育的；可教育的，可培养的
-# 例句
+##### 例句
 - Being so educable , individual birds have markedly different interests and inclinations , strategies and scams .
 	- 作为如此可教育的，独立的鸟儿有着显著的不同的利益和意愿，战略和骗术。
 - That assumes that you 're still educable .

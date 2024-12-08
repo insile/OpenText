@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈreləvənt/； 美：/ɪˈreləvənt/
 - #词性/adj  无关的；不相关的；无关紧要的
-# 例句
+##### 例句
 - The parts irrelevant to the topic of the essay should be cut out .
 	- 文章中与主题无关的内容应予割弃。
 - These sorts of implementation details are irrelevant at this level .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈespiənɑːʒ/； 美：/ˈespiənɑːʒ/
 - #词性/n  间谍活动；谍报活动；刺探活动
-# 例句
+##### 例句
 - Some of the commercial activities were a cover for espionage .
 	- 有些商业活动是为间谍活动提供掩护。
 - The country needs a strong intelligence service to counter espionage and foreign extremists

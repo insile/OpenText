@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈstʌbl/； 美：/ˈstʌbl/
 - #词性/n  (作物收割后留在地里的)茬；胡子茬
-# 例句
+##### 例句
 - He had a trendy haircut , an earring and designer stubble .
 	- 他理了个时髦的发型，戴着一只耳环，还留着时髦的胡子楂。
 - His face was covered with the stubble of several nights .

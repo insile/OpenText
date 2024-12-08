@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌekjuːˈmenɪkl/； 美：/ˌekjuːˈmenɪkl/
 - #词性/adj  大公的；基督宗教合一的
-# 例句
+##### 例句
 - He was deeply involved in the ecumenical movement .
 	- 他积极参与了促进基督教各派大联合的运动。
 - Space form study is the nonobjective and ecumenical study about space .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmɪsəˈsɪpi/； 美：/ˌmɪsɪˈsɪpi/
 - #词性/n  密西西比；密西西比（1．美国南部之一州，略作 Miss．；2．美国一河名，注入墨西哥湾）
-# 例句
+##### 例句
 - The water level of the Mississippi River is already 6.5 feet below normal
 	- 密西西比河的水位已经比正常值低了6.5英尺。
 - Oil leaking from a barge in the Mississippi River poses a hazard to the drinking water of New Orleans .

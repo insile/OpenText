@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  含钙质的，石灰质的
 - #词性/n  钙化软骨
-# 例句
+##### 例句
 - If you are abstracting water from wells ( Q18 ), is the ground below the site sandy or calcareous ?
 	- 如果该现场是从井中取水的（问题18），那么现场的地下是沙质的还是石灰质的？
 - Study on Releasing Soil Phosphorus with Chemistry Method on Calcareous Soil

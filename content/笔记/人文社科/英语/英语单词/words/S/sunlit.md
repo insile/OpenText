@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsʌnlɪt/； 美：/ˈsʌnlɪt/
 - #词性/adj  阳光照耀的
-# 例句
+##### 例句
 - The sunlit slopes of the canyon ; violet valleys and the sunstruck ridges - Wallace Stegner .
 	- 峡谷那阳光照耀的斜坡；长满紫罗兰的山谷和阳光照耀的山脊&华莱士·斯坦格勒。
 - But in the clear , sunlit waters of coral reefs , light abounds , vision predominates , and animals drape themselves in blazing color .

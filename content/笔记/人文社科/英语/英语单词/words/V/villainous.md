@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɪlənəs/； 美：/ˈvɪlənəs/
 - #词性/adj  邪恶的；可憎的
-# 例句
+##### 例句
 - The quality of evil by virtue of villainous behavior .
 	- 由邪恶的行为而显露的邪恶的品质。
 - Josh Brolin has signed on to play the villainous Cable and Zazie Beetz will give the mutant character Domino her big screen debut .

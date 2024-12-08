@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwaɪldlaɪf/； 美：/ˈwaɪldlaɪf/
 - #词性/n  野生动物；野生生物
 - #词性/adj  野生动物的
-# 例句
+##### 例句
 - The river banks are a haven for wildlife .
 	- 河的两岸是野生动物的自然栖息地。
 - The wetlands are home to a large variety of wildlife .

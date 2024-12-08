@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˌzaɪərəˈbɪlɪti/； 美：/dɪˌzaɪrəˈbɪlɪti/
 - #词性/n  愿望；合意；有利条件；值得向往的事物
-# 例句
+##### 例句
 - No one questions the desirability of cheaper fares .
 	- 没有人质疑票价下调是件好事。
 - The conversation ranged over the desirability of such restaurants , the shortcomings of men , and why it had only taken 15 minutes to cross a continent .

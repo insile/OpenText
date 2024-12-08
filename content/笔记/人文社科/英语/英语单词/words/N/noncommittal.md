@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  不置可否；态度不明朗的；不承担义务的；无明确意义的
-# 例句
+##### 例句
 - Sylvia 's face was noncommittal
 	- 西尔维娅一脸不置可否。
 - He was evasive and noncommittal .

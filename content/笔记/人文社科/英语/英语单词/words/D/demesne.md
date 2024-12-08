@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dəˈmeɪn/； 美：/dəˈmeɪn/
 - #词性/n  地区；(旧时)领主自留地产；地域
-# 例句
+##### 例句
 - Keats is referring to epic poetry when he mentions Homer 's " proud demesne " .
 	- 当济慈提到荷马的“骄傲的领域”时，他指的是史诗。
 - In the demesne of economy , we should set up a new economic ethics system .

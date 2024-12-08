@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈæsɪnaɪn/； 美：/ˈæsɪnaɪn/
 - #词性/adj  愚蠢的；笨的
-# 例句
+##### 例句
 - Yet still the " asinine " bill passed .
 	- 但这部“愚蠢的”法案还是通过了。
 - I must have been insane to listen to your asinine gibberish !

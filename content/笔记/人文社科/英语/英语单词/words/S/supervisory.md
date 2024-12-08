@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsuːpəˈvaɪzəri/； 美：/ˌsuːpərˈvaɪzəri/
 - #词性/adj  监督的；管理的；指导的
-# 例句
+##### 例句
 - She has a supervisory role on the project .
 	- 她负责这个项目的监督工作。
 - Most supervisory boards meet only twice a year .

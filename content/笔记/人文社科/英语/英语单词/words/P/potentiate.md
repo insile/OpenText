@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vt  使可能；加强；增强的；增强
-# 例句
+##### 例句
 - Conclusion 5-HT could potentiate the intrapulmonary vasoconstrictor response to NA .
 	- 结论5－HT可加强NA对肺内血管的收缩作用；
 - The habitual drinker usually shows relatively less effect than would be seen with an occasional drinker from the same amount of alcohol . Drugs potentiate the effect of alcohol .

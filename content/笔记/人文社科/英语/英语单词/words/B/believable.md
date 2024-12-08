@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/bɪˈliːvəbl/； 美：/bɪˈliːvəbl/
 - #词性/adj  可信的；可相信的；可信任的
-# 例句
+##### 例句
 - This book is full of believable , interesting characters .
 	- 这本书里充满了真实可信的有趣人物。
 - So that the obtained reliability characteristic value is available and believable .

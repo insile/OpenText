@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsaʊθwəd/； 美：/ˈsaʊθwərd/
 - #词性/adv #词性/adj  向南方（的）
 - #词性/n  向南方向
-# 例句
+##### 例句
 - Small dark geese that breed in the north and migrate southward .
 	- 深色小鹅，北方繁殖后向南方迁移。
 - Indeed , an order for the general retreat of the Northern Armies southward was already at least four days overdue .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈbændənmənt/； 美：/əˈbændənmənt/
 - #词性/n  放弃；抛弃；遗弃；离弃；中止
-# 例句
+##### 例句
 - Chronic fear of abandonment and panic when forced to be alone .
 	- 长期的离弃恐惧感和当迫于孤独时的痛苦感。
 - Bearing of Meanings and Abandonment of Aesthetics-On the Plot Predicament of Bei Cun s Novels about Love and Marriage ; To agree to take ( a duty or responsibility ) .

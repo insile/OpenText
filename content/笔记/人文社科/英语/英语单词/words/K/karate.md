@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəˈrɑːti/； 美：/kəˈrɑːti/
 - #词性/n  空手道
-# 例句
+##### 例句
 - Being a combat sport , karate carries with it the risk of injury .
 	- 作为一项格斗运动，空手道有受伤的风险。
 - The karate bout has many similarities to a boxing match .

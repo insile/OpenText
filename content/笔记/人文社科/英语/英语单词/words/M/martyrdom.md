@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɑːtədəm/； 美：/ˈmɑːrtərdəm/
 - #词性/n  殉难；殉道
-# 例句
+##### 例句
 - He suffered martyrdom by stoning .
 	- 他被处以石刑，以身殉难。
 - There was much talk of martyrdom .

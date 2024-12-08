@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɜːvɪd/； 美：/ˈfɜːrvɪd/
 - #词性/adj  狂热的；情感异常强烈的；激昂的；充满激情的
-# 例句
+##### 例句
 - He is a fervid orator .
 	- 他是个慷慨激昂的演说者。
 - Pass by the fervid flowers that press themselves on your sight .

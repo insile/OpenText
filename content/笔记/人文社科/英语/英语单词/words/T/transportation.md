@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌtrænspɔːˈteɪʃn/； 美：/ˌtrænspɔːrˈteɪʃn/
 - #词性/n  运输；(旧时的)流放
-# 例句
+##### 例句
 - The transportation operation will be spun off into a separate company .
 	- 运输部门将脱离出来组建为一家独立公司。
 - our national transportation policy .

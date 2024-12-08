@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/preˈstɪdʒəs/； 美：/preˈstɪdʒəs/
 - #词性/adj  有声望的；有威望的；声誉高的
-# 例句
+##### 例句
 - One of the most prestigious universities in the country .
 	- 这个国家里最有声望的大学之一。
 - One of the most prestigious literary prizes in the us .

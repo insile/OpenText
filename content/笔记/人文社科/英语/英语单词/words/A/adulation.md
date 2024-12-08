@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌædjuˈleɪʃn/； 美：/ˌædʒəˈleɪʃn/
 - #词性/n  奉承；吹捧；称赞
-# 例句
+##### 例句
 - History abounds with great men worthy of adulation and emulation .
 	- 历史上有很多值得称赞和效法的伟人。
 - The attackers normally get the accolades and the adulation so it would be nice to see a defender win it .

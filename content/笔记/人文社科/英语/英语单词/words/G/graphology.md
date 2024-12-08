@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɡræˈfɒlədʒi/； 美：/ɡræˈfɑːlədʒi/
 - #词性/n  笔体学， 笔迹学 (根据笔体推断人的性格)
-# 例句
+##### 例句
 - Several universities in Europe still teach graphology courses now .
 	- 欧洲的一些大学里仍有笔体学课程。
 - Graphology is the study of a person 's handwriting to reveal something about his or her personality .

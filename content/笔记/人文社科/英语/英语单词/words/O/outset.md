@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈaʊtset/； 美：/ˈaʊtset/
 - #词性/n  开始；开端 ；起始
-# 例句
+##### 例句
 - A little forward planning at the outset can save you a lot of expense .
 	- 一开始就为未来作点打算能节约很多开支。
 - I made it clear right from the outset that I disapproved .

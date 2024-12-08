@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhaɪdrəʊsfɪə(r)/； 美：/ˈhaɪdroʊsfɪr/
 - #词性/n  水圈(地表或接近地表的水层)
-# 例句
+##### 例句
 - The hydrosphere and the lithosphere together form the Earth 's surface .
 	- 水圈与岩石圈一起形成地球的表面。
 - A large body of water constituting a principal part of the hydrosphere .

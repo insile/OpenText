@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈsɪdjuəs/； 美：/əˈsɪdʒuəs/
 - #词性/adj  刻苦的；兢兢业业的；勤勤恳恳的
-# 例句
+##### 例句
 - Podulski had been assiduous in learning his adopted language .
 	- 波多斯基一直很努力地学习外语。
 - His spirit of assiduous study is worthy of emulation .

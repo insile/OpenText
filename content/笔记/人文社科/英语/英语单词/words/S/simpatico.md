@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/sɪmˈpætɪkəʊ/； 美：/sɪmˈpætɪkoʊ/
 - #词性/adj  志趣相投的；讨人喜欢的；和善的
-# 例句
+##### 例句
 - He and I are simpatico about a lot of things .
 	- 我和他对许多问题看法都很一致。
 - where the Italian pastas and his host 's camaraderie were more simpatico .

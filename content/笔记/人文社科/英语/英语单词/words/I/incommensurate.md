@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnkəˈmenʃərət/； 美：/ˌɪnkəˈmenʃərət/
 - #词性/adj  不相称的；不匹配的；不适当的
-# 例句
+##### 例句
 - His ci style is terribly incommensurate with his family background , social status , and upbringing , which has arrested people 's multi-faceted analyses and conjectures .
 	- 他那与其出身、身份、教养等极不相称的词作风格，引起人们多方的分析与揣测。
 - μ - Based Analysis of Power System Stability Regions Considering Incommensurate Delays

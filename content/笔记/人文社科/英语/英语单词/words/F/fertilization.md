@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌfɜːtɪlaɪˈzeɪʃən/； 美：/ˌfɜrtəlɪˈzeɪʃən/
 - #词性/n  （农）施肥；（胚）受精；肥沃
-# 例句
+##### 例句
 - Study and Development of the Measurement and Fertilization Expert System for Rice Production
 	- 水稻测土施肥专家系统的研究与开发
 - Study on Mathematics Model of Balanced Fertilization for High Quality Late Rice

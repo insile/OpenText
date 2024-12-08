@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmjuːsɪlɪdʒ/； 美：/ˈmjʊsəlɪdʒ/
 - #词性/n  粘液；胶水；胶浆
-# 例句
+##### 例句
 - Primary study on preventive measures for using shoes mucilage and solvent
 	- 鞋用胶水和溶剂毒性防范措施初探
 - OBJECTIVE : To study the preparation technique for CMC-Na mucilage .

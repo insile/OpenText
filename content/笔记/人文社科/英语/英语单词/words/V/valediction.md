@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌvælɪˈdɪkʃn/； 美：/ˌvælɪˈdɪkʃn/
 - #词性/n  (尤指正式演讲中的)告别，告别辞；告别词
-# 例句
+##### 例句
 - I came here just for a valediction .
 	- 我来仅仅是向你告别。
 - He gave a touching valediction at graduation .

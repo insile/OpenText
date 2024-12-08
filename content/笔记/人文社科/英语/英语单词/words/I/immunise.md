@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vt  免疫；使免疫
-# 例句
+##### 例句
 - The Australian government is cracking down on parents who refuse to immunise their children .
 	- 澳大利亚政府正在打击拒绝给孩子进行免疫的父母。
 - Even during the worst of times , efficient diversification and portfolio construction can immunise investors from downturns .

@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɑːˈθraɪtɪs/； 美：/ɑːrˈθraɪtɪs/
 - #词性/n  关节炎
-# 例句
+##### 例句
 - New ways to treat arthritis may provide an alternative to painkillers .
 	- 关节炎的新疗法可能是止痛药之外的另一种选择。
 - Arthritis is a crippling disease which affects people all over the world .

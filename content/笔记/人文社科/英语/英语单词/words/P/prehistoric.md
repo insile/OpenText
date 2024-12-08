@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpriːhɪˈstɒrɪk/； 美：/ˌpriːhɪˈstɔːrɪk/
 - #词性/adj  史前的；远古的；有文字记载以前的
-# 例句
+##### 例句
 - Prehistoric ( from a time before recorded history ; a dinosaur )
 	- 史前的（历史记载之前出现的：恐龙）
 - The study of ( especially prehistoric ) antiquities .

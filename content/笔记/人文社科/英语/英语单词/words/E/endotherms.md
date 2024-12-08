@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  内温动物；恒温动物
-# 例句
+##### 例句
 - Simulation of the dual melting endotherms of pet
 	- PET熔融双峰的模拟分析
 - On the basis of these relations the melting endotherms can be converted to the composition distributions .

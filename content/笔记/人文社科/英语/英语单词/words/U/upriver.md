@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌpˈrɪvə(r)/； 美：/ˌʌpˈrɪvər/
 - #词性/adv  在上游；向上游；往上游
 - #词性/adj  上游的
-# 例句
+##### 例句
 - He had advised that torpedo boats be brought upriver .
 	- 他曾建议把鱼雷艇带往上游。
 - And then I cast upriver .

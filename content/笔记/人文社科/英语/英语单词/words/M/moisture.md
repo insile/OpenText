@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɔɪstʃə(r)/； 美：/ˈmɔɪstʃər/
 - #词性/n  水分；潮湿；水汽；潮气
-# 例句
+##### 例句
 - Such industry , than other line speed , environment moisture fast industry .
 	- 此类行业流水线作业，速度较其他行业快，环境潮湿。
 - The third common factor was moisture environment ;

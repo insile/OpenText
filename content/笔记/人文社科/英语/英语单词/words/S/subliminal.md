@@ -7,11 +7,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsʌbˈlɪmɪnl/； 美：/ˌsʌbˈlɪmɪnl/
 - #词性/adj  潜意识的，下意识的；微小得难以觉察的
 - #词性/n  <心>阈下意识, 潜意识
-# 例句
+##### 例句
 - Colour has a profound , though often subliminal influence on our senses and moods .
 	- 颜色会极大地影响我们的感官和情绪，而这种影响常常是潜意识的。
 - The soft sell approach gets to consumers in a subliminal way .

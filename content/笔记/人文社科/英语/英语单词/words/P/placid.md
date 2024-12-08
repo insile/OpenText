@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈplæsɪd/； 美：/ˈplæsɪd/
 - #词性/adj  平静的；平和的；宁静的；温和的；安静的；文静的
-# 例句
+##### 例句
 - These usually placid zebras let off some steam by taking part in a fun group play fight , but this time , they bared their teeth and even jumped on each other 's backs .
 	- 秉性温和的斑马通常在小打小闹中只是喷喷气而已，却不想这回他们裂开了嘴露出了牙，甚至还跳到了对方的背上。
 - You may never have heard of Andreas Schleicher , a placid German who wouldn 't look out of place as the reliable engineer in an Audi advert , but he is the most powerful man in global education .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈtʃɑːtɪd/； 美：/ˌʌnˈtʃɑːrtɪd/
 - #词性/adj  陌生的；无人涉足的；人迹罕至的；地图上未绘出(或未标明)的
-# 例句
+##### 例句
 - They set off into the country 's uncharted interior .
 	- 他们出发前往这个国家人迹罕至的内陆。
 - If Cisa does not respond , they are taking the Chinese steel industry into uncharted territory , and for all their bravado about how they have their own iron ore , China has traditionally relied on the consistent quality and quantity of imported iron ore.

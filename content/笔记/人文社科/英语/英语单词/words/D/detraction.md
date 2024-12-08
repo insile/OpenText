@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  诽谤；减损；贬损
-# 例句
+##### 例句
 - The detraction of systolic and diastolic function of right heart of .
 	- 捉示窒息婴儿右心收缩和舒张功能受损。
 - Envy has no other quality but that of detraction from virtue .

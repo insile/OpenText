@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  有效地；效率高地
-# 例句
+##### 例句
 - The plan is designed to motivate employees to work more efficiently .
 	- 这个计划旨在促使员工更加卓有成效地工作。
 - She deals with all the correspondence promptly and efficiently .

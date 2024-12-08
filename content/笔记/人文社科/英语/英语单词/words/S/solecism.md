@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɒlɪsɪzəm/； 美：/ˈsɑːlɪsɪzəm/
 - #词性/n  失礼；语病；语言错误；粗俗的举止(或话语)
-# 例句
+##### 例句
 - The Study and Analysis of Solecism in " Suzhou Evening News "," Modern Suzhou "
 	- 《姑苏晚报》、《现代苏州》中语病的考察分析
 - Getting your " its " mixed up is the greatest solecism in the world punctuation .

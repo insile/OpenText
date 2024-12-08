@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/sʌlˈfjʊərɪk/； 美：/səlˈfjʊrɪk/
 - #词性/adj  硫酸；<化>（正）硫的，含（六价）硫的
-# 例句
+##### 例句
 - Automatic Control System for Sulfuric Acid Conversion Process Based on PROFIBUS
 	- 基于PROFIBUS的硫酸转化自动控制系统
 - The Important Factors of High and Stable Yields of Sulfuric Acid System

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˌtɪmɪˈdeɪʃən/； 美：/ɪnˌtɪmɪˈdeɪʃən/
 - #词性/n  恐吓；恫吓，威胁
-# 例句
+##### 例句
 - The defendant complained of intimidation during the investigation .
 	- 被告申诉在调查期间受到了恐吓。
 - The country was an artificial construct held together by force and intimidation for more than 70 years .

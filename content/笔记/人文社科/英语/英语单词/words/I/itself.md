@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪtˈself/； 美：/ɪtˈself/
 - #词性/pron  它本身
-# 例句
+##### 例句
 - It doesn 't have the market to itself .
 	- 它未能独占市场。
 - One major problem did present itself , though .

@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsaɪzmɪk/； 美：/ˈsaɪzmɪk/
 - #词性/adj  地震的；重大的；地震引起的；影响深远的
-# 例句
+##### 例句
 - Most materials have different seismic properties .
 	- 大多数物质都具有不同的地震的特性。
 - Effective acquisition technique of high density seismic in complex areas of oilfields

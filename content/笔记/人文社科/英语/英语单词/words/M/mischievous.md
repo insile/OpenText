@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɪstʃɪvəs/； 美：/ˈmɪstʃɪvəs/
 - #词性/adj  调皮的；顽皮的；捣蛋的；恶意的；招惹是非的
-# 例句
+##### 例句
 - Berg tilts his head and a mischievous look crosses his face
 	- 伯格侧着头，脸上掠过一丝调皮的神情。
 - The mischievous boy startled the company by blowing out a paper bag and bursting it .

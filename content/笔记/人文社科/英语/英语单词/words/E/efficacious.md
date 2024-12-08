@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌefɪˈkeɪʃəs/； 美：/ˌefɪˈkeɪʃəs/
 - #词性/adj  有效的；灵验的；奏效的
-# 例句
+##### 例句
 - There is another efficacious method for subduing the most obstinate , contumacious sinner .
 	- 有另一个有效的方法来镇压那最为顽固、抗命不从的罪人。
 - Our student education and management should form system of itself through efficacious ways .

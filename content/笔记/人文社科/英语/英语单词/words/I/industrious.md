@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈdʌstriəs/； 美：/ɪnˈdʌstriəs/
 - #词性/adj  勤奋的；勤劳的；忙碌的
-# 例句
+##### 例句
 - Apart from his intelligence , he was tirelessly industrious .
 	- 除了很聪颖之外，他还是一个孜孜不倦的勤奋的人。
 - An industrious student usually has good grades .

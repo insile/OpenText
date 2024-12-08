@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dʒɪmˈnæstɪk/； 美：/dʒɪmˈnæstɪk/
 - #词性/adj  体操的，体育的
 - #词性/n  体操运动；训练课程
-# 例句
+##### 例句
 - The Rustic Opinion on Gymnastic Teaching and Training
 	- 刍议体操的教学与训练
 - Analyzing gymnastic grounding techniques with biomechanical principles

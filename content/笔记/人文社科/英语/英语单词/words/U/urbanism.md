@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɜːˈbeɪnɪz(ə)m/； 美：/ˈɜrbənɪzm/
 - #词性/n  城市规划；都市化
-# 例句
+##### 例句
 - The new urbanism theory is the reform for urban development .
 	- 新城市主义理论的提出是城市发展的思想变革。
 - The Development and Application Research about New Urbanism

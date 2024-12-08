@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌækwiˈesnt/； 美：/ˌækwiˈesnt/
 - #词性/adj  默许的；默认的；顺从的
-# 例句
+##### 例句
 - Perhaps you are too acquiescent .
 	- 可能你太顺从了。
 - Far from being unctuous Pat was always loath to appear acquiescent .

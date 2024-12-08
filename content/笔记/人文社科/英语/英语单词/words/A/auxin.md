@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɔːksɪn/； 美：/ˈɔːksɪn/
 - #词性/n  (植物)生长素
-# 例句
+##### 例句
 - Auxin plays an important role in cotton fiber development .
 	- 生长素影响着棉纤维的发育和伸长。
 - However , the mechanism of auxin action is very complicated .

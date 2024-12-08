@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɒbsəˈlesnt/； 美：/ˌɑːbsəˈlesnt/
 - #词性/adj  过时的；淘汰的；废弃的
-# 例句
+##### 例句
 - Electronic equipment quickly becomes obsolescent .
 	- 电子设备淘汰得很快。
 - Study of the problems of rural obsolescent toft in China

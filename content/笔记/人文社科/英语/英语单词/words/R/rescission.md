@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈsɪʒn/； 美：/rɪˈsɪʒn/
 - #词性/n  解除；撤销；取消；废除
-# 例句
+##### 例句
 - The system of rescission right of contract in Civil Law System ;
 	- 大陆法系的合同解除制度；
 - The system of rescission right of contract in international regulations .

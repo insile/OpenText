@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈrʌbl/； 美：/ˈrʌbl/
 - #词性/n  碎石；瓦砾；碎砖
-# 例句
+##### 例句
 - They 're working against time to try and get people out of the rubble alive .
 	- 他们正在争分夺秒工作，设法把人们从瓦砾中活着救出来。
 - The bomb reduced the houses to rubble .

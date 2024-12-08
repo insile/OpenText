@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdʌki/； 美：/ˈdʌki/
 - #词性/adj  顺心如愿的；令人十分愉快的
-# 例句
+##### 例句
 - Everything is just ducky .
 	- 一切顺利。
 - Life has been Ducky since she got out of the hospital .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdɪlətəri/； 美：/ˈdɪlətɔːri/
 - #词性/adj  拖延的；拖拉的；拖沓的；延误的
-# 例句
+##### 例句
 - He was of the opinion that Jefferson would soon remove his dilatory commander .
 	- 他认为杰斐逊很快就会撤换他那位做事拖拉的指挥官。
 - Filibuster : The use of extreme dilatory tactics in an attempt to delay or prevent action , especially in a legislative assembly .

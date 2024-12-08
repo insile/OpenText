@@ -7,11 +7,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpærəmaʊnt/； 美：/ˈpærəmaʊnt/
 - #词性/adj  首要的；至高无上的；至上的；至为重要的；权力最大的；至尊的
 - #词性/n  最高；首长；元首；有最高权力的人
-# 例句
+##### 例句
 - God is not subjected to paramount immutable laws of the cosmos .
 	- 上帝并不受制于至上的，永恒的宇宙法则。
 - The reason of giving paramount status to science was that clergymen thought that universities should teach students true science other than technology .

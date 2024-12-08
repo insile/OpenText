@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnɪmˈpiːtʃəbl/； 美：/ˌʌnɪmˈpiːtʃəbl/
 - #词性/adj  无懈可击的；无可指摘的；不容置疑的；无可怀疑的
-# 例句
+##### 例句
 - Your testimony on this matter is hardly unimpeachable .
 	- 在这个问题上你的辩驳很难说是无懈可击的。
 - In debt markets , assets of unimpeachable quality ( namely G7 government bonds ) , though expensive , will likely get more so .

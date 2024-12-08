@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈventʃuəli/； 美：/ɪˈventʃuəli/
 - #词性/adv  最后；终于
-# 例句
+##### 例句
 - Eventually the search was called off .
 	- 搜查最后被取消了。
 - I 'll get round to mending it eventually .

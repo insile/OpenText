@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈsiːvəbl/； 美：/kənˈsiːvəbl/
 - #词性/adj  可以想象的；可想象的；可信的
-# 例句
+##### 例句
 - The only conceivable explanation is if the company rewarded such behaviour , for example through promotions or bonuses .
 	- 唯一可以想象的解释是：公司对这种行为进行奖励（例如升职或奖金）。
 - This makes a wave of sovereign and banking crises , culminating in exchange controls and disintegration of the eurozone , all too conceivable .

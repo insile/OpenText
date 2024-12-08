@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsedɪmenˈteɪʃn/； 美：/ˌsedɪmenˈteɪʃn/
 - #词性/n  沉积(作用)
-# 例句
+##### 例句
 - Sedimentation ceases : tilling or folding is accompanied or followed by uplift .
 	- 沉积间断，即掀斜或褶皱伴生或伴随着抬升运动。
 - Sedimentation , the damage of a breach are problems , too .

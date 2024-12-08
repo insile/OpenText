@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnkænˈdesnt/； 美：/ˌɪnkænˈdesnt/
 - #词性/adj  白炽的；白热的；耀眼的；激情的；十分明亮的；感情强烈的
-# 例句
+##### 例句
 - The light of an electric lamp come from an incandescent filament .
 	- 电灯光亮来自白热的灯丝。
 - During the night it could only be compared to a Niagara of molten fluid , with its incandescent vapors above and its boiling masses below .

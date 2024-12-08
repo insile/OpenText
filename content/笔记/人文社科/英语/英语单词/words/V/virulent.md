@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɪrələnt/； 美：/ˈvɪrələnt/
 - #词性/adj  致命的；恶毒的；有毒的；剧毒的；恶性的；狠毒的；不共戴天的
-# 例句
+##### 例句
 - In order to prevent the marine life attaching , it is the most effective that the surface of hull is coated by virulent antifouling coatings . Traditionally , fouling has been controlled by antifouling paint with tributyltin .
 	- 为防止海洋生物附着，最有效的措施是在船壳表面涂覆有毒的防污涂料。
 - She left so quickly because some virulent virus , only four days .

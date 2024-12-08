@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈdʌktəns/； 美：/kənˈdʌktəns/
 - #词性/n  电导(率)；(热)传导性
-# 例句
+##### 例句
 - The conductance is a function of the temperature and the pressure .
 	- 电导是温度和压力的函数。
 - Determine the Cold Resistance of Western Pear by Use Conductance Method

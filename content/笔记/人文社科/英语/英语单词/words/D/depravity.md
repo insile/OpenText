@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈprævəti/； 美：/dɪˈprævəti/
 - #词性/n  堕落；腐化
-# 例句
+##### 例句
 - Old Testament depravity has no place in this school .
 	- 这个学校不允许任何堕落的事情。
 - Chapter two discusses the harsh consequences and punishments due to his depravity .

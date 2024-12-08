@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/həˈrɒlədʒi/； 美：/həˈrɑːlədʒi/
 - #词性/n  钟表学；钟表制造术；计时学
-# 例句
+##### 例句
 - Precision engineering techniques and horology
 	- 精密机械技术和钟表制造术
 - The appearance of radio-controlled clock is a revolution in the history of the horology .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌæbsənˈtiːɪzəm/； 美：/ˌæbsənˈtiːɪzəm/
 - #词性/n  (经常性无故的)旷工，旷课
-# 例句
+##### 例句
 - Absenteeism has cost the organization thousands of working days this year .
 	- 旷工使该机构损失了数千个工作日。
 - Improvements in working conditions helped to reduce levels of absenteeism .

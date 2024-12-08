@@ -7,11 +7,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/weəˈbaɪ/； 美：/werˈbaɪ/
 - #词性/adv  由此；由于；借以；<古>靠什么，如何；凭此；在哪方
 - #词性/conj  在那个方面
-# 例句
+##### 例句
 - A system whereby a new discovery may arise
 	- 由此可能产生新发现的体系
 - Sets forth a process whereby these objectives and practices shall be evolved .

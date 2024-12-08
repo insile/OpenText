@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvaɪəbl/； 美：/ˈvaɪəbl/
 - #词性/adj  可行的；可实施的；能独立发展的；能独立生存的；可生长发育的
-# 例句
+##### 例句
 - Such projects are not financially viable without government funding .
 	- 没有政府专款，这样的项目在资金上是不可行的。
 - The scheme is economically viable .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəˈnɛtəkət/； 美：/kəˈnɛtəkət/
 - #词性/n  康涅狄格州；康涅狄格（美国东北部之一州，略作Conn．）
-# 例句
+##### 例句
 - Connecticut agreed to end its segregation of prison inmates suffering from AIDS .
 	- 康涅狄格州同意不再隔离患艾滋病的囚犯。
 - Nichols set off for his remote farmhouse in Connecticut

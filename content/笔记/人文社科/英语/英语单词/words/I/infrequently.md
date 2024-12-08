@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  偶尔
-# 例句
+##### 例句
 - This happens not infrequently .
 	- 这种事常常发生。
 - Not infrequently does the company take on good-record graduates .

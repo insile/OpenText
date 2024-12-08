@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪsˈpeptɪk/； 美：/dɪsˈpeptɪk/
 - #词性/adj  消化不良；暴躁的；患消化不良的；脾气坏的
 - #词性/n  消化不良的人
-# 例句
+##### 例句
 - See the pictures , read the pictures until you get dyspeptic .
 	- 看图、读图，直到看得你消化不良。
 - Conclusion Antidepressants can improve the dyspeptic and depressive symptoms effectively .

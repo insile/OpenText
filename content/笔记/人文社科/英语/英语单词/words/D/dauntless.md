@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdɔːntləs/； 美：/ˈdɔːntləs/
 - #词性/adj  勇敢的；无所畏惧的；吓不倒的
-# 例句
+##### 例句
 - He is a dauntless aviator .
 	- 他是一位勇敢的飞行家；
 - They are all dauntless soliders .

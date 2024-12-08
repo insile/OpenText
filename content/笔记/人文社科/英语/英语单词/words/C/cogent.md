@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkəʊdʒənt/； 美：/ˈkoʊdʒənt/
 - #词性/adj  令人信服的；有说服力的
-# 例句
+##### 例句
 - The last section brings it all back home with a cogent summary .
 	- 在最后一部分中，作者给出了一个很有说服力的总结。
 - He brought forward some very cogent argument .

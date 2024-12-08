@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlaɪvstɒk/； 美：/ˈlaɪvstɑːk/
 - #词性/n  牲畜；家畜
-# 例句
+##### 例句
 - The total livestock number is twice as large as it was last year .
 	- 牲畜存栏总头数比去年增加了一倍。
 - The experiment is based upon the idea that farmers who 're protecting their herd from lions would shoot and kill lions in an effort to protect their livestock .

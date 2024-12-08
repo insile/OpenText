@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˌkɔːpəˈreɪʃən/； 美：/ɪnˌkɔrpəˈreɪʃən/
 - #词性/n  公司；法人；社团；结合，合并；〈美〉并入理论；（国际法）并入说
-# 例句
+##### 例句
 - I met Kurt Kampmeir of Success Motivation Incorporation for breakfast ．
 	- 我跟成功动力公司的库尔特·坎普迈尔一起去吃了早餐。
 - The incorporation of air bubbles in the glass spoiled it .

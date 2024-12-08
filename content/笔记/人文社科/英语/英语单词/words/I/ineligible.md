@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈelɪdʒəbl/； 美：/ɪnˈelɪdʒəbl/
 - #词性/adj  不合格的；不符合资格的
 - #词性/n  不合格的人
-# 例句
+##### 例句
 - The registry rejected the transfer request due to an ineligible domain status .
 	- 该注册表拒绝传输请求，由于不合格的域的状态。
 - The ineligible causes of doctor test for sweetened catalytic cracking gasoline

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpærəsaɪtɪzm/； 美：/ˈpɛrəˌsaɪtɪz(ə)m/
 - #词性/n  寄生；寄生状态；寄生病
-# 例句
+##### 例句
 - Many biologists think that sex , for example , is a response to parasitism .
 	- 比如说许多生物学家认为性就是对寄生病菌的一种反应
 - Investigation on intestinal parasitism and its socioeconomic factors in Henan Province

@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪmɪnənt/； 美：/ˈɪmɪnənt/
 - #词性/adj  迫在眉睫的；即将发生的；临近的
-# 例句
+##### 例句
 - But there is also time for brief diversions onto bizarre ground , such as a discussion of the skyscraper index ( which holds that a boom in skyscraper construction is a foolproof sign of an imminent recession ) .
 	- 但也有时间去做一些奇怪的事情,比如讨论摩天大楼指数（该指数认为摩天大楼建设的繁荣是经济衰退迫在眉睫的绝对迹象）。
 - Therefore , how to protect digital copyrights in the network and the information security of digital works has become an imminent task .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈreɪlhed/； 美：/ˈreɪlhed/
 - #词性/n  铁路终点站；铁路末端
-# 例句
+##### 例句
 - A study on the countermeasures against the contact fatigue defects of railhead
 	- 减缓轨头接触疲劳伤损的对策研究
 - Inclusion has great influences on the distribution of elastic - plastic stress in railhead .

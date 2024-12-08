@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  兰彻；兰乔
-# 例句
+##### 例句
 - Farhan , Raju , and Rancho are three engineering students who share a room in a hostel at the Imperial College of Engineering .
 	- 法涵、拉朱和兰彻是共住一室的皇家工程学院学生。
 - The researchers mailed a questionnaire to 1,303 women who had participated in the Rancho Bernardo Study , a survey of people in a suburban California community that has been ongoing since 1972 .

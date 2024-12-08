@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌeɪsɪˈmetrɪk/； 美：/ˌeɪsɪˈmetrɪk/
 - #词性/adj  不对称；不对等的
-# 例句
+##### 例句
 - Most people 's faces are asymmetric .
 	- 大多数人的脸不对称。
 - Research on the Problems of Asymmetric Information in Credit Management of Chinese Commercial Banks

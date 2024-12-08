@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌhɪðəˈtuː/； 美：/ˌhɪðərˈtuː/
 - #词性/adv  迄今；迄今为止；直到某时
-# 例句
+##### 例句
 - Hitherto , the main emphasis has been on the need to resist aggression
 	- 迄今为止，一直重点强调的是要抵抗侵略。
 - The helicopter is the first in the world to be designed to serve three hitherto very distinct markets .

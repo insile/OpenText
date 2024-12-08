@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˌsɪməˈleɪʃn/； 美：/əˌsɪməˈleɪʃn/
 - #词性/n  吸收；接受；同化现象；同化(使相邻的两个音发音接近，如football中t的发音为p)
-# 例句
+##### 例句
 - “ Grandma ” pronounced as “ grammar ” is an example of assimilation .
 	- 把“grandma”读成“grammar”是语音同化的一个例证。
 - A Preliminary Study on Data Assimilation for Numerical Air Quality Model Prediction

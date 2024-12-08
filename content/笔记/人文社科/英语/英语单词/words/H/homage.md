@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhɒmɪdʒ/； 美：/ˈhɑːmɪdʒ/
 - #词性/n  致敬；敬辞；表示敬意的举动
-# 例句
+##### 例句
 - The kings of France paid homage to no one .
 	- 法国国王不对任何人效忠。
 - He describes his book as ‘ a homage to my father ’ .

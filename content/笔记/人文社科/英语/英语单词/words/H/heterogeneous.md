@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌhetərəˈdʒiːniəs/； 美：/ˌhetərəˈdʒiːniəs/
 - #词性/adj  各种各样的；由很多种类组成的
-# 例句
+##### 例句
 - At the present time my mind is so full of heterogeneous matter that I almost despair of ever being able to put it in order .
 	- 当时，我的脑子里塞满了各种各样的问题，以至于无法将思路理清。
 - There is a heterogeneous mass of papers in the teacher 's office .

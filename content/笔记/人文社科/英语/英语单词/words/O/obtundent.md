@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  使感觉变迟钝的；缓和的
 - #词性/n  止痛药
-# 例句
+##### 例句
 - Objective : To study the effect of Fu Fang anti-inflammatory and obtundent capsule for piles .
 	- 目的：探讨中草药复方痔疮消炎止痛胶囊的抗炎作用。
 - Conclusion : Fu Fang anti-inflammatory and obtundent capsule for piles has an anti-inflammatory and repercussive function .

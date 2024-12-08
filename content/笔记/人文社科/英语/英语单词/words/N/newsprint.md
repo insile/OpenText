@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnjuːzprɪnt/； 美：/ˈnuːzprɪnt/
 - #词性/n  新闻纸；白报纸
-# 例句
+##### 例句
 - The Wall Street Journal uses 220,000 metric tons of newsprint each year
 	- 《华尔街日报》每年用去22万公吨新闻纸。
 - Production , market , competition and development of China 's newsprint

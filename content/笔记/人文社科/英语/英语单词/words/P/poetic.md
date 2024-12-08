@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pəʊˈetɪk/； 美：/poʊˈetɪk/
 - #词性/adj  诗的；诗歌的；富有诗意的；像诗一般的
 - #词性/n  同“poetics. -ically”诗学
-# 例句
+##### 例句
 - However , deep inside of this artwork , it has poetic imagery , musical rhythm and melody .
 	- 不过，深入作品内部，却有着诗歌的意象、音乐般的节奏和旋律。
 - In order to create a strong effect of the expression , they use the negation translation method and also adopt poetic form to translate idiomatic phrases .

@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪləˈdʒɪtəmət/； 美：/ˌɪləˈdʒɪtəmət/
 - #词性/adj  非法的；私生的；非婚生的；不符合规定的
 - #词性/n  没有合法身分的人
-# 例句
+##### 例句
 - Tsvangirai withdrew from the presidential runoff election Sunday saying that it was an illegitimate , violent sham .
 	- 茨万吉拉伊星期天宣布退出总统决选。他说，这是一场非法的、暴力的、虚假的选举。
 - Cameron , Osborne and the rest of the gang that dominate this illegitimate Coalition government cannot be allowed to just distance themselves from Murdoch now .

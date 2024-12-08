@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlɪmpɪd/； 美：/ˈlɪmpɪd/
 - #词性/adj  清澈的；透明的；清晰的
-# 例句
+##### 例句
 - He has a pair of limpid blue eyes .
 	- 他有一双清澈的蓝眼睛。
 - The sky , I like the limpid sky !

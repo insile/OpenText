@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈʃrʌbi/； 美：/ˈʃrʌbi/
 - #词性/adj  灌木状的；像灌木的
-# 例句
+##### 例句
 - Small shrubby ash of southwestern United States and northwestern Mexico .
 	- 生长于美国西南部和墨西哥西北部的灌木状的小型梣木。
 - Small shrubby African tree having compound leaves and racemes of small fragrant green flowers .

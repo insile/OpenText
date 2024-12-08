@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  抑制的；压制；镇压的；抑制性
-# 例句
+##### 例句
 - Study of inhibitory effects of cancer suppressive factors on solid tumor in mice
 	- 抑癌因子对小鼠实体瘤生长抑制作用的研究
 - Interference and suppressive method of electric apparatus ′ noise on low voltage PLC system

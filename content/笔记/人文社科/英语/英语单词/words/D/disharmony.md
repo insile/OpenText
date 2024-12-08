@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪsˈhɑːməni/； 美：/dɪsˈhɑːrməni/
 - #词性/n  不和谐；不协调；不一致
-# 例句
+##### 例句
 - Often in the project plan and construction steps will expose the place of disharmony or conflict .
 	- 在项目进行中往往计划与施工步骤会暴露出不协调或相冲突的地方。
 - The causes of preventing common bribery are as followings : disharmony of legislation ;

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/vɜːˈtɪdʒɪnəs/； 美：/vɜːrˈtɪdʒɪnəs/
 - #词性/adj  引起眩晕的
-# 例句
+##### 例句
 - My small mind contained in earthly human limits , not lost in vertiginous space and elements unknown .
 	- 我的狭隘思想局限在人类世俗之中，不会
 - House prices continued their vertiginous decline , with the US , UK , Spain and Ireland leading the way .

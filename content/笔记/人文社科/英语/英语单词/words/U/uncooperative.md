@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnkəʊˈɒpərətɪv/； 美：/ˌʌnkoʊˈɑːpərətɪv/
 - #词性/adj  不愿合作的；不愿配合的
-# 例句
+##### 例句
 - She became uncooperative : unwilling to do her homework or help with any household chores .
 	- 她变得很不合作：不愿做作业，也不愿帮着做家务。
 - Among the worst office irritants : computer crashes , uncooperative printers , annoying , lazy colleagues and inconsiderate bosses . And women are more likely to snap than men .

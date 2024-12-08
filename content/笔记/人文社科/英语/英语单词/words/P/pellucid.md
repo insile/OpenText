@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pəˈluːsɪd/； 美：/pəˈluːsɪd/
 - #词性/adj  透明的；清澈的；清晰的
-# 例句
+##### 例句
 - She has a pair of pellucid blue eyes .
 	- 她有一双清澈的蓝眼睛。
 - They sat there watching the water of the pellucid stream rush by .

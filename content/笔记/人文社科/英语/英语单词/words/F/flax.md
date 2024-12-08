@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/flæks/； 美：/flæks/
 - #词性/n  亚麻；亚麻纤维
-# 例句
+##### 例句
 - Effects of Limited Water Supply on Water Use and Field of Flax
 	- 限量供水对亚麻水分利用及产量的影响
 - Study on Chemical Control Cultivation Technique System of Flax in Heilongjiang Province

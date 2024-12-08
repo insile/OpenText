@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  叶柄；茎部
-# 例句
+##### 例句
 - Simple leaf : one blade and one petiole ;
 	- 单叶：一个叶片，一个叶柄；
 - Late-bolting , white petiole , good plant shape , good quality .

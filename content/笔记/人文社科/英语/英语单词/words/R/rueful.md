@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈruːfl/； 美：/ˈruːfl/
 - #词性/adj  懊悔的；沮丧的；悲伤的
-# 例句
+##### 例句
 - ' Our marriage was a mistake , ' she said , looking rueful .
 	- “我们的婚姻是个错误，”她说着，看起来懊悔不已。
 - He shook his head and gave me a rueful smile

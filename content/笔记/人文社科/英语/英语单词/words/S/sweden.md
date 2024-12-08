@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈswɪdən/； 美：/ˈswidən/
 - #词性/n  瑞典；瑞典王国
-# 例句
+##### 例句
 - In Sweden it is against the law to hit a child .
 	- 在瑞典打小孩是违法的。
 - In the final game Sweden easily overcame France .

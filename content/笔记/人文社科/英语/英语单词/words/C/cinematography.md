@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsɪnəməˈtɒɡrəfi/； 美：/ˌsɪnəməˈtɑːɡrəfi/
 - #词性/n  电影摄制艺术；电影制作方法
-# 例句
+##### 例句
 - Best cinematography : Emmanuel Lubezki , Gravity
 	- 最佳摄影：艾曼努尔-卢贝兹基《地心引力》
 - On the picture quality of High Definition Television and Cinematography

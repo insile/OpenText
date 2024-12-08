@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  解毒；为…去（解）毒；使戒去毒瘾
-# 例句
+##### 例句
 - GSTs is the important way to detoxicate of biology .
 	- GSTs是生物体进行脱毒和排毒的重要方式。
 - The method of microbial fermentation not only can detoxicate cottonseed meal , but also can improve the nutritional value of cottonseed protein .

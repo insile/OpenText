@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɪdʒɪlənt/； 美：/ˈvɪdʒɪlənt/
 - #词性/adj  警惕的；警觉的；警戒的；谨慎
-# 例句
+##### 例句
 - This vigilant yellow eye belongs to a Nile crocodile , a fearsome hunter perfected by epochs of evolutionary trial and error .
 	- 这咱警觉的黄色眼珠属于尼罗河鳄，一种经反复进化升级而不断完美的可怕的猎手。
 - Tatum 's unflappable demeanor has been cultivated by two vigilant parents , both college athletes , who raised Jayson separately but who were united in molding their son 's future .

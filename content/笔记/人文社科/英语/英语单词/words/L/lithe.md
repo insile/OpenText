@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/laɪð/； 美：/laɪð/
 - #词性/adj  优美柔软的；柔韧性好的；易弯曲的
-# 例句
+##### 例句
 - His walk was lithe and graceful .
 	- 他走路轻盈而优雅。
 - I was received by a tall , lithe , vibrant woman in her70 's , white-haired , and still beautiful .

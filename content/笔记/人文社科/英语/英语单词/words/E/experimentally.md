@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  实验性的；实验上；用实验方法；实验式地
-# 例句
+##### 例句
 - This theory can be confirmed experimentally .
 	- 这种理论可通过实验得到证实。
 - Once I had a boy who worked experimentally with Tinkertoys in his free time .

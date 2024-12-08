@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fəˈsiːʃəs/； 美：/fəˈsiːʃəs/
 - #词性/adj  滑稽的；乱引人发笑的；不问场合耍聪明的
-# 例句
+##### 例句
 - Stop being facetious ; this is serious .
 	- 别乱开玩笑，这是个严肃的事。
 - The woman eyed him coldly . ' Don 't be facetious , ' she said .

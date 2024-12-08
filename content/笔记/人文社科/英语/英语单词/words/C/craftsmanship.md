@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkrɑːftsmənʃɪp/； 美：/ˈkræftsmənʃɪp/
 - #词性/n  技艺；手艺；精工细作
-# 例句
+##### 例句
 - craftsmanship spirit The table in the kitchen was made by a local craftsman .
 	- 手艺人工匠精神厨房里的桌子是当地一名工匠做的。
 - Stunning entertainment center . Fine , ( pause ) fine Italian craftsmanship .

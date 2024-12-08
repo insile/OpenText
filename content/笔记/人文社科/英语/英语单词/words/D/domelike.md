@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  圆顶状的；穹顶状的
-# 例句
+##### 例句
 - CT measurements and analysis of lumbar canal following domelike decompression
 	- 穹顶形椎管扩大成形术后腰椎管CT扫描的测量分析
 - Objective To choose the best time of off bed activities for patients of Lumbar Spinal Stenosis with Domelike decompression .

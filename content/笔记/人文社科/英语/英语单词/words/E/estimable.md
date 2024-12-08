@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈestɪməbl/； 美：/ˈestɪməbl/
 - #词性/adj  值得尊重的；值得敬佩的
-# 例句
+##### 例句
 - The dynamic CRM model is presented by using stochastic game theory and estimable structural dynamic programming technologies .
 	- 运用随机博弈及可评估的结构动态规划技术建立动态客户关系管理的数学模型。
 - On Minimax Estimators of Estimable Functions in Normal Linear Experiments ;

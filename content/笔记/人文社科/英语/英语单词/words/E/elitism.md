@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/eɪˈliːtɪzəm/； 美：/eɪˈliːtɪzəm/
 - #词性/n  精英主义；精英统治；高人一等的优越感
-# 例句
+##### 例句
 - The elitism was blatant .
 	- 精英统治丝毫不加掩饰。
 - Also it reflects society 's move from elitism to at least nominal or desired equality .

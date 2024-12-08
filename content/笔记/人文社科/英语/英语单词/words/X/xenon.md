@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈzenɒn/； 美：/ˈzenɑːn/
 - #词性/n  氙；氙气
-# 例句
+##### 例句
 - Xenon and krypton are not retained by the body so they have little effect .
 	- 氙和氪不能在人体内停留所以对人体影响很小。
 - The result showed that xenon could be characteristic detected by PID ;

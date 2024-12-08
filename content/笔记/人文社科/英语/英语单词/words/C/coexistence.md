@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkəʊɪɡˈzɪstəns/； 美：/ˌkoʊɪɡˈzɪstəns/
 - #词性/n  共存；共处
-# 例句
+##### 例句
 - Our country has always adhered faithfully to the Five Principles of Peaceful Coexistence .
 	- 对于和平共处五项原则，我国一贯是恪守不渝的。
 - Coexistence necessitates the total noninterference by any power in the internal affairs of another .

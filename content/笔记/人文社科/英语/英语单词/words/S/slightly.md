@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈslaɪtli/； 美：/ˈslaɪtli/
 - #词性/adv  稍微；略微；轻微地；身材瘦小的
-# 例句
+##### 例句
 - In fact , the potent female hormone may slightly increase the risk of suffering a heart attack in some women .
 	- 事实上，效力明显的雌激素有可能在某些妇女体内轻微地增加心脏病发作的危险。
 - The yearly average precipitation overall displays a declining trend , the season characteristic performance of precipitation is as below : The summer winter precipitation has increased slightly , spring and autumn is reverse instead , but the relevance is not big .

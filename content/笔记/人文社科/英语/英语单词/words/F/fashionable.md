@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfæʃnəbl/； 美：/ˈfæʃnəbl/
 - #词性/adj  流行的；时髦人物使用的；(尤指)有钱人常光顾的
 - #词性/n  时髦人物
-# 例句
+##### 例句
 - Don 't let yourself be distracted by fashionable theories
 	- 不要让自己被流行的理论分散了注意力。
 - The fashionable cost analysis and control method can not completely meet the dynamic management ;

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɔːbɪd/； 美：/ˈmɔːrbɪd/
 - #词性/adj  病态的；病的；不正常的；与疾病有关的
-# 例句
+##### 例句
 - Some people have a morbid fascination with crime .
 	- 一些人对犯罪有一种病态的痴迷。
 - The only real problem is , of course , a morbid imagination .

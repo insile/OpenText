@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/səˈleɪʃəs/； 美：/səˈleɪʃəs/
 - #词性/adj  淫秽的；色情的
-# 例句
+##### 例句
 - The newspapers once again filled their columns with salacious details .
 	- 赤裸裸的猥亵细节再度充斥了报纸的版面。
 - This would not be the magazine 's first cover pushing the boundary between sensationalist and salacious .

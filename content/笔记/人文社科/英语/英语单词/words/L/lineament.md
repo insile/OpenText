@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  线性构造；（面，外，地）貌；轮廓；特征
-# 例句
+##### 例句
 - The CAD \/ CAM Integral Design on Complex Lineament Roller
 	- 复杂轮廓轧辊的CAD\/CAM一体化设计
 - Digital analysis of lineament field in remotely sensed image

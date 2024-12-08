@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪdiəsɪŋˈkrætɪk/； 美：/ˌɪdiəsɪŋˈkrætɪk/
 - #词性/adj  怪异的；乖僻的
-# 例句
+##### 例句
 - He has some rather idiosyncratic views about what constitutes good television .
 	- 他对于什么是好的电视节目有一些比较怪异的见解。
 - Can we always blame violence on idiosyncratic personalities ( be that the North Korean leaders , Osama bin Laden or anyone else )?

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpæstəraɪˈzeɪʃən/； 美：/ˌpæstʃərəˈzeɪʃən/
 - #词性/n  巴氏灭菌；巴氏灭菌（消毒）法
-# 例句
+##### 例句
 - Meanwhile , the time consuming and energy expenditure of microwave sterilization method are superior to those of pasteurization .
 	- 研究表明，微波灭菌法在工作时间及能耗等方面均优于巴氏灭菌法。
 - Under these conditions , the loss rate of reducing sugar , total acid and original wort concentration in beer which was less than the index treated by pasteurization .

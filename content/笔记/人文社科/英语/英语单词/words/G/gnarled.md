@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/nɑːld/； 美：/nɑːrld/
 - #词性/adj  多节的；扭曲的；(因年老或疾病)弯曲的；多节瘤的；疙疙瘩瘩的
-# 例句
+##### 例句
 - Sailor as he was , it was easy enough for him to clamber up the gnarled trunk .
 	- 他虽说是个水手，攀上这扭曲的树干，倒还容易。
 - Its gnarled roots twisted in and out of the earth like a nest of slow brown serpents , and hundreds of old copper pennies had been nailed to its huge trunk .

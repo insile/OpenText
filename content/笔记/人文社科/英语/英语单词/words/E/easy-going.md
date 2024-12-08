@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌiːzi ˈɡəʊɪŋ/； 美：/ˌiːzi ˈɡoʊɪŋ/
 - #词性/adj  随和；悠闲的；不慌不忙的
-# 例句
+##### 例句
 - He 's an easy-going , friendly young man with a casual sort of attitude towards money .
 	- 他是个随和、友善的年轻人，不太在意金钱。
 - Some young people who were easy-going and extroverted as children become self-conscious in early adolescence .

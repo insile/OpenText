@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈziːlənd/； 美：/ˈziːlənd/
 - #词性/n  西兰岛（在丹麦东部，为丹麦哥本哈根之所在地）
-# 例句
+##### 例句
 - Northern Zealand tree having dense hard light-brown wood .
 	- 西兰岛北部浅褐色树种，木质坚硬紧凑。
 - We went to New Zealand last winter .

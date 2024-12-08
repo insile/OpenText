@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈædvɜːs/； 美：/ədˈvɜːrs/
 - #词性/adj  不利的；有害的；反面的
-# 例句
+##### 例句
 - It was an adverse verdict .
 	- 这是一个不利的判决。
 - However , the use of colour information has some adverse effects on the segmentation .

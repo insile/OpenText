@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəˈlɒsl/； 美：/kəˈlɑːsl/
 - #词性/adj  巨大的；庞大的
-# 例句
+##### 例句
 - There has been a colossal waste of public money
 	- 一直存在巨大的公款浪费。
 - It looked like a colossal statue .

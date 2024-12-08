@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɔːlsəʊ/； 美：/ˈɔːlsoʊ/
 - #词性/adv  而且；此外；同样；也
 - #词性/conj  同“also beautiful”
-# 例句
+##### 例句
 - She was not only intelligent but also very musical .
 	- 她不仅聪明，而且极具音乐天分。
 - He not only read the book , but also remembered what he had read .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/səˈreɪtɪd/； 美：/səˈreɪtɪd/
 - #词性/adj  锯齿状的
-# 例句
+##### 例句
 - The plant has serrated and hairy leaves .
 	- 这棵植物长着锯齿状的毛茸茸的叶子。
 - A gripping tool with two hinged arms and ( usually ) serrated jaws . A mechanical device that grasps and holds .

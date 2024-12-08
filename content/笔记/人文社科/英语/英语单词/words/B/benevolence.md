@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  仁爱；善行；捐助；厚道
-# 例句
+##### 例句
 - Major Pendennis transacted his benevolence by deputy and by post .
 	- 潘登尼斯少校依靠代理人和邮局，实施着他的仁爱之心
 - They once were icons of integrity , citadels of civilization , bastions of benevolence .

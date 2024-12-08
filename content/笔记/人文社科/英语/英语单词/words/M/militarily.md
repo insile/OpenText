@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  在军事上；以武力；以军事行动
-# 例句
+##### 例句
 - We may have to intervene militarily in the area .
 	- 我们可能只好对这一地区进行军事干涉。
 - They have been galvanised into collective action — militarily , politically and economically .

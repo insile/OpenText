@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈblɪviəs/； 美：/əˈblɪviəs/
 - #词性/adj  忘却的；不知道；未注意；未察觉
-# 例句
+##### 例句
 - I was totally oblivious to the fact that he had a crush on me !
 	- 我根本不知道他暗中迷恋我。
 - Because a transit of Venus is barely visible to the naked eye , for most of history humans went about their lives oblivious to such events .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈnept/； 美：/ɪˈnept/
 - #词性/adj  无能的；笨拙的；缺乏技巧的
-# 例句
+##### 例句
 - The result has been a succession of inept leaders and the absence of a coherent policy agenda .
 	- 结果，无能的领导人接连上台，却始终缺乏一项具有连贯性的政策议程。
 - Others on the right deplore the mistakes of inept regulation , lax monetary policy and poor policy responses .

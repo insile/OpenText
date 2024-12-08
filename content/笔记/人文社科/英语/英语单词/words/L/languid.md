@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlæŋɡwɪd/； 美：/ˈlæŋɡwɪd/
 - #词性/adj  慵懒的；懒散的；慢悠悠的
-# 例句
+##### 例句
 - As we promised , to face the world drowsily in our most languid positions .
 	- 我们早就约定了，要以最慵懒的姿势，恍惚地面对这个世界。
 - Before long , though , the languid sensuality that was part of an aesthetic flowering extending roughly from 1967 to 1973 had pretty well run its course .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈfɔːsə(r)/； 美：/ɪnˈfɔːrsər/
 - #词性/n  实施者；强制执行者
-# 例句
+##### 例句
 - Well , how long is the enforcer gonna be with us ?
 	- 好吧她还要在我们中间多久？
 - As the enforcer of property right system , the state would try to reduce this cost .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhəʊmˈmeɪd/； 美：/ˈhoʊmˈmeɪd/
 - #词性/adj  自制的；国产的
-# 例句
+##### 例句
 - She had homemade ice cream for dessert
 	- 她用自制的冰激凌作饭后甜点。
 - A homemade dark room is very convenient .

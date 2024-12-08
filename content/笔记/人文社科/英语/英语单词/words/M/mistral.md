@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɪstrəl/； 美：/ˈmɪstrəl/
 - #词性/n  密史脱拉风(法国南部主要出现于冬季的寒冷强风)
-# 例句
+##### 例句
 - An area of choppy water , as on an ocean . International Mistral Class World Championship
 	- 碎浪区海洋等有碎浪的区域世界滑浪风帆锦标赛
 - Conclusions Mistral valve replacement with preservation of the posterior leaflet is beneficial to left ventricular function after operation .

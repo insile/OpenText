@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsiːɡəʊɪŋ/； 美：/ˈsiːɡoʊɪŋ/
 - #词性/adj  远洋航行的
 - #词性/n  航海
-# 例句
+##### 例句
 - Measurement of sound pressure level for sound signal appliances by seagoing vessel
 	- GB\/T12303-1990海船声号器具的声压级测量
 - An Improvement on Seagoing Performance for High Speed Boat

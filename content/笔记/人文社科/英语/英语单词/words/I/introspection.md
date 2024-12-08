@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪntrəˈspekʃn/； 美：/ˌɪntrəˈspekʃn/
 - #词性/n  反省；内省
-# 例句
+##### 例句
 - No introspection on the date : Just enjoy the moment .
 	- 约会时不要反省：享受当前。
 - Failure is the mother of success and introspection is the father of success .

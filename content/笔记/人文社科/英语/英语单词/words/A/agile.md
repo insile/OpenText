@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈædʒaɪl/； 美：/ˈædʒl/
 - #词性/adj  (动作)敏捷的；灵活的；(思维)机敏的；机灵的
-# 例句
+##### 例句
 - Agile projects are built around this kind of great communication .
 	- 敏捷的项目正是围绕这种出色的交流而建立。
 - Is your team coping with working in an Agile way ?

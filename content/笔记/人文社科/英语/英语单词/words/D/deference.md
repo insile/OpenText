@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdefərəns/； 美：/ˈdefərəns/
 - #词性/n  尊重；遵从；听从；尊敬
-# 例句
+##### 例句
 - He touched his forelock in mock deference .
 	- 他手触额发假装尊敬。
 - Do you treat your parents and teachers with deference ?

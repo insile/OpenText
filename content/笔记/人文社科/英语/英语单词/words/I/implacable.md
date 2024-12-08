@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈplækəbl/； 美：/ɪmˈplækəbl/
 - #词性/adj  不饶人的；不愿和解的；不能改变的
-# 例句
+##### 例句
 - Willoughby 's boast of his implacable character was to blame .
 	- 威洛比吹嘘过他不饶人的性格，他应该受到谴责。
 - The move has won the implacable opposition of many economists .

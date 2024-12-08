@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pəˈrentl/； 美：/pəˈrentl/
 - #词性/adj  父母的；母亲的；父亲的；双亲的
-# 例句
+##### 例句
 - For example , if a couple have a child and then separate , and the man has parental rights , he is entitled to have the child 's DNA analyzed without getting consent from either the child or mother .
 	- 法律也允许一些例外情况，比如，一对夫妇有一个孩子，离婚后，男子有父亲的权利，有权不经孩子或母亲同意给孩子做DNA测试。
 - It 's about the ( quantifiable ! ) power of love . It 's about the tug of family . It 's about parental guilt . It 's about filial rage . It 's about faith . It 's about doubt . It 's about human glory . It 's about human treachery .

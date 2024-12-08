@@ -5,12 +5,12 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kænt/； 美：/kænt/
 - #词性/n  (尤指有关道德或宗教问题的)伪善言辞，虚假的话，空话；伪善说教
 - #词性/v  (使)倾斜
 - #词性/adj  活泼有力的
-# 例句
+##### 例句
 - The ship took on a dangerous cant to port .
 	- 船只出现向左舷危险倾斜。
 - Two track formations which are level track and the track cant 5.7 degree are utilized for model A , by considering basement and rails of the track as well .

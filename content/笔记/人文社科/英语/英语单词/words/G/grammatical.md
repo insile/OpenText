@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɡrəˈmætɪkl/； 美：/ɡrəˈmætɪkl/
 - #词性/adj  语法的；文法的；符合语法规则的
-# 例句
+##### 例句
 - Agreement in grammatical case between words in the same construction .
 	- 同一结构中合乎文法的格一致。
 - In general , a grammatical clause contain a subject and a predicate

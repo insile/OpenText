@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  可能的；可推测的；像有的
-# 例句
+##### 例句
 - Differences in the properties between P-and Q-type calcium channels and their presumable structural relevance
 	- P型和Q型钙通道的性质差异及其可能的结构基础
 - When cataloguing the enterprise social accountability , underlying factors influencing the correspondent strategic choice as well as a presumable consequence is indicated , also a five-stage model of evolution of corporate social responsibility strategic choice is constructed accordingly .

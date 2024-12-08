@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnɪkˈspensɪv/； 美：/ˌɪnɪkˈspensɪv/
 - #词性/adj  廉价的；不昂贵的
-# 例句
+##### 例句
 - Nonfat dry milk is an inexpensive proteinaceous eluent .
 	- 脱脂奶粉是廉价的蛋白质洗脱剂。
 - The solution is developing high quality public water systems that can provide inexpensive water for everyone .

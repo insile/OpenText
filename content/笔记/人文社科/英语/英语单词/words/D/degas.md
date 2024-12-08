@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈgæs/； 美：/ˈdeɪgəs/
 - #词性/v  脱气；除去瓦斯
-# 例句
+##### 例句
 - Degas 's work had been a revelation to her .
 	- 德加的作品曾经让她大开眼界。
 - The evening was topped off by a special showing of the museum 's new Degas exhibit

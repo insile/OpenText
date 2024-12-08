@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  不成比例地
-# 例句
+##### 例句
 - As a result , immigration from the new EU states has been disproportionately concentrated on two members .
 	- 其结果是，来自新欧盟成员国的移民不成比例地集中在了这两个成员国里。
 - Otherwise , as in Europe , the markets ' harsh solutions will be borne disproportionately by the low income and disadvantaged .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  预防性的；防备的；同 preventive
-# 例句
+##### 例句
 - Knowing more about TIGAR could lead to earlier cancer detection or even preventative treatments .
 	- 对TIGAR了解更多可能导致更早检测到癌症，甚至导致预防性的治疗。
 - So the cure for Alzheimer 's will likely be a preventative medicine .

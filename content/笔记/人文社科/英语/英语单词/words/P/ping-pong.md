@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɪŋ pɒŋ/； 美：/ˈpɪŋ pɑːŋ/
 - #词性/n  乒乓球；乒乓球运动
-# 例句
+##### 例句
 - How many years have you been playing ping-pong ?
 	- 你打乒乓球多少年了？
 - Discussion on Teaching Ping-Pong ' Methods in Return a Service

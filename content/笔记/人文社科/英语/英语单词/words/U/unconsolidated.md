@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnkənˈsɒlɪdeɪtɪd/； 美：/ənkənˈsɑləˌdeɪtɪd/
 - #词性/adj  松散的；非固结的
-# 例句
+##### 例句
 - Study on drilling fluid technology in unconsolidated sand with high clay content
 	- 高泥质疏松砂岩防塌保护油气层钻井液技术
 - Research and Application on the completion fluid for unconsolidated sand formation

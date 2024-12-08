@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪməˈtjʊərɪti/； 美：/ˌɪməˈtʃʊrɪti/
 - #词性/n  不成熟；幼稚
-# 例句
+##### 例句
 - Such households included male members which could be divided into two parts : adult and immaturity .
 	- 宋代女户家庭中不仅可以存在男性成员，而且有成年与未成年之别。
 - Rounding out the top five was domestic comedy " Immaturity of Twenty-Eight , " which took 45 million yuan .

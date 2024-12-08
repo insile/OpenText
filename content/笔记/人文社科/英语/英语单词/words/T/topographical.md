@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌtɒpəˈɡræfɪkl/； 美：/ˌtɑːpəˈɡræfɪkl/
 - #词性/adj  地形的;地貌的
-# 例句
+##### 例句
 - Data quality control provides quality of digital topographical map .
 	- 数据质量控制提供了数字地形图的质量保障。
 - Application of the Digital Topographical Model in the Railway Design

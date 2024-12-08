@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌrezəˈrekʃn/； 美：/ˌrezəˈrekʃn/
 - #词性/n  复活；复兴；耶稣复活；复苏；(世界末日)所有亡者复活
-# 例句
+##### 例句
 - Christians celebrate the resurrection of Christ from the death .
 	- 基督教徒们庆祝耶稣基督的复活。
 - I am the resurrection and the life ; he who believes in me , though he die , yet shall he live .

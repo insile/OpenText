@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈriːdʒənl/； 美：/ˈriːdʒənl/
 - #词性/adj  地区的，区域的；（身体上的）区的，部位的，局部的；地方的，有地方特色的
 - #词性/n  （面向某一地区性的）邮票；地区分支机构；〈美〉地区证券交易所；（报刊的）地方版；地区性人物；为某一地区所生产的商品；〈美〉地方性运动会
-# 例句
+##### 例句
 - There is still a danger of escalation of some regional conflicts .
 	- 个别地区的冲突还存在着升级的危险。
 - A " leaf peeper " , or " leafer " , is the New England regional slang term for a person , usually a tourist , who drives very slowly throughout the north-east portion of the United States during autumn while looking out the windows of their car at the annual foliage1 color change .

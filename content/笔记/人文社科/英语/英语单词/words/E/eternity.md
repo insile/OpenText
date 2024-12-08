@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈtɜːnəti/； 美：/ɪˈtɜːrnəti/
 - #词性/n  永恒；永生；不朽；(似乎)无穷无尽的一段时间
-# 例句
+##### 例句
 - The dragon of eternity sustains the faceted heliotrope crystal of life .
 	- 永恒不朽的飞龙支撑着寓意着生命的淡紫色多面水晶。
 - He can give up eternity and become one of us .

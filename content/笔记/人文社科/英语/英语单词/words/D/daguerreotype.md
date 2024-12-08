@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dəˈɡerətaɪp/； 美：/dəˈɡerətaɪp/
 - #词性/n  达盖尔照相法；(早期的)达盖尔银版照片
-# 例句
+##### 例句
 - The inventor of the daguerreotype is a French artist .
 	- 银版照相的发明者是位法国艺术家。
 - In 1832 , Louis Daguerre invented the daguerreotype process . As the photography developed continually , this process has started the history of human flat image .

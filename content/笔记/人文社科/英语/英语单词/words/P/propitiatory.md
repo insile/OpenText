@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prəˈpɪʃiətri/； 美：/prəˈpɪʃiətɔːri/
 - #词性/adj  安抚的；为和解的；为赢回好感的
-# 例句
+##### 例句
 - She saw the flowers as a propitiatory offering .
 	- 在她看来，送花是主动和解的表示。
 - This paper proposes a tentative notion of " propitiatory state " to describe the current relationship between the state and the labor in China .

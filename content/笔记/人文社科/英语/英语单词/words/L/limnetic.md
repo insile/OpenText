@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  湖沼的；生活于淡水的
-# 例句
+##### 例句
 - Primary Study on the Digestive Enzyme Activities of Three Limnetic Mussels
 	- 3种淡水蚌消化酶活力的初步研究
 - Qingshuihe limnetic environmental change in the permafrost region of Qinghai-Xizang Plateau

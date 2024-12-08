@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪləstrətɪv/； 美：/ɪˈlʌstrətɪv/
 - #词性/adj  说明的；解释性的
-# 例句
+##### 例句
 - Note : Attached Bugatti renderings are for illustrative purposes only .
 	- 注：附加布加迪渲染是仅用于说明的目的
 - The illustrative strings and the orange stick representing the poles seemed so real that even to this day the mere mention of temperate zone suggests a series of twine circles ;

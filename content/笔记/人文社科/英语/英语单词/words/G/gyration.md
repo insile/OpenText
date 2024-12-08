@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdʒaɪəˈreɪʃən/； 美：/dʒaɪˈreɪʃən/
 - #词性/n  回转（旋）；旋转（运动）；环动
-# 例句
+##### 例句
 - In this case , a charged particle has a simple gyration .
 	- 在这种情况下，带电粒子有一个简单的回转。
 - Research on Wavelet Transform in Sediment Gyration of Seismic Record

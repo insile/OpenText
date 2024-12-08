@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈskruːpjələs/； 美：/ʌnˈskruːpjələs/
 - #词性/adj  肆无忌惮的；不道德的；不诚实的；不公正的；无道德原则的
-# 例句
+##### 例句
 - The loopholes in the law have already been seized upon by unscrupulous car dealers .
 	- 法律的漏洞早已被肆无忌惮的汽车商大加利用。
 - Working people will now be vulnerable to exploitation by unscrupulous employers .

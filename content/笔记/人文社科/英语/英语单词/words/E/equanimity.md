@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌekwəˈnɪməti/； 美：/ˌekwəˈnɪməti/
 - #词性/n  平静；(尤指处于困境时的)镇静，沉着，冷静
-# 例句
+##### 例句
 - She accepted the prospect of her operation with equanimity .
 	- 她心情平静地接受了动手术的可能性。
 - His sense of humour allowed him to face adversaries with equanimity

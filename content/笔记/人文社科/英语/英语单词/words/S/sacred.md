@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈseɪkrɪd/； 美：/ˈseɪkrɪd/
 - #词性/adj  神圣的；神的；上帝的；受尊重的；受崇敬的
-# 例句
+##### 例句
 - He believed it was the sacred idea .
 	- 他相信这是上帝的意思。
 - Some sacred inspiration perhaps had come to him .

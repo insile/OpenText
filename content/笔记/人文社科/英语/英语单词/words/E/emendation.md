@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌiːmenˈdeɪʃn/； 美：/ˌiːmenˈdeɪʃn/
 - #词性/n  修改；校订；校订的内容；修改的意见
-# 例句
+##### 例句
 - Emendation of p - λ formula of diaphragm spring based on the new hypothesis
 	- 基于新假设的膜片弹簧碟簧部分载荷&变形公式的修改
 - The other is that on the basis of the present law and system , the emendation to the present copyright law may resolve these problems .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈskeɪbrəs/； 美：/ˈskeɪbrəs/
 - #词性/adj  淫秽的；有伤风化的；表面粗糙的；猥亵的
-# 例句
+##### 例句
 - The book includes some memorably seedy characters and scabrous description .
 	- 这本书包含了一些难忘下流的角色及有伤风化的描述。
 - Her face buried itself in his scabrous shirt .

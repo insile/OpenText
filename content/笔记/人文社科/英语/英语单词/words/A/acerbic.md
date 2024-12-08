@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈsɜːbɪk/； 美：/əˈsɜːrbɪk/
 - #词性/adj  尖刻的；严厉的
-# 例句
+##### 例句
 - He sent back an acerbic letter .
 	- 他回复了一封尖刻的信。
 - Known for his acerbic wit , Chandler makes plenty of jokes at every character 's expense , which includes his father .

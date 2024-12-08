@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkɛnjə/； 美：/ˈkɛnjə/
 - #词性/n  肯尼亚；肯尼亚（1．东非一国家，首都为Nairobi；2．肯尼亚中部山峰名）
-# 例句
+##### 例句
 - Kenya 's beef comes from the zebu cattle .
 	- 肯尼亚的牛肉是瘤牛肉。
 - The latest seismic activity was also felt in northern Kenya .

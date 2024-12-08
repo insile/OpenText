@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmemərəbl/； 美：/ˈmemərəbl/
 - #词性/adj  难忘的；值得纪念的
-# 例句
+##### 例句
 - Collect small things such as leaves , stones , or feathers , which can be turned into memorable works of art when you get back home .
 	- 收集一些像树叶、石头或者羽毛之类的小东西，当你回到家的时候可以把它们变成值得纪念的艺术品。
 - Today day is a memorable day , are the annual Father 's Day !

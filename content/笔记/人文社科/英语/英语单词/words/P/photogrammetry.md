@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  摄影测量；摄影测量学；摄影测绘（制图）
-# 例句
+##### 例句
 - The deformation monitoring system of steel structure based on Digital Photogrammetry
 	- 基于数字摄影的钢结构变形监测系统研究
 - Research on Industrial Application of Close Range Digital Photogrammetry Industry

@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdʒiːniəl/； 美：/ˈdʒiːniəl/
 - #词性/adj  亲切的；和蔼的；友好的；欢快的
-# 例句
+##### 例句
 - Harry was genial a soul as you could ever meet .
 	- 哈里是你所能遇到的最和蔼的人。
 - Aldo Rustichini is a genial Italian economist with a head of hair that seems to have been modelled on Albert Einstein 's.

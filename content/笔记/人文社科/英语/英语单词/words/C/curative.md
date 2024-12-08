@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkjʊərətɪv/； 美：/ˈkjʊrətɪv/
 - #词性/adj  治愈的；有疗效的；能治病的
 - #词性/n  医药；治疗物[法]
-# 例句
+##### 例句
 - Patients diagnosed with pancreatic cancer typically have a poor prognosis , and surgery remains the only curative treatment option .
 	- 被诊断罹患胰脏癌的患者，预后通常非常不好，且手术仍是唯一可能治愈的选择；
 - Conclusion The clearly diagnosis without misdiagnosis should be the key point to improve the traumatic intestinal rapture curative effect .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  副本；复制品
-# 例句
+##### 例句
 - Book garage features beauty , color soft and horizontal ectype design , be rich with the layer and stereoscopic feeling .
 	- 卷帘车库外型美观、色彩柔和、横纹浮雕设计，富有层次与立体感。
 - The steel plate surface has a cultured and clear wood grain ectype , and inhibit square space pattern , the beauty is generous .

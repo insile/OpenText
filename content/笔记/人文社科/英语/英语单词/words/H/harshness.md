@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  严酷；严肃；刺耳；粗糙的事物
-# 例句
+##### 例句
 - The harshness of the climate makes vegetative growth extremely slow .
 	- 恶劣的气候使植物生长特别缓慢。
 - She burst into tears , stung by the harshness of his words .

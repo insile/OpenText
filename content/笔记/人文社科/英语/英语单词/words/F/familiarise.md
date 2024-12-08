@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  使熟悉（精通）；使众所周知（家喻户晓）
-# 例句
+##### 例句
 - I was expected to familiarise myself with the keyboard
 	- 对我的要求是熟悉键盘。
 - We must work hard to familiarise ourselves with the Chinese culture and get to know the Chinese values .

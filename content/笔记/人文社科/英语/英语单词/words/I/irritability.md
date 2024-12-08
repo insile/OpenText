@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪrɪtəˈbɪlɪti/； 美：/ɪrɪtəˈbɪləti/
 - #词性/n  易怒；刺激物；应激性；感应性；兴奋性
-# 例句
+##### 例句
 - They said to expect irritability over the next few days .
 	- 他们说接下来的几天我的确会感到烦躁
 - It also causes irritability and lowers the immune system .

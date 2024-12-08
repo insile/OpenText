@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  （市场）胶着状态；不活跃状态；（市场）胶着状态；不活跃状态
-# 例句
+##### 例句
 - Only I know is that it is in quiescence , including the instant moment .
 	- 我只知道，它凝固了，包括瞬间
 - The Eurasian seismic belt still remained in quiescence .

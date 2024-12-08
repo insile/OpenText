@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  杂色；使成杂色；使丰富多彩；使多样化
-# 例句
+##### 例句
 - A Chilean boy with severe photosensitivity and finger shortening : The first case of homozygous variegate porphyria in South America
 	- 1例智利男孩发生严重的光过敏和手指缩短：南美洲首例纯合子杂色斑驳卟啉症
 - His life in Xinjiang has changed his sentimentality , and turned his life from idealism to realism , turned his idea on literature from monochrome to variegate .

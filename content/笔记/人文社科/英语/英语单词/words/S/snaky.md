@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsneɪki/； 美：/ˈsneɪki/
 - #词性/adj  生气的；发怒的
-# 例句
+##### 例句
 - What are you snaky about ?
 	- 你为啥发火？
 - Prediction method of the pressure fall in producing well section of snaky well

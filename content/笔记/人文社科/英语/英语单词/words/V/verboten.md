@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  禁止；被禁止；禁止的
-# 例句
+##### 例句
 - What is permissible at one may be verboten at another .
 	- 一家公司内允许的也许在另一家被禁止。
 - Beards are virtually verboten in corporate circles .

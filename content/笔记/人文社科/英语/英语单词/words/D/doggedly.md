@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  顽强地；固执地
-# 例句
+##### 例句
 - He was still doggedly pursuing his studies .
 	- 他仍然顽强地进行着自己的研究
 - Firms are also doggedly clannish on the inside .

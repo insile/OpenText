@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  胶质的；神经胶质的
-# 例句
+##### 例句
 - Progress in Research of Glial Cell Line - Derived Neurotrophic Factor
 	- 胶质细胞原神经营养因子研究进展
 - Growth factor effects on the proliferation of human retinal glial cell in culture

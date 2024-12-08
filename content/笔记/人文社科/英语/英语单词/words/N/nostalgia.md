@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/nɒˈstældʒə/； 美：/nəˈstældʒə/
 - #词性/n  怀旧；念旧
-# 例句
+##### 例句
 - He discerned in the novel an air of Sixties nostalgia .
 	- 他在小说里感受到一种20世纪60年代的怀旧氛围。
 - There is an unmistakable note of nostalgia in his voice when he looks back on the early years of the family business

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəmˈpɔːtmənt/； 美：/kəmˈpɔːrtmənt/
 - #词性/n  行为；举止；表现
-# 例句
+##### 例句
 - However , practically there still is the comportment of abusing intellectual property right .
 	- 然而，实践中却存在滥用知识产权行为。
 - It statically is teacher 's value orientation and thinking way , and dynamically is teacher 's attitude predisposition and comportment .

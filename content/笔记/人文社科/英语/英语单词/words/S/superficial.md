@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsuːpəˈfɪʃl/； 美：/ˌsuːpərˈfɪʃl/
 - #词性/adj  表面的；肤浅的；表层的；浅薄的；外表的；表皮的；粗略的；外面的；粗枝大叶的
-# 例句
+##### 例句
 - The book shows only a superficial understanding of the historical context .
 	- 这部书表现出对历史背景肤浅的理解。
 - This guy is a superficial yuppie with no intellect whatsoever

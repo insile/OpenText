@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  英勇的；勇敢的；勇猛的；无畏的；勇武的
-# 例句
+##### 例句
 - Throughout the coming years , he would commit great and valorous deeds .
 	- 在今后的岁月中，他将成就勇敢而伟大的功绩。
 - The repeated springs show the tiger 's mighty and valorous looks .

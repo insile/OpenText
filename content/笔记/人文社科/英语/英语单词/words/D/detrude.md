@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  推倒，扔掉
-# 例句
+##### 例句
 - Detrude the new talented man 's employment system .
 	- 推出新的人才就业制度。
 - A method to realize the program of phenomenological combustion model without any manual detrude work is developed by using of matrix inverse order ( INV ) in MATLAB toolbox .

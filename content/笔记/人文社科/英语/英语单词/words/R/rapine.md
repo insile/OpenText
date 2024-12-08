@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  抢夺；掠夺；劫掠,掠夺；劫掠
-# 例句
+##### 例句
 - It is not enough that ecclesiastical men abstain from violence and rapine and all manner of persecution .
 	- 仅仅教士自身放弃暴力和掠夺以及所有迫害的方式还是不够的。
 - It is from the Bible that man has learned cruelty , rapine and murder ; for the belief of a cruel God makes a cruel man .

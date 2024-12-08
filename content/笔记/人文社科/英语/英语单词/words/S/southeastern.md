@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsaʊθˈiːstən/； 美：/ˌsaʊˈθistərn/
 - #词性/adj  东南的，东南部的
 - #词性/n  东南人，住在东南部的人
-# 例句
+##### 例句
 - Looking at the Investing Environment of Southeastern Gansu from the Perspective of Regional Theory
 	- 从区位理论看陇东南的投资环境
 - Small ash of swampy areas of southeastern United States .

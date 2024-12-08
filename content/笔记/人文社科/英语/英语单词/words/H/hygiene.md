@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhaɪdʒiːn/； 美：/ˈhaɪdʒiːn/
 - #词性/n  卫生
-# 例句
+##### 例句
 - The government has introduced some tough new laws on food hygiene .
 	- 政府对食物卫生出台了一些强硬的新法规。
 - The results implicate poor hygiene as one cause of the outbreak .

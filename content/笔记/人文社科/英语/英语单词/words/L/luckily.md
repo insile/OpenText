@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlʌkɪli/； 美：/ˈlʌkɪli/
 - #词性/adv  幸运的是；幸好；好在
-# 例句
+##### 例句
 - Luckily he had insured himself against long-term illness .
 	- 幸运的是，他为自己投保了长期病险。
 - Luckily , nothing valuable was stolen .

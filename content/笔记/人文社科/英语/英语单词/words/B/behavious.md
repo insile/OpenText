@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  行为
-# 例句
+##### 例句
 - The Mean Field Model and Analysis on the Dynamical Behavious for Network Traffic
 	- 网络流量的平均场模型及其动力学行为分析
 - The show of dynamic model helps users to understand the target system behavious of certain scene .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmaɪndset/； 美：/ˈmaɪndset/
 - #词性/n  心态；观念模式；思维倾向
-# 例句
+##### 例句
 - The mindset of teaching and research is changing gradually .
 	- 大部分教师在教学研究上具有较强的功利性心态。
 - This article will focus on the different creative mindset of them .

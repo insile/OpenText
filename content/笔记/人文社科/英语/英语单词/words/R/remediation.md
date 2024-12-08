@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˌmiːdiˈeɪʃn/； 美：/rɪˌmiːdiˈeɪʃn/
 - #词性/n  补救；补习
-# 例句
+##### 例句
 - Application of remediation service strategy in nursing work
 	- 服务补救策略在护理工作中的应用
 - And ( 4 ) combining improving medical technology level with strengthening service remediation .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈsɜːvətɪzəm/； 美：/kənˈsɜːrvətɪzəm/
 - #词性/n  保守主义；保守；守旧；(英国)保守党的原则
-# 例句
+##### 例句
 - Wherein lies the difference between conservatism and liberalism ?
 	- 保守主义和自由主义的区别在哪里？
 - The uneasy coupling of fascism and conservatism spawned a new kind of political regime

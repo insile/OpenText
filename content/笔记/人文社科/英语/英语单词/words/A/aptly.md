@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  适当地；适宜地
-# 例句
+##### 例句
 - He won his first Derby on the aptly named ' Never Say Die ' .
 	- 他驾驭着这匹名副其实的“永不言败”夺得了他的第一个德比马赛冠军。
 - The concept underpinned of fire seems much more appealing however , aptly comparing the damage caused by the spread of misleading facts to the trail of destruction left in the wake of a wildfire .

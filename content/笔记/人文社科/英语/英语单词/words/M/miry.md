@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  泥泞的，沾满泥的，脏的
-# 例句
+##### 例句
 - Can one illuminate a black and miry sky ?
 	- 谁能照亮一片黑暗而泥泞的天空？
 - Marked by pits . They journeyed through rough and miry ways .

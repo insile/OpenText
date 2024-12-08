@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpekɪʃ/； 美：/ˈpekɪʃ/
 - #词性/adj  有点饿的
-# 例句
+##### 例句
 - I often start to feel a bit peckish around mid-morning .
 	- 我经常在上午10点左右开始觉得有点饿。
 - This word is used when you are extremely hungry , not just feeling peckish .

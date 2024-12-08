@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnɪksˈpɛktɪdli/； 美：/ˌʌnɪkˈspɛktɪdli/
 - #词性/adv  意外地；出乎意料地；无意
-# 例句
+##### 例句
 - The plane was unexpectedly delayed .
 	- 飞机意外地延误了。
 - They had arrived unexpectedly .

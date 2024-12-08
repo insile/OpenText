@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  长期；（已持续）长时间的，为时甚久的
 - #词性/adv  长久
-# 例句
+##### 例句
 - One longtime critic , Les Perelman , has drawn national attention several times for putting together nonsense essays that have fooled software grading programs into giving high marks .
 	- 莱斯·佩雷尔曼就是一位长期的批评者，并曾多次引起全国关注，原因是他将文理不通的短文组合在一起，而软件评分程序不明就里，给出了很高的分数。
 - As they left student life behind , many had a last drink at their cheap but friendly local bar , shook hands with longtime roommates , and last out of small apartments into high buildings .

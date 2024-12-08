@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnɪkˈspiːdiənt/； 美：/ˌɪnɪkˈspiːdiənt/
 - #词性/adj  不恰当的；不正确的；不公正的
-# 例句
+##### 例句
 - It would be inexpedient to raise taxes further .
 	- 进一步加税就是不合理。
 - Inexpedient Design on Noise Control and Its Prevention

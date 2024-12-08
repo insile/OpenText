@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈweəri/； 美：/ʌnˈweri/
 - #词性/adj  粗心的人；不警觉的；不警觉的人；不提防的
-# 例句
+##### 例句
 - The stock market is full of traps for the unwary .
 	- 对无风险意识的人而言，股票市场充满了陷阱。
 - Tax can be a minefield for the unwary .

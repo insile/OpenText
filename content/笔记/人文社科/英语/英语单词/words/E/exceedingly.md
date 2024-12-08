@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪkˈsiːdɪŋli/； 美：/ɪkˈsiːdɪŋli/
 - #词性/adv  非常；极其；特别
-# 例句
+##### 例句
 - This was an exceedingly difficult decision to take
 	- 作这个决定非常地难。
 - The notions we children were able to form of the great world beyond were exceedingly nebulous

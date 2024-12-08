@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  静态的；静止的；静力的
-# 例句
+##### 例句
 - Scale and analysis of map symbols of social economy statical indexes
 	- 社会经济统计指标的地图符号标度与分析
 - The statical power current increases by 4.5 order of magnitude .

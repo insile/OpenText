@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpætʃwɜːk/； 美：/ˈpætʃwɜːrk/
 - #词性/n  拼凑之物；拼布工艺；(不同图案杂色布块的)拼缝物
-# 例句
+##### 例句
 - There are several patchwork cushions to choose from
 	- 有好几种拼布工艺靠垫可供选择。
 - He patched new cloth to the old coat until it seemed mere patchwork .

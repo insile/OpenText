@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈstɪŋktʃuəl/； 美：/ɪnˈstɪŋktʃuəl/
 - #词性/adj  本能(而非习得)的
-# 例句
+##### 例句
 - We have this instinctual response to people who defy social conventions in a way that threatens the group .
 	- 我们对于公然反抗社会传统，威胁到群体的人会有这种本能的反应。
 - It 's a very conscious , instinctual , emotional , and spiritual way of being .

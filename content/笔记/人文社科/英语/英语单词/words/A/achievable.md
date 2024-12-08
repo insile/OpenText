@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈtʃiːvəbl/； 美：/əˈtʃiːvəbl/
 - #词性/adj  可达到的；可获得的
-# 例句
+##### 例句
 - Let 's establish some achievable goals first .
 	- 让我们先订下一些可达到的目标。
 - Set small , achievable goals .

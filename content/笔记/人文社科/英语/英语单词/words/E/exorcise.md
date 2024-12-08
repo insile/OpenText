@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vt  驱除；驱邪；驱魔；驱鬼；驱逐
-# 例句
+##### 例句
 - Four priests were dispatched to exorcise the demons .
 	- 四个牧师被指派去驱魔。
 - It was once believed that a man could have a devil in him , and that a priest could exorcise this devil from him by prayer .

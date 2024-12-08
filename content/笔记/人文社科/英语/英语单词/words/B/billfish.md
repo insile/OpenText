@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  旗鱼；长嘴鱼；长喙鱼
-# 例句
+##### 例句
 - Tuna and billfish assessment programme ;
 	- 金枪鱼和长喙鱼评估方案；
 - South Pacific Commission Tuna and Billfish Assessment Programme

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsʌmtaɪmz/； 美：/ˈsʌmtaɪmz/
 - #词性/adv  有时；间或
-# 例句
+##### 例句
 - Students sometimes do casual work in the tourist trade .
 	- 学生有时做些旅游方面的零工。
 - Young children are beginning their formal education sometimes as early as four years old .

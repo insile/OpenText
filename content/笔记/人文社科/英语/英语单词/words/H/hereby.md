@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌhɪəˈbaɪ/； 美：/ˌhɪrˈbaɪ/
 - #词性/adv  特此；以此
-# 例句
+##### 例句
 - I hereby sentence you for life after all the charges against you have been proven true
 	- 鉴于对你的所有指控都证明属实，我特此宣判你无期徒刑。
 - I am offended that your entertainment expert should make such a mistake and hereby request a formal apology .

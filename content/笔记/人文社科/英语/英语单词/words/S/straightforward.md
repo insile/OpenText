@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌstreɪtˈfɔːwəd/； 美：/ˌstreɪtˈfɔːrwərd/
 - #词性/adj  简单的；直截了当的；坦率的；易懂的；率直的；坦诚的；不复杂的
 - #词性/adv  坦率地
-# 例句
+##### 例句
 - The straightforward answer ： our policies and our politics !
 	- 直截了当的答案是：我们的政策和政治！
 - The most straightforward solution is to get a bigger cache ;

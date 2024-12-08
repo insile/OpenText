@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdiːlekˈteɪʃn/； 美：/ˌdiːlekˈteɪʃn/
 - #词性/n  愉快；享受；娱乐
-# 例句
+##### 例句
 - And now for your further delectation , we present a selection of popular melody .
 	- 为使你们更加愉快，我们奉献给你们一组精选的流行歌曲。
 - Wish you feel comfortable and delectation in here each moment , at he same time , we expect you conle back here again .

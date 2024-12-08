@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  无生命的
-# 例句
+##### 例句
 - Anything having existence ( living or nonliving ) .
 	- 任何存在物（有生命的或无生命的）。
 - Humus : Nonliving , finely divided organic matter in soil , derived from microbial decomposition of plant and animal substances .

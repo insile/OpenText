@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡrændiəʊs/； 美：/ˈɡrændioʊs/
 - #词性/adj  浮夸的；不切实际的；华而不实的
-# 例句
+##### 例句
 - Not one of Kim 's grandiose plans has even begun .
 	- 金那些华而不实的计划甚至一个都还没有开始实施。
 - He was always making grandiose plans to sell or mortgage his house .

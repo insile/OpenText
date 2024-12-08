@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  公斤；千克
-# 例句
+##### 例句
 - Increase your total to the nearest full kilogramme .
 	- 将总数增加至最接近的整数千克。
 - Jack fagged away at his math . Increase your total to the nearest full kilogramme .

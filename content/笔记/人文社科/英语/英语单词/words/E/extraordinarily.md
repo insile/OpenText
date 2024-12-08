@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪksˈtrɔːdnrɪli/； 美：/ɛkˌstrɔrdəˈnɛrəli/
 - #词性/adv  非常；格外；异常地
-# 例句
+##### 例句
 - He behaves extraordinarily for someone in his position .
 	- 对他那种地位的人来说，他的行为很特别。
 - She did extraordinarily well .

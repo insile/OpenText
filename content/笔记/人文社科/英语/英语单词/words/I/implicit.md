@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈplɪsɪt/； 美：/ɪmˈplɪsɪt/
 - #词性/adj  含蓄的；完全的；内含的；无疑问的；不直接言明的；成为一部分的
-# 例句
+##### 例句
 - The doctor gave an implicit answer .
 	- 医生给了一个含蓄的回答。
 - Any implicit or explicit focus on the share price rather than the business is a bad sign .

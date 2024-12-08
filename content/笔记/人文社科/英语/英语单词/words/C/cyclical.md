@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsaɪklɪkəl/； 美：/ˈsaɪklɪkəl/
 - #词性/adj  循环的；周期性；周期的
-# 例句
+##### 例句
 - Economic activity often follows a cyclical pattern .
 	- 经济活动常常遵循周期性模式。
 - These perpetual debtors \/ serfs will probably never own the home outright1 , thanks to cyclical refinancing ( used to fund conspicuous2 consumption ) and property taxes .

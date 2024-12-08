@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌædməˈreɪʃn/； 美：/ˌædməˈreɪʃn/
 - #词性/n  钦佩；赞赏；羡慕
-# 例句
+##### 例句
 - She won the admiration of many people in her battle against cancer .
 	- 她在与癌症的对抗中赢得了许多人的钦佩。
 - I have great admiration for her as a writer .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈveɪsɪv/； 美：/ɪˈveɪsɪv/
 - #词性/adj  回避；推诿的；推托的
-# 例句
+##### 例句
 - Tessa was evasive about why she had not been at home that night .
 	- 特萨对她那天晚上不在家的原因避而不谈。
 - Direct questions would almost certainly result in evasive answers .

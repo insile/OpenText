@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsʌbsɪkwəntli/； 美：/ˈsʌbsɪkwəntli/
 - #词性/adv  随后；之后；接着；后来
-# 例句
+##### 例句
 - Subsequently , new guidelines were issued to all employees .
 	- 随后，新的准则发给了所有雇员。
 - The impact cannot be overstated Businesses that attract top ratings can enjoy rapid growth , as new customers are attracted by good reviews and subsequently provide yet more positive feedback .

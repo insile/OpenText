@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  互利（惠）共生；互利共栖
-# 例句
+##### 例句
 - In this paper , a two-species mutualism model system is discussed .
 	- 讨论了二种群互惠生物数学模型。
 - I think this is one of the most interesting cases of mutualism ,

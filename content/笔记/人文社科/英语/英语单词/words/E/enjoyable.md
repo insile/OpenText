@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈdʒɔɪəbl/； 美：/ɪnˈdʒɔɪəbl/
 - #词性/adj  愉快的；有乐趣的；使人快乐的
-# 例句
+##### 例句
 - In conclusion , walking is a cheap , safe , enjoyable and readily available form of exercise .
 	- 总而言之，散步是一种廉价、安全、愉快的锻炼方式，而且随时随地都可以进行。
 - We assured the tourists of an enjoyable holiday .

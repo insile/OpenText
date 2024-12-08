@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtremjələs/； 美：/ˈtremjələs/
 - #词性/adj  (因紧张)颤抖的，战栗的；使颤动的；使打战的
-# 例句
+##### 例句
 - For example , the word tremulous fits every category .
 	- 例如，tremulous（颤抖的）这个单词适用于每个范畴。
 - ( in ) a tremulous voice ( of a person ) tremble ; quiver

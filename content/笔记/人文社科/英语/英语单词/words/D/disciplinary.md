@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdɪsəplɪnəri/； 美：/ˈdɪsəpləneri/
 - #词性/adj  惩戒性的；执行纪律的；有关纪律的
-# 例句
+##### 例句
 - The exercise of disciplinary power is a corrective function of the employer .
 	- 执行纪律的权力乃是资方的一种纠正职能。
 - disciplinary measures including exclusion from school

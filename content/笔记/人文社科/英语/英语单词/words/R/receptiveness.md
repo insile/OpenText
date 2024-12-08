@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  接受性；接受能力；感受性；感受力；诚恳
-# 例句
+##### 例句
 - This receptiveness to new notions .
 	- 这种对新观念的易感受性。
 - In China , silence can be used to show agreement and receptiveness .

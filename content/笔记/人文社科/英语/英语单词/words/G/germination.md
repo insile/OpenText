@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdʒɜːmɪˈneɪʃən/； 美：/ˌdʒɜrməˈneɪʃən/
 - #词性/n  萌发；萌发；发芽；生长；产生；发生；共生
-# 例句
+##### 例句
 - Better germination is obtained if the seed is sown or drilled shortly after a shower .
 	- 在播种期如以硼盐肥料与种子混合使用，会抑制种子萌芽。
 - The germination tests take sand bed as the best .

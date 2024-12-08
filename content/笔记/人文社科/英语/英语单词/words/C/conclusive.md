@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈkluːsɪv/； 美：/kənˈkluːsɪv/
 - #词性/adj  决定性的；确凿的；结论性的；不容置疑的
-# 例句
+##### 例句
 - All landed weight shall be considered final and conclusive .
 	- 到岸重量应视为最终的决定性的重量。
 - Supplying or being a final settlement or decision ; conclusive .

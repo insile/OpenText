@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌredʒɪmenˈteɪʃn/； 美：/ˌredʒɪmenˈteɪʃn/
 - #词性/n  严格控制；严格管理；严密组织
-# 例句
+##### 例句
 - She rebelled against the regimentation of school life .
 	- 她曾反抗刻板的学校生活。
 - Democracy is incompatible with excessive , bureaucratic regimentation of social life .

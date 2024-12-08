@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfrɪvələs/； 美：/ˈfrɪvələs/
 - #词性/adj  无聊的；轻浮的；愚蠢的；不严肃的；可笑的
-# 例句
+##### 例句
 - This kind of love is only frivolous attention .
 	- 那样的喜欢只是轻浮的关注。
 - That created something of a controversy at the time , as many people believed it was a frivolous expense .

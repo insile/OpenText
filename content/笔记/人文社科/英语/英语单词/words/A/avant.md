@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈævɒŋ/； 美：/əˈvɑnt/
 - #词性/adj  激进的；先锋派的
 - #词性/prep  在…之前
-# 例句
+##### 例句
 - Essentials of Chinese Contemporary Avant - guard Poetry
 	- 当代中国先锋诗歌论纲
 - The Intervention of Arts in Life : A Study on Peter Burger 's Theory of Avant garde

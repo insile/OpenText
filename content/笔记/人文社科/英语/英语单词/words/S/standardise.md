@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vt  使……符合标准；使……标准化；使……统一
-# 例句
+##### 例句
 - There is a drive both to standardise components and to reduce the number of models on offer
 	- 正在为实现零部件标准化和减少推出的型号数量而努力。
 - The main aim of inbreeding is to standardise , to fix desirable inherited characteristics and to dispel undesirable ones .

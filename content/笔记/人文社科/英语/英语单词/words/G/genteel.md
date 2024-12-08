@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dʒenˈtiːl/； 美：/dʒenˈtiːl/
 - #词性/adj  上流社会的；文雅的；幽静的；假斯文的；装体面的；装出绅士派头的；古朴单调的；显得彬彬有礼的
-# 例句
+##### 例句
 - You are genteel enough , you look like a lady .
 	- 你是够文雅的，看上去象个大家闺秀。2.
 - You are genteel enough , you look like a lady from a wellbred family .

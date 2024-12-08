@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈtɪnjuəl/； 美：/kənˈtɪnjuəl/
 - #词性/adj  连续的；不间断的；(令人厌烦地)多次重复的，频繁的；接连不断的；频频的
-# 例句
+##### 例句
 - Nowadays , we have even more appeal to the labor criminal law introduced for the continual emergence of labor disputes .
 	- 不间断的劳动争议出现的今天，我们更加呼吁劳动刑法出台。
 - These coordination mechanisms were engaged immediately after the news broke from Mexico , and the agencies are working in continual contact throughout the crisis .

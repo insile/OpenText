@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈstəʊɪsɪzəm/； 美：/ˈstoʊɪsɪzəm/
 - #词性/n  坚忍；对痛苦的默默承受或泰然处之
-# 例句
+##### 例句
 - They bore their plight with stoicism and fortitude .
 	- 他们以坚忍刚毅的精神直面困境。
 - Stoicism : The Cause of Misunderstanding between Father and Son in A Day 's Wait

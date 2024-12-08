@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  废弃；废弃，不用
-# 例句
+##### 例句
 - Many words once commonly used have fallen into desuetude .
 	- 许多过去曾通用的词，今天已经废弃不用了。
 - These words have fallen into desuetude .

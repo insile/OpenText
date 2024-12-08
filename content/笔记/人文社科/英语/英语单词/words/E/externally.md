@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɛksˈtɜːnli/； 美：/ɪkˈstɜrnəli/
 - #词性/adv  从外部；外部地；外表上地
-# 例句
+##### 例句
 - The university has many externally funded research projects .
 	- 这所大学有许多外界资助的研究项目。
 - They will be externally set and marked but delivered in a classroom setting .

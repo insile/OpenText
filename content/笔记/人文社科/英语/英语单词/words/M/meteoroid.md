@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  流星体
-# 例句
+##### 例句
 - And even smaller type of interplanetary debris is the meteoroid .
 	- 甚至更小的太阳系内的碎片也是流星体。
 - The space debris and meteoroid environment are defined followed by the formulation of the general weight objective function .

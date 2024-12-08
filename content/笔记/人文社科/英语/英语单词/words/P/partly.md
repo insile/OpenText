@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɑːtli/； 美：/ˈpɑːrtli/
 - #词性/adv  部分地；一定程度上
-# 例句
+##### 例句
 - It 's partly my fault
 	- 这在一定程度上是我的错。
 - This is partly because design museums clearly show how and why mass-productswork and look as they do , and how design has improved our lives ．

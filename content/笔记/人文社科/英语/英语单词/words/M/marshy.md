@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɑːʃi/； 美：/ˈmɑːrʃi/
 - #词性/adj  沼泽地的；沼泽般的;湿软泥泞的
-# 例句
+##### 例句
 - The surrounding land is low and marshy .
 	- 周围的地低洼而多沼泽。
 - In August 1935 , we began our march across the marshy grassland . 1935

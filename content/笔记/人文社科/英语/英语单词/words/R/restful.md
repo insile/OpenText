@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈrestfl/； 美：/ˈrestfl/
 - #词性/adj  闲适宁静的；使人感到悠闲的
-# 例句
+##### 例句
 - Dense green foliage affords a restful sight .
 	- 茂密的绿叶呈现出一派闲适宁静的景象。
 - After a joyous and restful three days , I left this beautiful city .

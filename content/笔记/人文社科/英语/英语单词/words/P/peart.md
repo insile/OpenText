@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  有精神的；快活的
-# 例句
+##### 例句
 - The Japanese attacked Peart Harbor on December 7,1941 .
 	- 日本人1941年12月7日袭击了珍珠港。
 - Looking to the future , Peart management will become the industry leader , the motherland 's pipeline made outstanding contributions to the cause .

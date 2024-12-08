@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈærənt/； 美：/ˈærənt/
 - #词性/adj  (强调有多坏)十足的，坏透的
-# 例句
+##### 例句
 - That 's arrant nonsense .
 	- 那完全是一派胡言。
 - We are arrant knaves all ; believe none of us .

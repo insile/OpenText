@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfreɪzl/； 美：/ˈfreɪzl/
 - #词性/adj  短语的；词组的
-# 例句
+##### 例句
 - In terms of sentence unit , there are one-word exclamatory sentence , phrasal one , simple one and compound one .
 	- 从句子构成上看，有独词的、词组的、单句的、复句的；
 - Approach to Automatic Translation Template Acquisition Based on Phrasal Structure Extraction and Alignment

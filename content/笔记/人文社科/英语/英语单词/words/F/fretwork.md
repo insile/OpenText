@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfretwɜːk/； 美：/ˈfretwɜːrk/
 - #词性/n  回纹饰；回纹饰工序
-# 例句
+##### 例句
 - Most of their business was in building tomb-related items , but they also crafted doors , window fretwork , beds and tables .
 	- 他们的主要工作是建造陵墓以及附属项目，同时他们也制作木质的门、细工浮雕的窗户，以及木床和木桌子等。
 - A fretwork of sunlight and shadow The lawn was checkered with sunlight and shade .

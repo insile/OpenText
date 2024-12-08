@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  衰老的
-# 例句
+##### 例句
 - Harm : long-term and hollow take candy , can make the person becomes anile , as a result shortens life .
 	- 危害：长期空腹吃糖，可使人变得衰老，以致缩短寿命。
 - Conclusions We can see that the anile rat model induced by D-galactose has similar change in hemorheology of senile rat , so D-galactose can be usd in making anile hyperviscosity syndrome laboratory animal model .

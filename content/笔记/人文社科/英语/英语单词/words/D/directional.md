@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dəˈrekʃənl/； 美：/dəˈrekʃənl/
 - #词性/adj  方向的；(发出或接收信号、声音等)定向的，指向的
-# 例句
+##### 例句
 - About the Directional Development of Socialist Politics
 	- 略论作为社会主义定向的政治发展
 - Study of Directional Surveying for TBM Excavation in Subway Construction

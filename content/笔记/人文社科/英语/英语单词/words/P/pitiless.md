@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɪtiləs/； 美：/ˈpɪtiləs/
 - #词性/adj  无情的；冷酷的；严酷而无尽的
-# 例句
+##### 例句
 - He saw the pitiless eyes of his enemy
 	- 他看到了敌人冷酷的眼神。
 - Outside , the pitiless rain fell , fell steadily , with a fierce malignity that was all too human .

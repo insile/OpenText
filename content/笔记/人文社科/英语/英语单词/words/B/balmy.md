@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbɑːmi/； 美：/ˈbɑːmi/
 - #词性/adj  温和的，宜人的；芬芳的，有香味的；有镇痛作用的；香脂的，产香脂的
-# 例句
+##### 例句
 - It 's a balmy evening , the golden time for lovers .
 	- 这是一个暖和的夜晚，是恋人们的黄金时光。
 - Glorious beaches , wide open spaces , barbecues after work on balmy evenings .

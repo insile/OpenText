@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  俯冲；俯冲作用；隐没；隐没作用
-# 例句
+##### 例句
 - At last , the forming mechanism of A - type subduction is discussed .
 	- 最后，作者对A型俯冲的形成机理进行了探讨。
 - Advances of the experiment modeling study of continental subduction

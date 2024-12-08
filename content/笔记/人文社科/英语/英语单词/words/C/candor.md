@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  坦率；公正；正直
-# 例句
+##### 例句
 - He and his wife had avoided candor , and they had drained their marriage .
 	- 他们夫妻间不坦率，已使婚姻奄奄一息。
 - Sometimes his candor made the people from State squirm a little .

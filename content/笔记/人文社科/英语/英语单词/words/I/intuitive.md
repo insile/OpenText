@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈtjuːɪtɪv/； 美：/ɪnˈtuːɪtɪv/
 - #词性/adj  直觉的；易懂的；有直觉力的；使用简便的；凭直觉得到的
-# 例句
+##### 例句
 - A key aspect of the Workplace Forms Designer is ease-of-use , providing intuitive features that help make designing and creating forms as painless as possible .
 	- WorkplaceFormsDesigner的一个关键方面是容易使用，它提供了符合用户直觉的特性，帮助开发人员尽可能顺畅地设计和创建表单。
 - " Intuitive " knowledge may be remarkably penetrating and can significantly help us understand human behavior whereas in the physical sciences such commonsense knowledge is relatively primitive .

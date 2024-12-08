@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkɒnstəntli/； 美：/ˈkɑːnstəntli/
 - #词性/adv  不断地；一直；始终
-# 例句
+##### 例句
 - Language is constantly and gradually evolving .
 	- 语言在不断地缓慢发展。
 - The reason why the ponies here are naughty is that Haytor is a tourist-heavy area and tourists are constantly feeding the ponies foods , despite sighs asking them not to .

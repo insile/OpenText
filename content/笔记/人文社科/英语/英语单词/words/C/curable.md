@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkjʊərəbl/； 美：/ˈkjʊrəbl/
 - #词性/adj  可治愈的；可医治的
-# 例句
+##### 例句
 - Tuberculosis is a curable disease .
 	- 肺结核是一种可治愈的病。
 - That a curable infection can cause permanent behavior changes is worrisome because this same parasite infects 60 million people in the U.S. alone .

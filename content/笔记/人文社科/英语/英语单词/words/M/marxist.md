@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɑːksɪst/； 美：/ˈmɑːrksɪst/
 - #词性/n  马克思主义者；马克思主义；马克思主义的；马克思
-# 例句
+##### 例句
 - He listed himself as a marxist .
 	- 他将自己列为马克思主义者。
 - I 'm a Marxist of the Groucho tendency .

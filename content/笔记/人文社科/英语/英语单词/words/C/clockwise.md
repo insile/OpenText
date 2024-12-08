@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈklɒkwaɪz/； 美：/ˈklɑːkwaɪz/
 - #词性/adv #词性/adj  顺时针方向的；顺时针方向(的)
-# 例句
+##### 例句
 - Left swing is clockwise , and the right swing is counterclockwise , it requires you to change the direction of movement of the body , which will make the right swing strength is not enough .
 	- 左摆拳是顺时针方向的，而右摆拳是逆时针方向的，这需要你改变身体的运动方向，这样会使得右摆拳力道不够。
 - It is noteworthy that along the track a strong sustained wake current in the same direction with the typhoon is left behind the typhoon centre and on the right of the wake current is a clockwise vortex around a water pile .

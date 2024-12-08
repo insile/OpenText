@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˌpɑːʃɪˈælɪti/； 美：/ɪmˌpɑrʃiˈælɪti/
 - #词性/n  公正；公正，公平；不偏不倚
-# 例句
+##### 例句
 - The impartiality of system is the important way to the harmony society .
 	- 制度公正是构建和谐社会的根本途径。
 - Studies on the Country 's Political Impartiality by Chinese Marxism Theoretical

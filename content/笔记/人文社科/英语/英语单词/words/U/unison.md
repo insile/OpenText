@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈjuːnɪsn/； 美：/ˈjuːnɪsn/
 - #词性/n  一致性；一致，整齐，契合；同声，异口同声；同音，同度；齐唱，齐奏
-# 例句
+##### 例句
 - This was too much in unison with my lord 's feelings to be altogether unpalatable .
 	- 这句话和主教的感受太一致了，不可能使他一点儿不感到不快。
 - The board voted in unison to appoint the new CEO .

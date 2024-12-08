@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  骂人的；〈正〉（尤指言词）极无礼的
-# 例句
+##### 例句
 - It is now freely applied as an adjective of an opprobrious kind .
 	- 目前它被任意用作一种骂人的形容词。
 - He ransacked his extensive vocabulary in order to find opprobrious names to call her .

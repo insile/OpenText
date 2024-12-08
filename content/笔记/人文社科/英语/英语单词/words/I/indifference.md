@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈdɪfrəns/； 美：/ɪnˈdɪfrəns/
 - #词性/n  冷漠；漠不关心；无动于衷；冷淡；不感兴趣
-# 例句
+##### 例句
 - She had developed a shell of indifference .
 	- 她养成一副冷漠的外表。
 - Indifference is also the preferred option among those who are socially lazy .

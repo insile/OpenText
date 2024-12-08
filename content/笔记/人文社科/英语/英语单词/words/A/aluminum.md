@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈljʊmɪnəm/； 美：/əˈlumənəm/
 - #词性/n  铝
-# 例句
+##### 例句
 - He had a house there and a dock and a little aluminum boat .
 	- 他在那儿有一所房子、一个泊船的码头和一艘小铝船。
 - The materials from e-waste include iron , copper , gold , silver , and aluminum materials that could be reused , resold , salvaged , or recycled .

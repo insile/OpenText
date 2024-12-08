@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkəʊbɔːlt/； 美：/ˈkoʊbɔːlt/
 - #词性/n  钴；钴蓝；深蓝色
-# 例句
+##### 例句
 - Research on Characteristics and Background Value of Cobalt in Soil of Yunnan
 	- 云南土壤钴元素背景值及其特征研究
 - A new cobalt base superalloy was studied in this paper .

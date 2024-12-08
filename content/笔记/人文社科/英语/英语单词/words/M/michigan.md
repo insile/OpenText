@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɪʃəgən/； 美：/ˈmɪʃɪgən/
 - #词性/n  密歇根；美国密歇根州
-# 例句
+##### 例句
 - States such as Michigan and Massachusetts are making deep cuts in welfare
 	- 诸如密歇根和马萨诸塞等州正在大幅削减社会保障金。
 - The 1933 national collegiate football championship was won by Michigan .

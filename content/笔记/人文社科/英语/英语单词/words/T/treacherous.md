@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtretʃərəs/； 美：/ˈtretʃərəs/
 - #词性/adj  奸诈的；背叛的；有潜在危险的；不可信任的
-# 例句
+##### 例句
 - He had survived seven centuries in treacherous Menzoberranzan , mostly because his talent for magic was matched by a subtle , calculating cunning .
 	- 他已经在充满背叛的魔索布莱城生存了七个世纪，主要是因为他的魔法才能以及与之相配的狡诈和精明的诡计。
 - The South Korean puppets are still hellbent on the treacherous and anti-reunification confrontational racket , Pyongyang 's official KCNA news agency said , announcing the expulsion of South Korean managers and the end of tours to Kaesong , capital , the home of one of Korea 's medieval dynasties .

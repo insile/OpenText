@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  有毒的
-# 例句
+##### 例句
 - Nowadays because there is more and more unhealthy food and venenous material in our food , people drive to pay more attention to their health .
 	- 如今因为市面上有越来越多的垃圾食品和有毒食品，迫使人们更加关注自己的健康。
 - It is believed that gap junction may have some effect on the diffusion or repairment of brain injury , because gap junction can transport venenous metabolites and energy .

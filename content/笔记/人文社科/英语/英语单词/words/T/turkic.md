@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtɜːkɪk/； 美：/ˈtɜrkɪk/
 - #词性/n  突厥语；突厥；突厥语族；土耳其；土耳其语
 - #词性/adj  突厥语的；突厥民族的
-# 例句
+##### 例句
 - Five Basic Laws of Sound Changes in Turkic Languages
 	- 突厥语历史音变的五条基本规律
 - The Chinese loanwords in the ancient turkic is one of the aspects .

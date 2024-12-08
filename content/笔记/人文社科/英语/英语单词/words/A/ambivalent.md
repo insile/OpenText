@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/æmˈbɪvələnt/； 美：/æmˈbɪvələnt/
 - #词性/adj  （态度、情绪）矛盾的
-# 例句
+##### 例句
 - She seems to feel ambivalent about her new job .
 	- 她似乎对新工作忧喜参半。
 - He has an ambivalent attitude towards her .

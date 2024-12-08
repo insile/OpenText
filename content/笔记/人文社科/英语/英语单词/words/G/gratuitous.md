@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɡrəˈtjuːɪtəs/； 美：/ɡrəˈtuːɪtəs/
 - #词性/adj  无偿的；无谓的；无正当理由(或目的)的
-# 例句
+##### 例句
 - There 's too much crime and gratuitous violence on TV .
 	- 电视里充斥着犯罪和无端的暴力。
 - Gratuitous Arrogance in thoughts & Comments on Volume One of Chinese Ideological History

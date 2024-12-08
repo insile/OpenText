@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɑːɡjuˈmentətɪv/； 美：/ˌɑːrɡjuˈmentətɪv/
 - #词性/adj  论辩的；好争论的；爱辩论的
-# 例句
+##### 例句
 - Great chess players have a reputation for being both eccentric and argumentative
 	- 国际象棋大师们以性格怪异和好与人争辩而闻名。
 - You 're in an argumentative mood today !

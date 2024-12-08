@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  逆流；逆电流
 - #词性/adv  相反地
-# 例句
+##### 例句
 - Theory of countercurrent extraction ⅶ dynamic equilibrium in three component system
 	- 串级萃取理论Ⅷ&三组份体系动态过程的研究
 - Selection and optimization of experimental system of high speed countercurrent chromatography

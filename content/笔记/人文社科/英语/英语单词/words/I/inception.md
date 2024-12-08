@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈsepʃn/； 美：/ɪnˈsepʃn/
 - #词性/n  (机构、组织等的)开端，创始
-# 例句
+##### 例句
 - This heterogeneous , but compatible , tool environment was the inception of a software tools ecosystem .
 	- 这种混合的但是兼容的工具环境是一个软件工具生态系统的开端。
 - So that one has built into that whole romantic inception about the nature of marriage which is not untrue to Beethoven 's ideas and his own experience .

@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkætəˈstrɒfɪk/； 美：/ˌkætəˈstrɑːfɪk/
 - #词性/adj  灾难性的；糟糕的；不成功的；引起灾害的
-# 例句
+##### 例句
 - The water shortage in this country is potentially catastrophic
 	- 这个国家的水资源匮乏可能会带来灾难性的后果。
 - A tidal wave caused by the earthquake hit the coast causing catastrophic damage

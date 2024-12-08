@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbækwədz/； 美：/ˈbækwərdz/
 - #词性/adv  向后；倒着；朝反方向；每况愈下地
-# 例句
+##### 例句
 - She lost her footing and fell backwards into the water .
 	- 她脚未站稳，向后一仰掉进水中。
 - I punched him on the chin , sending him reeling backwards .

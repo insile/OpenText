@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈməʊniə/； 美：/əˈmoʊniə/
 - #词性/n  氨；氨水
-# 例句
+##### 例句
 - Wastewater treatment plants concentrate large quantities of phosphorus and ammonia in their sludge-handling streams .
 	- 一般在污水处理厂的污泥中会富集大量的磷和氨。
 - They will react with ammonia to form amidines .

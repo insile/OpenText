@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪlk/； 美：/ɪlk/
 - #词性/n  类型；种类
 - #词性/adj  同一的
-# 例句
+##### 例句
 - Zynga and its ilk may have stronger social DNA , he says , but EA has a library of high-quality games with loyal followings it can mine .
 	- 他说，尽管Zynga之流可能更适应社交网络，但电子艺界拥有大量高品质的游戏，它们拥有一批忠实的追随者。
 - Therefore , in artistic creation there are two emotions and his ilk . The one hand , feelings of activities as the creation of kinetic energy , on the other hand , as the creative content of our emotional state .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpeɪɡənɪzəm/； 美：/ˈpeɪɡənɪzəm/
 - #词性/n  异教信仰(或活动)
-# 例句
+##### 例句
 - You will find religious groups ranging all the way from fundamentalist Christianity to paganism to Buddhism .
 	- 你将会找到宗教性专题，范围很广，有基督教、异教信仰乃至佛教。
 - Dickinson fought against Christianity as she lived and wrote . Her unique experience of life and poem writing prompted her to get the paganism view of religion .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈtɪɡjuəs/； 美：/kənˈtɪɡjuəs/
 - #词性/adj  相邻的；相接的
-# 例句
+##### 例句
 - So how do you provide uniform , maximally contiguous output to your client ?
 	- 那么如何向客户机提供统一的且最大程度相邻的输出呢？
 - Marked by separation of or from usually contiguous elements .

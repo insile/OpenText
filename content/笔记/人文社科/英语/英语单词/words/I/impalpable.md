@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈpælpəbl/； 美：/ɪmˈpælpəbl/
 - #词性/adj  不可触及；难以理解的；难懂的；触摸不到的；感觉不着的
-# 例句
+##### 例句
 - Objective To investigate the clinical characteristics and management of unilateral impalpable testis .
 	- 目的探讨一侧扪不到睾丸的儿童隐睾症的临床特点及处理方法。
 - To enhance outpatients ' satisfaction rate towards nursing care from impalpable services

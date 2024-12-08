@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈdʌktəbl/； 美：/dɪˈdʌktəbl/
 - #词性/adj  可扣除的；可减免的
 - #词性/n  免赔额；自负额
-# 例句
+##### 例句
 - Medicare did say its hospital deductible will raised by 44 dollars next year .
 	- 明年，医院可扣除的费用将提高至44美元。
 - The care allowance is hence included as deductible to enable the applicant and his her spouse to continue to work , with their infant dependant taken care of during their absence .

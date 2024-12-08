@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  间歇地
-# 例句
+##### 例句
 - Still another system is designed to send out transient pulses intermittently .
 	- 还设计了另一种系统，它能够间歇地发送瞬间脉冲。
 - At some higher velocity individual grains will roll and slide intermittently along the bed .

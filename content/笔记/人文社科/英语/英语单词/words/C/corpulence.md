@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  肥胖
-# 例句
+##### 例句
 - Corpulence is often associated with high blood pressure .
 	- 肥胖经常与高血压联系在一起。
 - Pure corpulence and high fat blood disease are clinical frequently-occurring disease in recent years .

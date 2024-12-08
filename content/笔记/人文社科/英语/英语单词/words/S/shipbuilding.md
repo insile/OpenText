@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈʃɪpbɪldɪŋ/； 美：/ˈʃɪpbɪldɪŋ/
 - #词性/n  造船业
-# 例句
+##### 例句
 - Shipbuilding is a dying business .
 	- 造船业是夕阳产业。
 - The shipbuilding industry of the south is rapidly expanding .

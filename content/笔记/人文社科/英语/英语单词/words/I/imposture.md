@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈpɒstʃə(r)/； 美：/ɪmˈpɑːstʃər/
 - #词性/n  冒名行骗
-# 例句
+##### 例句
 - Soiled by her imposture she remains silent .
 	- 她背着冒名顶替者的黑锅却一直沉默。
 - This last imposture would be worse than the first .

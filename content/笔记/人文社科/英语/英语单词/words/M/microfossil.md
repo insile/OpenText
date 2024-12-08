@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  微体化石；微（体）化石
-# 例句
+##### 例句
 - Significance of eucaryotic organisms in the microfossil flora of Changcheng System
 	- 论长城系微化石群的真核生物意义
 - Microfossil Abundance and Natural Gas Source rocks in the Eastern Qaidam Basin

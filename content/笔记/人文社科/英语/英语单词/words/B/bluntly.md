@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈblʌntli/； 美：/ˈblʌntli/
 - #词性/adv  直截了当地；单刀直入地；直言地
-# 例句
+##### 例句
 - To put it bluntly , I want a divorce .
 	- 坦白地说，我要离婚。
 - ‘ Is she dead ? ’ he asked bluntly .

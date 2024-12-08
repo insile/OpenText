@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  开普勒的；开普勒理论的；开普勒定律的
-# 例句
+##### 例句
 - A Keplerian model of the gas molecular ring in the center of our galaxy
 	- 银心区气体分子环的开普勒模型
 - Spacecraft Keplerian Orbits and Non-Keplerian Orbits : Definition , Classification and Control

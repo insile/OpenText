@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪɡˈzɔːbɪtənt/； 美：/ɪɡˈzɔːrbɪtənt/
 - #词性/adj  过高的；高得离谱的
-# 例句
+##### 例句
 - Exorbitant housing prices have created an acute shortage of affordable housing for the poor .
 	- 过高的房价已经造成了穷人能够买得起的住房严重短缺。
 - At the same time , exorbitant endowment insurance rate and substitution rate result in a high social economic cost .

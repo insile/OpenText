@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbreɪvli/； 美：/ˈbreɪvli/
 - #词性/adv  勇敢地；勇敢地，拼命地
-# 例句
+##### 例句
 - She bravely blinked back her tears .
 	- 她勇敢地抑制住了泪水。
 - She bore her misfortunes bravely .

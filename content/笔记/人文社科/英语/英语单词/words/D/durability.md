@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdjʊərəˈbɪlɪti/； 美：/dərəˈbɪlɪti/
 - #词性/n  耐久性；耐久（用）性；经（持）久性；耐（使）用年限；寿命；强度；续（耐）航力
-# 例句
+##### 例句
 - Chamber compatibility and injector durability involve the control of the combustion environment .
 	- 室相容性和喷注器耐久性包括对燃烧环境的控制。
 - This factory 's products are noted for their fine workmanship and durability .

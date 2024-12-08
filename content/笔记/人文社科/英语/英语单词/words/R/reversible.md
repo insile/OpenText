@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈvɜːsəbl/； 美：/rɪˈvɜːrsəbl/
 - #词性/adj  可逆的；可翻转的；正反两用的；可医治的；可两面穿的；可恢复原状的
 - #词性/n  (正反一样的)双面织物；晴雨两用大衣；正反两用式上衣
-# 例句
+##### 例句
 - Since optical paths are reversible , the opposite arrangement is also true .
 	- 因为光路是可逆的，所以也可以反过来安装。
 - Brownout can be fairly mild and is usually reversible , but in the long term can cause serious problems .

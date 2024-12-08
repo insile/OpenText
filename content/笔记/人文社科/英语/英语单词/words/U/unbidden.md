@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈbɪdn/； 美：/ʌnˈbɪdn/
 - #词性/adj  擅自；未经要求；未被邀请
-# 例句
+##### 例句
 - He walked into the room unbidden .
 	- 他径自走进了屋子。
 - Unbidden , his thoughts turned to his wife , who had died two years ago .

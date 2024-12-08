@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dʒuˈdɪʃl/； 美：/dʒuˈdɪʃl/
 - #词性/adj  司法的；法官的；法庭的；审判的
-# 例句
+##### 例句
 - Regulating the Judicial Discretion by the Principle of Good Faith
 	- 以诚实信用原则规制法官的自由裁量权
 - Grandfather smoothed his beard and looked judicial .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  真实的；不虚伪的
-# 例句
+##### 例句
 - The victim is willing and able to provide veridical testimony .
 	- 受害者愿意并且能够真实地作证。
 - A fast mesh generation method with " Slice Method " to generate regular and irregular veridical hexahedron meshes of casting and mold is developed .

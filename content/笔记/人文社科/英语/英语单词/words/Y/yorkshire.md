@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈjɔːkʃɪə/； 美：/ˈjɔrkʃər/
 - #词性/n  约克郡（英格兰东北的一郡）
-# 例句
+##### 例句
 - She lives in a quiet corner of rural Yorkshire .
 	- 她居住在约克郡乡间一个僻静的地方。
 - Yorkshire is still very much a farming community with good meat , good dairy produce and eggs

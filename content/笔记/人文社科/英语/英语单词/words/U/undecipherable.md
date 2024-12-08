@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  难辨认的；破译不出的
-# 例句
+##### 例句
 - Layered column chromatography A hopelessly undecipherable jumble of overlapping names .
 	- 层叠式柱色谱（法）一大团无法分辨、层层叠叠的名字。
 - The earlier melancholy made the work undecipherable , but recent works are conveying a sense of calming harmony where thoughts have condensed .

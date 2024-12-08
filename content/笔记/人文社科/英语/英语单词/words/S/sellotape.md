@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈseləteɪp/； 美：/ˈseləteɪp/
 - #词性/vt  用透明胶带粘贴
-# 例句
+##### 例句
 - The envelope was stuck down with Sellotape .
 	- 信封是用胶黏带封口的。
 - This knob is only held on by sellotape .

@@ -7,9 +7,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  流行；卓越
-# 例句
+##### 例句
 - Prevalence of some major risk factors for cardiovascular diseases in Tianjin
 	- 天津市几种心血管疾病危险因素的流行状况
 - Strategies of health education in different stages of human avian influenza prevalence

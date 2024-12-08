@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhɔːsflaɪ/； 美：/ˈhɔːrsflaɪ/
 - #词性/n  虻
-# 例句
+##### 例句
 - But calf skin because horsefly look is much , disable heavy , all use as shoe lining change commonly .
 	- 但牛犊皮由于虻眼多，伤残重，一般均做为鞋里革使用。
 - The relation between the patterns of the light guide within the rhabdomere in the compound eye of a horsefly and the adaptation state

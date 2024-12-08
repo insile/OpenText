@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɛlft/； 美：/dɛlft/
 - #词性/n  代尔夫特；荷兰代尔夫特；代夫特；台夫特
-# 例句
+##### 例句
 - The Historical Motivations and Actual Significance of the Rise of Delft , Holland 's Capital of Pottery ;
 	- 荷兰陶瓷之都代尔夫特崛起的历史动因与现实意义代尔夫特精陶是一种蓝白色的陶器。
 - It is fitting that Proust understood Vermeer 's proud statement about Delft .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈspɔɪlɪdʒ/； 美：/ˈspɔɪlɪdʒ/
 - #词性/n  (食物的)变质，腐败
-# 例句
+##### 例句
 - Food composition is a critical intrinsic factor that influences the spoilage process .
 	- 食品的成分是一个至关重要的内在因素，它影响食品变质的过程。
 - The physical structure of a food also can affect the course and extent of spoilage .

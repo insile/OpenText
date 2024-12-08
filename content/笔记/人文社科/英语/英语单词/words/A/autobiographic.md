@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  自传的；自传体的；自传作家的
-# 例句
+##### 例句
 - One feature of YU Dafus works is the autobiographic style .
 	- 郁达夫作品的突出特色之一，就是自叙传的文体。
 - The thesis describes the autobiographic narrative from two aspects : First , fictitious world is the deformation from true world ;

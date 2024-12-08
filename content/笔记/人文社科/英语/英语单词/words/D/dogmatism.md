@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdɒɡmətɪzəm/； 美：/ˈdɔːɡmətɪzəm/
 - #词性/n  教条主义；武断；独断论
-# 例句
+##### 例句
 - We cannot allow dogmatism to stand in the way of progress .
 	- 我们不能允许教条主义阻碍进步。
 - We want to get away from the politics of outdated dogmatism and class confrontation .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈsuːsiənt/； 美：/ɪnˈsuːsiənt/
 - #词性/adj  漫不经心的；漠不关心的
-# 例句
+##### 例句
 - Harder still is bringing insouciant life to this arduous process .
 	- 更难的是漫不经心的生活有着艰难的过程。
 - If there is one market that sums up the insouciant attitude to risk , it would have to be corporate debt .

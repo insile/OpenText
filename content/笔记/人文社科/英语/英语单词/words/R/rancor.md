@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  敌意；怨恨；兰克
-# 例句
+##### 例句
 - There 's a lot of rancor at that moment . Einstein gets so hurt .
 	- 那一刻有很多怨恨，爱因斯坦变得如此伤心。
 - He have no rancor at heart against you .

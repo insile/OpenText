@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌjuːfəˈmɪstɪk/； 美：/ˌjuːfəˈmɪstɪk/
 - #词性/adj  委婉的
-# 例句
+##### 例句
 - I always smile all the day nowadays and I will express my thought in a euphemistic way .
 	- 现在，我常常保持着微笑，我会用委婉的方式表达我的想法。
 - The how euphemistic website that publicizes you to people or your product .

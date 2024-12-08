@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈfaɪənt/； 美：/dɪˈfaɪənt/
 - #词性/adj  挑衅的；反抗的；公然违抗的
-# 例句
+##### 例句
 - The opposition between Mars and Pluto shows a defiant attitude .
 	- 火星与冥王星之间的对分相显示出反抗的态度。
 - After discussing the matter at length , Tyrande and Malfurion made the difficult decision to exile their defiant kin .

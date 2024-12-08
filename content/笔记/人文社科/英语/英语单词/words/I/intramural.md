@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪntrəˈmjʊərəl/； 美：/ˌɪntrəˈmjʊrəl/
 - #词性/adj  学校内的；机构内部的；(尤指)大学内的
-# 例句
+##### 例句
 - Jeff played intramural basketball in high school .
 	- 杰夫在中学时参加了校内篮球赛。
 - Intramural information release system Based on B \/ S Module

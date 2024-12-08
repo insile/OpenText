@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪrɪˈdesnt/； 美：/ˌɪrɪˈdesnt/
 - #词性/adj  色彩斑斓闪耀的
-# 例句
+##### 例句
 - The iridescent bubbles were beautiful .
 	- 这些闪着彩虹般颜色的大气泡很美。
 - a bird with iridescent blue feathers

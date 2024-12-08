@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈpeɪd/； 美：/ˌʌnˈpeɪd/
 - #词性/adj  未付的；无偿的；义务的；未偿付的；不领报酬的；不付报酬的
-# 例句
+##### 例句
 - She 's too clever to fall into the trap of doing any unpaid work .
 	- 她很聪明，不会中计去做任何不付报酬的工作。
 - We do it regularly , unpaid , and we love it .

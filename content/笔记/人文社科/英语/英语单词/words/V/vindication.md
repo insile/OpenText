@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  辩护；证实；辩白；辩证
-# 例句
+##### 例句
 - Glance on the current system of vindication in China
 	- 我国现行辩护制度管窥
 - There is much to be said in vindication of his claim .

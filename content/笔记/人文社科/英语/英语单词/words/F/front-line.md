@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/frʌnt laɪn/； 美：/frʌnt laɪn/
 - #词性/n  (战争中的)前线，前方
 - #词性/adj  (国家)位于战争(或冲突)前线的，与敌国毗邻的
-# 例句
+##### 例句
 - These front-line defences are backed up by armoured units in reserve .
 	- 前线的防务得到后备装甲部队的支援。
 - Thought about medical disaster rescue mode and nursing strategy at earthquake front-line

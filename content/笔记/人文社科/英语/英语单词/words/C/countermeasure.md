@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkaʊntəmeʒə(r)/； 美：/ˈkaʊntərmeʒər/
 - #词性/n  对策；反措施；对抗手段
-# 例句
+##### 例句
 - Some countermeasure and recommendation on RMB 's full convertibility . "
 	- 对人民币实现完全自由兑换提出了对策和建议
 - Research on the Current Situation and Countermeasure of Public Physical Education

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnækˈtɪvɪti/； 美：/ɪnækˈtɪvɪti/
 - #词性/n  不活动（性）；钝化；无功率；不放射性；不旋光性
-# 例句
+##### 例句
 - The inactivity of the government was deplorable .
 	- 政府的无所作为应受到谴责。
 - Inactivity can make your joints stiff , and the bones may begin to degenerate

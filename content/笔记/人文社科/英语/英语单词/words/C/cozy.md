@@ -5,12 +5,12 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkəʊzi/； 美：/ˈkoʊzi/
 - #词性/adj  （温暖）舒适的
 - #词性/n  保温罩
 - #词性/v  蒙骗；抚慰
-# 例句
+##### 例句
 - I like blankets because they are cozy .
 	- 我喜欢毛毯，因为他们是舒适的。
 - Enjoy making a home into cozy atmosphere .

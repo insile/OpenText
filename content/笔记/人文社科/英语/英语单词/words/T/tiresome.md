@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtaɪəsəm/； 美：/ˈtaɪərsəm/
 - #词性/adj  讨厌的；烦人的；令人厌烦的
-# 例句
+##### 例句
 - These tiresome creatures eat holes in the leaves
 	- 这些讨厌的虫子在叶子上咬出了洞。
 - They 're pushing all the tiresome jobs on the new junior clerk .

@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɪskəs/； 美：/ˈvɪskəs/
 - #词性/adj  粘性的；黏稠的；黏滞的
-# 例句
+##### 例句
 - A viscous polysaccharide acid found in connective tissues and in lubricating fluids in the body .
 	- 一种粘性的多糖酸，存在于体内的连接组织和润滑液中。
 - Perhaps coating it in a viscous compound . Spindle .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfeɪtl/； 美：/ˈfeɪtl/
 - #词性/adj  致命的；毁灭性的；灾难性的；导致失败的
-# 例句
+##### 例句
 - As late as the 1950s , tuberculosis was still a fatal illness .
 	- 直到20世纪50年代，结核病仍然是一种致命的疾病。
 - This type of allergy can very occasionally be fatal .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈmiːdiəbl/； 美：/rɪˈmiːdiəbl/
 - #词性/adj  可解决的；可治愈的
-# 例句
+##### 例句
 - Remediable problems ; a remediable setback ; not a crime but only a remediable blunder .
 	- 可以补救的问题；可治愈的疾病；不是犯罪只是一个可以挽救的失误。
 - There are people who bring their cell phones into concert halls and auditoriums . For them , missing an important business message is not a miss that is remediable .

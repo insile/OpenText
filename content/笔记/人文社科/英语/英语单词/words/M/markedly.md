@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  明显；显著地；引人注目地
-# 例句
+##### 例句
 - Her background is markedly different from her husband 's.
 	- 她的背景和她丈夫的截然不同。
 - This year 's sales have risen markedly .

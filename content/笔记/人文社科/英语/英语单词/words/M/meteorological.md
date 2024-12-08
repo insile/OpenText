@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmiːtiərəˈlɒdʒɪkl/； 美：/ˌmiːtiərəˈlɑːdʒɪkl/
 - #词性/adj  气象的；气象学的
-# 例句
+##### 例句
 - Temperature is the measure of meteorological heat , also is one of the basic elements for meteorological information service .
 	- 气温要素是表征气象的热量指标，是气象信息服务的基本要素之一。
 - Measurements of vertical gradients of o_3 and NOx and their relationships with meteorological factors

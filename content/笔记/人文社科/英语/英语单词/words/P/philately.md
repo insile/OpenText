@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fɪˈlætəli/； 美：/fɪˈlætəli/
 - #词性/n  集邮；邮票研究
-# 例句
+##### 例句
 - The Feasibility Analysis of Philately Networks Management System Used Green Card Lines
 	- 集邮网络管理系统使用绿卡线路的可行性分析
 - I became fond of philately three years ago .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈspɒtɪk/； 美：/dɪˈspɑːtɪk/
 - #词性/adj  专制的；暴虐的；残暴的
-# 例句
+##### 例句
 - The country was ruled by a despotic tyrant .
 	- 该国处在一个专制暴君的统治之下。
 - People rose up against the despotic rule of their potentate .

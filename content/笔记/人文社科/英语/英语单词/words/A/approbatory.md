@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  认可的；赞赏的
-# 例句
+##### 例句
 - The 2nd , singapore is international society approbatory an independency home .
 	- 第二，新加坡是国际社会承认的一个独立国家。
 - Honorary degree Ministry of Education not approbatory .

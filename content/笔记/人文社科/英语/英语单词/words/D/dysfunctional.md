@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪsˈfʌŋkʃənl/； 美：/dɪsˈfʌŋkʃənl/
 - #词性/adj  功能障碍的；功能失调；机能失调的
-# 例句
+##### 例句
 - Characteristics and Relations between Automatic Thought and Dysfunctional Attitude in Deaf Undergraduates
 	- 聋人大学生自动思维与功能失调态度的特点及关系研究
 - Investigation of automatic thoughts , dysfunctional cognition and coping style in patients with depression

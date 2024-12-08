@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əbˈdʒɛktɪvli/； 美：/ɑbˈdʒɛktɪvli/
 - #词性/adv  客观地
-# 例句
+##### 例句
 - Can these effects be objectively measured ?
 	- 这些结果能客观地衡量吗？
 - Your role as editor is important , for you can look at a piece of writing objectively .

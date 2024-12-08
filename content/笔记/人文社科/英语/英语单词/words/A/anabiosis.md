@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  复苏；回生，复苏；间生态
-# 例句
+##### 例句
 - Influence of Early Rehabilitation on Anabiosis and of Patients with Heavy Head Injury
 	- 早期综合康复措施对重型颅脑损伤患者意识复苏和生活能力的影响
 - Application effect analysis of the anabiosis in the different freezing speed to the vero cell

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈtempərət/； 美：/ɪnˈtempərət/
 - #词性/adj  放纵的；酗酒的；无节制的
-# 例句
+##### 例句
 - The style was hurried , the tone intemperate .
 	- 匆促的笔调，放纵的语气。
 - For the most part we are an intemperate people : we eat too much when we can , drink too much , indulge our senses too much .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhæləʊd/； 美：/ˈhæloʊd/
 - #词性/adj  神圣(化)的；受崇敬的
-# 例句
+##### 例句
 - The hallowed portals of academe were slowly and grudgingly opening to women .
 	- 大学神圣的大门缓慢又勉强地向女性敞开。
 - And may all of you , who are serving in their hallowed footsteps , return home safe one day , with honor .

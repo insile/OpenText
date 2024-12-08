@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  同步加速器；同步辐射加速器；质子同步加速器
-# 例句
+##### 例句
 - Synchrotron ( oscillation ) phase space
 	- 同步加速器振荡相位空间
 - X-ray absorption experiments on atoms bound to surfaces provided another good example of the use of synchrotron radiation .

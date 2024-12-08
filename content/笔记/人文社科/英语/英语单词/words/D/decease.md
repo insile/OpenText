@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈsiːs/； 美：/dɪˈsiːs/
 - #词性/n  死亡；亡故
 - #词性/v  死
-# 例句
+##### 例句
 - The general 's decease left the army without a leader
 	- 将军死亡使这支军队群龙无首。
 - Upon his decease all his properties passed to his wife .

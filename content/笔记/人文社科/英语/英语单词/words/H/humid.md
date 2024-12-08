@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhjuːmɪd/； 美：/ˈhjuːmɪd/
 - #词性/adj  潮湿的；湿热的
-# 例句
+##### 例句
 - These plants love warm , humid atmospheres .
 	- 这些植物喜欢温暖潮湿的空气。
 - It was a hot , humid summer day

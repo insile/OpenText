@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌspeʃəlaɪ'zeɪʃ(ə)n/； 美：/ˌspeʃ(ə)lɪ'zeɪʃ(ə)n/
 - #词性/n  专业化；专门化；特化
-# 例句
+##### 例句
 - The specialization of mathematic teachers is crucial component of the process .
 	- 数学教研组在数学教师专业化成长中发挥着重要作用。
 - Research on the Specialization of the History Teachers ' Education in China

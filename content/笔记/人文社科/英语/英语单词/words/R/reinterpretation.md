@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  重新解释；重新诠释；重新阐释；再阐释；再解释
-# 例句
+##### 例句
 - Sometimes this takes the form of a reinterpretation of events .
 	- 乐观有时需要对事件进行重新解释。
 - In particular , reinterpretation of the growth rate in terms of some form of expected value is required .

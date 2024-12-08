@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsiːnəʊˈzəʊɪk/； 美：/ˌsinəˈzoʊɪk/
 - #词性/n  地质新生代；新生代之岩层
 - #词性/adj  新生界的
-# 例句
+##### 例句
 - The following examples of oil and gas fields in distributary and delta-fringe sand bodies range in age from Late Paleozoic to middle cenozoic .
 	- 下面所列举的是分布于分流和三角洲前绿砂体的油气田的例子，在地质时代上从晚古生代至中新生代。
 - Some opinions on petroleum exploration in Cenozoic East China Sea Basin

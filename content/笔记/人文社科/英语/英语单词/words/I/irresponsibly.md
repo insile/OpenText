@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  不负责任地；不可靠地
-# 例句
+##### 例句
 - Programme-makers seem irresponsibly insouciant about churning out violence .
 	- 编程者似乎对大批量制造含暴力因素的产品处之漠然，毫无责任心。
 - For that whole group of citizens whose appeals for assistance have been similarly and irresponsibly denigrated .

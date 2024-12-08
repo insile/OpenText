@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnrɪˈzɜːvd/； 美：/ˌʌnrɪˈzɜːrvd/
 - #词性/adj  无保留的；完全的；非保留的；彻底的；未被预订的
-# 例句
+##### 例句
 - The government did not have the unreserved support of any national newspaper .
 	- 政府没有得到任何一家全国性报纸无保留的支持。
 - To reveal ( secret matters ) especially through indiscreet or unreserved talk .

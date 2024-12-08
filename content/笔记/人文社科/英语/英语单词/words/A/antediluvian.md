@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌæntidɪˈluːviən/； 美：/ˌæntidɪˈluːviən/
 - #词性/adj  古老的；早已过时的；十分老式的
 - #词性/n  大洪水以前的人；时代落伍者
-# 例句
+##### 例句
 - This antediluvian monetary system has now been replaced by the up-to-date monetary system of Japan .
 	- 这种旧式的金融体系也已经被现代化的日本系统所取代。
 - Their production techniques are positively antediluvian by modern standards .

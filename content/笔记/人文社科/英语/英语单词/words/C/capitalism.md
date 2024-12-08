@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkæpɪtəlɪzəm/； 美：/ˈkæpɪtəlɪzəm/
 - #词性/n  资本主义
-# 例句
+##### 例句
 - Capitalism stresses innovation , competition and individualism .
 	- 资本主义强调的是创新、竞争和个人至上。
 - The central argument is that capitalism sows the seeds of its own destruction .

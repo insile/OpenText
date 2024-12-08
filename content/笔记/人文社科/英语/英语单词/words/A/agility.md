@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈdʒɪlɪti/； 美：/əˈdʒɪləti/
 - #词性/n  灵敏性；敏捷；灵活；机敏；敏捷性
-# 例句
+##### 例句
 - He had the agility of a man half his age .
 	- 他的敏捷赶得上岁数比他小一半的人。
 - With her speed and agility , cage cut out all her competitors in the hurdle race .

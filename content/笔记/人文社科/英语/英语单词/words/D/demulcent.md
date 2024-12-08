@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  缓和的，镇痛的
 - #词性/n  镇痛剂，缓和剂
-# 例句
+##### 例句
 - The clinical observation on postoperative demulcent effect with Neostigmine plus Morphine
 	- 新斯的明加小剂量吗啡注入硬膜外用于术后镇痛的临床观察
 - Objective To acquaint the postoperative demulcent effect of Neostigmine plus little dose of Morphine .

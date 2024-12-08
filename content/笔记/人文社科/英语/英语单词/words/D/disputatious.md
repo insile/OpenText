@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  有争议的；爱争辩的
-# 例句
+##### 例句
 - The problem discussed ( being discussed , to be discussed ) at the meeting is of great importance . A lively or disputatious discussion .
 	- 在会上已经讨论（在讨论，即将讨论）问题具有重要的意义。
 - A style described as abrasive and contentious ; a disputatious lawyer ; a litigious and acrimonious spirit .

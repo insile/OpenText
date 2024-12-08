@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  敏锐的；清清楚楚地
-# 例句
+##### 例句
 - Be keenly aware of manufacturing needs relative to component standardization , safety requirements and electrical code requirements .
 	- 对制造业相关的零件标准，安全要求及电气代码要求有敏锐的洞察力。
 - It is children and teenage girls who are most keenly aware of its architectural beauty .

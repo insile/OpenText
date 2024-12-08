@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/bɪˈtjuːmɪnəs/； 美：/bəˈtuːmɪnəs/
 - #词性/adj  沥青的；含沥青的
-# 例句
+##### 例句
 - A black bituminous material used for paving roads or other areas ; usually spread over crushed rock .
 	- 用来铺块石面路或其他区域的黑色含沥青的材料；通常覆盖在压碎的石头上。
 - The ichthyosaur remains are found in black , bituminous marine shales deposited about 190 million years ago .

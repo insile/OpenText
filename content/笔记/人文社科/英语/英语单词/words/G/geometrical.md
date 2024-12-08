@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdʒiːəˈmetrɪkl/； 美：/ˌdʒiːəˈmetrɪkl/
 - #词性/adj  几何的；几何的，几何学的
-# 例句
+##### 例句
 - The geometrical content must be practical , amusing and challenging ;
 	- 几何的学习内容应当是现实的、有趣的、富有挑战性的；
 - Differential form was introduced into hydrostatics with geometrical viewpoint , the first mensural form of energetics was found .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɪndʒi/； 美：/ˈmɪndʒi/
 - #词性/adj  吝啬的；小的
-# 例句
+##### 例句
 - They gave us a mingy amount of cheese .
 	- 他们只给了我们少得可怜的一点点干酪。
 - All I scored was a mingy three points !

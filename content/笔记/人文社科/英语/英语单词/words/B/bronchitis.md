@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/brɒŋˈkaɪtɪs/； 美：/brɑːŋˈkaɪtɪs/
 - #词性/n  支气管炎
-# 例句
+##### 例句
 - He was suffering from chronic bronchitis .
 	- 他患有慢性支气管炎。
 - She had feared she was going down with pneumonia or bronchitis

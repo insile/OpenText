@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɜːtɪkəli/； 美：/ˈvɜrtɪkli/
 - #词性/adv  垂直地；直立地
-# 例句
+##### 例句
 - You can move the camera both vertically and horizontally
 	- 你可以上下左右移动摄像机。
 - Cut the tomatoes in half vertically

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌrætiˌɒsɪˈneɪʃn/； 美：/ˌreɪʃiˌoʊsɪˈneɪʃn/
 - #词性/n  推理；推论
-# 例句
+##### 例句
 - Your thesis is short for the accurate ratiocination to suppose your argument .
 	- 你的论文缺少能证明你的论点的正确推理。
 - There 's no difference of Win or lose , or good or bad in ratiocination .

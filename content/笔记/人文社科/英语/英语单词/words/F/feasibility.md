@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌfiːzəˈbɪlɪti/； 美：/ˌfizəˈbɪləti/
 - #词性/n  可行性；可能性
-# 例句
+##### 例句
 - I doubt the feasibility of the plan .
 	- 我怀疑这个计划的可行性。
 - Some of them doubted the feasibility of the proposal .

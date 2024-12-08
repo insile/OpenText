@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈpenɪtrəbl/； 美：/ɪmˈpenɪtrəbl/
 - #词性/adj  不可逾越的；高深莫测的；不可理解的；不可进入的；穿不过的；无法透视的
-# 例句
+##### 例句
 - Their jargon is impenetrable to an outsider .
 	- 他们的行话外人听不懂。
 - His books are notoriously impenetrable .

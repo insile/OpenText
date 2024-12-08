@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈaɪə(r)/； 美：/ˈaɪər/
 - #词性/n  愤怒；怒火
-# 例句
+##### 例句
 - Their ire was directed mainly at the government .
 	- 他们的怒火主要指向政府。
 - Rhodes-Fotheringham was in such an intolerable rage that I thought he would explode before my eyes , and the other two were not far behind in their ire . Each of them was blazing more intensely than the fire was !

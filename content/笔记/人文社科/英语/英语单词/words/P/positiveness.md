@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  正向；信心；积极性；自信；实证性
-# 例句
+##### 例句
 - Compared with culture , civilization has characteristics of positiveness , universality and integrity in nature .
 	- 与文化比较而言，文明具有积极性、普适性和整体性的特点。
 - The four factors of the learning strength growth are the tranguility , positiveness , tenacity of the learning labour and the activity of the learning thought .

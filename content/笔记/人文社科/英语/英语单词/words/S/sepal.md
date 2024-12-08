@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsepl/； 美：/ˈsepl/
 - #词性/n  萼片
-# 例句
+##### 例句
 - The expression level in the anther , sepal and stem were relatively low .
 	- 在花药，萼片和茎中表达量非常低。
 - Stage 4 - Sepal formation ;

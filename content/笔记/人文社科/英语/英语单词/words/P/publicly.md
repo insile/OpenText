@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'pʌblɪkli/； 美：/'pʌblɪkli/
 - #词性/adv  公开；以公众名义；由公众、由政府（出资或持有等）
-# 例句
+##### 例句
 - She publicly denounced the government 's handling of the crisis .
 	- 她公开谴责政府处理这场危机的方式。
 - The company was publicly rebuked for having neglected safety procedures .

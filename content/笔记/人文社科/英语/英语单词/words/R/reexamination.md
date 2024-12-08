@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌriːɪgˌzæmɪˈneɪʃən/； 美：/riɪgˌzæməˈneɪʃən/
 - #词性/n  重新审查；再审查；复审；再审；复审程序
-# 例句
+##### 例句
 - ( law ) a judicial reexamination of the proceedings of a court ( especially by an appellate court ) .
 	- （法律学）法院重新审查的程序（特别通过一个受理上诉的法庭）。
 - Chapter IV Reexamination of Patent Application and Invalidation of Patent Right

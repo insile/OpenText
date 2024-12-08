@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtʃɑːfɪŋ/； 美：/ˈtʃæfɪŋ/
 - #词性/v  开玩笑，打趣，戏弄（chaff 的现在分词）
 - #词性/n  开玩笑；混淆
-# 例句
+##### 例句
 - It is a chaffing way to say that someone is not so handsome or just ordinary-looking .
 	- 这是一个开玩笑的说法，形容某人不是那么帅或者仅仅是长相普通而已。
 - When refilling chaffing dishes , new food must not be added to existing .

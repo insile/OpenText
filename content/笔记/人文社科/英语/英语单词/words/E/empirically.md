@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  凭经验；以经验为主地
-# 例句
+##### 例句
 - But there are nonetheless several empirically proven benefits .
 	- 但是经验已证明，它确实存在着一定的好处。
 - And finally we have empirically studied the relationship between credit market development and economic growth .

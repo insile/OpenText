@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhaʊswɜːk/； 美：/ˈhaʊswɜːrk/
 - #词性/n  家务
-# 例句
+##### 例句
 - How much do men share housework and the care of the children ?
 	- 男人分担多少家务和照看小孩的工作？
 - Women usually do the larger share of the housework .

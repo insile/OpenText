@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈlɒŋ/； 美：/əˈlɔːŋ/
 - #词性/prep  沿着；顺着；靠着…边；沿着…的某处(或旁边)
 - #词性/adv  (与某人)一道，一起；越来越(好)；向前
-# 例句
+##### 例句
 - You 'll find his office just along the corridor .
 	- 沿着走廊你就可以找到他的办公室。
 - Keep left along the wall .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɒstrəsɪzəm/； 美：/ˈɑːstrəsɪzəm/
 - #词性/n  排斥；排挤
-# 例句
+##### 例句
 - Workplace is one of the social contexts where ostracism often happens .
 	- 职场是排斥经常发生的社会环境之一。
 - It is also a central feature of punishment , shunning , or ostracism .

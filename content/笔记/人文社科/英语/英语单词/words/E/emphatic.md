@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈfætɪk/； 美：/ɪmˈfætɪk/
 - #词性/adj  强调的；有力的；突出的；明显的；显著的；加强语气的；明确表示的
-# 例句
+##### 例句
 - " You must go ", she said in an emphatic tone .
 	- “你非得去不可”，她用强调的口气说。
 - English Emphatic Vocabulary and Its Chinese Translation

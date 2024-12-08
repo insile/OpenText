@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/nəˈmenklətʃə(r)/； 美：/nəˈmenklətʃər/
 - #词性/n  (尤指某学科的)命名法
-# 例句
+##### 例句
 - Objective : To study the Dong medicine 's category and nomenclature .
 	- 目的：研究侗族药物的类别和命名法。
 - The Reference Systems and the Nomenclature of Cutting Tools

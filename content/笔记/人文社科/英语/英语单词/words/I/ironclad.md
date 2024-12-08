@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈaɪənklæd/； 美：/ˈaɪərnˌklæd/
 - #词性/n  铁甲舰；装甲舰
 - #词性/adj  打不破的；装甲的；镶铁的；坚固的
-# 例句
+##### 例句
 - The case for testing now is ironclad .
 	- 正在接受检验的这一论据牢不可破。
 - These ironclad details are irrefutable proof in black and white .

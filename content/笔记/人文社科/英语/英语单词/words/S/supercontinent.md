@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsuːpəkɒntɪnənt/； 美：/ˈsuːpərkɑːntɪnənt/
 - #词性/n  超大陆(存在于几百万年之前，如冈瓦纳古陆或劳亚古陆)
-# 例句
+##### 例句
 - The study of supercontinent breakup is a modern frontier project of earth science .
 	- 超大陆裂解是当今地学研究最前沿课题。
 - Most amber deposits have been found in former parts of Laurasia , the other supercontinent of the time .

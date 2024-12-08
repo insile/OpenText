@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈnɒkjuəs/； 美：/ɪˈnɑːkjuəs/
 - #词性/adj  无害的；无危险的；无恶意的；无意冒犯的
-# 例句
+##### 例句
 - The typical hedge city is innocuous , offering privacy and seclusion3 as well as social and political stability .
 	- 典型的“对冲城市”是安全无害的，拥有稳定的社会和政治环境，人们的隐私会受到保护，能够在城市中安静地生活。
 - Even innocuous substances can sometimes register a positive result in a drug test .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdiːvɪəns/； 美：/ˈdiviəns/
 - #词性/n  异常行为；偏常，异常
-# 例句
+##### 例句
 - A New Perspective to Study Deviance from the Angle of Social Differences
 	- 越轨：一种新的视阈&从社会差别的角度看越轨
 - Research on Deviance Behaviour of Students in Secondary Vocational School

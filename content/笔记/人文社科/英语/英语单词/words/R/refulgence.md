@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  辉煌；光辉
-# 例句
+##### 例句
 - We hope to share refulgence with all friends from in and abord .
 	- 我们真诚希望和广大国内外朋友携手共创辉煌！
 - Solidarity and Diligence , Rebuilding Refulgence & Todays Department of Chemistry

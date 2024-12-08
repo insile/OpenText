@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  除冰；防止结冰；装以除冰装置
-# 例句
+##### 例句
 - The filtering part is provided with a piston , a water inlet pipe , a one-way valve anda filtering deice .
 	- 过滤部分设有活塞、进水管、单向阀和过滤装置。
 - It is an external deice that can only be used in an ICU and is intended to support a patient for a month or two .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pəˈtrɒlədʒi/； 美：/pəˈtrɑːlədʒi/
 - #词性/n  岩石学
-# 例句
+##### 例句
 - Organic petrology is an important method for studying coal formed oil .
 	- 有机岩石学方法是研究煤成油的重要方法之一。
 - The future development and current situation of the methods of analysis and testing in organic petrology

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈskɪld/； 美：/ˌʌnˈskɪld/
 - #词性/adj  无(需)特别技能的；无特长的；无(需)专门训练的
-# 例句
+##### 例句
 - Unemployment has hit unskilled workers in particular .
 	- 失业尤其冲击到了无特别技能的工人。
 - Most of those who left the province to work abroad were unskilled .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪsˌɔːriənˈteɪʃn/； 美：/dɪsˌɔːriənˈteɪʃn/
 - #词性/n  迷失方向；迷惑
-# 例句
+##### 例句
 - Baby lag refers to extreme fatigue1 and disorientation due to the sleep deprivation2 associated with parenting a baby .
 	- Babylag（宝贝时差）指因照顾小孩导致的睡眠不足引发的极度疲惫和精神不集中。
 - This phrase is a play on jet lag , the fatigue and disorientation that results from a long flight across multiple time zones , which dates to 1965 .

@@ -5,8 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
-# 例句
+##### 词义
+- #词性/adv  成比例地；相称地，适当地
+##### 例句
 - These basic costs may then be allocated proportionally to various tasks which are subdivisions of a project .
 	- 这几个基本成本有可能会按比例地分配到工程子项的不同任务中去。
 - Families with children spend proportionally less per person than families without children .

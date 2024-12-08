@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌndɪˈnaɪəbl/； 美：/ˌʌndɪˈnaɪəbl/
 - #词性/adj  不可否认的；确凿的
-# 例句
+##### 例句
 - He had undeniable charm .
 	- 他具有不可否认的魅力。
 - However , there is an undeniable new level of interest .

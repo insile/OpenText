@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsəʊ ˈsəʊ/； 美：/ˌsoʊ ˈsoʊ/
 - #词性/adj #词性/adv  一般的；马马虎虎；普通的；中等的；不好也不差的
-# 例句
+##### 例句
 - Weaknesses : Not a good shooter from three , only so-so ball-handling and passing skills .
 	- 缺点：不是个很好的三分射手，仅仅一般的控球和传球的技术。
 - The cost of producing a so-so brand 4.7 " " screen phone could be as low as $ 94 , Credit Suisse reckons , compared with $ 266 for Samsung 's Galaxy S4 .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  有酒窝的，有凹处的
-# 例句
+##### 例句
 - I love her face which usually grows dimply with joy .
 	- 我爱她常因快乐而展现酒涡的脸。
 - Skinny thighs or dimply ones , if they 're what are natural to you , then that 's what matters .

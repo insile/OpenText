@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈbrʌptli/； 美：/əˈbrʌptli/
 - #词性/adv  突然；立刻；出其不意地；猝然；粗暴地；忽然间
-# 例句
+##### 例句
 - She left the room abruptly without explanation .
 	- 她未作解释就突然离开了房间。
 - The bus stopped abruptly , nearly tipping me out of my seat .

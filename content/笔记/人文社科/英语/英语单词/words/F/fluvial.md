@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfluːviəl/； 美：/ˈfluːviəl/
 - #词性/adj  河流的；与河流有关的
-# 例句
+##### 例句
 - Afterward evolvement of sedimentary environment is analyzed that is from alluvial fan to lacustrine to fan-delta to fluvial .
 	- 然后，分析了其沉积环境演化，即经历了冲积扇湖泊扇三角洲河流的演化过程。
 - Multi-DEM approach , which is based on borehole data , is flexible , speediness and effective for sedimentary formation ; but it is not suited for stratigraphic system controlled by fluvial erosion and aggrading action .

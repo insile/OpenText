@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  令人印象深刻；令人难忘地；感人地
-# 例句
+##### 例句
 - The historical research was impressively diligent .
 	- 该项历史研究非常地认真、彻底。
 - Mr Winchester is impressively knowledgeable about all manner of things .

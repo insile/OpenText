@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈækjərət/； 美：/ɪnˈækjərət/
 - #词性/adj  不准确的；不精确的；有错误的
-# 例句
+##### 例句
 - A study of routing algorithm of the inaccurate network information
 	- 基于不精确的网络状态信息的路由算法的研究
 - Thus , the results we generate using this method are inaccurate .

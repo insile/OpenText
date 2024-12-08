@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  木刻；伐木
-# 例句
+##### 例句
 - I have been trained as a carpenter , and I think I would fit into the woodcutting business .
 	- 我学过木工，自以为干伐木是合适的。
 - But in comparing a study of California forests done in the 1920s and 1930s with another one between 2001 and 2010 , McIntyre and his colleagues documented a widespread death of big trees that was evident even in wildlands protected from woodcutting or development ．

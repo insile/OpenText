@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdɪfrənt/； 美：/ˈdɪfrənt/
 - #词性/adj  不同的；各种的；分别的；与众不同；有差异的；有区别的；各别的；别致；不平常
-# 例句
+##### 例句
 - It must be conceded that different judges have different approaches to these cases .
 	- 必须承认不同的法官会采用不同的方法来判定这些案件。
 - The author draws the different strands of the plot together in the final chapter .

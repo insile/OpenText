@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɜːvənt/； 美：/ˈfɜːrvənt/
 - #词性/adj  热烈的；热情的；热诚的
-# 例句
+##### 例句
 - The eyes that drew from me such fervent praise
 	- 那眼睛吸引我发出热情的赞美。
 - The fervent testimonial confirmed the President in his intention to let the expedition go ahead .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈæfəbl/； 美：/ˈæfəbl/
 - #词性/adj  和蔼可亲；平易近人的
-# 例句
+##### 例句
 - She is affable to everyone .
 	- 她对每一个人都和蔼可亲。
 - He is composed , urbane , and affable .

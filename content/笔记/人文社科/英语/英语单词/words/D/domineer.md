@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  压制；跋扈；高耸（over）；作威作福；擅权
-# 例句
+##### 例句
 - My boss tried to domineer over me .
 	- 我的老板试图对我作威作福。
 - I wouldn 't work for someone who tries to domineer over everyone as mr , Smith does .

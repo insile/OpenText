@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈtraɪtəs/； 美：/dɪˈtraɪtəs/
 - #词性/n  碎石；垃圾；瓦砾；废物；残渣；腐殖质；风化物
-# 例句
+##### 例句
 - Technical Study of Low Cost Induration Technology Used on Guangxi Natural Detritus Pavement
 	- 广西天然碎石土路面低造价硬化技术研究
 - Detect on kidney Stone Detritus of 2 016 Patients Analysis

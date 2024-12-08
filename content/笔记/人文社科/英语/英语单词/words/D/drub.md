@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  打击；用棒打；硬灌；打击；敲击
-# 例句
+##### 例句
 - You cannot drub this idea into him .
 	- 你不能强迫他接受此观念。
 - These queued pint jobs are being sent or will be sent to network printers to print out , which could drub the network speed badly .

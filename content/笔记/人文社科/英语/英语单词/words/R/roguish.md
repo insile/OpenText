@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈrəʊɡɪʃ/； 美：/ˈroʊɡɪʃ/
 - #词性/adj  顽皮的；调皮捣蛋的
-# 例句
+##### 例句
 - His eyes were bright blue with a roguish twinkle in them .
 	- 他的眼睛是鲜亮的监色，闪着一丝狡黠。
 - He gave them another roguish wink .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  分期；周期训练；历史分期；周期化
-# 例句
+##### 例句
 - Another Discussion on the Periodization of Modern and Contemporary Chinese Literature History
 	- 再论中国现当代文学的分期
 - Current Situation and Prospects for the Development of Periodization Theory of Sports Coaching

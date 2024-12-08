@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  不协调的；不一致的；不和谐的；不合适的
-# 例句
+##### 例句
 - Nominalization is the incongruent way of expressing processes or events .
 	- 名物化是过程或事件的非一致表达形式。
 - If your sound is pointing the opposite direction , incongruent ,

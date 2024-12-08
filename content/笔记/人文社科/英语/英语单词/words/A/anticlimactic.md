@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  虎头蛇尾；虎头蛇尾的
-# 例句
+##### 例句
 - Seems a bit anticlimactic , doesn 't it ?
 	- 似乎有点虎头蛇尾，不是吗？
 - The best move was the most anticlimactic , the most predictable and the most obvious .

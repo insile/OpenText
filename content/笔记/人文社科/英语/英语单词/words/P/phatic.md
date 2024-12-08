@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfætɪk/； 美：/ˈfætɪk/
 - #词性/adj  纯交际性的；寒暄交际的
-# 例句
+##### 例句
 - Therefore , it indicates social importance and function of phatic $
 	- 从而说明了应酬语的重要社会意义和作用。
 - The Contrastive Study of E \/ C Phatic Language and Their Translation

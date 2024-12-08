@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmɑːˈseɪ/； 美：/mɑrˈsaɪl/
 - #词性/n  法国马赛市；马塞；旅游
-# 例句
+##### 例句
 - On their way back to Marseille they spoke very little
 	- 返回马赛的路上，他们没怎么说话。
 - His estranged5 daughter ( Abigail Breslin ) is studying in Marseille when she is arrested and charged with the murder of her girlfriend .

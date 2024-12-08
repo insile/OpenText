@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  候鸟迁徙所经的路径；迁飞途径
-# 例句
+##### 例句
 - Fifty million birds , from cranes to song birds , journey along the Flyway twice a year .
 	- 从鹤类到鸣禽的5千万只鸟儿一年两次沿着迁徙路线奔波。
 - Nigeria is one of several African countries located on the Black Sea-Mediterranean flyway used by migratory birds .

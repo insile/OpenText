@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌekspəˈnenʃl/； 美：/ˌekspəˈnenʃl/
 - #词性/adj  指数的；幂的；越来越快的；由指数表示的
 - #词性/n  指数
-# 例句
+##### 例句
 - Manufacturing industry has been a backbone of the Chinese development in the latest years , growing at an exponential speed .
 	- 近几年，制造业以指数的速度增长，成为中国发展的支柱。
 - Your acts , even this late in the game , will have exponential effects on your judgment later .

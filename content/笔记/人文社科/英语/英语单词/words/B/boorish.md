@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbʊərɪʃ/； 美：/ˈbʊrɪʃ/
 - #词性/adj  粗野的；粗鲁讨厌的
-# 例句
+##### 例句
 - Boorish manners [ language , taste ]
 	- 粗野的态度[语言、趣味]
 - Mr Murdoch and his sons , James and Lachlan , now have two tasks : replacing Mr Ailes and reforming what appears to have been a boorish , macho culture at Fox News .

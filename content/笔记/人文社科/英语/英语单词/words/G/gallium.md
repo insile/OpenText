@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡæliəm/； 美：/ˈɡæliəm/
 - #词性/n  镓
-# 例句
+##### 例句
 - Exceptionally high temperatures , up to1050 ℃ can be measured with gallium thermometers .
 	- 接近1050℃的异常高温可用镓温度计测量。
 - The Market , Production , Price and Development of Gallium

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/təˈrɒntəʊ/； 美：/təˈrɑːntoʊ/
 - #词性/n  多伦多
-# 例句
+##### 例句
 - They lived in Toronto during their first few months of marriage .
 	- 他们婚后的头几个月住在多伦多。
 - Many in Toronto 's black community feel that the justice system does not treat them fairly

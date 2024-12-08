@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/hjuːˈmɪdəti/； 美：/hjuːˈmɪdəti/
 - #词性/n  (空气中的)湿度；湿热；高温潮湿
-# 例句
+##### 例句
 - The humidity is relatively low .
 	- 湿度相对较低。
 - Pilots complained that the radars in the Mirages malfunctioned during conditions of high humidity

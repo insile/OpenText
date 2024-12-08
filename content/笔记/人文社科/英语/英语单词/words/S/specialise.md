@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vi  专门研究（specialize 的英式拼写）
 - #词性/vt  使专门化；限定……的范围；深入（specialize 的英式拼写）
-# 例句
+##### 例句
 - I thought I could specialise in folk music .
 	- 我觉得我可以专门研究民间音乐。
 - Martin Bishop is the head of a group of experts who specialise in testing security systems .

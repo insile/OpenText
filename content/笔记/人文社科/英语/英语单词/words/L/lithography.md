@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/lɪˈθɒɡrəfi/； 美：/lɪˈθɑːɡrəfi/
 - #词性/n  平版印刷术
-# 例句
+##### 例句
 - French artists in the nineteenth century became very interested in using lithography .
 	- 到了十九世纪，法国艺术家对平版印刷术变得非常感兴趣。
 - Lithography is used commercially as well .

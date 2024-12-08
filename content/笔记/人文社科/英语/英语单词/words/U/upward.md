@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈʌpwəd/； 美：/ˈʌpwərd/
 - #词性/adj  向上的；(数量、价格)上升的，上涨的，增长的；朝上的；向高处的
 - #词性/adv  同“upwards”
-# 例句
+##### 例句
 - An upward movement ( especially a rhythmical rising and falling ) .
 	- 向上的运动（特指在有规则的起落过程中）。
 - However , being part of a larger program does create differences for project managers along the upward dimension .

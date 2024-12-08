@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɪstɪsɪzəm/； 美：/ˈmɪstɪsɪzəm/
 - #词性/n  神秘主义
-# 例句
+##### 例句
 - Part two introduces kinds of explanations to mysticism .
 	- 第二部分是介绍神秘主义的来源与多种解释。
 - Mysticism is an important field to be researched .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/sɪnˈsɪəli/； 美：/sɪnˈsɪrli/
 - #词性/adv  真诚地；诚实地
-# 例句
+##### 例句
 - George was sincerely anxious that his son should find happiness and security
 	- 乔治真诚地希望他儿子可以找到幸福和安全感。
 - ' Congratulations , ' he said sincerely

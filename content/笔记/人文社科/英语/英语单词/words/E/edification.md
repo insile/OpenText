@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌedɪfɪˈkeɪʃn/； 美：/ˌedɪfɪˈkeɪʃn/
 - #词性/n  启迪；教化；陶冶
-# 例句
+##### 例句
 - The books were intended for the edification of the masses .
 	- 这些书旨在教化民众。
 - Chapter five centres on two special groups in social edification .

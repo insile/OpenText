@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdjuːtɪfl/； 美：/ˈduːtɪfl/
 - #词性/adj  尽职的；顺从的；恭敬的
-# 例句
+##### 例句
 - She is a dutiful daughter , a considerate sister , a loyal wife and a worthy individual in the society .
 	- 她是尽职的女儿、体贴的姐妹、忠实的妻子，还是有价值的社会个体。
 - At the table Smith acted the dutiful host .

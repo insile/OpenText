@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  最大化；使（某事物）增至最大限度； 最大限度地利用（某事物）
-# 例句
+##### 例句
 - Steps taken now to maximise your health will pay dividends later on .
 	- 现在采取措施增强体质会使你日后受益。
 - Aza says he did not intend to hook users with it but says the business model of many social media companies is designed to maximise user time online .

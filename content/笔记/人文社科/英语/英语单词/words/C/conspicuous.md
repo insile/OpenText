@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈspɪkjuəs/； 美：/kənˈspɪkjuəs/
 - #词性/adj  明显的；引人注目的；易见的；惹人注意的
-# 例句
+##### 例句
 - She is a conspicuous figure .
 	- 她是个引人注目的人物。
 - Therefore , developing the substitute of fossil fuel causes wide public concern and biomass energy is the most conspicuous substitute , because of its reproducibility and cleanability .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnɑːsɪsɪzəm/； 美：/ˈnɑːrsɪsɪzəm/
 - #词性/n  自恋；自我陶醉；自赏(尤指对自己的容貌)
-# 例句
+##### 例句
 - Those who suffer from narcissism become self-absorbed or chronic show-offs .
 	- 被自恋症折磨的人会变得只专注于自己的事情，或者不断地自我炫耀。
 - The project that they work on shows the growing selfie stick phenomenon directly and the increasing need for narcissism and Internet agreement .

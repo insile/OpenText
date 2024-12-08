@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈnæləɡəs/； 美：/əˈnæləɡəs/
 - #词性/adj  类似的；相似的
-# 例句
+##### 例句
 - The analogous dorsal region in other animals .
 	- 动物的背部其它动物相似的背部部位。
 - And subsequently Starck did the analogous experiment but with an electric field .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌzenəˈfəʊbɪk/； 美：/ˌzenəˈfoʊbɪk/
 - #词性/adj  仇外的;惧外的
-# 例句
+##### 例句
 - The French are proud and highly xenophobic when it comes to cooking .
 	- 谈到烹饪，法国人会颇为得意并且极端排斥外国菜。
 - We have been traduced in the press as xenophobic bigots .

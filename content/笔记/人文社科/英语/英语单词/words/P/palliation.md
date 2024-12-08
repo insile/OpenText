@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  （痛苦的）减轻；缓和；辩解
-# 例句
+##### 例句
 - Development of Model HY-100 Vehicle Seat with Vibration Isolation and Palliation System
 	- HY&100型车辆隔振减振减震座椅的研制
 - Early death rates were always lower with intensive therapy than with palliation only .

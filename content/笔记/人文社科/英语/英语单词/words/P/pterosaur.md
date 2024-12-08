@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  翼龙
-# 例句
+##### 例句
 - Discovery of a new pterosaur from western liaoning , china
 	- 辽宁西部翼龙类化石的首次发现
 - Huanjiang pterosaur fossils , ancient animals of China scholars , in particular pterosaur Studies is a major event .

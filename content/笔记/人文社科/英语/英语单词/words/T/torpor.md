@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtɔːpə(r)/； 美：/ˈtɔːrpər/
 - #词性/n  迟钝；懒散；死气沉沉
-# 例句
+##### 例句
 - In the heat they sank into a state of torpor .
 	- 炎热的天气使得他们委靡不振。
 - The sick person gradually falls into a torpor .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  链孢霉
-# 例句
+##### 例句
 - Neurospora can be grown in test tubes containing a very simple culture medium .
 	- 链孢霉可以在含有一种很简单的培养基的试管中生长。
 - A Simple Method to Correct Genetic Distance Between Linked Genes and a Correction of Calculating Data in Tetrad Analysis in Neurospora crassa

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnʌnəri/； 美：/ˈnʌnəri/
 - #词性/n  女修道院;尼姑庵
-# 例句
+##### 例句
 - A nunnery is a place where nuns live together .
 	- 女修道院是修女们一起居住的地方。
 - Jane lives in a nunnery .

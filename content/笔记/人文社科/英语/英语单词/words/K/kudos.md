@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkjuːdɒs/； 美：/ˈkuːdɑːs/
 - #词性/n  荣誉；名声；光荣；(随某成就或地位而来的)威信
-# 例句
+##### 例句
 - A little kudos goes a long way
 	- 一些荣誉是很长的路
 - She did most of the work but all the kudos went to him .

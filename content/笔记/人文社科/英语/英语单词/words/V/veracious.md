@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  准确的；真实的；诚实的；诚实
-# 例句
+##### 例句
 - This technique can show image quickly and veracious ;
 	- 这种技术可以快速而准确的实时显示图像；
 - The method can provide veracious information of monitoring for on line operation of Scott transformer winding .

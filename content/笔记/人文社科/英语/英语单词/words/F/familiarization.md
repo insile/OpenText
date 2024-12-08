@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  熟悉；熟悉阶段
-# 例句
+##### 例句
 - His familiarization with several operating system make him the best candidate for this position .
 	- 由於熟悉好几种操作系统，他成了这个职位的最佳候选人。
 - Strong organizing and coordinating abilities and familiarization with modern management tools .

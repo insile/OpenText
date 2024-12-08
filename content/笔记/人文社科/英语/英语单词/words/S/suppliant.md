@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  恳求者；哀求者；恳求
 - #词性/adj  哀求的
-# 例句
+##### 例句
 - He asked for help in a suppliant attitude .
 	- 他以恳求的态度要我帮忙。
 - And now , and for the first time , he was a suppliant , tender and timid and doubting .

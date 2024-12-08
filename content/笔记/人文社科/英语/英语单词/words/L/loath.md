@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ləʊθ/； 美：/loʊθ/
 - #词性/adj  厌恶；不情愿；勉强；不乐意
-# 例句
+##### 例句
 - They react on this one problem very slow and very loath .
 	- 他们在这一问题上反应很慢，很不情愿。
 - He was loath to admit his mistake .

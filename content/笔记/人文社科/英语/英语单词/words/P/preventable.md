@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prɪˈventəbl/； 美：/prɪˈventəbl/
 - #词性/adj  可以防止的；可预防的；可以预防的；可以阻止的
-# 例句
+##### 例句
 - Children are still dying in their millions from preventable diseases .
 	- 仍有数以百万计的儿童死于可预防的疾病。
 - Overall , stress-related health problems account for up to 90 % of hospital visits , many of them preventable .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈweɪtlɪsnɪs/； 美：/ˈweɪtləsnəs/
 - #词性/n  失重；无重状态
-# 例句
+##### 例句
 - The astronauts are conducting a series of experiments to learn more about how the body adapts to weightlessness
 	- 那些宇航员正在进行一系列实验，以更多地了解身体如何适应失重状态。
 - A simulation study on effect of weightlessness on blood cycle

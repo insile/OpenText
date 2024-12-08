@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɑːkɪˈtektʃərəl/； 美：/ˌɑːrkɪˈtektʃərəl/
 - #词性/adj  建筑的；建筑学的；建筑方面的
-# 例句
+##### 例句
 - Between Large and Small & Furniture Design from the Architectural Point
 	- 大与小之间&从建筑的角度看家具设计
 - Architectural design is the process of discovering problems and solving problems .

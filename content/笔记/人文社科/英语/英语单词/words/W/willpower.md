@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwɪlpaʊə(r)/； 美：/ˈwɪlpaʊər/
 - #词性/n  意志力
-# 例句
+##### 例句
 - His attempts to stop smoking by willpower alone failed .
 	- 他多次想单凭意志力戒烟都没有成功。
 - Anthony sometimes felt that his mistress was his superior in willpower

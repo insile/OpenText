@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkɒzmɪk/； 美：/ˈkɑːzmɪk/
 - #词性/adj  宇宙的；巨大且重要的
-# 例句
+##### 例句
 - The great cosmic rhythm of the spirit sets the currents of life in motion .
 	- 伟大的宇宙的精神的循环变化使生命的进程不止不息。
 - Its contents involve primarily the following aspects : the beginning appearance of the cosmic ;

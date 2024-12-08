@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈiːdʒɪs/； 美：/ˈiːdʒɪs/
 - #词性/n  庇护；庇护，保护；主办，赞助，领导
-# 例句
+##### 例句
 - Only in this way can we get the aegis and blessing of gods .
 	- 只有这样，才会受到神的庇护和赐福。
 - The new refrigerator would be developed under the aegis of a task force that brought together people from engineering , design , marketing , and sales .

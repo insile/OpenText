@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈtɒp/； 美：/əˈtɑːp/
 - #词性/prep  在…顶上
 - #词性/adv  在(…)顶上
-# 例句
+##### 例句
 - Under the newspaper , atop a sheet of paper , lay an envelope .
 	- 在报纸下面的一张纸上放着一个信封。
 - A tuft of grass atop the wall sways right and left in the wind .

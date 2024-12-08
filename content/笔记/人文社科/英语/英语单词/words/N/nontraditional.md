@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  非传统的；非传统性
-# 例句
+##### 例句
 - Nontraditional Students in American Higher Education : Problems and Countermeasures
 	- 美国高等教育非传统学生：问题与对策
 - Research orientation and suggestions of nontraditional mineral resources in China

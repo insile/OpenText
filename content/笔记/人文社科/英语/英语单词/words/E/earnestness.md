@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  认真；诚挚；正经；一本正经的文风
-# 例句
+##### 例句
 - I started my new job with great earnestness .
 	- 我以极大的热忱开始了我的新工作。
 - Without the earnestness in academic study , he would not have reached that height .

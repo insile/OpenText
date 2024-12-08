@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈprəʊtiən/； 美：/ˈproʊtiən/
 - #词性/adj  千变万化的；多变的；易变的；变幻无常的
-# 例句
+##### 例句
 - Oil painting is an important form of drawing because of its rich sculpt performance , various artistic form and protean colour of inherence .
 	- 油画艺术能够成为绘画的一种重要表现形式，是因其内在的丰富造型表现力、千姿百态的艺术表现形态和千变万化的色彩。
 - The protean set , meanwhile , will feature giant chandeliers , a circular dias that juts out into the audience and20 moving screens that will coalesce at certain points to form a single image .

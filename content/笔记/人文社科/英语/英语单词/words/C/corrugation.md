@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  波纹；波形（纹）；沟；起波纹；起伏状
-# 例句
+##### 例句
 - Experimental Study on Rolling Wheel Corrugation
 	- 滚动轮波形磨损实验研究
 - Stepless adjustment output corrugation nearly no sine wave .

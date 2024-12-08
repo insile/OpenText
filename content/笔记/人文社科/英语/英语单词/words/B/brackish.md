@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbrækɪʃ/； 美：/ˈbrækɪʃ/
 - #词性/adj  咸的；太咸的
-# 例句
+##### 例句
 - Among those options is the development of new water resources such as brackish water .
 	- 在那些选择之中是新水源的发展譬如微咸的水。
 - This brackish water isn 't much good for drinking .

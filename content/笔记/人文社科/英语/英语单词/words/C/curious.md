@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkjʊəriəs/； 美：/ˈkjʊriəs/
 - #词性/adj  好奇的；奇特；稀奇古怪；不寻常；求知欲强的
-# 例句
+##### 例句
 - Curious pedestrians were ordered to move along
 	- 好奇的路人被责令离开。
 - Both of them looked at him with that curious , slightly amused and even arch expression .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɪəli/； 美：/ˈmɪrli/
 - #词性/adv  仅仅；只不过
-# 例句
+##### 例句
 - Merely because you believe a thing is right , it isn 't automatically so
 	- 事情不会仅仅因为你相信它是对的，就会必然如此。
 - Michael is now merely a good friend

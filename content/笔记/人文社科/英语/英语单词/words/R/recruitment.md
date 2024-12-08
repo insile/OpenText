@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈkruːtmənt/； 美：/rɪˈkruːtmənt/
 - #词性/n  招聘；招募；招收
-# 例句
+##### 例句
 - Her time was largely taken up with recruitment and training .
 	- 她的时间大部分都用在新人员的招收和训练上。
 - Training Model of the Trinity & The thought of the first recruitment of free normal students

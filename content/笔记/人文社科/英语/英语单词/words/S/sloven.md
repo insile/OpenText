@@ -5,8 +5,8 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  不修边幅的人；懒人；邋遢鬼
-# 例句
+##### 例句
 - I really cannot bear the sight of that sloven woman .
 	- 我连看也不想看那个邋遢的女人。

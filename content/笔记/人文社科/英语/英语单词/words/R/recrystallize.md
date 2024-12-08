@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vt  （使）再结晶
 - #词性/vi  再结晶
-# 例句
+##### 例句
 - Besides , we replace acetonitrile by 60 % ethanol to recrystallize product so as to minish the toxicity and reduce the cost .
 	- 另外改用60%乙醇水溶液代替乙腈重结晶，毒性减小，价格降低。
 - Hydrothermal method is an important method for growth of artificial crystal , which enables ordinarily insoluble materials to dissolve and recrystallize by use of high temperature and high pressure aqueous solution .

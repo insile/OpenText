@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/lɪˈtɪdʒəs/； 美：/lɪˈtɪdʒəs/
 - #词性/adj  爱打官司的；好诉讼的
-# 例句
+##### 例句
 - We live in a litigious society .
 	- 我们生活在一个爱打官司的社会中。
 - Litigious System of Environmental Public Good and Its Enlightenment Given to China

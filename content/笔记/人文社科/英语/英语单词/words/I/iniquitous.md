@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈnɪkwɪtəs/； 美：/ɪˈnɪkwɪtəs/
 - #词性/adj  很不公正的；很不正当的；十分错误的
-# 例句
+##### 例句
 - It condemned in extremely strong language what it called Britain 's iniquitous campaign
 	- 它言辞激烈地谴责了这场它所谓的英国极不公正的竞选活动。
 - Many historians , of course , regard this as iniquitous .

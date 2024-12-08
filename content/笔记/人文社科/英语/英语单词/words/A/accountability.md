@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˌkaʊntəˈbɪləti/； 美：/əˌkaʊntəˈbɪləti/
 - #词性/n  责任；有义务，有责任；（档案）保管责任
-# 例句
+##### 例句
 - Good management in the police cannot be divorced from accountability
 	- 对警察队伍的良好管理和应负的责任是分不开的。
 - This is within his sphere of accountability .

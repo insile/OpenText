@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈpɑːsəbl/； 美：/ɪmˈpæsəbl/
 - #词性/adj  不能通行的(尤指因路况恶劣或被阻断)
-# 例句
+##### 例句
 - Country lanes that are often impassable in winter
 	- 在冬天经常不能通行的乡间小路
 - Many streams have flooded their banks , making some roads impassable .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbriːfli/； 美：/ˈbriːfli/
 - #词性/adv  简要地；简短地；短暂地；暂时地
-# 例句
+##### 例句
 - The sun came out , briefly .
 	- 太阳短暂地露了露脸。
 - One American academic was held briefly then released in the West bank .

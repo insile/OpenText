@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  无牙的；无齿的，缺齿的
-# 例句
+##### 例句
 - Preliminary Study of Changes of the Edentulous Mandibular Size and Shape
 	- 无牙颌下颌骨大小和形态变化的初步研究
 - Evaluation of clinical application of ACP classification for edentulous patients

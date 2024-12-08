@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəʊˈɜːʃn/； 美：/koʊˈɜːrʒn/
 - #词性/n  胁迫；强迫
-# 例句
+##### 例句
 - It was vital that the elections should be free of coercion or intimidation .
 	- 选举中不应有强迫或恐吓行为，这一点至关重要。
 - Enthusiasts for population control say they do not want coercion .

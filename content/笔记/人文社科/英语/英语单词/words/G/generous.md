@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdʒenərəs/； 美：/ˈdʒenərəs/
 - #词性/adj  大的；慷慨的；丰富的；充足的；大方的；宽厚的；仁慈的；宽宏大量的；慷慨给予的
-# 例句
+##### 例句
 - It would be churlish to refuse such a generous offer .
 	- 拒绝这样一个慷慨的提议未免失礼。
 - Americans are a generous people : witness the increase in charitable giving , even during the recession .

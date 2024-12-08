@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkʌtləri/； 美：/ˈkʌtləri/
 - #词性/n  餐具(刀、叉和匙)；刀具
-# 例句
+##### 例句
 - The cutlery is plate , not solid silver .
 	- 这套餐具是镀银的，不是纯银的。
 - She arranged plates and cutlery on a small table .

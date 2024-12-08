@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  不规则地
-# 例句
+##### 例句
 - Magnetitite-bearing plugs are found erratically from the base of the Critical Zone .
 	- 含磁铁岩的岩栓不规则地分布于关键带的基底以上
 - If a Scout is attacking you , jump around and move erratically to minimize the damage that you take .

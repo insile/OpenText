@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  聪明
-# 例句
+##### 例句
 - His cleverness and skill earned our admiration .
 	- 他的聪明和技能使我们心生敬佩。
 - Sagacity , unlike cleverness , may increase with age .

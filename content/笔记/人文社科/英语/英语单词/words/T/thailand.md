@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'taɪlænd/； 美：/ˈtaɪlənd/
 - #词性/n  泰国
-# 例句
+##### 例句
 - Thailand is at its most vibrant during the New Year celebrations .
 	- 在欢度新年期间，泰国举国欢腾。
 - I can 't remember all the places we visited in Thailand .

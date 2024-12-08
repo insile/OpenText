@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vt  移动；移动,行动
-# 例句
+##### 例句
 - In simulation , millions of robotic modules assemble to form a large cube robot able to locomote in many types of environments .
 	- 在仿真方面，数以千计的机器人模块编译成一个可以在多种环境中移动的机器人。
 - Since plants cannot locomote , the sensation of experiencing pain would be superfluous . Thus , plants differ completely physiologically from mammals .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  工（产）业上
-# 例句
+##### 例句
 - Other tool materials are being used for more and more often industrially .
 	- 其它工具材料在工业上也应用得越来越多。
 - The results meet both National and Shanghai Municipality Disposal Standards and the treatment is industrially feasible with low investment .

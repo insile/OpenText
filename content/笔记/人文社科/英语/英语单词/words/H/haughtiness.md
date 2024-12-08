@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  傲慢；傲气；傲慢,不逊
-# 例句
+##### 例句
 - Finally he came to realize it was his haughtiness that held people off .
 	- 他终于意识到是他的傲慢态度使人不敢同他接近。
 - There was an expression of almost insupportable haughtiness in her bearing and countenance .

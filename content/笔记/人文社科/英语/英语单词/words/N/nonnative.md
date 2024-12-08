@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  非本地的
-# 例句
+##### 例句
 - Conclusion Nonnative workers group has serious mental problem in Baotou city .
 	- 结论包头市外来打工群体存在明显的心理问题。
 - However , the nonnative population of Shanghai in different time was quite diverse .

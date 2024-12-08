@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/hɑːˈməʊniəs/； 美：/hɑːrˈmoʊniəs/
 - #词性/adj  和谐的；协调的；谐调的；友好和睦的
-# 例句
+##### 例句
 - Harmonious view is termed as order in the legal context .
 	- 和谐的思想在法学语境中被称之为秩序。
 - On Building the Harmonious Enterprise Culture

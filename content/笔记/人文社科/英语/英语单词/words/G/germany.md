@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdʒɜːməni/； 美：/ˈdʒɜːrməni/
 - #词性/n  德国
-# 例句
+##### 例句
 - We 're going to Germany for Christmas and New Year .
 	- 我们要去德国过圣诞和新年。
 - Germany is playing a leading role on the international stage .

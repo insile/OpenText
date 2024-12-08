@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdʒɪpsəm/； 美：/ˈdʒɪpsəm/
 - #词性/n  石膏
-# 例句
+##### 例句
 - Study on the Properties and Technology of Gypsum Heat Preserving Material
 	- 石膏保温材料的工艺与性能研究
 - The application of gray correlation analysis method in the study of gypsum wall materials

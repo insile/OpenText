@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpærəfəˈneɪliə/； 美：/ˌpærəfərˈneɪliə/
 - #词性/n  用具；(尤指某活动所需的)装备，大量用品，私人物品
-# 例句
+##### 例句
 - He was glad to be free of the paraphernalia of smoking .
 	- 他很高兴自己没有吸烟的那套用具。
 - Beth is such an avid sports fan that her walls are covered with baseball paraphernalia .

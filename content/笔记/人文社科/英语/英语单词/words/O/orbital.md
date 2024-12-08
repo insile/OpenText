@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɔːbɪtl/； 美：/ˈɔːrbɪtl/
 - #词性/adj  (行星或空间物体)轨道的；(城市)外环路的
 - #词性/n  高速环行路
-# 例句
+##### 例句
 - A construction method of the extended basis hybrid orbital
 	- 等性扩展基杂化轨道的构造
 - The complex and real expression for the atomic orbital

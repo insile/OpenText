@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbreɪkˈʌp/； 美：/ˈbreɪˌkʌp/
 - #词性/n  (组织或国家的)分裂，解体；(婚姻、关系或联系的)破裂，终结
-# 例句
+##### 例句
 - Measurement of Products in ~ ( 17 ) N Breakup Reaction
 	- ~（17）N破裂反应产物的测量
 - Tear breakup time and the effect of lifting the eyelid

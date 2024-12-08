@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌfəʊtəʊˈsensətɪv/； 美：/ˌfoʊtoʊˈsensətɪv/
 - #词性/adj  感光的；光敏的
-# 例句
+##### 例句
 - Do photosensitive pulverization to beauty parlour , establish lever to see a movie .
 	- 到美容院做光敏雾化，立杆见影
 - Processing a photosensitive material in order to make an image visible .

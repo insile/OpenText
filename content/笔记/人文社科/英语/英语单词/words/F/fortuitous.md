@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fɔːˈtjuːɪtəs/； 美：/fɔːrˈtuːɪtəs/
 - #词性/adj  偶然的；(尤指)巧合的；偶然发生的
-# 例句
+##### 例句
 - Their success is the result of a fortuitous combination of circumstances .
 	- 他们的成功是各种环境因素偶然联系在一起的幸运产物。
 - The occurrence of such things is by no means fortuitous .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɒmˈnɪvərəs/； 美：/ɑːmˈnɪvərəs/
 - #词性/adj  杂食的；兴趣广泛的；(尤指)动、植物都吃的
-# 例句
+##### 例句
 - As a child , Coleridge developed omnivorous reading habits .
 	- 柯尔律治从孩提时期便养成了广泛阅读的习惯。
 - Brown bears are omnivorous , eating anything that they can get their paws on .

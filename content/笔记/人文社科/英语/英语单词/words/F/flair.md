@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fleə(r)/； 美：/fler/
 - #词性/n  天赋；才华；天分；天资；资质
-# 例句
+##### 例句
 - He doesn 't show much flair for the piano .
 	- 他对弹钢琴没有什麽天资。
 - Last month he flaunted both his technical know-how and his flair for self-promotion by emerging as the country 's top blogger .

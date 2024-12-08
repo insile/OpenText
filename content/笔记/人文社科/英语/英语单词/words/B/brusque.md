@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/bruːsk/； 美：/brʌsk/
 - #词性/adj  （说话）草率的，唐突的；莽撞的，粗鲁的
-# 例句
+##### 例句
 - The doctor spoke in a brusque tone .
 	- 医生不客气地简单说了几个字。
 - They received a characteristically brusque reply from him .

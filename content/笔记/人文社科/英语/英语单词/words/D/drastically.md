@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  彻底地；激烈地
-# 例句
+##### 例句
 - They cut prices drastically to try and shift stock .
 	- 他们大幅度降价，试图销出存货。
 - Output has been drastically reduced .

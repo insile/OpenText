@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈkælsɪtrənt/； 美：/rɪˈkælsɪtrənt/
 - #词性/adj  （对权威、习俗、规章等）拒不服从的，顽抗的，倔强对抗的；反对的；桀骜不驯的，难以控制的；难处理的，难对付的；（疾病等）难治的；难驾驶的
 - #词性/n  倔强顽抗者；桀骜不驯的人（或动物）
-# 例句
+##### 例句
 - The danger is that recalcitrant local authorities will reject their responsibilities
 	- 危险在于抗命不遵的地方当局将拒绝履行他们的职责。
 - He had a knack for coaxing even the most recalcitrant engine to life .

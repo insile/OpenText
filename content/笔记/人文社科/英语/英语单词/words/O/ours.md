@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɑːz/； 美：/ɑːrz/
 - #词性/pron  我们的，属于我们的；我们的家属，与我们有关的人
-# 例句
+##### 例句
 - What do you need your own computer for ? You can use ours .
 	- 你干吗还要自己买电脑？你可以用我们的。
 - It is interesting to compare their situation and ours .

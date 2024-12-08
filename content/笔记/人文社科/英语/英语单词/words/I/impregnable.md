@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈpreɡnəbl/； 美：/ɪmˈpreɡnəbl/
 - #词性/adj  坚不可摧的；牢不可破的；不可战胜的；难以改变的
-# 例句
+##### 例句
 - They will establish impregnable fortresses .
 	- 他们将建造坚不可摧的城堡。
 - The scruffy redhead who used to write in the cafes of Leith has slowly transformed into a glossy couture blonde , unknowable behind an impregnable sheen of wealth and control .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'fɪə(r)sli/； 美：/'fɪrsli/
 - #词性/adv  激烈的；猛烈地；激烈地；狂暴地；凶猛地
-# 例句
+##### 例句
 - ' Let go of me , ' she said fiercely .
 	- “放开我。”她极为气愤地说道。
 - She had been fiercely protective towards him as a teenager .

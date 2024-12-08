@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈvəʊʃənl/； 美：/dɪˈvoʊʃənl/
 - #词性/adj  献身的；忠诚的；虔诚的，用于祈祷的
 - #词性/n  祈祷；礼拜
-# 例句
+##### 例句
 - A devotional service ( especially on New Year 's Eve ) .
 	- 虔诚的礼拜（尤其在新年的晚上）。
 - A devotional spirit is of great importance to being a teacher .

@@ -5,12 +5,12 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlɒriət/； 美：/ˈlɔːriət/
 - #词性/n  获奖者；荣誉获得者
 - #词性/adj  戴桂冠的；有戴桂冠资格的；(桂冠)用月桂树造的
 - #词性/v  使戴桂冠；授以桂冠诗人的称号
-# 例句
+##### 例句
 - The laureate will receive US $ 20000 .
 	- 获奖者获得2万美元。
 - Plus , the answer to a listener question about an American Nobel laureate from many years ago .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌæɡrɪˈkʌltʃərəl/； 美：/ˌæɡrɪˈkʌltʃərəl/
 - #词性/adj  农业的；农用的；(地区或社会)以农业为主的，农业高度发达的
-# 例句
+##### 例句
 - Use Intellectual Property System and promote the agricultural development of our country
 	- 运用知识产权制度促进我国农业的发展
 - Study on Building Agricultural High-resolution Remote Sensing Image Information Extract Technology

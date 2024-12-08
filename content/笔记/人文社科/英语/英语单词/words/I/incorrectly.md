@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnkəˈrɛktli/； 美：/ɪnkəˈrɛktli/
 - #词性/adv  错误地；不适当地
-# 例句
+##### 例句
 - We 've been trying to get back to you , Tom , but we think we took your number down incorrectly
 	- 汤姆，我们一直试着给你回电话，可是，或许我们把你的号码写错了。
 - The oral message was incorrectly transmitted .

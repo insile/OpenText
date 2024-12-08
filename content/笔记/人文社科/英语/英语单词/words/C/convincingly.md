@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kən'vɪnsɪŋli/； 美：/kənˈvɪnsɪŋlɪ/
 - #词性/adv  令人信服地
-# 例句
+##### 例句
 - Specialising in complex bets on market movements , this division was so profitable that Mr bouton could convincingly argue that size was not everything in banking and that SocGen could remain aloof from consolidation .
 	- 由于专门对市场走势进行复杂的押注，该业务的利润非常丰厚，以至于溥敦可以令人信服地说，在银行业中，规模不是一切，法国兴业银行可以远离合并、独善其身。
 - But this is not enough , and your reports make this point convincingly .

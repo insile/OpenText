@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhɔːtɪkʌltʃə(r)/； 美：/ˈhɔːrtɪkʌltʃər/
 - #词性/n  园艺；园艺学
-# 例句
+##### 例句
 - Researches on the Teaching Reform and Practice of An Introduction to Horticulture
 	- 《园艺学概论》课程教学改革与实践的研究
 - Horticulture is an applied science , as opposed to Botany , a basic science .

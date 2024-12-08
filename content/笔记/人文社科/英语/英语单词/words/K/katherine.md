@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkæθ(ə)rɪn/； 美：/ˈkæθərɪn/
 - #词性/n  凯瑟琳（女子名）
-# 例句
+##### 例句
 - Her name 's Katherine , generally shortened to Kay .
 	- 她名叫凯瑟琳，通常简称凯。
 - Katherine took another sip from her glass to calm herself .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈflekʃn/； 美：/rɪˈflekʃn/
 - #词性/n  反射；反思；思考；反映
-# 例句
+##### 例句
 - Analysis of Bragg Reflection of Cholesteric Liquid Crystals Using Dynamical Reflexion Theory
 	- 利用动态反射法对手性液晶Bragg反射的分析
 - Measurement of Normal Values of Blink Reflexion ( BR ) and Its Application on Chronic Kidney Failure Patients

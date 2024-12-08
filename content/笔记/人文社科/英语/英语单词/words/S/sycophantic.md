@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsɪkəˈfæntɪk/； 美：/ˌsɪkəˈfæntɪk/
 - #词性/adj  谄媚的;拍马屁的;阿谀奉承的
-# 例句
+##### 例句
 - We heard the sound of sycophantic laughter .
 	- 我们听到了谄媚的笑声。
 - Qinhui was a notorious sycophantic official in the Song dynasty , and was spurned by later generations .

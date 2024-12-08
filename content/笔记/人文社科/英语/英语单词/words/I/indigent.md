@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪndɪdʒənt/； 美：/ˈɪndɪdʒənt/
 - #词性/adj  贫穷的
-# 例句
+##### 例句
 - A judge normally appoints the attorney for an indigent defendant at the defendant 's first court appearence .
 	- 法官通常会在贫穷被告人第一次出庭时，为其指派一名辩护律师。
 - I think that the industry does support indigent people .

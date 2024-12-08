@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  处方；规定
 - #词性/adj  规定的
-# 例句
+##### 例句
 - There are definite prescript about safety valuation index of dangerous chemical enterprises among them .
 	- 其中，对危险化学品生产、储存和经营单位的安全评价所涉及的指标做出了明确规定。
 - The prescript of the bribery crime in the Criminal Law is so simple .

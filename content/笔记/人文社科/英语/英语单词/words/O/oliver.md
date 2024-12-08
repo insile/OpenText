@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɔlivə/； 美：/ˈɑləvɚ/
 - #词性/n  奥利弗；男子名；脚踏铁锤
-# 例句
+##### 例句
 - Even Oliver felt a tiny spark of excitement .
 	- 连奥利弗都感到一丝兴奋。
 - When not producing art of his own , Oliver was busy advancing the work of others .

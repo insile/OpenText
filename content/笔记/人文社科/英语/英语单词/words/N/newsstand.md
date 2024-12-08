@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  报摊；售报处
-# 例句
+##### 例句
 - Her allure could also be clearly seen on the newsstand .
 	- 她的魅力还“伸向”了书报摊。
 - Now , we need a newsstand CIRC analysis done immediately .

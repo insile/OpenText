@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prəˌlɪfəˈreɪʃn/； 美：/prəˌlɪfəˈreɪʃn/
 - #词性/n  增殖；激增；涌现；大量的事物
-# 例句
+##### 例句
 - The quick proliferation of information resource brings new challenge to information retrieval .
 	- 信息资源的激增给信息检索提出新的挑战。
 - Nor is the proliferation of regional trade agreements an entirely good thing .

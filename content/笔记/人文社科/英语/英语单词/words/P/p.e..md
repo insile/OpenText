@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/abbr  体育；专业工程师
-# 例句
+##### 例句
 - So why does Kelly love P.E. class .
 	- 凯莉为什么喜欢体育课。
 - Kelly 's favorite subject is P.E. But she had a hard time in P.E. class .

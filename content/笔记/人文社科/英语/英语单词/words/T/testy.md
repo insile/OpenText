@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtesti/； 美：/ˈtesti/
 - #词性/adj  暴躁的；易怒的
-# 例句
+##### 例句
 - A doctor was called in to see a rather testy aristocrat .
 	- 一个性格相当暴躁的贵族召来了一位医生为他检查。
 - A testy cabdriver ; a testy refusal to help .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈletʃərəs/； 美：/ˈletʃərəs/
 - #词性/adj  好色的；淫荡的
-# 例句
+##### 例句
 - Her husband was described in court as a lecherous scoundrel .
 	- 她的丈夫在法庭上被描绘成一个好色的无赖。
 - I let everyone believe he was a lecherous old man , and I got what I deserved .

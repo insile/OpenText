@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/hɪˈlærəti/； 美：/hɪˈlærəti/
 - #词性/n  欢闹；狂欢
-# 例句
+##### 例句
 - The idea caused great hilarity among the assembled crowd .
 	- 这个主意在人群中引起强烈的欢闹。
 - It seems to me that he grew more erect as the fraternal hilarity increased .

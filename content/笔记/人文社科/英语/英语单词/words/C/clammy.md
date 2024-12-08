@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈklæmi/； 美：/ˈklæmi/
 - #词性/adj  黏糊糊的；湿漉漉的
-# 例句
+##### 例句
 - Think of the clammy hands you get when you visit the dentist !
 	- 想想你去看牙医时那双黏糊糊的手！
 - My hands felt all clammy .

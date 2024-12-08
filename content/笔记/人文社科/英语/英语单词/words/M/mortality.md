@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/mɔːˈtæləti/； 美：/mɔːrˈtæləti/
 - #词性/n  死亡率；死亡；死亡数量；生命的有限
-# 例句
+##### 例句
 - These are weird fantasies & we use them merely to bring out the mental side of the question concerning mortality and the individual good .
 	- 这一系列的幻景只是想让大家看到，在度量生命的有限之于个人利益时，我们不得不面对精神意识层次的考虑。
 - Infant mortality is a reliable barometer of socio-economic conditions .

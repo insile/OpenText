@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'æktɪvli/； 美：/'æktɪvli/
 - #词性/adv  积极地；主动地；活跃地
-# 例句
+##### 例句
 - Despite his illness , he remained actively engaged in translating documents .
 	- 虽然生病了，他还是积极地参与文件的翻译。
 - Are you actively preserving the present , or selectively forgetting the past , or boldly creating the future ?

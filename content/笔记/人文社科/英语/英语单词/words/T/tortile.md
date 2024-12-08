@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  扭转的，扭曲的；弯曲的
-# 例句
+##### 例句
 - Mechanical mould of tortile close framework analysis
 	- 封闭框架扭转力学模型分析
 - Then , recommend various kinds of suspensions used commonly and parameters of them , and design dual longitudinal arm with tortile spring suspension , steering system and rear longitudinal arm suspension model at the same time .

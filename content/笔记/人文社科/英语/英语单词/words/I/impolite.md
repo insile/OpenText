@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪmpəˈlaɪt/； 美：/ˌɪmpəˈlaɪt/
 - #词性/adj  不礼貌的；粗鲁的
-# 例句
+##### 例句
 - Some people think it is impolite to ask someone 's age .
 	- 有些人认为询问别人的年龄是不礼貌的。
 - It is impolite to ask too many questions .

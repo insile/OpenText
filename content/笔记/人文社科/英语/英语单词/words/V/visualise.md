@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  使可视化；观察；直观显示
-# 例句
+##### 例句
 - Let us try to visualise it .
 	- 让我们来揣想一下这种情况。
 - No great effort of imagination is required to visualise machines that unload casks of beer or stack supermarket shelves .

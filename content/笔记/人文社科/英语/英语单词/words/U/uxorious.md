@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  对妻子过分宠爱的；怕老婆的；优柔寡断的
-# 例句
+##### 例句
 - Uxorious people can not smoke , can not drink , not pleasure , a day early to go home from work after the report .
 	- 怕老婆的人不能抽烟、不能喝酒、不能寻欢作乐，每天下班之后早早回家报到。
 - His friends laughed at him because he was so uxorious and submissive to his wife 's desires .

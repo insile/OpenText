@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈspektɪv/； 美：/rɪˈspektɪv/
 - #词性/adj  分别的；各自的
-# 例句
+##### 例句
 - Other trademarks belong to their respective corporations .
 	- 其他的商标属于他们的分别的社团法人。
 - The tree view shows the host and all of its available IBM Tivoli Monitoring agents , and their respective counter groups and counters .

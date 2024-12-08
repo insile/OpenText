@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈflɔːləs/； 美：/ˈflɔːləs/
 - #词性/adj  完美的；无瑕的；完美无瑕的
-# 例句
+##### 例句
 - When he failed to take the flawless shot , he tried to kill himself by taking an overdose but was saved by his mother .
 	- 当他怎么也无法拍到完美无瑕的自拍照后，他试图服用过量药自杀，但被自己的母亲救下。
 - Whatever Sophie may be up to , Ms. Stone is the real thing , a comedienne of classically flawless delicacy .

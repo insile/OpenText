@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  动力学的；动力（学）的，有力量的
-# 例句
+##### 例句
 - This fascinating logic arcade perfectly combines a principle classical Bingo and a dynamical gameplay with destruction of multi-coloured balls .
 	- 这迷人的逻辑商场古典完美结合的原则，并与宾果多彩球毁灭动力的游戏。
 - On the basis of this , the thesis has structured the dynamical system of the enterprise developing , expounded the fact to the main composition key element in the system especially and set up the interreaction model of enterprise development and developed motive force with the enterprise ;

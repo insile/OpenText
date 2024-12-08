@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnkəˈmɪtɪd/； 美：/ˌʌnkəˈmɪtɪd/
 - #词性/adj  未承诺的；未表态的；未作承诺的
-# 例句
+##### 例句
 - The allegiance of uncommitted voters will be crucial
 	- 未表态的选民支持谁将是至关重要的。
 - The party needs to canvass the uncommitted voters .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsteɪdʒkrɑːft/； 美：/ˈsteɪdʒkræft/
 - #词性/n  舞台表演技巧；剧场表演艺术
-# 例句
+##### 例句
 - It was , instead , an example of Chinese stagecraft .
 	- 这次对话是中国式做戏的一个典范。
 - Nowadays , at the peak time of film development , we make stagecraft and film as one .

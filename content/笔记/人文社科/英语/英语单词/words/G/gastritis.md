@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɡæˈstraɪtɪs/； 美：/ɡæˈstraɪtɪs/
 - #词性/n  胃炎
-# 例句
+##### 例句
 - Gastritis may cause symptoms resembling those of peptic ulcer .
 	- 胃炎可引起类似消化性溃疡的症状。
 - The relationship of atrophic gastritis to cancer has been debated .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪntɪˈlɛktjʊəli/； 美：/ˌɪntəˈlɛktʃuəli/
 - #词性/adv  智力上；知性上；理智地
-# 例句
+##### 例句
 - He preferred the company of those who were intellectually inferior to himself .
 	- 他喜欢与那些智力水平不如他的人共处。
 - I felt intellectually superior despite — shock horror — my lack of qualifications .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnjuːmɪnəs/； 美：/ˈnuːmɪnəs/
 - #词性/adj  神圣的；超自然的；精神上的
-# 例句
+##### 例句
 - Even dogs and wolves , to judge at least by their nocturnal howlings , seem to feel in some dim bestial fashion a kind of numinous emotion about the full moon .
 	- 甚至狗和狼，至少通过他们夜晚的嚎叫来判断，在月圆之夜它们似乎也会沉浸在一种超自然的情感中。
 - Once formulated ; a theology evokes in its turn numinous feelings .

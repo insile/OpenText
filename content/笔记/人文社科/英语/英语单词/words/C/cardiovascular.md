@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkɑːdiəʊˈvæskjələ(r)/； 美：/ˌkɑːrdioʊˈvæskjələr/
 - #词性/adj  心血管的
-# 例句
+##### 例句
 - Such patients are more prone to perioperative ischaemia , arrhythmias , and cardiovascular lability .
 	- 这些患者更容易发生围手术期心肌的局部缺血、心律失常和心血管的不稳定
 - Study on laser occupational harm : effect of laser on cardiovascular system

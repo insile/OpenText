@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈrʌnɒf/； 美：/ˈrʌˌnɔf/
 - #词性/n  (胜负难分时的)加赛，决胜赛;(得票相近时的)决胜投票，决胜选举
-# 例句
+##### 例句
 - Neither candidate won a clear majority , forcing a runoff .
 	- 没有一个候选人获得绝对多数。因此必须进行决胜选举。
 - If these results are confirmed later today there will be no need for a runoff vote next month .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbʌksəm/； 美：/ˈbʌksəm/
 - #词性/adj  丰满的；丰盈的；乳房丰满的
-# 例句
+##### 例句
 - Melissa was a tall , buxom blonde .
 	- 梅利莎是个丰满的高个子金发美女。
 - Miss Sophy was a fresh , good-humoured , buxom girl of twenty .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈniːɒn/； 美：/ˈniːɑːn/
 - #词性/n  氖；霓虹的；氖气
-# 例句
+##### 例句
 - High order harmonic generation in neon in static gas target
 	- 静态气体靶室中氖的高次谐波辐射
 - The experimental implementation of this method in Neon atom is given .

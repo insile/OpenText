@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈmjuːtəbl/； 美：/ɪˈmjuːtəbl/
 - #词性/adj  不变的；不可改变的
-# 例句
+##### 例句
 - They free our minds from considering our world as fixed and immutable .
 	- 它们改变着人们将世界看作是永恒不变的观点。
 - We should design the language so that the default case is an immutable value .

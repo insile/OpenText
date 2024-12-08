@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  住房所有权；私房屋主；自己拥有住房者（homeowner 的变形）
-# 例句
+##### 例句
 - Something like homeownership is much more difficult to see ,
 	- 像房屋所有权这样的事要观察起来就困难得多，
 - Student loan debt also appears to be affecting homeownership trends .

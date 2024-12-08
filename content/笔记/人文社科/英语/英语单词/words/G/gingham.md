@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡɪŋəm/； 美：/ˈɡɪŋəm/
 - #词性/n  格子棉布
-# 例句
+##### 例句
 - Gingham fabrics always look fresh and pretty .
 	- 方格花布织物看上去总是鲜亮好看。
 - The chambermaid in our corridor wears blue checked gingham aprons .

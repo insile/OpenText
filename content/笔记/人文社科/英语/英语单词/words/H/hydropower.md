@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhaɪdrəʊˌpaʊə/； 美：/ˈhaɪdroʊˌpaʊr/
 - #词性/n  水力（发电）
-# 例句
+##### 例句
 - As the largest tributary of Jinsha river , Yalong river is abundant in hydropower resources .
 	- 雅砻江是金沙江的最大支流，水力资源十分丰富。
 - Application Technology of Computer Monitoring and Control System for Giant Hydropower Plants

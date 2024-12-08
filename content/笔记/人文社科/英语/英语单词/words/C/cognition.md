@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kɒɡˈnɪʃn/； 美：/kɑːɡˈnɪʃn/
 - #词性/n  认知；认识；感知
-# 例句
+##### 例句
 - Such attitudes are valueless unless they reflect inner cognition and certainty .
 	- 这种态度如果不能反映内心的认知和把握就毫无价值。
 - This description of roller-skating illustrates the three components of an attitude : affect , cognition , and behavior .

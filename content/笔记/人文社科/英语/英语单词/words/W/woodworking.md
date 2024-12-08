@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwʊdwɜːkɪŋ/； 美：/ˈwʊˌdwɜrkɪŋ/
 - #词性/n  （细）木工
 - #词性/adj  木工的；造木制品的
-# 例句
+##### 例句
 - Noise from Cutting Mechanism of Woodworking Machine and Its New Control Technology
 	- 木工机床切削机构产生噪声的原因及刀具降低噪声新技术
 - Quality Analysis of Woodworking Machine Tool Made in China

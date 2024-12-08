@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɪsaɪl/； 美：/ˈfɪsl/
 - #词性/adj  可裂变的
-# 例句
+##### 例句
 - The process can yield both nuclear fuel and fissile material for weapons .
 	- 铀浓缩过程既可产生核燃料，也可生成用于核武的裂变材料。
 - Physical concept on the nuclear reactor with constellation type fissile fuels

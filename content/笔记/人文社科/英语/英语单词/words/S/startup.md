@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈstɑːtʌp/； 美：/ˈstɑrˌtʌp/
 - #词性/n  启动；新兴公司（尤指新兴网络公司）
-# 例句
+##### 例句
 - Research on New Method for Startup System of CFB Boiler
 	- 循环流化床电站采用新型节油启动方案的研究
 - Add the following system property to the startup of one of your applications

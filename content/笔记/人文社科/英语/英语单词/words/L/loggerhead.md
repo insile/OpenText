@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  红海龟；赤蠵龟；蠵龟
-# 例句
+##### 例句
 - For starters , the races took place in water instead of on land , so giant sea turtles were used , typically loggerhead turtles .
 	- 首先，这里的比赛场地在水中而非陆地，所以用巨型海龟参赛，通常是赤蠵龟。
 - Feeding behavior : Loggerhead turtle takes swallow ingestion for food intake .

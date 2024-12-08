@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌluːbrɪˈkeɪʃn/； 美：/ˌluːbrɪˈkeɪʃn/
 - #词性/n  润滑；润滑作用
-# 例句
+##### 例句
 - The Design of Computer Integrated Control System in the Lubrication oil Production Process
 	- 润滑油生产过程中的计算机集成控制系统设计
 - New Design of Overseas Turbine 's Security and Lubrication Oil System

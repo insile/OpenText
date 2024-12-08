@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpensɪv/； 美：/ˈpensɪv/
 - #词性/adj  沉思的；忧伤的；忧戚的
-# 例句
+##### 例句
 - A pensive Egyptian sits in front of the Luxor Temple .
 	- 一个沉思的埃及人坐在埃及祖马寺庙的前面。
 - A pensive lyrical piece of music ( especially for the piano ) .

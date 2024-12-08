@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpriːˈprændiəl/； 美：/ˌpriːˈprændiəl/
 - #词性/adj  餐前的；饭前的
-# 例句
+##### 例句
 - Fat Loading Test in the Obesity with Normal Preprandial Serum Triglyceride
 	- 空腹甘油三酯正常的肥胖患者脂肪餐负荷试验
 - If both preprandial and postprandial blood glucose concentrations are high , then a four-injection per day regimen should be initiated .

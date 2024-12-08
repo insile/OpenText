@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfuːlɪʃ/； 美：/ˈfuːlɪʃ/
 - #词性/adj  愚蠢的；傻的；出丑；显得尴尬；感到荒谬
-# 例句
+##### 例句
 - It would be foolish to generalize from a single example .
 	- 仅从一个事例进行归纳的做法是愚蠢的。
 - I felt foolish and a failure .

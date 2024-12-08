@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdændɪfaɪd/； 美：/ˈdændɪfaɪd/
 - #词性/adj  好打扮的；油头粉面的
-# 例句
+##### 例句
 - Freddie was much stouter , more benevolent-looking , cheerful , and far more dandified .
 	- 弗烈特显得更魁伟，更善良、更快活，尤其更像花花公子
 - He cultivates a dandified image and languid manner .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  地形；从地形上
-# 例句
+##### 例句
 - Topographically , we may consider the coastal plain to be a terrestrial analog of the continental shelf .
 	- 从地形角度讲我们可以把沿岸平原看成是大陆架在陆上的类似构造。
 - Topographically , the Sichuan Basin comes to an end here and on the other side of the mountain is the Qinghai-Tibet Plateau , which extends westward .

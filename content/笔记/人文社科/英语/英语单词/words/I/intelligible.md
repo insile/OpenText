@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈtelɪdʒəbl/； 美：/ɪnˈtelɪdʒəbl/
 - #词性/adj  易懂的；容易理解的
-# 例句
+##### 例句
 - He gave us an intelligible explanation .
 	- 他给我们一个明白易懂的解释。
 - The arguments of contemporary science are so abstract that they are no longer intelligible .

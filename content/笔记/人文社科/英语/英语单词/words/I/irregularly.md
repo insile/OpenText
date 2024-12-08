@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈrɛgjʊləli/； 美：/ɪˈrɛgjələrli/
 - #词性/adv  不规则的；不规则地；不整齐地
-# 例句
+##### 例句
 - In English \\ " to have \\ " conjugates irregularly .
 	- 英语中“tohave”变化不规则
 - Rummage sale is an informal , irregularly scheduled event for the sale of used goods by private individuals , in which sellers are not required to obtain business licenses3 or collect sales tax ( though , in some jurisdictions4 , a permit may be required ) .

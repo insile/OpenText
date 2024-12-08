@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌekspɜːˈtiːz/； 美：/ˌekspɜːrˈtiːz/
 - #词性/n  专门知识；专业知识；专长；专门技能
-# 例句
+##### 例句
 - We need to tap the expertise of the people we already have .
 	- 我们需要利用我们现有人员的专业知识。
 - Haig was immediately impressed by Charteris 's expertise and by his lucid explanation of the work .

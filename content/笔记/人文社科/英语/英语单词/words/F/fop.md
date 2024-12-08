@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fɒp/； 美：/fɑːp/
 - #词性/n  花花公子；纨绔子弟
-# 例句
+##### 例句
 - A young fop minced up to George and introduced himself .
 	- 一个花花公子扭扭捏捏地走到乔治面前并作了自我介绍
 - Assembly plan for fop drive unit based on simulated annealing algorithm

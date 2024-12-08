@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpænəˈræmɪk/； 美：/ˌpænəˈræmɪk/
 - #词性/adj  全景的；远景的
-# 例句
+##### 例句
 - The platform , which cost 26 million Yuan to build , offers panoramic views of the Hunan province .
 	- 此外，该桥建筑成本达到了2600万人民币，给游客提供了一个观览湖南省全景的机会。
 - Followed by nature attractions , panoramic viewpoints and gastronomy .

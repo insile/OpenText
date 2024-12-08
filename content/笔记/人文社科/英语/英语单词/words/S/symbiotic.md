@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsɪmbaɪˈɒtɪk/； 美：/ˌsɪmbaɪˈɑːtɪk/
 - #词性/adj  共生的；互惠互利的
-# 例句
+##### 例句
 - Racing has always had a symbiotic relationship with betting .
 	- 赛马总是与赌博相挂钩。
 - It is a symbiotic relationship .

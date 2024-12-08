@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈʌndəweə(r)/； 美：/ˈʌndərwer/
 - #词性/n  内衣；衬衣
-# 例句
+##### 例句
 - She packed one change of underwear .
 	- 她打行李时带了一套换洗的内衣。
 - She stripped down to her underwear .

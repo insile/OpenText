@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌhɪpəˈkrɪtɪkl/； 美：/ˌhɪpəˈkrɪtɪkl/
 - #词性/adj  虚伪的；伪善的
-# 例句
+##### 例句
 - I would just like to say that this is the most hypocritical thing I have ever heard in my life
 	- 我只想说这是我这辈子听说过的最虚伪的事情。
 - Britain 's laws on homosexuality are hypocritical humbug .

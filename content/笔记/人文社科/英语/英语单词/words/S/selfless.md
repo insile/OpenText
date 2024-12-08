@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈselfləs/； 美：/ˈselfləs/
 - #词性/adj  无私的
-# 例句
+##### 例句
 - Perhaps the only all-enduring and selfless love was that of a mother for her child .
 	- 或许唯一持久无私的爱就是母爱。
 - His selfless spirit is revealed in every thing he does .

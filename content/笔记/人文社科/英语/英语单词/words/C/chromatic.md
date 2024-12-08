@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/krəˈmætɪk/； 美：/krəˈmætɪk/
 - #词性/adj  半音(阶)的
-# 例句
+##### 例句
 - In lampblack many kitchens easy to present the chromatic aberration .
 	- 油烟较多的厨房中易出现色差。
 - Numerical method for analysis of chromatic dispersion characteristics of dielectric film filter

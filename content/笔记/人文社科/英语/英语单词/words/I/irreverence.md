@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  不敬；无礼；无所顾忌
-# 例句
+##### 例句
 - Mark Twain said irreverence is the champion of liberty , if not its only defender .
 	- 马克·吐温说过，不敬若不是自由唯一的捍卫者，也会是它的拥护者。
 - True irreverence is disrespect for another man 's god .

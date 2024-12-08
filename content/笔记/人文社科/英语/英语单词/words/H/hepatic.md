@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/hɪˈpætɪk/； 美：/hɪˈpætɪk/
 - #词性/adj  肝的
-# 例句
+##### 例句
 - Alteration of hepatic tissue from lithium treated diabetic model of Chinese hamster
 	- 锂处理中国地鼠糖尿病模型肝的变化
 - The Characteristics of Hepatic Stem Cells and the Expression of Growth Factor and Their Receptors in the Early Embryonic Human Liver

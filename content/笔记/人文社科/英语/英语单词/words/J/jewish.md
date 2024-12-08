@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdʒuːɪʃ/； 美：/ˈdʒuːɪʃ/
 - #词性/adj  犹太人的，有关犹太人的，具有犹太人特点的；犹太教的；意第绪语的
 - #词性/n  〈口〉意第绪语
-# 例句
+##### 例句
 - The Jewish feast of Passover began last night
 	- 犹太人的宗教节日逾越节昨晚开始了。
 - Tomorrow night at sundown , the Jewish holiday of Passover begins

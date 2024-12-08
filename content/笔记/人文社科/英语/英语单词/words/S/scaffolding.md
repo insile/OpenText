@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈskæfəldɪŋ/； 美：/ˈskæfəldɪŋ/
 - #词性/n  脚手架(组)；鹰架
-# 例句
+##### 例句
 - The scaffolding came tumbling down .
 	- 脚手架突然倒塌。
 - The men scaled a wall and climbed down scaffolding on the other side .

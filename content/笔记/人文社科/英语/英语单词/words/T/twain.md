@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/tweɪn/； 美：/tweɪn/
 - #词性/num  二
 - #词性/n  两
-# 例句
+##### 例句
 - And whosoever shall compel thee to go a mile , go with him twain .
 	- 有人强逼你走一里路，你就同他走二里。
 - Mark Twain is a conspicuous example .

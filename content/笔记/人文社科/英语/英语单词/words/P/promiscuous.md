@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prəˈmɪskjuəs/； 美：/prəˈmɪskjuəs/
 - #词性/adj  淫乱的，滥交的；大杂烩的，杂乱的，混杂的；<口>随便的，不规则的；无区别的，滥施的
-# 例句
+##### 例句
 - Number two , there 's power in promiscuous thinking .
 	- 第二，胡思乱想的力量
 - Design and Implementation of Net-flow Charging System Based on Promiscuous Model

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  相反地；面对面；反向地；背对背
-# 例句
+##### 例句
 - The two oppositely charged molecules stick together through charge attraction ,
 	- 这两种带有不同电荷的分子相互吸引，
 - Special Properties of Oppositely Charged Polymer \/ Surfactant Composite Films on the Air \/ Water Interface

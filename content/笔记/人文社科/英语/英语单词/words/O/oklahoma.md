@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌəʊkləˈhəʊmə/； 美：/ˌoʊkləˈhoʊmə/
 - #词性/n  俄克拉荷马州；内抱腿侧面骑
-# 例句
+##### 例句
 - He wrote a brilliant saga of the rise and collapse of a bank in Oklahoma .
 	- 他写了一篇关于俄克拉荷马州一家地方银行兴衰的精彩传奇故事。
 - Several school in Oklahoma made the some move earlier this year , and some them told CBS News Reports that more teachers wanted to teach there after the change .

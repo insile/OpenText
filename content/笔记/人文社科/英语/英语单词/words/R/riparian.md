@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/raɪˈpeəriən/； 美：/raɪˈperiən/
 - #词性/adj  河边的；堤岸(上)的；生长(或栖息)在河边湿地的；堤岸近处的
 - #词性/n  河岸土地所有人
-# 例句
+##### 例句
 - Study on Nitrogen Fertilizer Application Economic Effect in Rice Field of Riparian Area
 	- 沿江稻田氮肥施用经济效益的研究
 - The research of Riparian Zone social function evaluation .

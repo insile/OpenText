@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəˈnaɪvəns/； 美：/kəˈnaɪvəns/
 - #词性/n  纵容；默许；共谋
-# 例句
+##### 例句
 - The crime was committed with the connivance of a police officer .
 	- 这项罪行是在警察的纵容下发生的。
 - They could not have escaped without the connivance of the guards .

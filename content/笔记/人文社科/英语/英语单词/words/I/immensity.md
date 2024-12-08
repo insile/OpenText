@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈmensəti/； 美：/ɪˈmensəti/
 - #词性/n  巨大；广大；浩瀚
-# 例句
+##### 例句
 - the immensity of the universe
 	- 宇宙的浩瀚无垠
 - In the face of the immensity of information , people are eager to acquire information needed rapidly and efficiently .

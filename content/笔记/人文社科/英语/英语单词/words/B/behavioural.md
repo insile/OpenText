@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  行为的；行为研究的
-# 例句
+##### 例句
 - This behavioural change has forced content providers to adapt quickly .
 	- 这种阅读行为的改变，已迫使内容提供商迅速加以适应。
 - There is a behavioural change to overcome , Mr Lynch said .

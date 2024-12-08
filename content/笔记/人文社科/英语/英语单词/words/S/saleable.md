@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈseɪləbl/； 美：/ˈseɪləbl/
 - #词性/adj  畅销的；适销的；有销路的
-# 例句
+##### 例句
 - The design of saleable garments . Producing these garments in bulk .
 	- 设计有销路的服装。大批量生产这些服装。
 - Factors affecting determination of total moisture in saleable coal and solutions

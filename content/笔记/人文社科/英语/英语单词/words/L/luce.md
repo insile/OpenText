@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/luːs/； 美：/lus/
 - #词性/n  露西；白斑狗鱼（一种成鱼）
-# 例句
+##### 例句
 - Luce and her boyfriend cuddled on the sofa .
 	- 露丝和她的男朋友在沙发上搂搂抱抱。
 - Luce is the household media tycoon ; he has important influence to American foreign policy .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsɜːkjəˈleɪtəri/； 美：/ˈsɜːrkjələtɔːri/
 - #词性/adj  血液循环的
-# 例句
+##### 例句
 - Study on the development model of coal circulatory economy industry chain
 	- 我国煤炭循环经济产业链发展模式研究
 - Circulatory Economy : An Important Solution to Sustainable Development of Economy

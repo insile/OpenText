@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  先知；占卜师；占卜者
-# 例句
+##### 例句
 - Why not get a diviner to expound my dream ?
 	- 为什么不去叫一个占卜者来解释我的梦呢？
 - Since the shell or bone would crack irregularly under heat , the diviner could supposedly interpret these cracks as good or bad omen .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  明显地；可察觉地；相当地
-# 例句
+##### 例句
 - The risk of infection is appreciably higher among children .
 	- 儿童受到感染的危险性要高得多。
 - Since the glass is in compression , it cannot extend appreciably beyond the ends of the eyelet .

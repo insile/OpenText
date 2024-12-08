@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdɪsrɪˈpjuːt/； 美：/ˌdɪsrɪˈpjuːt/
 - #词性/n  丧失名誉；坏名声
-# 例句
+##### 例句
 - Tending to bring discredit or disrepute ; blameworthy .
 	- 带来耻辱和坏名声；应受谴责的。
 - The players ' behaviour on the field is likely to bring the game into disrepute .

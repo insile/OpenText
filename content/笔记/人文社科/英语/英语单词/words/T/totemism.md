@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  图腾崇拜；图腾信仰；图腾制度
-# 例句
+##### 例句
 - In theory , Dai didn 't have the suitable condition to form the lion totemism .
 	- 从理论上说，傣族没有形成狮图腾崇拜的条件；
 - As a result of these phenomena existence , Uyghur totemism has positive effect in Uyghur social life .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pəˈdaɪətri/； 美：/pəˈdaɪətri/
 - #词性/n  足医术，足病学(比 chiropody 一词更现代的用语)
-# 例句
+##### 例句
 - Podiatry Today warns that purchasing the wrong shoe can result in injury .
 	- 《今日足部医疗》提醒大家，买了不合适的鞋会导致足部的受伤。
 - They come from the fields of biomechanics , sports podiatry , and physical therapy .

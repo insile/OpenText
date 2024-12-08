@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vt  代表；象征
-# 例句
+##### 例句
 - In recent years , Tupperware has seemed to epitomise the American dream .
 	- 近年来，特百惠（tupperware）似乎已经成了美国梦的缩影。
 - For the idea of using the internet to match borrowers who needed cash with lenders seemed to epitomise the sharing economy .

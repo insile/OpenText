@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/bɪˈfɔːhænd/； 美：/bɪˈfɔːrhænd/
 - #词性/adv  预先，事先；提前，超前
 - #词性/adj  预先准备好的；提前的，赶在前面的
-# 例句
+##### 例句
 - I wish we 'd known about it beforehand .
 	- 要是我们预先知道这事就好了。
 - If you have completed most of the homework beforehand , you 'll enjoy the evening more .

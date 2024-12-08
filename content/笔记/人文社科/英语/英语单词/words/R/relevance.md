@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈreləvəns/； 美：/ˈreləvəns/
 - #词性/n  相关性；关联；意义；重要性
-# 例句
+##### 例句
 - They are rough order of decreasing relevance .
 	- 它们仅是以关联性渐减的粗略次序排列。
 - Application of Relevance Theory to the Practice of Literary Translation

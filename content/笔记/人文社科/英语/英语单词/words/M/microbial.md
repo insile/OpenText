@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/maɪˈkrəʊbɪəl/； 美：/maɪˈkroʊbiəl/
 - #词性/adj  微生物的；微生物的，细菌的
-# 例句
+##### 例句
 - TN removal mainly depend on microbial nitrification and denitrification to remove part of the nitrogen and lower temperatures lead to less microbial activity , and the lack of denitrification process , resulting in TN removal capacity will be restricted .
 	- TN的去除主要依靠微生物的硝化和反硝化作用去除部分氮，温度较低导致微生物活性较差，以及缺少反硝化过程，致使TN脱除能力受到制约。
 - Cheese production in the process of microbial control and sterilization technology

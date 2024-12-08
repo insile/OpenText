@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈwaɪl/； 美：/əˈwaɪl/
 - #词性/adv  一会儿；片刻
-# 例句
+##### 例句
 - We rested awhile at the side of the road .
 	- 我们在路边休息了片刻。
 - Come yourselves apart and rest awhile

@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈzɪliəns/； 美：/rɪˈzɪliəns/
 - #词性/n  弹力；恢复力；适应力；还原能力；快速恢复的能力
-# 例句
+##### 例句
 - The resilience model is also been suggested .
 	- 建议了恢复力模型。
 - An Important Index in Aircraft Design ── Combat Resilience

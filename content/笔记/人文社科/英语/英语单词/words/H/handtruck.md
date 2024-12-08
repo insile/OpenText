@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  手推车；货仓车；手推运货车
-# 例句
+##### 例句
 - Does the worker still deliver goods with the handtruck ?
 	- 那个工人仍然用手推车送货吗？
 - A lady comes round the office with a tea handtruck in the afternoon .

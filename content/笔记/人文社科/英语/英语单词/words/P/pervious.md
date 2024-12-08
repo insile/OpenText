@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'pɜːvɪəs/； 美：/'pɜːvɪəs/
 - #词性/adj  透水的；可渗透的；(光等)能透过的；能通过的；能了解的
-# 例句
+##### 例句
 - Like any other professional training we build on pervious knowledge .
 	- 就像其他专业训练一样，我们都要有先前的知识作为底子。
 - Impact of formation way and sand ratio to the pervious concrete performance

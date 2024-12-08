@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəmˈpæʃn/； 美：/kəmˈpæʃn/
 - #词性/n  同情；怜悯
-# 例句
+##### 例句
 - I feel more compassion and less anger than I used to .
 	- 我觉得自己比过去多了些同情，少了些怒气。
 - I was prepared to be magnanimous , prepared to feel compassion for him

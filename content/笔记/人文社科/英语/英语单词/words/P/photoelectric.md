@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌfəʊtəʊɪˈlektrɪk/； 美：/ˌfoʊtoʊɪˈlektrɪk/
 - #词性/adj  光电的
-# 例句
+##### 例句
 - However , the photoelectric conversion efficiency of solar energy is generally low .
 	- 但目前太阳能的光电的转换效率普遍较低。
 - The procedure to obtain the precise sum from the mechanical , photoelectric , electromagnetic or electronic input or probing devices .

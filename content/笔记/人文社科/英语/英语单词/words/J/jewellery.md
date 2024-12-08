@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdʒuːəlri/； 美：/ˈdʒuːəlri/
 - #词性/n  珠宝；首饰
-# 例句
+##### 例句
 - Thieves stole jewellery worth over £ 10 000 .
 	- 窃贼偷走了价值1万多英镑的珠宝。
 - The insurance company paid out for the stolen jewellery and silver

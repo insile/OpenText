@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈʌpbrɪŋɪŋ/； 美：/ˈʌpbrɪŋɪŋ/
 - #词性/n  教养；养育；培养；抚育
-# 例句
+##### 例句
 - Forth , to adopt suitable upbringing measures for promoting plantations renew .
 	- 对于更新差的人工林，应进行适当的人工抚育措施；
 - Fathers and mothers should share the upbringing of small babies .

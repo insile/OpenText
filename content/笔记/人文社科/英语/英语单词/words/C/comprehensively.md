@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkɒmprɪˈhensɪvli/； 美：/ˌkɑːmprɪˈhensɪvli/
 - #词性/adv  彻底地；完全地
-# 例句
+##### 例句
 - They were comprehensively beaten in the final .
 	- 他们在决赛中一败涂地。
 - England were comprehensively beaten by South Africa .

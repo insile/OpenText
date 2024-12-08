@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhɑːtfelt/； 美：/ˈhɑːrtfelt/
 - #词性/adj  衷心的；真诚的
-# 例句
+##### 例句
 - Therefore , we published all their kind contributions to show our heartfelt thanks .
 	- 我们在这里集中刊出，并对各位专家表示衷心的感谢。
 - Please accept my heartfelt greetings for a very happy marriage .

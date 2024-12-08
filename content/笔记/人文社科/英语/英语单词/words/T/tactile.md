@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtæktaɪl/； 美：/ˈtæktl/
 - #词性/adj  触觉的；有触觉的；能触知的
-# 例句
+##### 例句
 - That kind of tactile feedback might seem like a minor feature .
 	- 这种有触觉的反馈还是次要特性。
 - I live in the realm of the tactile which could be the last stronghold of the analog world .

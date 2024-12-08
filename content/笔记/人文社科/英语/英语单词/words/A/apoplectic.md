@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌæpəˈplektɪk/； 美：/ˌæpəˈplektɪk/
 - #词性/adj  中风的；大怒的
 - #词性/n  中风病人，易中风的人
-# 例句
+##### 例句
 - Due to the apoplectic damage , it is the degenerative consequence after thoroughly developed the intelligence .
 	- 是在智能获得充分发展后，由于中风的损害造成退化的结果。
 - " My dear bertha ," said miss ley ," the doctor will have an apoplectic fit if you say such things . "

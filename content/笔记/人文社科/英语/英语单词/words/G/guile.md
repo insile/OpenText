@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɡaɪl/； 美：/ɡaɪl/
 - #词性/n  狡诈；诡计；奸诈；欺诈
-# 例句
+##### 例句
 - But let it be so ! I did not burden you ; but , as some of you say , being crafty , I took you by guile .
 	- 罢了！我并没有加给你们担子，你们却有人说，我是狡猾诡诈，用诡计牢笼你们。
 - An hour later when the conversation began to lag , Gerald , with a guile that belied the wide innocence of his bright blue eyes , proposed a game .

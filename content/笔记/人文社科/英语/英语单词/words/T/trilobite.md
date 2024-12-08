@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtraɪləʊbaɪt/； 美：/ˈtraɪləbaɪt/
 - #词性/n  三叶虫(生活于几百万年前的小型海洋生物，已成化石)
-# 例句
+##### 例句
 - Two others of these trilobite fossils have been found in the same area .
 	- 在同一地区还发现了另外两块这些三叶虫化石。
 - A new genus of Middle Cambrian Trilobite from zaozhuang , Shandong

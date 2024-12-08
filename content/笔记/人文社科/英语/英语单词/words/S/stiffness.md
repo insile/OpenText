@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/stɪfnəs/； 美：/ˈstɪfnəs/
 - #词性/n  刚度；硬度；僵硬；强直
-# 例句
+##### 例句
 - The Stiffness Filter Function Based on Independent , Continuous , Mapping Method
 	- 独立、连续、映射法刚度过滤函数
 - A Method for Reducing Number of Operations of Element Stiffness Matrix

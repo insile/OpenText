@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈjʊərɪn/； 美：/ˈjʊrɪn/
 - #词性/n  尿；小便
-# 例句
+##### 例句
 - Clinical Analysis of Urine Test Results of Fever Children in Clinic
 	- 门诊发热儿童尿常规检测结果及临床分析
 - Influence of Three Kinds of Drugs on Results of Urine Dry Chemical Analysis

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkɒnstəˈneɪʃn/； 美：/ˌkɑːnstərˈneɪʃn/
 - #词性/n  惊愕；惊恐
-# 例句
+##### 例句
 - Marie looked at her daughter with consternation .
 	- 玛丽惊愕地看着女儿。
 - At the meeting , he said something that made everyone in the presence of much consternation .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdəʊpi/； 美：/ˈdoʊpi/
 - #词性/adj  迟钝的；愚笨的；昏昏沉沉的；迷迷糊糊的；呆头呆脑的；被麻醉的
-# 例句
+##### 例句
 - He 's a really dopey child .
 	- 他是个非常愚笨的孩子。
 - The medicine always made him feel dopey and unable to concentrate .

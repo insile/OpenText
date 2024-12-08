@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɑːkɪtəbl/； 美：/ˈmɑːrkɪtəbl/
 - #词性/adj  畅销的；有销路的；容易出售的
-# 例句
+##### 例句
 - This is a highly marketable product .
 	- 这是非常畅销的商品。
 - It 's an easy way to beef up your r é sum é and make yourself more marketable .

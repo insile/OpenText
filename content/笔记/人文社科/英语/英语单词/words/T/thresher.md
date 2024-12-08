@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈθrɛʃə/； 美：/ˈθrɛʃər/
 - #词性/n  脱粒机；长尾鲨；长尾鲨号
-# 例句
+##### 例句
 - Optimal design of the driving mechanism in manual rice thresher
 	- 人力脱粒机驱动机构的优化设计
 - Application the cleaning apparatus with double channel to the axis - flow thresher

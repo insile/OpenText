@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈʃʊə(r)/； 美：/ˌʌnˈʃʊr/
 - #词性/adj  犹豫；缺乏自信；无把握；不确知
-# 例句
+##### 例句
 - He was unsure of what to do next .
 	- 他对下一步该做什么犹豫不定。
 - When it comes to ending stimulus packages , policymakers appear unsure .

@@ -5,9 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'tʃɪli/； 美：/ˈtʃiliː/
-# 例句
+- #词性/n  红番椒；香辣牛肉豆子煲；（Chile）智利（国家名）
+##### 例句
 - It is a long time since he has visited his native Chile .
 	- 他很久没有回故乡智利了。
 - Chile is the world 's largest producer of copper .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  吸引人的；动人地，迷人地
-# 例句
+##### 例句
 - The room is arranged very attractively .
 	- 这个房间布置得十分宜人。
 - Dress neatly and attractively in an outfit appropriate to the job

@@ -5,9 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/tɪk ɒf/； 美：/tɪk ɔːf/
-# 例句
+- #词性/vt  列举；用记号标出；打卡景点
+##### 例句
 - then I went home , got into bed , and set my watch to tick off not the minutes , but the months .
 	- 我回到家，躺到床上，然后把手表从显示分钟改为显示月份。
 - Only tick off one part of all the mill as follows .

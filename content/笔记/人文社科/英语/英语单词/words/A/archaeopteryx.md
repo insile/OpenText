@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɑːkiˈɒpterɪks/； 美：/ˌɑːrkiˈɑːpterɪks/
 - #词性/n  始祖鸟(1.5亿年前存在)
-# 例句
+##### 例句
 - Paleontologists also debated whether Archaeopteryx could fly .
 	- 古生物学家还讨论了始祖鸟是否会飞的问题。
 - Indeed , they consider the fossil 's brain size decisive evidence that Archaeopteryx had what it took to fly .

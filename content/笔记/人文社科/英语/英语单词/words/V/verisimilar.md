@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  逼真的；似真；好像真实的
-# 例句
+##### 例句
 - Thus a contrastive analysis of the verisimilar representations and the metaphorical representations of time in the Chinese and the English languages was conducted .
 	- 从时间的似真表征和隐喻表征对比分析可以发现汉语和英语时间表征上的异同。
 - The apparatus can simulate the stable and dynamic property of marine propeller that works under different conditions , and provide verisimilar shaft load for propulsive motor .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈskeɪpɪzəm/； 美：/ɪˈskeɪpɪzəm/
 - #词性/n  逃避现实；解脱方法
-# 例句
+##### 例句
 - For the sake of the escapism , I look for love .
 	- 为了逃避现实，我寻找爱情。
 - Isn 't there room for a bit of escapism ?

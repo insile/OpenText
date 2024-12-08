@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtʃɪəfl/； 美：/ˈtʃɪrfl/
 - #词性/adj  快乐的；高兴的；兴高采烈的；令人愉快的
-# 例句
+##### 例句
 - This restaurant has a cheerful atmosphere .
 	- 这家餐厅有一种令人愉快的气氛。
 - These are thoughtful , cheerful gifts sure to please .

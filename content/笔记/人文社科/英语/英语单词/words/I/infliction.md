@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  伤害；打击
-# 例句
+##### 例句
 - Don 't immerse yourself in the infliction too long .
 	- 不要长时间沉浸在痛苦经历中。
 - Analyses of Pressure Infliction and Safety Problems in Pressure Experimentations

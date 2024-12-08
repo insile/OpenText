@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  文字，字义上；无修饰；表面意义上
-# 例句
+##### 例句
 - His rigid translation of this literary work border on literalness
 	- 他对这部文学作品的生硬翻译近乎刻板
 - The human social development history is also a figure-symbol - literalness to develop the history .

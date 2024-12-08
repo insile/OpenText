@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈklektɪsɪzəm/； 美：/ɪˈklektɪsɪzəm/
 - #词性/n  折中主义；兼收并蓄的原则(或做法)
-# 例句
+##### 例句
 - On landscape and new eclecticism for open space of residential community
 	- 住宅社区开放空间景观与新折中主义
 - The Connotation of Eclecticism Teaching Method and Its Application

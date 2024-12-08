@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈklæpə(r)/； 美：/ˈklæpər/
 - #词性/n  钟锤；铃舌；钟舌
-# 例句
+##### 例句
 - You will use the small one as the clapper for the bell .
 	- 您将使用一个小的快板的钟声。
 - Analysis on Attraction Characteristic of DC Small Clapper Type Electromagnetic Relay Based on ANSYS

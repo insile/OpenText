@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvændəlɪzəm/； 美：/ˈvændəlɪzəm/
 - #词性/n  （尤指对公共财产的）故意破坏；故意破坏公共财物罪；恣意毁坏他人财产罪
-# 例句
+##### 例句
 - Vandalism used to be a rare occurrence here .
 	- 过去这里很少发生故意破坏公物的事。
 - The deaths occurred when police acted to stop widespread looting and vandalism

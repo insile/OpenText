@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌfɪlənˈθrɒpɪk/； 美：/ˌfɪlənˈθrɑːpɪk/
 - #词性/adj  慈善的；乐善好施的
-# 例句
+##### 例句
 - We make it an affordable , accessible , family affair and proudly announce that we intend to be the most philanthropic team in town .
 	- 我们让球赛成为每家每户都能支付的、都有机会观看的家庭活动，我们自豪地宣布，我们要成为费城最致力于慈善的球队。
 - Few companies offer money purely as a philanthropic gesture & they 're usually after something in reture .

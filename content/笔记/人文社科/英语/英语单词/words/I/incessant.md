@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈsesnt/； 美：/ɪnˈsesnt/
 - #词性/adj  不停的；持续不断的
-# 例句
+##### 例句
 - This incessant rain and fog is getting me down .
 	- 不停的下雨和雾使我心情沮丧。
 - Your incessant complaining isn 't doing us any good .

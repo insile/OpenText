@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəˈlæmɪtəs/； 美：/kəˈlæmɪtəs/
 - #词性/adj  (对人命、财产等)引起灾难的，灾难性的
-# 例句
+##### 例句
 - On top of these calamitous consequences , a failure of the eurozone due to the hesitations in Berlin would place the blame for the ruin of Europe on Germany .
 	- 除了这些灾难性的后果之外，如果德国政府的犹豫导致欧元区解体，德国将成为毁掉欧洲的“罪人”。
 - Since the actual rise has been 15 per cent since December , the impact on US and EU GDP would be a reduction of 0.3 percentage points over the first year – appreciable , but not calamitous .

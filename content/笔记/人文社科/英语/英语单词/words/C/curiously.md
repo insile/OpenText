@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkjʊərɪəsli/； 美：/ˈkjʊriəsli/
 - #词性/adv  好奇地
-# 例句
+##### 例句
 - ' Are you really an artist ? ' Sara asked curiously .
 	- “你真是画家吗？”萨拉好奇地问道。
 - Liz picked up the blue envelope and turned it over curiously

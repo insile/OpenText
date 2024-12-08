@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/menˈdeɪʃəs/； 美：/menˈdeɪʃəs/
 - #词性/adj  撒谎的；虚伪的；捏造的；不真实的
-# 例句
+##### 例句
 - The mendacious beggar told a different tale of woe at every house .
 	- 撒谎的乞丐对每间房子的主人说了不同的悲伤故事。
 - She gave us a mendacious report .

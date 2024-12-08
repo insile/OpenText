@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈzelətri/； 美：/ˈzelətri/
 - #词性/n  狂热；狂热分子的态度(或行为)
-# 例句
+##### 例句
 - That zealotry first revealed itself when he was a teenager .
 	- 这种狂热在他十几岁时便开始显露。
 - But I would want to deny even the lesser charge of purely verbal zealotry .

@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dʒaɪˈɡæntɪk/； 美：/dʒaɪˈɡæntɪk/
 - #词性/adj  巨大的；庞大的
-# 例句
+##### 例句
 - The global climate is a gigantic system cycling water and energy .
 	- 全球气象是一个巨大的水和能量循环系统。
 - In teaching , the role of inverse example is gigantic .

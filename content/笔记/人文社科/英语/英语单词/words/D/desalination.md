@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdiːˌsælɪˈneɪʃn/； 美：/ˌdiːˌsælɪˈneɪʃn/
 - #词性/n  海水淡化；(海水的)脱盐
-# 例句
+##### 例句
 - Then desalination businesses come in .
 	- 然后海水淡化业务就诞生了。
 - Projects likely to be opposed include but are not limited to chemical plants , industrial parks , military bases , desalination plants , landfills , incinerators , power plants , prisons , nuclear waste dumps , sports stadiums , etc.

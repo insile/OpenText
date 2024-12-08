@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɜːbən/； 美：/ˈɜːrbən/
 - #词性/adj  城市的；城镇的；都市的
-# 例句
+##### 例句
 - Public order is primarily an urban problem
 	- 社会治安主要是城市的问题。
 - He explained the yellow fever epidemic as a providential act to discourage urban growth

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəmˈpleɪsnt/； 美：/kəmˈpleɪsnt/
 - #词性/adj  自满的；自鸣得意的
-# 例句
+##### 例句
 - A complacent smile , manner , tone of voice
 	- 自满的微笑、姿态、声调
 - Policymakers around the world particularly in the inordinately complacent surplus countries do not begin to understand what this may mean .

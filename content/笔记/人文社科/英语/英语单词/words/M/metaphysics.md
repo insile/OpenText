@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmetəˈfɪzɪks/； 美：/ˌmetəˈfɪzɪks/
 - #词性/n  形而上学；玄学
-# 例句
+##### 例句
 - Kant 's work on the critique of experience became ultimately indistinguishable from ontology and metaphysics .
 	- 康德关于经验的评论著作最终与本体论和形而上学混为一谈。
 - Promote materialist dialectics and oppose metaphysics and scholasticism .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkaʊədɪs/； 美：/ˈkaʊərdɪs/
 - #词性/n  懦弱；胆小；惧怕
-# 例句
+##### 例句
 - His refusal to help simply pinpointed his cowardice .
 	- 他拒绝帮助正显示他的胆小。
 - Cried defarge , reddening a little as if he felt charged with cowardice ;

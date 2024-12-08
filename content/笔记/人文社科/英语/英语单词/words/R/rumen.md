@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈruːmɪn/； 美：/ˈrumən/
 - #词性/n  瘤胃；过瘤胃；胃液
-# 例句
+##### 例句
 - A Design of Dual Flow Continuous Culture Automation System for Simulate Rumen
 	- 自动化双外流人工瘤胃模拟系统设计
 - The study on rumen bacterial number count by DNA fluorescence dye

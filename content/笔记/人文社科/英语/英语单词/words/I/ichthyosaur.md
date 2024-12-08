@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  （古生）鱼龙
-# 例句
+##### 例句
 - Given these factors , some areas have become a treasury of well-preserved ichthyosaur fossils .
 	- 当这些因素存在时，某些地区就会变成一个充满保存完好的鱼龙化石的宝库。
 - The ichthyosaur remains are found in black , bituminous marine shales deposited about 190 million years ago .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪmənənt/； 美：/ˈɪmənənt/
 - #词性/adj  内在的；固有的；无所不在的
-# 例句
+##### 例句
 - Genetic Algorithm itself has the immanent parallel mechanism , so it has the possibility of parallel compute on a large scale .
 	- 研究表明，遗传算法具有内在的并行性，正是这一点决定了它具有大规模并行求解的可能性。
 - The immanent efficacy is reflected by innovation of school management , teachers ' improvement in quality and proficiency , and students ' overall development .

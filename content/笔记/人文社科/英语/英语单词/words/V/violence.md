@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvaɪələns/； 美：/ˈvaɪələns/
 - #词性/n  暴力；暴行；狂热；激情；激烈的力量
-# 例句
+##### 例句
 - It is time to put a stop to the violence .
 	- 现在是结束这场暴力活动的时候了。
 - The violence was the result of political and ethnic conflicts .

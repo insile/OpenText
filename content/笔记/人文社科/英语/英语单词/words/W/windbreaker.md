@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  风衣；防风夹克；风衣，防风上衣
-# 例句
+##### 例句
 - This kind of windbreaker is completely different from the ever traditional windbreaker in the style , structure and technique .
 	- 新的功能性男风衣区别于旧式的风衣，它无论在款式、结构和工艺上都进行了大量的创新设计，与以往风衣涵盖范围完全不同了。
 - Her red windbreaker and long blond hair were shining like bright flags in the darkness .

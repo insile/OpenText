@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prɪˈkɔːʃənəri/； 美：/prɪˈkɔːʃəneri/
 - #词性/adj  预防的；防备的；警惕的
-# 例句
+##### 例句
 - The precautionary measures to prevent skirt from fracturing , by means of ultrasonic flaw detection technology , are discussed .
 	- 探讨了用超声波技术对运用机车柴油机钢顶铝裙活塞裙部裂损进行提前预防的措施和方法。
 - Thus the reason of accident is analyzed and the precautionary measures are bring forward .

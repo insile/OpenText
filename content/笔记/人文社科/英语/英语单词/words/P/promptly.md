@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈprɒmptli/； 美：/ˈprɑːmptli/
 - #词性/adv  立即；迅速；马上；及时地；准时地
-# 例句
+##### 例句
 - They agreed under the condition that the matter be dealt with promptly .
 	- 他们同意了，前提是要迅速处理这件事。
 - She deals with all the correspondence promptly and efficiently .

@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɪnɪməl/； 美：/ˈmɪnɪməl/
 - #词性/adj  最小的；〈语〉最小差别的，最低（强度）的；极小的，极少的；简朴的，朴实无华的；（关于）极简抽象艺术的
-# 例句
+##### 例句
 - If another component is developed later that needs to be added , the addition can be made with minimal disturbance by using folders .
 	- 如果需要添加后来开发的另一组件，使用文件夹可以在影响最小的情况下完成添加。
 - The key of optimizing quantum reversible logic lies in automatically constructing quantum reversible logic circuits with the minimal quantum cost .

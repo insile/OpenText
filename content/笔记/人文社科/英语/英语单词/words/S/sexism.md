@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈseksɪzəm/； 美：/ˈseksɪzəm/
 - #词性/n  (尤指对女性的)性别歧视，性别偏见
-# 例句
+##### 例句
 - Sexism is deeply entrenched in our society .
 	- 性别歧视在我们这个社会根深蒂固。
 - You 're always talking in isms ─ sexism , ageism , racism .

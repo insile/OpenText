@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  谦逊地；卑微地；卑贱地；谦逊地，恭顺地
-# 例句
+##### 例句
 - ' Sorry , ' she said humbly .
 	- “对不起。”她谦逊地说。
 - The cloud stood humbly in a corner of the sky .

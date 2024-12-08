@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwɪləʊi/； 美：/ˈwɪloʊi/
 - #词性/adj  婀娜多姿的；柔韧的；修长苗条的
-# 例句
+##### 例句
 - Clothes always look good on her because she 's so tall and willowy .
 	- 衣服穿在她身上总是很好看，因为她是如此地高挑苗条。
 - willowy and working . Who the hell was that guy last night ?

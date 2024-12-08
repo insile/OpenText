@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkɛmɪkəli/； 美：/ˈkɛməkli/
 - #词性/adv  化学性质的；（在）化学（性质）上；用化学方法；通过化学作用；从化学上来分析
-# 例句
+##### 例句
 - The raw sewage is chemically treated .
 	- 未经处理的污水要进行化学处理。
 - Carbon , hydrogen and oxygen combine chemically to form carbohydrates and fats

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌætməsˈferɪk/； 美：/ˌætməsˈferɪk/
 - #词性/adj  大气的；大气层的；令人激动的；使人动感情的
-# 例句
+##### 例句
 - The cycle of atmospheric water vapor in spring in North China
 	- 华北地区春季大气的水分循环
 - In this paper atmospheric pollution created by agricultural diesel engines is discussed .

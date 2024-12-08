@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈenipleɪs/； 美：/ˈenipleɪs/
 - #词性/adv  任何地方；什么地方；同 anywhere；无论何处
-# 例句
+##### 例句
 - You can go anyplace to get the car serviced .
 	- 你可以去任何地方给汽车作检修。
 - Long-distance medical treatment spread the range of wardship from hospital to anyplace the communication network could arrive .

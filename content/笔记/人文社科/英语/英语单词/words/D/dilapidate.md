@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  荒废；（使）荒废，（使部分）毁坏，浪费
-# 例句
+##### 例句
 - Second , they may indulge in it , thus dilapidate their study , which isn 't rare .
 	- 其次，他们会沉迷其中以致荒废了学习，这是不罕见。
 - And with the increase of pressure rate of compressor , the heating COP decreases sharply , and the discharge temperature increases rapidly , which can make compressor dilapidate .

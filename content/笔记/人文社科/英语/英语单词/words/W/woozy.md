@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwuːzi/； 美：/ˈwuːzi/
 - #词性/adj  眩晕的；恶心的；头昏的；要呕吐的；晕头胀脑的
-# 例句
+##### 例句
 - The fumes made them woozy .
 	- 烟熏得他们头晕。
 - Now , you 're gonna feel a little woozy .

@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈvektɪv/； 美：/ɪnˈvektɪv/
 - #词性/n  谩骂；辱骂；咒骂
 - #词性/adj  诽谤的
-# 例句
+##### 例句
 - A woman had hurled racist invective at the family
 	- 一个女人对那家人大骂有种族歧视的脏话。
 - Crowley maintained a stream of invective and abuse against Waite .

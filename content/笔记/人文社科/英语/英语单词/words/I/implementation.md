@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪmplɪmɛnˈteɪʃən/； 美：/ˌɪmpləmɛnˈteɪʃən/
 - #词性/n  实施；执行；完成；贯彻；工具；生效；仪器
-# 例句
+##### 例句
 - To study and put forward regulations and rules for anti-smuggling information and organize implementation accordingly .
 	- 研究提出缉私情报工作规章制度并组织实施。
 - America , despite the implementation of the Affordable Care Act , is the exception .

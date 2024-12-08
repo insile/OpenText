@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  族长的；家长的,族长的；家长的
-# 例句
+##### 例句
 - With sex as her theme , the author expresses her resistance against patriarchic society .
 	- 以性为主题，作品表达了对父权社会的反抗。
 - Collapse of Temple of God & Chen Ran 's interpretation to the patriarchic myth

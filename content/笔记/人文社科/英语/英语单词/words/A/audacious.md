@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɔːˈdeɪʃəs/； 美：/ɔːˈdeɪʃəs/
 - #词性/adj  大胆的；敢于冒险的
-# 例句
+##### 例句
 - An audacious mountain climber
 	- 敢于冒险的登山运动员
 - Her audacious behavior also redefines the relationship between men and women .

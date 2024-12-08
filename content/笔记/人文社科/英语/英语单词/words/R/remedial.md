@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈmiːdiəl/； 美：/rɪˈmiːdiəl/
 - #词性/adj  补救的；纠正的；(为后进学生)补习的，辅导的；旨在解决问题的
-# 例句
+##### 例句
 - Abolition and performance are the main remedial measures to the illegal degrees granting act .
 	- 撤销和履行是对违法的学位授予行为进行法律补救的两种主要措施。
 - In Risk society , because people growing demand for security , we must be passive disaster remedial practices into its advance control .

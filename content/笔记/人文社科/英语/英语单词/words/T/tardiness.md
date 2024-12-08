@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'tɑ:dɪnəs/； 美：/'tɑrdɪnəs/
 - #词性/n  缓慢；迟缓；拖拉
-# 例句
+##### 例句
 - Tardiness is considered bad form .
 	- 拖拉被认为是一种不良行为。
 - If you are assigned a tough job , could you really bear the risk brought by tardiness ?

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  合法地；正当地，合理地
-# 例句
+##### 例句
 - Literature can be legitimately used , yet it can also be misused and abused .
 	- 文学可以被社会正当地利用，但也可以被误用或者滥用。
 - We have reason to believe that only through the rational cognition and reasonably of ecological reconstruction on old industrial building , legitimately reconstructed and reused the old buildings , can give the old building a long-term life and adapt to the changing demand .

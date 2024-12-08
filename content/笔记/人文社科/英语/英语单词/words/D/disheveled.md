@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  凌乱的；凌乱的，不整洁的
-# 例句
+##### 例句
 - He arrived on January 9 , disheveled and much the worse for wear .
 	- 他是1月9号到的，蓬头垢面，疲惫不堪。
 - His hair was disheveled , and his face was unshaven and gray .

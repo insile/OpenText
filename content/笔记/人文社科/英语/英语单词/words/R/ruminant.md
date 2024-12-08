@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈruːmɪnənt/； 美：/ˈruːmɪnənt/
 - #词性/n  反刍动物
 - #词性/adj  反刍的；沉思默想的
-# 例句
+##### 例句
 - Very small hornless deer-like ruminant of tropical Asia and west Africa .
 	- 热带亚洲和非洲西部非常小的无角形似鹿的反刍动物。
 - Based on the comparison of the popular researches on the ruminant 's nutrition and feeding carried out home and broad , the present paper reviews on the results of those researches and point out the key problems in the studies .

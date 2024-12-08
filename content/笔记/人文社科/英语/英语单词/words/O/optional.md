@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɒpʃənl/； 美：/ˈɑːpʃənl/
 - #词性/adj  随意的，任选的，可选择的，非强制的；选修的
-# 例句
+##### 例句
 - Change to true in order to install an optional feature .
 	- 为了安装可选择的特性，将变更为true。
 - You may simply want to indicate that the fragment is optional .

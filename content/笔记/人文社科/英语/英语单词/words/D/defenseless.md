@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪ'fensləs/； 美：/dɪ'fensləs/
 - #词性/adj  无防备的
-# 例句
+##### 例句
 - A feeling of concern for the welfare of someone ( especially someone defenseless ) .
 	- 对某人的幸福关心的感情（尤其是无防备的某人）。
 - Weakened and defenseless , the word was quickly locked away , never to be free again .

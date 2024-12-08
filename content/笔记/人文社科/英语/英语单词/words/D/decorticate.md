@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  脱皮（壳）；剥皮；去壳
-# 例句
+##### 例句
 - The person that decorticate says : No matter play what game , put in a word 's charge finally : The person just is kingcraft more .
 	- 剥皮者说：不管玩什么游戏，最后都归成一句话：人多才是王道。
 - The person that decorticate says : This really truly , if you at ordinary times recreational time is more , so play " Chi Zha the Three Kingdoms " can bring extra income to you .

@@ -5,9 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkænɒt/； 美：/ˈkænɑːt/
-# 例句
+- #词性/v  不能（can 的否定形式）
+##### 例句
 - Please let us know if you cannot attend the meeting .
 	- 你若不能参加会议，请通知我们。
 - This kind of decision cannot ever be made in a vacuum .

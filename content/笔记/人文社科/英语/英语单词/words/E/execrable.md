@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈeksɪkrəbl/； 美：/ˈeksɪkrəbl/
 - #词性/adj  可恶的；拙劣的；糟糕的；极坏的
-# 例句
+##### 例句
 - He stood at the desk , laboring in his execrable handwriting .
 	- 他站在桌前，用他那拙劣的笔迹吃力地写着。
 - Accusing us of being disloyal to cover his own sorry behavior is truly execrable .

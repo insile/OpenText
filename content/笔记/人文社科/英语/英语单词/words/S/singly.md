@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɪŋɡli/； 美：/ˈsɪŋɡli/
 - #词性/adv  单独地；单个地；一个一个地
-# 例句
+##### 例句
 - Choosing the most appropriate of these , singly or in combination , to address empirical issues is increasingly challenging .
 	- 单独地或者结合地选择其中最适合的理论和模型，来论述经验主义的问题，越来越具有挑战性。
 - He has some notion of the insights that these ideas , singly or in combination , pro-ride concerning human experience .

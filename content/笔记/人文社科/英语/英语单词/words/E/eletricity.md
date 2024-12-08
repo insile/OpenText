@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  电
-# 例句
+##### 例句
 - Experimental Model of Ulcerative Colitis in Rat and Its Abnormality of Colonic Eletricity
 	- 溃疡性结肠炎大鼠模型及其结肠电异常
 - Conclusions : It is feasible to establish HQD animal model by using complex factors including forced running with eletricity stimulation and ig large dosage of propanolol .

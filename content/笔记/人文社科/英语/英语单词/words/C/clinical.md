@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈklɪnɪkl/； 美：/ˈklɪnɪkl/
 - #词性/adj  临床的；临床诊断的；简陋的；冷淡的；无动于衷的；无同情心的；无装饰的
-# 例句
+##### 例句
 - Study on the Clinical Application of Laser Printed Image
 	- 激光打印图像在临床的应用研究
 - The results provide basic scientific information for veterinary and medical clinical application .

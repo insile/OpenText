@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɪki/； 美：/ˈpɪki/
 - #词性/adj  挑剔的；难伺候的
-# 例句
+##### 例句
 - How different is our mean-spirited , picky insistence that every child get every last little scrap of " understanding " that can be dug out of a book .
 	- 我们刻薄、挑剔的坚持着每个孩子一定都能从书里挖出那么一丁点浅薄的“理解”，这是多么冷漠啊。
 - It also said you aren 't a very picky person , and you don 't worry about little things too much .

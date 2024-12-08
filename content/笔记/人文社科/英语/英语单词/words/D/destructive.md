@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈstrʌktɪv/； 美：/dɪˈstrʌktɪv/
 - #词性/adj  破坏(或毁灭)性的；引起破坏(或毁灭)的
-# 例句
+##### 例句
 - The war was a paradigm of the destructive side of human nature .
 	- 那场战争尽显人性中具有破坏性的一面。
 - He used his ruthless and destructive armies despoil everybody who lived within reach of his realm .

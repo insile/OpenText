@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlaɪtnəs/； 美：/ˈlaɪtnəs/
 - #词性/n  轻；明亮
-# 例句
+##### 例句
 - Its lightness , flexibility and strength would make it widely deployable .
 	- 其超轻的质量、良好的弹性和韧度会令其得到广泛应用。
 - The secret of bone 's strength and lightness lies inside .

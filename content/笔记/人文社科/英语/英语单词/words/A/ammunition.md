@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌæmjuˈnɪʃn/； 美：/ˌæmjuˈnɪʃn/
 - #词性/n  弹药；(辩论中可攻击对方的)信息，事实，炮弹
-# 例句
+##### 例句
 - Stocks of ammunition were running low .
 	- 弹药的库存正在减少。
 - They fired in long bursts , which depleted their ammunition

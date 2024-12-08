@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpæŋkriˈætɪk/； 美：/ˌpæŋkriˈætɪk/
 - #词性/adj  胰(腺)的
-# 例句
+##### 例句
 - In most pancreatic gastrinomas only subtotal or total gastrectomy could be useful in this series .
 	- 在大多数胰的胃泌素瘤，只有胃次全或全切除有助。
 - Results showed that the pancreatic lymphatics were only found in the interlobular connective tissue .

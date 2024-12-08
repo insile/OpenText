@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈpresɪv/； 美：/əˈpresɪv/
 - #词性/adj  压迫的；压制的；高压的；闷热的；令人窒息的；令人苦恼的；令人焦虑的
-# 例句
+##### 例句
 - He continued to tell about his cruel and oppressive life as a slave .
 	- 他继续讲述自己作为奴隶所遭遇的残酷压迫的生活。
 - Imagine a world in which Martin Luther King had failed to speak out against oppressive racism .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌstændədaɪˈzeɪʃən/； 美：/stændərdɪˈzeɪʃən/
 - #词性/n  标准化
-# 例句
+##### 例句
 - The two tools use slightly different annotations however and so there is a case for standardisation .
 	- 不过，这两个工具使用的注解有细微不同，也因此有了标准化的需求。
 - No single instrument can fully address the issue of standardisation of traditional medicines , however .

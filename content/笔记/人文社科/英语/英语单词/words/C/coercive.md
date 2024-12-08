@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəʊˈɜːsɪv/； 美：/koʊˈɜːrsɪv/
 - #词性/adj  强制的；胁迫的；用武力的
-# 例句
+##### 例句
 - All attempts to use administrative orders or coercive measures to settle ideological questions or questions of right and wrong are not only ineffective but harmful .
 	- 企图用行政命令的方法，用强制的方法解决思想问题，是非问题，不但没有效力，而且是有害的。
 - The government should change microcosmic management into macro-control and give guide of policies to the activities of organization instead of intervention using coercive administration control . Make the most use of the adjustment of the market so that they can develop harmoniously .

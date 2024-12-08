@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌbækəˈneɪliən/； 美：/ˌbækəˈneɪliən/
 - #词性/adj  纵酒狂欢的
-# 例句
+##### 例句
 - But the screenplay ( by Terence Winter ) is too carried away by the bacchanalian bad behaviour to concern itself with Belfort 's psyche .
 	- 但是泰伦斯·温特的剧本描写纵酒狂欢的笔墨过多，无心关注贝尔福特的心理状态。
 - The bacchanalian partying on graduation night resulted in three wrecked cars , two lawsuits by unamused parents , and more new experiences than most of the participants could remember the next day .

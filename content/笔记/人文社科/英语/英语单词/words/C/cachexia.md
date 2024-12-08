@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  恶病质；恶疾，极瘦弱，萎靡不振
-# 例句
+##### 例句
 - A Clinical Study of Cachexia and its Relationship to Tumor Necrosis Factor
 	- 癌症恶病质与肿瘤坏死因子关系的临床研究
 - Effects of traditional Chinese herbal medicine on cachexia status of cancer patients .

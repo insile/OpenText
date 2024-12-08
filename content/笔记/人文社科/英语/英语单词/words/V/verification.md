@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌvɛrɪfɪˈkeɪʃən/； 美：/ˌvɛrəfəˈkeɪʃən/
 - #词性/n  验证；检验，检查，审核；验收；查证，证实，验证，核实；鉴定；查清；核对（账目的）真实性
-# 例句
+##### 例句
 - Food Analysis and Safety Verification Course Design Guiding on Work Process
 	- 工作过程导向的食品分析与检验课程设计
 - Design verification shows the reliability of the reference data .

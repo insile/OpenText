@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  肥料
-# 例句
+##### 例句
 - Work in a balanced fertiliser before planting .
 	- 种植前加入养分均衡的肥料。
 - The fertiliser releases nutrients gradually as bacteria decompose it .

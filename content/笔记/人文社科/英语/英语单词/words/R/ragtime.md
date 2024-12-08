@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈræɡtaɪm/； 美：/ˈræɡtaɪm/
 - #词性/n  雷格泰姆音乐，散拍乐；散拍节奏；散拍舞
 - #词性/adj  <口><旧> 滑稽可笑的
-# 例句
+##### 例句
 - The most popular music back then was called ragtime .
 	- 那时最流行的音乐叫拉格泰姆音乐。
 - African-American piano player Scott Joplin wrote many ragtime songs .

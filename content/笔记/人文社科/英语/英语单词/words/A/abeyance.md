@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈbeɪəns/； 美：/əˈbeɪəns/
 - #词性/n  搁置；（土地）所有权等的未决，未定，待定
-# 例句
+##### 例句
 - The matter was left in abeyance until Haig saw French .
 	- 事情被搁置了起来，直到黑格见到法国人。
 - The law was held in abeyance for well over twenty years .

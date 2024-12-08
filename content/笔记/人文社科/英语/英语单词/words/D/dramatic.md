@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/drəˈmætɪk/； 美：/drəˈmætɪk/
 - #词性/adj  戏剧性的；戏剧的；巨大的；引人注目的；突然的；激动人心的；令人吃惊的；给人印象深刻的；有关戏剧的；戏剧学的
-# 例句
+##### 例句
 - The nation is gripped by the dramatic story .
 	- 举国上下都为那个戏剧性的故事牵动着。
 - Its dramatic nuances were often generalised to the point of opacity .

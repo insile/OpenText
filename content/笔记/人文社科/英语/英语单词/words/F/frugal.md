@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfruːɡl/； 美：/ˈfruːɡl/
 - #词性/adj  节俭的；(对金钱、食物等)节约的；简单廉价的
-# 例句
+##### 例句
 - The fact that she had become wealthy did not tempt her to alter her frugal way of life .
 	- 她有钱了，可这丝毫没能让她改变节俭的生活习惯。
 - A friend was trying to encourage his elderly mother to enjoy the money , she had accumulated through frugal living .

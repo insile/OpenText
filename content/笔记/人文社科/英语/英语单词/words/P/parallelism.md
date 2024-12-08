@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpærəlelɪzəm/； 美：/ˈpærəlelɪzəm/
 - #词性/n  相似；相似的特点
-# 例句
+##### 例句
 - I think he exaggerates the parallelism between the two cases .
 	- 我认为他夸大了两件事的相似之处。
 - Middle School Students ' Knowledge and Understanding about Mathematical Function : A Study of " Historical Parallelism "

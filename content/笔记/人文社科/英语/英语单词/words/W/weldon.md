@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  韦尔登；威尔登；韦尔顿
-# 例句
+##### 例句
 - Weldon : The way that we look at our organization is that we have three business segments we work in .
 	- 韦尔登：纵观一下我们这个组织，我们拥有三个业务部门。
 - Weldon : You know it 's interesting .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈswɔːði/； 美：/ˈswɔːrði/
 - #词性/adj  皮肤黝黑的；深肤色的
-# 例句
+##### 例句
 - He had a broad swarthy face .
 	- 他有一张黝黑的大脸。
 - Our driver strolled up , huge and swarthy .

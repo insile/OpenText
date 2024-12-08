@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpaɪrəʊˈmeɪniə/； 美：/ˌpaɪroʊˈmeɪniə/
 - #词性/n  纵火狂
-# 例句
+##### 例句
 - Let us discuss , first , five of the most common manias : kleptomania , pyromania , dipsomania , megalomania , and monomania .
 	- 首先让我们讨论五种最常见的狂热症：盗窃狂症，纵火狂症，耽酒狂症，妄想自大狂症，偏执狂症。
 - Objective To analyse the characteristics of pyromania with mental disorder and relative factors .

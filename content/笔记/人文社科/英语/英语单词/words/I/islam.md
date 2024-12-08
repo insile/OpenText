@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪzlɑːm/； 美：/ˈɪzlɑːm/
 - #词性/n  伊斯兰教；(统称)伊斯兰教徒，伊斯兰教国家
-# 例句
+##### 例句
 - He converted from Christianity to Islam .
 	- 他由基督教改信伊斯兰教。
 - " Hesiod offers an idea — which you very often find in some of the world 's great religions , in the Judeo-Christian tradition and in Islam and others — that in some sense , when you hurt another human being , you hurt yourself . "

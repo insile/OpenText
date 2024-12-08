@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  一般地；属类地
-# 例句
+##### 例句
 - The so-called critics are generically mentioned , but not individually mentioned .
 	- 当所谓的批评提及时总是一笔带过，从不指名道姓
 - We market these drugs generically .

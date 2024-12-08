@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  无趣味的；单调的；枯燥乏味的；无光泽的；无生气的
 - #词性/n  无光泽，暗淡；无生气
-# 例句
+##### 例句
 - He has already been blamed for his party 's lackluster performance during the election campaign .
 	- 他的政党在竞选活动中表现平平，他因此已受到指责。
 - You may find that you are feeling dull and lackluster today .

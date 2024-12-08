@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪkˈstensɪv/； 美：/ɪkˈstensɪv/
 - #词性/adj  广泛的；大量的；广阔的；广大的；广博的
-# 例句
+##### 例句
 - The resort is surrounded by extensive national and regional parklands .
 	- 那个度假胜地被广阔的国家和地区绿地所环绕。
 - This also shows in the extensive dissemination of your thoughts and ideas .

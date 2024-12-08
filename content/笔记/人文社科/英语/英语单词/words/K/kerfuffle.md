@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəˈfʌfl/； 美：/kərˈfʌfl/
 - #词性/n  (不必要的)骚动，混乱，喧闹
-# 例句
+##### 例句
 - There was a bit of a kerfuffle during the race when a dog impeded the leading runners .
 	- 比赛中一条狗干扰了领先的选手，引起一阵混乱。
 - In the kerfuffle , I think some of them got lost .

@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪntəˈstɪʃl/； 美：/ˌɪntərˈstɪʃl/
 - #词性/adj  间质的；组织间隙的
 - #词性/n  【物】填隙
-# 例句
+##### 例句
 - Myocardial cell and interstitial tissue were observed by HE stain .
 	- 病理切片HE染色观察大鼠心肌细胞和间质的变化；
 - Recent study suggested that hypertensive cardiac fibrosis is associated with monocytes infiltration around the coronary artery and in the myocardial interstitial .

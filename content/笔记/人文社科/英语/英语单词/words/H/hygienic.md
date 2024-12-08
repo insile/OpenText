@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/haɪˈdʒiːnɪk/； 美：/haɪˈdʒenɪk/
 - #词性/adj  卫生的
-# 例句
+##### 例句
 - Food must be prepared in hygienic conditions .
 	- 食物必须在卫生的环境中制作。
 - Let everything air dry - it 's the most hygienic method .

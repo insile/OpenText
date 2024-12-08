@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈeɪliənəbl/； 美：/ˈeɪliənəbl/
 - #词性/adj  可转让的；可让渡的
-# 例句
+##### 例句
 - And legal translation , to some extent , is a kind of cultural exchange between alienable legal systems .
 	- 法律翻译不仅是异域法律语言的符号转换，而且在某种程度上也是不同法律文化之间的交流。
 - At common law , the right of re-entry is not alienable , assignable , or devisable .

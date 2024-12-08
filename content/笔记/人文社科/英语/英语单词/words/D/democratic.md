@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdeməˈkrætɪk/； 美：/ˌdeməˈkrætɪk/
 - #词性/adj  民主的；（美国）民主党的；民主制度的；平等的；民主管理的；民主政体的；有民主精神的
-# 例句
+##### 例句
 - I consider myself to be a liberal democrat , or to be more exact , a democratic liberal .
 	- 我认为自己是个自由主义的民主党人，或者更准确地说，是倡导民主的自由主义者。
 - But the landed oligarchy had stunted the country 's democratic development for generations .

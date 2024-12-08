@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˌtɒksɪˈkeɪʃn/； 美：/ɪnˌtɑːksɪˈkeɪʃn/
 - #词性/n  中毒；醉酒；喝醉；令人极度兴奋的特质
-# 例句
+##### 例句
 - Monitoring Patients with Acute Intoxication and Analysis of their EEG
 	- 急性中毒患者脑电图监视和分析
 - The Study on Memory Disorders of Patients with Chronic Alcoholic Intoxication

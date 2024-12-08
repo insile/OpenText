@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈlaʊd/； 美：/əˈlaʊd/
 - #词性/adv  大声地；出声地
-# 例句
+##### 例句
 - This was said as if thinking aloud .
 	- 他说这句话就好像在出声地思索。
 - As soon as people heard this , they laughed aloud at him .

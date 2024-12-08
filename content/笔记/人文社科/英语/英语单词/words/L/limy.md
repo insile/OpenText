@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  石灰；石灰质的；涂粘鸟胶的；含石灰的；含有粘鸟胶的；粘鸟胶似的
-# 例句
+##### 例句
 - The Availability of MAP on Limy Soil and its Application Technique
 	- 磷酸一铵在石灰性土壤上的肥效及施用技术
 - Micro-fracture Logging Recognition Technique Used in Limy and Low Permeability Reservoirs

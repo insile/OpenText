@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkævəndɪʃ/； 美：/ˈkævəndɪʃ/
 - #词性/n  卡文迪什；卡文迪许；卡文迪西；板烟
-# 例句
+##### 例句
 - Mrs Cavendish is a dear friend of mine
 	- 卡文迪什夫人是我的一位亲密朋友。
 - She strode off down the restaurant with Cavendish following close at her heels .

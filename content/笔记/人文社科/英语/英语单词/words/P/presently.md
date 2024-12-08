@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈprezntli/； 美：/ˈprezntli/
 - #词性/adv  目前；现在；眼下；此刻；表示马上就已发生了；表示即将发生
-# 例句
+##### 例句
 - The crime is presently being investigated by the police .
 	- 警方目前正在调查这起案件。
 - He is presently the medical director for the Fellowship of World Christians .

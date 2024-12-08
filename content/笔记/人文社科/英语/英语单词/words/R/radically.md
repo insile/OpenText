@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'rædɪkli/； 美：/ˈrædɪkli/
 - #词性/adv  彻底地；根本地
-# 例句
+##### 例句
 - Mammals were flourishing , and flowering plants developed and radically changed the landscape .
 	- 哺乳动物茂盛，并且开花植物开发了和根本地改变了前景。
 - We learned a number of things that caused us to revise radically our earlier general ideas of the operation .

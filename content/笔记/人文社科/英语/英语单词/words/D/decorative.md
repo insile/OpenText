@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdekərətɪv/； 美：/ˈdekəreɪtɪv/
 - #词性/adj  装饰性的；作装饰用的
-# 例句
+##### 例句
 - She swathes her face in a veil of decorative muslin .
 	- 她用装饰性的薄纱遮住了脸。
 - A decorative design made of one material sewn over another .

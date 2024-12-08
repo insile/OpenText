@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈbiːdiənt/； 美：/əˈbiːdiənt/
 - #词性/adj  顺从的；唯命是从的；忠顺的
-# 例句
+##### 例句
 - We follow Edna Pontellier , an obedient wife and mother , who becomes close to a charming young man Robert Lebrun .
 	- 我们跟随一位顺从的妻子和母亲——埃德娜·庞特勒尔的脚步，渐渐走近一位迷人的年轻男子罗伯特·勒布朗。
 - As a result , the cultural industrialization gradually makes common awareness take an obedient and non - critical attitude to the reality .

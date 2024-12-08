@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpʌŋktʃuˈeɪʃn/； 美：/ˌpʌŋktʃuˈeɪʃn/
 - #词性/n  标点符号；标点符号用法
-# 例句
+##### 例句
 - Our teacher is very fussy about punctuation .
 	- 我们老师对标点符号十分挑剔。
 - Check and double-check spelling and punctuation

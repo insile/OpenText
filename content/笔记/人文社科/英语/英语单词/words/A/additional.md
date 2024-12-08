@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈdɪʃənl/； 美：/əˈdɪʃənl/
 - #词性/adj  附加的；额外的；外加的
-# 例句
+##### 例句
 - I have one lock but I bought another as an additional insurance against thieves .
 	- 我有一把锁，但我又买了一把作为附加的防盗保障。
 - When it is dragged over pliant areas , an additional percussive tap could indicate this collision .

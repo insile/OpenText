@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  （法）心不在焉的（因烦恼、忧惧等）
-# 例句
+##### 例句
 - The distrait actress fluffed her lines .
 	- 那位心不在焉的女演员忘了台词。
 - When she did not occupy her accustomed chair at the seminar , Freud felt uneasy and distrait ( Times Literary Supplement )

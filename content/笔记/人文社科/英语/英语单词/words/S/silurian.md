@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  志留系；志留纪
 - #词性/adj  志留纪的；
-# 例句
+##### 例句
 - Tectonic Control of the Silurian Reef Distribution and Development on Upper Yangtze Platform
 	- 大地构造对上扬子区志留纪生物礁分布及发育的控制
 - Analysis of Silurian Sedimentary Basin in the South of Guizhou

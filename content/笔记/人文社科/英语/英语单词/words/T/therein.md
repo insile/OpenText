@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌðeərˈɪn/； 美：/ˌðerˈɪn/
 - #词性/adv  在那里，在其中(指提及的地点、物体、文件等)
-# 例句
+##### 例句
 - This soul is full of shadow ; sin is therein committed .
 	- 当一个人的心中充满黑暗，罪恶便在那里滋长起来。
 - The Leased Premises are deemed to be fit for occupation when the building therein is substantially completed .

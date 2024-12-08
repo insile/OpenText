@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈflæməbl/； 美：/ˈflæməbl/
 - #词性/adj  易燃的；可燃的
 - #词性/adj  易燃物；可燃物
-# 例句
+##### 例句
 - A colorless flammable gas used chiefly in welding and in organic synthesis .
 	- 一种无色、极易燃的气体，主要用于金属熔接和有机合成。
 - A flammable hydrocarbon oil used as fuel in lamps and heaters .

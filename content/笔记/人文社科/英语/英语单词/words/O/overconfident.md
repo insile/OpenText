@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌəʊvəˈkɒnfɪdənt/； 美：/ˌoʊvərˈkɑːnfɪdənt/
 - #词性/adj  自负的；过分自信的
-# 例句
+##### 例句
 - A confident woman appears sexy , while an overconfident woman may appear stupid .
 	- 自信的女人看起来性感，而自负的女人可能会是愚蠢。
 - I will always remember Brittany as that loud , overconfident girl , and a part of that shy , insecure person I used to be will always keep me humble .

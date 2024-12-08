@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈterəbli/； 美：/ˈterəbli/
 - #词性/adv  非常；非常地；很；很厉害地
-# 例句
+##### 例句
 - I 'm terribly sorry ─ did I hurt you ?
 	- 非常抱歉，我伤着您了吗？
 - I miss him terribly .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdɪstrəfi/； 美：/ˈdɪstrəfi/
 - #词性/n  营养不良；营养障碍性疾病
-# 例句
+##### 例句
 - These are genetic disorders that only affect males normally . They are things like muscular dystrophy and haemophilia
 	- 这些遗传病通常只发生在男性身上，如肌肉萎缩、血友病等。
 - Molecular genetic study on patients with lattice corneal dystrophy in China

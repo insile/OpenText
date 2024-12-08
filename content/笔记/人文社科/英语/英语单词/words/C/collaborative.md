@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəˈlæbərətɪv/； 美：/kəˈlæbəreɪtɪv/
 - #词性/adj  合作的；协作的；协力的
-# 例句
+##### 例句
 - The work required for the class will be highly collaborative .
 	- 这项工作对合作的要求很高。
 - If you reach out to the people on the ground in this collaborative way

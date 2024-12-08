@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpjuːbəti/； 美：/ˈpjuːbərti/
 - #词性/n  青春期
-# 例句
+##### 例句
 - The figure of a girl fills out at puberty .
 	- 姑娘的身段在青春期变得丰满。
 - Most traditional societies have transition rites at puberty .

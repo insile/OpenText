@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈbɔːtɪv/； 美：/əˈbɔːrtɪv/
 - #词性/adj  流产的；失败的；不成功的
-# 例句
+##### 例句
 - The structure variety and apoptotic characteristics of abortive Otter rabbit placenta
 	- 流产的獭兔胎盘结构变化及细胞凋亡情况研究
 - He had weathered too many abortive revolutionaries when only his courage had saved the government .

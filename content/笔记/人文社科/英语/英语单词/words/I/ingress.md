@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪnɡres/； 美：/ˈɪnɡres/
 - #词性/n  进入；进入权；入境权
-# 例句
+##### 例句
 - The ingress of chloride is the key phenomenon promoting such corrosion .
 	- 氯离子的进入是加速此种腐蚀的关键因素。
 - Motors on the milling machines are totally enclosed to guard against ingress of metallic dust .

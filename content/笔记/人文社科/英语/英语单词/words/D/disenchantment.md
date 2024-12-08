@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdɪsɪnˈtʃɑːntmənt/； 美：/ˌdɪsɪnˈtʃæntmənt/
 - #词性/n  幻想破灭;醒悟
-# 例句
+##### 例句
 - There 's growing disenchantment with the Government .
 	- 大家对政府的幻想渐渐破灭了。
 - When those idols are found to have feet of clay , the pain of disenchantment can be profound .

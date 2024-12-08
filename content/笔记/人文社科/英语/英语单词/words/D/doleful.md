@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdəʊlfl/； 美：/ˈdoʊlfl/
 - #词性/adj  悲哀的；悲伤的；忧郁的
-# 例句
+##### 例句
 - He gave me a long , doleful look .
 	- 他眼神悲伤地久久望着我。
 - The smile disappeared to be replaced by a doleful frown .

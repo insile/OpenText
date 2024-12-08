@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/məˈlæsɪz/； 美：/məˈlæsɪz/
 - #词性/n  糖蜜;糖浆
-# 例句
+##### 例句
 - Molasses are mildly laxative and something of a general tonic .
 	- 糖蜜有些许通便作用，兼具强身功能。
 - Present situation and development trend of technology for treating molasses alcohol wastewater

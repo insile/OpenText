@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmiːnɪŋfl/； 美：/ˈmiːnɪŋfl/
 - #词性/adj  重要的；重大的；意味深长的；严肃的；易于理解的；意义明显的；意在言外的
-# 例句
+##### 例句
 - Therefore , establishing a DSS for high and new technique enterprise is very meaningful .
 	- 因此，建立一个适用于高新技术企业的评价决策支持系统对于投资企业来讲是十分重要的。
 - So , it is a meaningful task to study the relationship between protein sequence and structure .

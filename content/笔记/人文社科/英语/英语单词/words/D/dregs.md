@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dreɡz/； 美：/dreɡz/
 - #词性/n  渣滓；糟粕；残渣；沉淀物；残余
-# 例句
+##### 例句
 - He sees dissidents as the dregs of society .
 	- 他把和他政见相左的人看作是社会渣滓。
 - Dregs settled at the bottom of the container .

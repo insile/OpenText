@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈmærid/； 美：/ˌʌnˈmærid/
 - #词性/adj  未婚的；独身的
-# 例句
+##### 例句
 - A maiden lady is an unmarried lady .
 	- 姑娘是未婚的女子。
 - Unmarried Japanese adults typically live with their parents , and thus save on household expenses , and increasing the amount of money available to spend on their own entertainment.In Japanese culture , the term is especially used when negatively describing young unmarried women .

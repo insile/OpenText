@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/bɪˈheɪvjərɪst/； 美：/bɪˈheɪvjərɪst/
 - #词性/n  行为主义者
-# 例句
+##### 例句
 - The Behaviorist Revolution and the Cause of Researches on Political Development
 	- 行为主义革命与政治发展研究的缘起
 - The paper mainly makes a research and study of teaching procedure on the basis of the behaviorist theory .

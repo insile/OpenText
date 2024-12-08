@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  有力地；有效地
-# 例句
+##### 例句
 - As a success , he could powerfully influence others .
 	- 作为一位成功人士，他能够强烈地影响别人。
 - The electrons farthest from the mucleus may on occasion be more powerfully attracted by the nucleus of another atom .

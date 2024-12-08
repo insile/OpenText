@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pʌɡˈnæsəti/； 美：/pʌɡˈnæsəti/
 - #词性/n  好斗；好战；好争
-# 例句
+##### 例句
 - He is legendary for his fearlessness and pugnacity .
 	- 他是出了名的大胆好斗。
 - ' So what ? 'he said , with his usual pugnacity .

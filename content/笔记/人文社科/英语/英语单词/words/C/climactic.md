@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/klaɪˈmæktɪk/； 美：/klaɪˈmæktɪk/
 - #词性/adj  高潮的；最重要的；非常激动人心的
-# 例句
+##### 例句
 - The climactic fight scene was shot in the middle of a heatwave , with temperatures in excess of100 degrees .
 	- 战争高潮的那个场景是在最热的时候拍摄的，气温在华氏100度以上。
 - In addition to the choreography , fans have also been buzzing about the clip 's climactic fight scene , which finds Britney dueling it out with another version of herself .

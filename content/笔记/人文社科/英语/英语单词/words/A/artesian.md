@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɑːˈtiːzjən/； 美：/ˌɑrˈtiʒən/
 - #词性/adj  自流的
-# 例句
+##### 例句
 - Discussion about best observation system for high temperature and artesian well
 	- 高温自流井最佳观测装置讨论
 - Optimal problem about distribution of artesian oil well under coordinate of rotation

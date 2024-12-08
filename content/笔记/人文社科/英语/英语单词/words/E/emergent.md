@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/iˈmɜːdʒənt/； 美：/iˈmɜːrdʒənt/
 - #词性/adj  新兴的；处于发展初期的
-# 例句
+##### 例句
 - Bioengineering is an emergent branch of learning .
 	- 生物工程是一门新兴的学问。
 - Emergent democracies created markets that were ripe for exploitation .

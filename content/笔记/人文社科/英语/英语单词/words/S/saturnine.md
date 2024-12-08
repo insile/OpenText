@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsætənaɪn/； 美：/ˈsætərnaɪn/
 - #词性/adj  阴沉的；严肃而令人畏惧的
-# 例句
+##### 例句
 - The saturnine faces of the judges .
 	- 法官们那阴沉的脸色。
 - He had a rather forbidding , saturnine manner .

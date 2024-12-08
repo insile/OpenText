@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈækjupʌŋktʃə(r)/； 美：/ˈækjupʌŋktʃər/
 - #词性/n  针灸；针刺疗法
 - #词性/v  对…施行针刺疗法
-# 例句
+##### 例句
 - Therapies like acupuncture do work and many people have been healed by them .
 	- 针灸等疗法确实有效，已经治愈了很多人。
 - Acupuncture was practised in China as long ago as the third millennium BC

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈjuːzəbl/； 美：/ˈjuːzəbl/
 - #词性/adj  可用的；适用的；能用的
-# 例句
+##### 例句
 - The information is not in a usable form .
 	- 这份情报未整理成能用的形式。
 - " I would define value as useful and usable functionality delivered to the customer " [ 2 ]

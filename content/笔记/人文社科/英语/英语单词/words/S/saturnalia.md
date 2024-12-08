@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsætəˈneɪliə/； 美：/ˌsætərˈneɪliə/
 - #词性/n  神农节；农神节；罗马的农神节
-# 例句
+##### 例句
 - But as Christianity spread they were alarmed by the continuing celebration of pagan customs and Saturnalia among their converts .
 	- 但随着基督教的传播，他们震惊的是异教习俗和他们之间的转换农神节庆祝活动持续。
 - Saturnalia was considered a festive time for Romans , but Christians believed it an abomination to honor such a pagan god .

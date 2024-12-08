@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhiːliətrəʊp/； 美：/ˈhiːliətroʊp/
 - #词性/n  天芥菜(开芳香淡紫色花)；淡紫色
-# 例句
+##### 例句
 - She put her nose luxuriously buried in heliotrope and tea roses .
 	- 她把自己的鼻子惬意地埋在天芥菜和庚申蔷薇花簇中
 - The dragon of eternity sustains the faceted heliotrope crystal of life .

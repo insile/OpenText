@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈrɪəl/； 美：/ˌʌnˈriːəl/
 - #词性/adj  虚幻的；不真实的；梦幻般的；脱离现实的；奇异的；表示十分喜爱或惊讶
-# 例句
+##### 例句
 - I 've never seen anything so unreal in my life .
 	- 在我的一生中还从未见过如此虚幻的东西。
 - This extreme solipsistic moral was obviously extreme . This kind of freedom can only exist in unreal operas .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnspəˈreɪʃənl/； 美：/ˌɪnspəˈreɪʃənl/
 - #词性/adj  鼓舞人心的；启发灵感的
-# 例句
+##### 例句
 - In those essays , and in follow-up interviews with a few of the teenagers , we found lots of insight , positive feeling and inspirational thinking .
 	- 在这些文章以及对其中一些青少年的跟踪采访中，我们发现了很多见解、积极的感想和鼓舞人心的想法。
 - I also like reading inspirational novels and watch movies during my free time .

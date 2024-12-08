@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɑːrəweɪ/； 美：/ˈfɑːrəweɪ/
 - #词性/adj  遥远的；远方的；恍惚的
-# 例句
+##### 例句
 - Because it is as faraway from here as I could manage .
 	- 因为那是我能应付的最远的地方了。
 - The especially faraway places I felt before seems not so far away , and traveling by electromobiles was highly recommendable since it was both flexible and economical .

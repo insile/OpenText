@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡliːnɪŋz/； 美：/ˈɡliːnɪŋz/
 - #词性/n  (费力从多处)收集的信息(或知识等)
-# 例句
+##### 例句
 - Have you read the gleanings of yuan-ming 's poems ?
 	- 你看过陶渊明的诗集吗？
 - All the sweet vintage of all my autumn days and summer nights , all the earnings and gleanings of my busy life will I place before him at the close of my days when death will knock at my door .

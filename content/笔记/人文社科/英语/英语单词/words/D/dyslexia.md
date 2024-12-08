@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪsˈleksiə/； 美：/dɪsˈleksiə/
 - #词性/n  诵读困难
-# 例句
+##### 例句
 - It is hard to estimate how many children suffer from dyslexia .
 	- 很难估计有多少孩子有诵读困难。
 - One of the effects of dyslexia , in my case at least , is that you pay tremendous attention to detail

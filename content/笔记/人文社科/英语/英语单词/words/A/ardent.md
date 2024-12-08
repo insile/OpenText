@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɑːdnt/； 美：/ˈɑːrdnt/
 - #词性/adj  热烈的；热心的；激情的
-# 例句
+##### 例句
 - No matter what ardent cosmopolitans or crazed conspiracy theorists believe , there is no world government .
 	- 无论是热心的世界主义者也好，还是疯狂的阴谋论者也好，都相信：根本不存在什么世界政府。
 - An ardent early supporter of a cause or reform .

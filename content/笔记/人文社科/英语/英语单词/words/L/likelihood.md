@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlaɪklihʊd/； 美：/ˈlaɪklihʊd/
 - #词性/n  可能性；可能
-# 例句
+##### 例句
 - The likelihood is that unemployment figures will continue to fall .
 	- 很有可能失业人数会继续下降。
 - There is very little likelihood of that happening .

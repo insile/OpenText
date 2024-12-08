@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnæʃnəli/； 美：/ˈnæʃnəli/
 - #词性/adv  全国性地；与某国相关地
-# 例句
+##### 例句
 - Meetings were held locally and nationally .
 	- 举行的会议有地方性的，有全国性的。
 - He 's a talented athlete who competes nationally and internationally .

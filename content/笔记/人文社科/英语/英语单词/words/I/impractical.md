@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈpræktɪkl/； 美：/ɪmˈpræktɪkl/
 - #词性/adj  不切实际的；不现实的；不明智的；不善于规划(或组织)的；手不灵巧的
-# 例句
+##### 例句
 - It was totally impractical to think that we could finish the job in two months .
 	- 认为我们能在两个月之内完成这项工作，这完全是不切实际的。
 - When stalking subjects , a tripod is impractical

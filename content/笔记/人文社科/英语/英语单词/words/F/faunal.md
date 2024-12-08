@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  动物区系的
-# 例句
+##### 例句
 - Research on soil faunal community composition and structure in the Gaoligong Mountains National Nature Reserve
 	- 高黎贡山自然保护区大型土壤动物群落特征
 - Faunal assemblage are directly related to the depositional environment .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #n  扭伤
 - #词性/vt  扭伤
-# 例句
+##### 例句
 - Objective Discuss the effect of different length of cold dressing treatment time on the acute wrick of anklebone .
 	- 目的探讨急性踝关节扭伤不同冷敷时间的效果。
 - The products with adjustable ring ties are suitable for all kinds of sports to reduce the impact because of acute turning , and lighten the pain because of wrick .

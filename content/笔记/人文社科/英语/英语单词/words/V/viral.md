@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvaɪrəl/； 美：/ˈvaɪrəl/
 - #词性/adj  病毒的；病毒性的；病毒引起的
-# 例句
+##### 例句
 - Like your own genes , the viral DNA contains recipes .
 	- 像你自己的基因一样，病毒的DNA也包含有食谱。
 - A study of advanced wastewater treatment processes for viral removal in reclamation of sewage

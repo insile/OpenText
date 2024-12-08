@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkerəsiːn/； 美：/ˈkerəsiːn/
 - #词性/n  煤油
-# 例句
+##### 例句
 - A leakage of kerosene has polluted water supplies
 	- 泄漏的煤油污染了水源。
 - The air reeked of kerosene and huge aircraft rumbled overhead .

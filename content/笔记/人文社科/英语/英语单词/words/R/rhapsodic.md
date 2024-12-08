@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ræpˈsɒdɪk/； 美：/ræpˈsɑːdɪk/
 - #词性/adj  (语言和感觉)狂热的，热情洋溢的，兴高采烈的
-# 例句
+##### 例句
 - ' Mr. Marsalis said the parents ' reaction is usually rhapsodic .
 	- 马萨利斯说，那些父母们的反应通常是狂喜。
 - The advertising brochure sent to prospective customeers is written in a rhapsodic style .

@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈplæŋktən/； 美：/ˈplæŋktən/
 - #词性/n  浮游生物
-# 例句
+##### 例句
 - It was necessary to overexpose this positive record in order to enhance the presence of the plankton bloom .
 	- 为了使大量繁殖的浮游生物的形象得到增强，必须使这一波段的正片记录曝光过量。
 - Study of Marine Plankton Image Capture System in Real Time

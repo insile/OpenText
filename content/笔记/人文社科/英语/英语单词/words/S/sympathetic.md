@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsɪmpəˈθetɪk/； 美：/ˌsɪmpəˈθetɪk/
 - #词性/adj  同情的；支持的；有同情心的；表示同情的；赞同的；让人喜欢的；招人喜爱的
 - #词性/n  【解】交感神经系；(对催眠术等)易感受的人
-# 例句
+##### 例句
 - I mouthed some sympathetic platitudes
 	- 我言不由衷地说了一些表示同情的客套话。
 - Thomson gave a queer , sympathetic look , then ran out of the room .

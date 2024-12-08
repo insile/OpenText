@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlɪvəbl/； 美：/ˈlɪvəbl/
 - #词性/adj  适于居住的；适于居（同）住的，过得有价值的，（人）易于相处的，能与之共同生活的
-# 例句
+##### 例句
 - Our corner of the galaxy was thought to have just the right mix of key elements and livable conditions .
 	- 我们在银河系的位置据信就拥有关键性生命元素以及适于居住的环境。
 - Cities have to be made governable , livable , and economically viable .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfʌŋkʃənl/； 美：/ˈfʌŋkʃənl/
 - #词性/adj  功能的；作用的；职能的；(能)起作用的，工作的，运转的；机能的；实用的
-# 例句
+##### 例句
 - The second , choice the most functional knowledge ;
 	- 选择最实用的知识；
 - This highly functional walking style allows penguins to save roughly eighty percent of the mechanical energy they use while walking .

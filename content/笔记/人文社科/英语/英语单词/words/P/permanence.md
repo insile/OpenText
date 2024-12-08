@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɜːmənəns/； 美：/ˈpɜːrmənəns/
 - #词性/n  永久；永久性；持久性
-# 例句
+##### 例句
 - They tend to place a high value on permanence .
 	- 他们往往十分注重永久性信念。
 - No physical permanence , but only an ideal one , is necessary .

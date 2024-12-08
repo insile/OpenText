@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈnɔːməsli/； 美：/ɪˈnɔːrməsli/
 - #词性/adv  非常；极其；极大地
-# 例句
+##### 例句
 - Moreover used above has been popular and the standard network technology also enormously enhanced the system probability .
 	- 另外采用了以上流行和标准的网络技术也极大地提高了系统的可移植性。
 - The digital technology is utilized after the design domain , enormously has developed the art design creation space .

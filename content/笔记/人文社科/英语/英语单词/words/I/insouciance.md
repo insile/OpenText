@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈsuːsiəns/； 美：/ɪnˈsuːsiəns/
 - #词性/n  漫不经心；无忧无虑
-# 例句
+##### 例句
 - She hid her worries behind an air of insouciance .
 	- 她掩饰着自己的烦恼，表现得无忧无虑。
 - He replied with characteristic insouciance : ' So what ? '

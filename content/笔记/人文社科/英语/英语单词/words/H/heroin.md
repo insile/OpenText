@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈherəʊɪn/； 美：/ˈheroʊɪn/
 - #词性/n  海洛因
-# 例句
+##### 例句
 - These young people die wholesale from heroin overdoses .
 	- 这些年轻人因过量吸海洛因大批死亡。
 - The Customs have seized large quantities of smuggled heroin .

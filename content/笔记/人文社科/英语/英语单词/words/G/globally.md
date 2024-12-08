@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'ɡləʊbəlɪ/； 美：/'ɡloʊbəlɪ/
 - #词性/adv  全球地
-# 例句
+##### 例句
 - The report 's writers state that America 's failure to invest in infrastructure impacts not only the health of the real-estate market , but also our ability to remain globally competitive .
 	- 报道的作者指出，美国对改善基础设施的不作为不仅会影响房地产市场的健康发展，还会影响其国际竞争力。
 - But the U. S. was the exception ： November was the warmest ever globally , and current data indicates that 2013 is likely to have been the fourth hottest year on record .

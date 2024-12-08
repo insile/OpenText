@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌækwiˈesns/； 美：/ˌækwiˈesns/
 - #词性/n  默许；默认；顺从；默然接受
-# 例句
+##### 例句
 - There was general acquiescence in the UN sanctions .
 	- 普遍默认了联合国的制裁。
 - Through changing the navigation frame of acquiescence , it can avoid repeated work ;

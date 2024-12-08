@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwʌntaɪm/； 美：/ˈwʌnˈtaɪm/
 - #词性/adj  一度的；从前的；以前的
-# 例句
+##### 例句
 - But their onetime companion Alferd has been cast into the deadly labyrinth .
 	- 他们从前的夥伴艾福瑞被关进死亡迷宫。
 - The legislative body had voted to oust the country 's onetime rulers .

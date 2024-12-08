@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdɪsˌkʌləˈreɪʃn/； 美：/ˌdɪsˌkʌləˈreɪʃn/
 - #词性/n  变色；退色；变色处；退色处
-# 例句
+##### 例句
 - Studies on Current Research Situation about Wood Discoloration and Its Prevention
 	- 木材变色与防护问题的研究状况木材变色的研究状况及发展趋势
 - Technology of the Discoloration Effect and the Gradual Change Effect in Fur Dyeing

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈedəbl/； 美：/ɪnˈedəbl/
 - #词性/adj  不能吃的；不宜食用的
-# 例句
+##### 例句
 - Ate Chinese traditional medicine what to inedible there is ?
 	- 吃了中药有什么不能吃的？
 - They don 't waste their time on some inedible thing from their point of view .

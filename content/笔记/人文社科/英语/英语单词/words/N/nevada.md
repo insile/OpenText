@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/nəˈvɑːdə/； 美：/nəˈvɑdə/
 - #词性/n  〈美〉内华达州；缩写词为NEV
-# 例句
+##### 例句
 - Police have issued flood warnings for Nevada .
 	- 警方已经发布了内华达的水灾警告。
 - The film begins with an aerial view of the Great Basin of Nevada .

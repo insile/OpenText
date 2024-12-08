@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmʌɡi/； 美：/ˈmʌɡi/
 - #词性/adj  闷热的；闷热潮湿的
-# 例句
+##### 例句
 - We may expect muggy weather when the rainy season begins .
 	- 雨季开始时，我们预料有闷热的天气。
 - On muggy summer night , Gardenia brought about memories in the South .

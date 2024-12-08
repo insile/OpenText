@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɜːbənaɪˈzeɪʃn/； 美：/ˌɜːrbənəˈzeɪʃn/
 - #词性/n  城市化；都市化
-# 例句
+##### 例句
 - The urbanization process continued to accelerate .
 	- 城市化进程持续加快。
 - Urbanization will become increasingly important in the future .

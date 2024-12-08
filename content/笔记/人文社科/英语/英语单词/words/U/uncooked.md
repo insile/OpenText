@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈkʊkt/； 美：/ˌʌnˈkʊkt/
 - #词性/adj  生的；未烹煮的
-# 例句
+##### 例句
 - The inside , unfortunately , is still uncooked . Unless , that is , it goes into a hypersonic tumble and explodes into chunks .
 	- 但很不幸，内部仍然是生的，除非牛排在高超音速下猛地颠簸了一下炸成了碎片。
 - Mr. Ely says , ' In today 's food-safety world , uncooked really scares me , ' though Bell Evans has never had a recall of its products .

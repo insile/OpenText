@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  衰老；衰老的
-# 例句
+##### 例句
 - A comparative study on different senescent types in Wheat Variety
 	- 小麦品种衰老类型的比较研究
 - Senescent cells in immune organs of rats at various ages

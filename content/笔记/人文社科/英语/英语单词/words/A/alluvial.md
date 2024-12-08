@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈluːviəl/； 美：/əˈluːviəl/
 - #词性/adj  冲积的，淤积的
-# 例句
+##### 例句
 - Any of several Australian gum trees growing on moist or alluvial soil .
 	- 几种生长在潮湿或淤积的土壤中的澳大利亚桉树的任意一种。
 - Here are the wealthiest , the most advanced metropolises : Beijing , Tianjing , Shanghai , Nangjing , Guangzhou * fertile alluvial lowlands which seem vast , yet are less than15percent of her total territory .

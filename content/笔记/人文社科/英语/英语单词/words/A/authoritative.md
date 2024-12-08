@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɔːˈθɒrətətɪv/； 美：/əˈθɔːrəteɪtɪv/
 - #词性/adj  权威的；权威性的；命令式的；权威式的；专断的
-# 例句
+##### 例句
 - It is an authoritative biography .
 	- 这是一本很权威的传记。
 - There is no authoritative statistic of health policy research utilization .

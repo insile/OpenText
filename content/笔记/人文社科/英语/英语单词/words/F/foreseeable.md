@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fɔːˈsiːəbl/； 美：/fɔːrˈsiːəbl/
 - #词性/adj  可预见的；可预知的；可预料的
-# 例句
+##### 例句
 - Credit and debit cards , though , are going to be with us for the foreseeable future , and so are hackers , if we stick with magstripe technology .
 	- 不过,在可预见的未来,信用卡和借记卡将与我们同在,而如果我们坚持使用磁条技术的话，黑客也将一直存在。
 - As a result , the public is divided about whether the imbalance in corporate America will change in the foreseeable future , even though women have made major advances in the workplace .

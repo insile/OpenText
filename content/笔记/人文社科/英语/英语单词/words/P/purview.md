@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɜːvjuː/； 美：/ˈpɜːrvjuː/
 - #词性/n  (组织、活动等的)范围；权限
-# 例句
+##### 例句
 - That , however , was beyond the purview of the court ; it was a diplomatic matter .
 	- 但是，那已不在法庭权限之内；那是个外交问题。
 - Examine and approve relative documents and data according the purview .

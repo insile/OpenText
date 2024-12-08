@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈprʊəriənt/； 美：/ˈprʊriənt/
 - #词性/adj  淫荡的, 好色的；（病态）渴望的；生长过速的；下作的, 淫亵的；引起淫欲的
 - #词性/n  好色之徒
-# 例句
+##### 例句
 - We read the gossip written about them with prurient interest .
 	- 我们翻看他们的八卦时带着不洁的想法。
 - The new film will ambush the unwary , appal the squeamish and get unwanted attention from the prurient .

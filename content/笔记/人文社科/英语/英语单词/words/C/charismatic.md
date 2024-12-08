@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkærɪzˈmætɪk/； 美：/ˌkærɪzˈmætɪk/
 - #词性/adj  有号召力(或感召力)的；有超凡魅力的；虔诚崇拜的；蒙受神恩的；有特恩的
 - #词性/n  有特恩的基督徒
-# 例句
+##### 例句
 - Weak spot : Not a fiery , charismatic leader .
 	- 缺点：不是一个易躁的、有超凡魅力的领导者。
 - Charismatic terms are observable terms with a mysterious power , and they often require sacrifice . Charismatic terms include freedom and democracy .

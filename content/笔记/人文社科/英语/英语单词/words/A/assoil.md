@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  （教会法）赦免；饶恕；（使）免受（开除教籍、逐出教会之）处罚；宣告…无罪
-# 例句
+##### 例句
 - She made no attempt to assoil herself of her crime , and assimilated into prison life .
 	- 她并不想赦免自己的罪行，被吸收进了监狱。
 - But in actual application it is affected by many surface factors , such assoil uniformity , soil density , soil moisture , covering layer and the terrain .

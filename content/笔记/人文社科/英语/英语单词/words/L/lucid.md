@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈluːsɪd/； 美：/ˈluːsɪd/
 - #词性/adj  清醒的；易懂的；表达清楚的；(尤指生病期间或病愈后，糊涂状态中或过后)头脑清晰的
-# 例句
+##### 例句
 - In a rare lucid moment , she looked at me and smiled .
 	- 在难得清醒的时刻，她看看我，对我笑笑。
 - This process works much better when the subject is lucid .

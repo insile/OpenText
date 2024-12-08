@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  在气候上；风土上
-# 例句
+##### 例句
 - Large spans provide for various office layout configurations in combination with balconies and climatically tempered outdoor spaces of the'eyes ' .
 	- 大跨度提供各种办公与阳台结合的布局配置和气候上的户外锻炼空间的'眼睛'。
 - Additionally , the severity of the pandemic varied widely and idiosyncratically across states with little in common economically , demographically , climatically , or geographically .

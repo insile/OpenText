@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈtræktəbl/； 美：/ɪnˈtræktəbl/
 - #词性/adj  棘手的；很难对付(或处理)的
-# 例句
+##### 例句
 - What may be done to reduce the influence of intractable opponents ?
 	- 能做些什么来减少那些难缠的反对者的影响呢？
 - The economy still faces intractable problems .

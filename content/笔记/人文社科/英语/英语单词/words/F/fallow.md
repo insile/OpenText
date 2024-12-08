@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfæləʊ/； 美：/ˈfæloʊ/
 - #词性/adj  休耕的；休闲的；休眠的；不成功的
 - #词性/n  休闲
-# 例句
+##### 例句
 - The land that has been left fallow now in the Central Valley is still less than 5 percent of all the irrigation acreage in California .
 	- 目前在中央山谷已经休耕的土地仅占加州灌溉面积的不到5%。
 - Farmers are now paid to let their land lie fallow .

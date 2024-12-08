@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnrɪˈstrɪktɪd/； 美：/ˌʌnrɪˈstrɪktɪd/
 - #词性/adj  没有限制的
-# 例句
+##### 例句
 - We have unrestricted access to all the facilities .
 	- 我们可随意使用一切设施。
 - The Commissioner has absolutely unrestricted access to all the files .

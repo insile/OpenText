@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  不可燃；不易燃
-# 例句
+##### 例句
 - All products are made of distilled water , nonflammable .
 	- 所有产品都是水性的，用蒸馏水制作而成。
 - Product is nonflammable and does not support combustion .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɪlɪkə/； 美：/ˈsɪlɪkə/
 - #词性/n  二氧化硅
-# 例句
+##### 例句
 - The changes of alumina and silica phase are very little .
 	- 氧化铝相和二氧化硅相变化很小。
 - Standardization of Method for Chemical Phases Analysis of Free Silica in Limestone

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈseɪɡəʊ/； 美：/ˈseɪɡoʊ/
 - #词性/n  西谷米，西米(由一种棕榈茎髓制成的白色硬粒状食物，可加牛奶制成甜点)
-# 例句
+##### 例句
 - Any of various tropical Asian palm trees the trunks of which yield sago .
 	- 各种热带亚洲棕榈树的任意一种，其树干出产西谷米。
 - Malaysian feather palm with base densely clothed with fibers ; yields a sweet sap used in wine and trunk pith yields sago .

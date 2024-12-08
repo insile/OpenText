@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈækwɪlaɪn/； 美：/ˈækwɪlaɪn/
 - #词性/adj  鹰的；似鹰的；鹰钩状的
-# 例句
+##### 例句
 - He had a thin aquiline nose and deep-set brown eyes .
 	- 他长着窄长的鹰钩鼻和深陷的褐色眼睛。
 - The man has a strong and aquiline nose .

@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəʊˈiːvl/； 美：/koʊˈiːvl/
 - #词性/adj  同时代；(与…)同龄；同时期出现
 - #词性/n  同时代的人
-# 例句
+##### 例句
 - He believes that cooking and humanity are coeval .
 	- 他相信烹饪和人类是同时代的。
 - Tang Xianzu , a playwright of Ming Dynasty in16th Century , was the coeval of Shakespeare of Britain .

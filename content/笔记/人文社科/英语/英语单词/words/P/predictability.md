@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  可预测性；可预报性；可预言；可预计性
-# 例句
+##### 例句
 - Study of temperature information transmission and its predictability for single station of China
 	- 单站气温信息传递及其可预报性研究
 - Research on the Error and Predictability of Climate Model

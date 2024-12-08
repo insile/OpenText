@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/abbr  百分比
-# 例句
+##### 例句
 - Several detail treatments for some key problems in the ultimate bearing capacity calculation of large-span P.C.
 	- 对大跨度预应力混凝土桥梁极限承载力计算中的关键问题进行了探索研究，包括预应力效应的准确模拟；成桥内力的正确考虑；
 - Problems Existing in the Construction of P.C. Structural Components and Control Methods

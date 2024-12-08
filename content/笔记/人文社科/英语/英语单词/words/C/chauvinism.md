@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈʃəʊvɪnɪzəm/； 美：/ˈʃoʊvɪnɪzəm/
 - #词性/n  沙文主义
-# 例句
+##### 例句
 - It may also appeal to the latent chauvinism of many ordinary people .
 	- 它可能也迎合了许多普通人心中的沙文主义情结。
 - In stressing the American qualities inherent in American literature there is a danger of cultural chauvinism .

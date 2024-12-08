@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'ɔ:gənaɪz/； 美：/'ɔ:gənaɪz/
 - #词性/v  组织；安排；处理；筹备
-# 例句
+##### 例句
 - Lacking sovereignty , they could organise no defence against their oppressors .
 	- 没有主权他们就无法组织起来反抗压迫者。
 - It 's my job to organise all the ceremonial events .

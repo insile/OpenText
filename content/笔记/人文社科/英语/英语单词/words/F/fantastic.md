@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fænˈtæstɪk/； 美：/fænˈtæstɪk/
 - #词性/adj  了不起的；极好的；好极了；怪诞的；很大的；不切实际的；荒诞不经的；大得难以置信的；富于想象的
 - #词性/n  古怪的人
-# 例句
+##### 例句
 - It 's a fantastic view from up here , isn 't it ?
 	- 从这里望去风景好极了，是吧？
 - So it 's five weeks down , 47 to go , and I feel fantastic .

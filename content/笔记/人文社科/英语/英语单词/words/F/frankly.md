@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfræŋkli/； 美：/ˈfræŋkli/
 - #词性/adv  坦率地；(表示直言)老实说；坦白地说；直率地
-# 例句
+##### 例句
 - Frankly , I don 't know what Paul sees in her
 	- 坦白地说，我不知道保罗看上她什么了。
 - Frankly speaking , at first I had some difficulty following the teachers .

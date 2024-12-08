@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  （尤指对小错误）吹毛求疵的；超临界的
-# 例句
+##### 例句
 - He is so hypercritical that he corrects every mistake his students made .
 	- 他很苛刻，对于学生的每个错误都要纠正。
 - These are usually overbearing , negative people who are hypercritical of every decision you make .

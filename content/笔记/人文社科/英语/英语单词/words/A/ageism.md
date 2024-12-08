@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈeɪdʒɪzəm/； 美：/ˈeɪdʒɪzəm/
 - #词性/n  年龄歧视；对老年人的歧视
-# 例句
+##### 例句
 - The problem of ageism in the workplace often goes unrecognized .
 	- 工作场所的年龄歧视问题常被忽视。
 - You 're always talking in isms ─ sexism , ageism , racism .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  诡辩
-# 例句
+##### 例句
 - I wasn 't taken in by his sophism .
 	- 我没有被他的诡辩骗倒。
 - " That 's a beautiful sophism " said the girl with a smile more beautiful still .

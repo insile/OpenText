@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əbˈsɪdiən/； 美：/əbˈsɪdiən/
 - #词性/n  黑曜石；黑曜岩
-# 例句
+##### 例句
 - Once you have enough obsidian , activate the idols .
 	- 一旦你有足够的黑曜石，激活神像。
 - Obsidian is sacred to the Maoris .

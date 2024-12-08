@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/mɪˈstɪəriəs/； 美：/mɪˈstɪriəs/
 - #词性/adj  神秘的；奇怪的；诡秘的；陌生的；故弄玄虚的；不易解释的
-# 例句
+##### 例句
 - A mysterious young woman is living next door .
 	- 一位神秘的年轻女子住在隔壁。
 - He began to feel sympathy for this slightly mysterious man .

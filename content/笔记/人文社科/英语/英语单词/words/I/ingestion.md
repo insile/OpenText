@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪndʒɛstʃən/； 美：/ɪnˈdʒɛstʃən/
 - #词性/n  摄入；摄食；吞下；吸收
-# 例句
+##### 例句
 - Analysis on the problem of ingestion capacity in industrial technology
 	- 产业技术吸纳能力问题探析产业主体技术吸纳能力的外部环境分析
 - Study on the Determination of Ingestion Emergency Planning Zone for Nuclear Power Plants

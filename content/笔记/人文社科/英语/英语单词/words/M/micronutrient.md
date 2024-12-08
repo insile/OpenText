@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  微量营养素；微量营养物
-# 例句
+##### 例句
 - Nutritarian refers to a person who chooses foods based on their micronutrient content .
 	- 营养爱好者指的是根据微量营养元素选择食物的人。
 - Hidden hunger is unlike the hunger that comes from a lack of food . It is micronutrient deficiency caused by a chronic1 lack of vitamins and minerals that often has no visible warning signs , so that people who suffer from it may not even be aware of it .

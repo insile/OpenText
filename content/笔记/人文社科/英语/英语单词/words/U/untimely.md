@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈtaɪmli/； 美：/ʌnˈtaɪmli/
 - #词性/adj  不合时宜的；过早的；不适时的；突然的；不到时间的
 - #词性/adv  过早地；不凑巧；不合时令地
-# 例句
+##### 例句
 - An untimely arrival , remark , intervention .
 	- 不合时宜的到达、言语、干涉。
 - The most plausible explanation for the " untimely " deposits into SLV was that the shares were purchased some time before the metal was actually brought in .

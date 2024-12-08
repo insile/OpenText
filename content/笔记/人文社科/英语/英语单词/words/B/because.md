@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/bɪˈkɒz/； 美：/bɪˈkɔːz/
 - #词性/conj  因为
-# 例句
+##### 例句
 - They are here because of us .
 	- 他们是因为我们来这里的。
 - We couldn 't understand them because they were talking in Chinese .

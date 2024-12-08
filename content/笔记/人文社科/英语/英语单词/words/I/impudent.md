@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪmpjədənt/； 美：/ˈɪmpjədənt/
 - #词性/adj  粗鲁的；不恭的
-# 例句
+##### 例句
 - Some of them were impudent and insulting .
 	- 他们当中的一些人放肆无礼，目中无人。
 - Prince Hal calls Falstaff a " whoreson impudent out , like a boil in Henry IV Part 1 . 10 .

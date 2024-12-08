@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɡrævɪˈteɪʃn/； 美：/ˌɡrævɪˈteɪʃn/
 - #词性/n  引力；万有引力
-# 例句
+##### 例句
 - We owe to Newton the principle of gravitation .
 	- 万有引力原理的发现应归功于牛顿。
 - The teacher was vividly1 describing the discovery of the law of gravitation . He tried to make the children impressed with its importance .

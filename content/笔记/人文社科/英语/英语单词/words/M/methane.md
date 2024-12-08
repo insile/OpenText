@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmiːθeɪn/； 美：/ˈmeθeɪn/
 - #词性/n  甲烷；沼气
-# 例句
+##### 例句
 - Methane and propane are alkanes .
 	- 甲烷和丙烷是烷烃。
 - Methane is often regarded as the second most important greenhouse gas after carbon dioxide .

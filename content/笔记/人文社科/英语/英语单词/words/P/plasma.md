@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈplæzmə/； 美：/ˈplæzmə/
 - #词性/n  等离子体；血浆；等离子气体
-# 例句
+##### 例句
 - Keep some blood plasma back for the serious cases .
 	- 留一些血浆给重病号。
 - The plasma is the liquid portion of blood that is free of cells .

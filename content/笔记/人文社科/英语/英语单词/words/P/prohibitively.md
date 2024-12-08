@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  令人望而却步；禁止地
-# 例句
+##### 例句
 - Car insurance can be prohibitively expensive for young drivers .
 	- 汽车保险费有时高得让年轻开车人承受不起。
 - That makes the cost of raising new capital prohibitively expensive .

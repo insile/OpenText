@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkjuːnɪfɔːm/； 美：/ˈkjuːnɪfɔːrm/
 - #词性/n  (古代波斯和亚述的)楔形文字
 - #词性/adj  楔形的；楔形文字的；楔状骨的
-# 例句
+##### 例句
 - No cuneiform document mentions the town during the collapse of either Assyria or Babylonia .
 	- 没有楔形文字文件提到在该镇的崩溃，要么亚述或东风。
 - They are dated to150 years before the cuneiform correspondence found in the capital of Akhenaten at Tel El-Amarna .

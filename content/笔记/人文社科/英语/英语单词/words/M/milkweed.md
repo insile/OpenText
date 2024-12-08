@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  乳草；马利筋属
-# 例句
+##### 例句
 - Although the milkweed has paid a heavy price ,
 	- 虽然马利筋付出沉重代价
 - Milkweed of southwestern United States and Mexico ; poisonous to livestock .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈfɔːsmənt/； 美：/ɪnˈfɔːrsmənt/
 - #词性/n  执行；实施
-# 例句
+##### 例句
 - The study will strengthen the hand of congressmen who want stricter enforcement of the 14-year-old Act .
 	- 该研究将使那些希望更加严格执行这项已存在14年的法案的议员影响力加强。
 - The doctors want stricter enforcement of existing laws , such as those banning sales of cigarettes to children .

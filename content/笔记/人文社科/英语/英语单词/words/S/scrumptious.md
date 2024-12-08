@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈskrʌmpʃəs/； 美：/ˈskrʌmpʃəs/
 - #词性/adj  美味的；非常好吃的
-# 例句
+##### 例句
 - May I have another helping of that scrumptious salad ?
 	- 我可以再吃一客那道美味的色拉吗？
 - Scrumptious Cakes make an exotic Thanksgiving Gift for dear ones .

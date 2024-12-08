@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪndɪˈdʒestəbl/； 美：/ˌɪndɪˈdʒestəbl/
 - #词性/adj  不易消化的；难解的；复杂难懂的
-# 例句
+##### 例句
 - Fried food is very indigestible .
 	- 油炸食品非常难消化。
 - I promise you , they would have found me quite indigestible .

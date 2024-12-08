@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈækjəmən/； 美：/ˈækjəmən/
 - #词性/n  敏锐；精明
-# 例句
+##### 例句
 - He is a man of considerable business acumen .
 	- 他是一个做生意很精明的人。
 - His business acumen helped him to succeed where others had failed .

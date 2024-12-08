@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/jɪn/； 美：/jɪn/
 - #词性/n  (中国哲学)阴
-# 例句
+##### 例句
 - The Yin and Yang forces are opposing but complementary to each other .
 	- 阴阳交错。
 - Nature keeps balanced if yin and yang work well together .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlʌmpɪʃ/； 美：/ˈlʌmpɪʃ/
 - #词性/adj  笨拙的；笨重的；愚蠢的
-# 例句
+##### 例句
 - Effect of the state of lumpish continuous casting billet sample on the accuracy of spark source atomic emission spectrometric analysis
 	- 连铸钢坯块样的状态对火花源原子发射光谱分析准确度的影响
 - The carbon loss of coke and the change of coke reactivity index in lumpish section of blast furnace were studied .

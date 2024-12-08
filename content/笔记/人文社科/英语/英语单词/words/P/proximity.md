@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prɒkˈsɪməti/； 美：/prɑːkˈsɪməti/
 - #词性/n  接近；(时间或空间)邻近；靠近
-# 例句
+##### 例句
 - Their house is in close proximity to ours .
 	- 他们的房子很接近我们的。
 - The simple analysis of proximity switch and its application to testing

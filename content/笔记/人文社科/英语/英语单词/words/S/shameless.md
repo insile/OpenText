@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈʃeɪmləs/； 美：/ˈʃeɪmləs/
 - #词性/adj  无耻的；不要脸的；没廉耻的
-# 例句
+##### 例句
 - 11 The shameless man blamed the flaming camera frame .
 	- 那个无耻的人责怪燃烧的摄影机框架。
 - No one in the village likes the man because he is a shameless hypocrite .

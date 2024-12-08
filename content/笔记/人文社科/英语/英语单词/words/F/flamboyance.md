@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  华丽；浮夸；炫耀；火焰
-# 例句
+##### 例句
 - She allows herself no flamboyance in her clothes .
 	- 她不穿华丽的衣服
 - Therefore , its floral language is flamboyance .

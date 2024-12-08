@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  在技术上；技术上地
-# 例句
+##### 例句
 - Many senior managers are technologically illiterate .
 	- 许多高级经理都对技术知之甚少。
 - Shanghai is a technologically advanced city .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmæksɪml/； 美：/ˈmæksɪml/
 - #词性/adj  最大的；最高的
-# 例句
+##### 例句
 - To conduct technology acquisition activities , scientific decision-making is needed to get the maximal value for enterprises as well as the whole society .
 	- 而进行技术获取活动需要进行科学的决策为企业以及整个社会以获取最大的价值。
 - The model harmonizes the relationship between electricity market and generator 's state effectively so as to bring the maximal maintenance benefit to the power generation plants .

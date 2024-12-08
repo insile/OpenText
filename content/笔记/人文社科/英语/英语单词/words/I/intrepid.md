@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈtrepɪd/； 美：/ɪnˈtrepɪd/
 - #词性/adj  无畏的；勇敢的
-# 例句
+##### 例句
 - John 's intrepid personality made him a good choice for team leader .
 	- 约翰勇敢的个性适合作领导工作。
 - His intrepid adversary prepared to close for the thirteenth time .

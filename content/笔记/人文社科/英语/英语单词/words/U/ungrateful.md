@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈɡreɪtfl/； 美：/ʌnˈɡreɪtfl/
 - #词性/adj  忘恩负义的；不领情的
-# 例句
+##### 例句
 - He 's an ungrateful so-and-so .
 	- 他是个忘恩负义的家伙。
 - But not this ungrateful son , who beat up his parents in the middle of the street after they purchased him a flat which he deemed too small .

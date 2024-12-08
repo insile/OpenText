@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈskɒtɪʃ/； 美：/ˈskɑːtɪʃ/
 - #词性/adj  苏格兰（人）的；苏格兰英语的
 - #词性/n  苏格兰人；苏格兰英语
-# 例句
+##### 例句
 - Scottish champs celebrate victory !
 	- 苏格兰的冠军庆祝胜利！
 - Scottish Whisky is extremely well known all over the world , with one of the biggest markets being China .

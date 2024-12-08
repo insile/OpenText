@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'telɪ/； 美：/'telɪ/
 - #词性/n  电视
-# 例句
+##### 例句
 - Chinese Tele Film : the Future and the Way
 	- 电视电影：前景与途径
 - The Developing Strategy and Narration Tactics in Chinese Tele Film

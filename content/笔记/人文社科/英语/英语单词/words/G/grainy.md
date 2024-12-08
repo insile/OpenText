@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡreɪni/； 美：/ˈɡreɪni/
 - #词性/adj  粒状的；有颗粒的；表面粗糙的；粒面的；有纹的
-# 例句
+##### 例句
 - If you have a grainy image , please also see the instructions for Image Source .
 	- 如果您有一个有颗粒的照片，也请参阅图像来源。
 - Free microscopic particles of solid material . made grainy or formed into granules .

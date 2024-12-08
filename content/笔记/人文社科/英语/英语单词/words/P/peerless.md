@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɪələs/； 美：/ˈpɪrləs/
 - #词性/adj  无与伦比；无双的；杰出的；出众的
-# 例句
+##### 例句
 - They are peerless warriors and world class drinkers all in one !
 	- 熊猫人是世间一流的品酒师，也是无与伦比的勇敢战士。
 - It seems the stories of these peerless warriors might not have been as exaggerated as I first thought .

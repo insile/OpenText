@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/məˈdʒestɪk/； 美：/məˈdʒestɪk/
 - #词性/adj  雄伟的；威严的；壮观的
-# 例句
+##### 例句
 - In the distance rose the majestic Alps .
 	- 远处耸立着雄伟的阿尔卑斯山。
 - It offers rolling terrain , with most holes surrounded by majestic Norway pines .

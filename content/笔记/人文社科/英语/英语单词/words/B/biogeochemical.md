@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  生物地球化学；生物地理化学的
-# 例句
+##### 例句
 - Application effects of remote sensing biogeochemical technology on prospecting of ore deposits
 	- 遥感生物地球化学效应技术在找矿中的应用效果
 - Biogeochemical Effect of Gold Deposit and Remote Sensing Information Extract

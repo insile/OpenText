@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtenjuəs/； 美：/ˈtenjuəs/
 - #词性/adj  脆弱的；纤细的；微弱的；缥缈的；薄的；易断的
-# 例句
+##### 例句
 - The cultural and historical links between the many provinces were seen to be very tenuous
 	- 许多省份之间的文化和历史纽带被认为是很脆弱的。
 - Though Azeroth was saved , the tenuous pact between the Horde and the Alliance has all but evaporated .

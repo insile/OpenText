@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdjʊərɪŋ/； 美：/ˈdʊrɪŋ/
 - #词性/prep  在期间；在…期间；在…期间的某个时候
-# 例句
+##### 例句
 - Drop out your existing audio during the stop motion if you want to further enhance the effect .
 	- 退出你的存在音响在期间这停止运动假如你想更进一步提高这效果。
 - Illuminated by the Albuquerque Bridge , Japanese volunteers place candle lit lanterns into the Sasebo River during the Obon festival .

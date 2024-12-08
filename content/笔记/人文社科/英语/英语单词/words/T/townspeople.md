@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtaʊnzpiːpl/； 美：/ˈtaʊnzpiːpl/
 - #词性/n  市民；(某一城镇的)居民；镇民；城里人
-# 例句
+##### 例句
 - The townspeople have raised $ 9 million for a new museum .
 	- 镇民们为建造一座新的博物馆已经筹集了9百万美元。
 - But them townspeople will never let us court them gals now .

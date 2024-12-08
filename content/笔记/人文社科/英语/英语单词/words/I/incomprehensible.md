@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˌkɒmprɪˈhensəbl/； 美：/ɪnˌkɑːmprɪˈhensəbl/
 - #词性/adj  无法理解的；难懂的
-# 例句
+##### 例句
 - And so even if angry over what he saw as incomprehensible waste and stupidity , he could also afford to stand aside and see the establishment in a more detached way .
 	- 所以，虽然他很气愤那些他无法理解的懈慢和愚蠢，但他也只能靠边站，安慰自己看开一些。
 - To the lay mind , these technical terms are incomprehensible .

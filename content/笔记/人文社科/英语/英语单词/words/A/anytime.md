@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɛniˌtaɪm/； 美：/ˈɛniˌtaɪm/
 - #词性/adv  随时；在任何时候
-# 例句
+##### 例句
 - We have a standing invitation to visit them anytime .
 	- 他们邀请我们随时去他们家作客。
 - The college admits students anytime during the year

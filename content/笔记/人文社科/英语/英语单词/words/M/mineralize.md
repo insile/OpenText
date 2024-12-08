@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  矿化；使矿化；矿化作用；矿物化
-# 例句
+##### 例句
 - The photocatalytic process can mineralize the hazardous organic chemicals to carbon dioxide , water and simple mineral acids .
 	- 光催化能够使有害有机物发生矿化作用生成二氧化碳、水和简单的矿物酸。
 - A new zirconium - uranium tyre deposit and uranium type the characteristics 631 deposit 's geology and mineralize

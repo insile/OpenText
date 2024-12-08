@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɔːˈkestrəl/； 美：/ɔːrˈkestrəl/
 - #词性/adj  管弦乐的；管弦乐队的
-# 例句
+##### 例句
 - The trumpet call melts gradually into the orchestral background .
 	- 小喇叭的号声渐渐融进管弦乐的背景音乐。
 - That Mahler was to have been his first foray into the standard symphonic literature with the orchestra , a reminder that Mr. Petrenko 's orchestral repertoire is not as wide as that of some other candidates .

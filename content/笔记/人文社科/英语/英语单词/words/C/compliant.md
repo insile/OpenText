@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəmˈplaɪənt/； 美：/kəmˈplaɪənt/
 - #词性/adj  (与系列规则相)符合的，一致的；顺从的；百依百顺的；俯首帖耳的
-# 例句
+##### 例句
 - Act as a stooge , in a compliant or subordinate manner .
 	- 演喜剧里的配角或丑角，以顺从的、下级的方式行事。
 - Be compliant ; go along with ; act in agreement with .

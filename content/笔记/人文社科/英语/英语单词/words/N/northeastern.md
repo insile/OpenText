@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌnɔːθˈiːstən/； 美：/ˌnɔrˈθistərn/
 - #词性/adj  （来自，在）东北的
-# 例句
+##### 例句
 - Fall into two main groups ( 4 ) Most of northeastern China ;
 	- 归为两大组，分为两大类四、东北的大部分；
 - Therefore , the main line is the development of religion in northeastern part of China .

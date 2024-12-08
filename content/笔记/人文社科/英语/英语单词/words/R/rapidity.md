@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  快速；迅速；速度；急速；快捷
-# 例句
+##### 例句
 - The method of variable structure control with rapidity
 	- 具有快速性的变结构控制方法
 - The stability , rapidity and accuracy of EPS system were analyzed .

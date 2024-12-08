@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pəˈseptʃuəl/； 美：/pərˈseptʃuəl/
 - #词性/adj  感知的；知觉的
-# 例句
+##### 例句
 - Cause to be thrilled by some perceptual input .
 	- 通过有知觉的输入使发抖。
 - Sensory and Perceptual Studies in the People 's Republic of China THE NEURAL MECHANISMS OF PERCEPTUAL PRIMING

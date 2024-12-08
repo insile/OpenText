@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  煽动；挑动，煽动，怂恿；热敷（罨）
-# 例句
+##### 例句
 - During the enzyme modification research , the enzyme from the fomentation was used to hydrolyze oil residual .
 	- 利用发酵得到的磷脂酶A2水解油脚，进行了酶改性研究。
 - Liquid medicine fomentation , infrared radiation , special maneuver with lotion , local sealing have obvious clinical effects .

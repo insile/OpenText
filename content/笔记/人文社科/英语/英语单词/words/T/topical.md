@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtɒpɪkl/； 美：/ˈtɑːpɪkl/
 - #词性/adj  (身体)局部的，表面的；热门话题的；当前关注的；有关时事的
-# 例句
+##### 例句
 - ( medicine ) a drug for topical ( or local ) application .
 	- （医学）局部的（或地域化的）用药。
 - Re-develop the winter vomiting bug Any time you spent being violently ill during the holidays should be clawed back off your employer now , while the norovirus is still topical .

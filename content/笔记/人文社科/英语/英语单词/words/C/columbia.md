@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəˈlʌmbiə/； 美：/kəˈlʌmbiə/
 - #词性/n  哥伦比亚
-# 例句
+##### 例句
 - Columbia recently resigned the band for a cool $ 30 million .
 	- 哥伦比亚唱片公司最近以3,000万美元的高价再次签下这个乐队。
 - When July Fourth comes around , the residents of Columbia City throw a noisy party .

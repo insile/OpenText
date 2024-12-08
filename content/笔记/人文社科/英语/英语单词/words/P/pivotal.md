@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɪvətl/； 美：/ˈpɪvətl/
 - #词性/adj  核心的；关键性的
-# 例句
+##### 例句
 - Meanwhile , the natural law theory exerted a pivotal function in regulation and construction .
 	- 其间，自然法思想发挥着关键性的调配和建构作用。
 - That would play a pivotal role in his post-KGB career .

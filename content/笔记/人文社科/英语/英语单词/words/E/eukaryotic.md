@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  真核生物；真核的，真核生物的
-# 例句
+##### 例句
 - All these results indicate that millet psbA promoter has both prokaryotic and eukaryotic characteristics .
 	- 这些结果表明小米psbA基因的启动子既具有原核的特征又具有真核的特征。
 - Mitochondria are present in all eukaryotic cells .

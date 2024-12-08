@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪmpəˈtɜːbəbl/； 美：/ˌɪmpərˈtɜːrbəbl/
 - #词性/adj  沉着的；冷静的；不易生气的
-# 例句
+##### 例句
 - Wu sun-fu listened attentively , while his eyes scanned Tu weiyueh 's imperturbable face .
 	- 吴荪甫很注意地听着，眼光在屠维岳那冷静的脸上打圈子。
 - Thomas , of course , was cool and aloof and imperturbable .

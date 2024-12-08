@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  反对者；否定者；投反对票者
-# 例句
+##### 例句
 - Be warned that the majority of people out there will go into naysayer mode automatically .
 	- 值得注意的是，这类人大多数都会自动的变为反对者。
 - A dysfunctional team , or even one naysayer in a critical position can stall your investment .

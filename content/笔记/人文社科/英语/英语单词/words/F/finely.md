@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfaɪnli/； 美：/ˈfaɪnli/
 - #词性/adv  细微的；精确地；细微地；优雅地；细小地；精巧地；精致地；华丽地；成颗粒
-# 例句
+##### 例句
 - The decision is finely balanced .
 	- 这个决定仍是个细微的变数。
 - But it is in the carvings of Persepolis , center of the Achaemenid dynasty , that the Faravahar reaches its most elaborate and finely wrought perfection .

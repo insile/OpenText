@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ænˈtɪəriə(r)/； 美：/ænˈtɪriər/
 - #词性/adj  前部的；前面的；先前的
-# 例句
+##### 例句
 - Blood supply of the anterior part of the iliac crest
 	- 髂嵴前部的血液供应
 - We have recorded with ease the unit activity of anterior hypothalamus by means of this method .

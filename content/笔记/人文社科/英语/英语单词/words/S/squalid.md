@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈskwɒlɪd/； 美：/ˈskwɑːlɪd/
 - #词性/adj  肮脏的；卑鄙的；邋遢的；丑恶的；道德败坏的
-# 例句
+##### 例句
 - Abnormal attraction to filth . Squalid or filthy ; run-down
 	- 反常的对污秽物的吸引。肮脏的，龌龊的，污秽的
 - One day Merrick couldn 't take it anymore and left his dad to live in a squalid workhouse for drunks , cripples and the mentally ill .

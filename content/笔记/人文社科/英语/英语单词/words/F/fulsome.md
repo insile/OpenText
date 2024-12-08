@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfʊlsəm/； 美：/ˈfʊlsəm/
 - #词性/adj  谄媚的；过分恭维的；感谢过头的
-# 例句
+##### 例句
 - He was fulsome in his praise of the Prime Minister .
 	- 他称赞首相时有溢美之词。
 - Her advice includes perfectly true but rather fulsome pearls of wisdom .

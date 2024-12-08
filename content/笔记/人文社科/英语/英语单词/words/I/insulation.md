@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnsjuˈleɪʃn/； 美：/ˌɪnsəˈleɪʃn/
 - #词性/n  绝缘；隔热；隔音；隔热(或隔音、绝缘)材料
-# 例句
+##### 例句
 - Better insulation of your home will help to reduce heating bills .
 	- 增加房子的隔热性能会有助于减少供暖费用。
 - High electricity bills point to a poor heating system or bad insulation

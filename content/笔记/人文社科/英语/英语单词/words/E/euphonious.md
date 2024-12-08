@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/juːˈfəʊniəs/； 美：/juːˈfoʊniəs/
 - #词性/adj  悦耳；动听的；和谐的
-# 例句
+##### 例句
 - The euphonious sound of Carrie 's cello playing always puts me at ease .
 	- 嘉莉悦耳的大提琴演奏总让我心旷神怡。
 - He was enchanted with the euphonious music .

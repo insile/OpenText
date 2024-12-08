@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pəˈkʌsɪv/； 美：/pərˈkʌsɪv/
 - #词性/adj  打击声的；打击乐器声的
-# 例句
+##### 例句
 - When it is dragged over pliant areas , an additional percussive tap could indicate this collision .
 	- 当它被拖到受范区域时，一个附加的敲击声提示这种碰触
 - Percussive maintenance happens when your piece of electronic device -- television , computer , etc -- won 't work , you give it a sharp unscientific whack4 to revive it .

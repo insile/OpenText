@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  非人类的;不属于人类的
-# 例句
+##### 例句
 - Also , nonhuman nature not only exists , but is dialectical .
 	- 并且，这个先在自然不仅是客观存在的，而且是辩证运动的。
 - Genetic control is an important component of the general management of nonhuman primate colonies .

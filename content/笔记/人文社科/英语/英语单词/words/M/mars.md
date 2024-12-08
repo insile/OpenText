@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/mɑːz/； 美：/mɑːrz/
 - #词性/n  火星
-# 例句
+##### 例句
 - The atmosphere of Mars could not support life .
 	- 生命无法在火星的大气环境下生存。
 - Mars takes longer to revolve on its axis than the earth .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌəʊʃəˈnɒɡrəfi/； 美：/ˌoʊʃəˈnɑːɡrəfi/
 - #词性/n  海洋学
-# 例句
+##### 例句
 - The latest techniques in oceanography are now available to many more scientists .
 	- 更多的科学家现在能够接触到海洋学的最新技术。
 - So , Dr Katsia Pabortsava , from the National Oceanography Centre in Southampton , led an expedition to find all that missing microplastic – particles , smaller than the diameter of a human hair – floating in the Atlantic .

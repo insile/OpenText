@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈnɜːʃə/； 美：/ɪˈnɜːrʃə/
 - #词性/n  惯性；惰性；保守；缺乏活力
-# 例句
+##### 例句
 - This might help you overcome inertia .
 	- 这可能有助于你克服惰性。
 - He had to overcome his inertia and get back to work .

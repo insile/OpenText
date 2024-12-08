@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  浪漫主义者；配对媒人；讲虚构故事的人；传奇小说作家
-# 例句
+##### 例句
 - You keep twenty pounds in reserve , do you , you young romancer ?
 	- 你留下20英镑，是不是，你这个小传奇作家？
 - She must look at everything from its dollar-and-cent point of view , or she is a mere romancer .

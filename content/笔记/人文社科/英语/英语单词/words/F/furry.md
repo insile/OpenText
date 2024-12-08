@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɜːri/； 美：/ˈfɜːri/
 - #词性/adj  覆盖毛皮的；穿戴毛皮衣物的；毛皮似的；毛一般的
-# 例句
+##### 例句
 - The moss was soft and furry to the touch .
 	- 苔藓柔软，摸起来像绒毛。
 - Mugsy is a big furry brown dog , who wiggles when she is happy .

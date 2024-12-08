@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/juːˈdʒɛnɪk/； 美：/juˈdʒɛnɪk/
 - #词性/adj   优生学的；优生的；优种的
-# 例句
+##### 例句
 - In China , each couple is required to carry out a eugenic plan strictly .
 	- 中国要求每对夫妇都要严格执行优生计划。
 - He had eugenic solutions for the problem .

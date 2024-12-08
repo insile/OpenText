@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/juˈniːknəs/； 美：/juˈniːknəs/
 - #词性/n  唯一性；独特性；重要性；单一性；单值性
-# 例句
+##### 例句
 - The author stresses the uniqueness of the individual .
 	- 这位作者强调个人的独特性。
 - America 's belief in its own God-ordained uniqueness started to erode .

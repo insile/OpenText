@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈskɪtɪʃ/； 美：/ˈskɪtɪʃ/
 - #词性/adj  轻浮的；变幻莫测的；反复无常的；说变就变的；易变的；易激动的；易惊而难以驾驭的
-# 例句
+##### 例句
 - The declining dollar gave heart to skittish investors .
 	- 美元的衰落给总是担惊受怕的投资者们带来了信心。
 - I won 't have my son associating with skittish girls .

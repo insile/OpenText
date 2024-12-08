@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'dɪktəˌfəʊn/； 美：/'dɪktəˌfoʊn/
 - #词性/n  口述录音机；录音机，口授留声机
-# 例句
+##### 例句
 - We might say that the waking state is equivalent to recording information on a dictaphone ;
 	- 我们可以说，醒着的状态等于在口述录音机上录信息；
 - He dictated a message onto the dictaphone .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəˌlaɪdəˈskɒpɪk/； 美：/kəˌlaɪdəˈskɑːpɪk/
 - #词性/adj  万花筒的；(色彩、图案、形状等)千变万化的，瞬息万变的
-# 例句
+##### 例句
 - One cannot have kaleidoscopic illusions unless he is in nature , for the fixture of photos leaves little room for perception ;
 	- 只有身处大自然中时，才能生发千变万化的错觉，面对已定型的照片，感受已很少回旋余地；
 - It 's back to the future for Spring with metallic fabrics , kaleidoscopic patterns , and the return of the futuristic warrior .

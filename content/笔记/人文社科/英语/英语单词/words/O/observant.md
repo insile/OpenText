@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əbˈzɜːvənt/； 美：/əbˈzɜːrvənt/
 - #词性/adj  善于观察的；观察力敏锐的；谨慎遵守教规和习俗的
 - #词性/n  严守者；【天主】(方济各会)严守教规的修道士
-# 例句
+##### 例句
 - An observant doctor can often detect depression from expression , posture , and movement .
 	- 善于观察的医生常常能从人的表情、姿势以及动作诊察出抑郁症。
 - and it attempted to show how much an observant man might learn by an accurate and systematic examination of all that came in his way .

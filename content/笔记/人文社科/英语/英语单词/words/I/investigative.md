@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈvestɪɡətɪv/； 美：/ɪnˈvestɪɡeɪtɪv/
 - #词性/adj  侦查的；调查研究的
-# 例句
+##### 例句
 - Base on the above reason , this research adoption investigates the investigative method , using cartel 16 kinds of personalities characteristic the deal the form to livings to create to the senior high school the sex personality characteristic proceed the inquisition .
 	- 基于上述原因，本研究采用调查研究的方法，用卡特尔16种人格因素量表对高中生人格特征进行两次调查。
 - About the scope of investigative power , There are not questioning victims , identify , inquiry and freeze , clandestine investigation on investigative authority listed in The Criminal Procedure of China .

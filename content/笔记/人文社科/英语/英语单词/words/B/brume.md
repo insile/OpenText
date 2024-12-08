@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  水气；雾，霭
-# 例句
+##### 例句
 - together we share brume , flowing mist , rainbow
 	- 我们共享雾霭、流岚、虹霓，
 - Results : The best imagine edge effect and visual sense definition for red free light picture contrast is 0.87.Grey brume is the second important parameter .

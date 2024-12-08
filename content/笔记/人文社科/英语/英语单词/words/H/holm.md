@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/həʊm/； 美：/hoʊm/
 - #词性/n  霍姆；河边低地；沿河平地；沿河低地；河（或湖）中小岛；山；悬崖
-# 例句
+##### 例句
 - The world premiere of Harold Pinter 's new play casts Ian Holm in the lead role
 	- 哈罗德·品特新剧的世界首演由伊恩·霍尔姆担纲主演。
 - An Introduction of IEEE Holm Electrical Contact Conference

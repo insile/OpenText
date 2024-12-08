@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmæn ˈmeɪd/； 美：/ˌmæn ˈmeɪd/
 - #词性/adj  人造的；非天然的
-# 例句
+##### 例句
 - By1600 , this controlling , man-made mechanical time and clock was perfected .
 	- 西元1600年，这控制的人造的机械时间时钟变成理想的。
 - But last year , the government announced plans to revoke those protections , allowing for the construction of hydropower plants ( instead of glaciers and free-flowing rivers , imagine man-made reservoirs , dams , paved roads and power lines ) .

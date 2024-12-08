@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɒptɪmɪzəm/； 美：/ˈɑːptɪmɪzəm/
 - #词性/n  乐观；乐观主义
-# 例句
+##### 例句
 - Optimism remains the right starting-point , but for workers the dislocating effects of technology may make themselves evident faster than its rhythm .
 	- 乐观主义仍然是正确的出发点,但对工人来说,技术的错位效应可能会比其节奏更快地显现出来。
 - He explained the optimism of tragedy in an whole new way .

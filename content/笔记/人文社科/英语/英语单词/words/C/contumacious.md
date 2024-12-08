@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkɒntjuˈmeɪʃəs/； 美：/ˌkɑːntuˈmeɪʃəs/
 - #词性/adj  不服从的；违抗的；藐视权威的
-# 例句
+##### 例句
 - There is another efficacious method for subduing the most obstinate , contumacious sinner .
 	- 有另一个有效的方法来镇压那最为顽固、抗命不从的罪人。
 - For contumacious desire destroys its owner and makes him the sport of his enemies .

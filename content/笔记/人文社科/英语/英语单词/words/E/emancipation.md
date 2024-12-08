@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˌmænsɪˈpeɪʃən/； 美：/ɪˌmænsəˈpeɪʃən/
 - #词性/n  解放；释放；脱离；自立
-# 例句
+##### 例句
 - The world identifies Lincoln with emancipation .
 	- 全世界把林肯与解放黑奴联系在一起。
 - The history of human social development is one of human emancipation .

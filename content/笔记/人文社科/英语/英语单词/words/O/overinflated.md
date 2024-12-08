@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌəʊvərɪnˈfleɪtɪd/； 美：/ˌoʊvərɪnˈfleɪtɪd/
 - #词性/adj  过度充气的；夸大的；过高的；言过其实的；夸张的；过于高涨的
-# 例句
+##### 例句
 - Overinflated tyres burst more easily .
 	- 充气过量的轮胎更容易爆裂。
 - The decision to divide the overinflated banks into old and new banks has proved important to the recovery process .

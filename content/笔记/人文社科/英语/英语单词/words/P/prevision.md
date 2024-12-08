@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  预见；预知；预见性；先见；远见
-# 例句
+##### 例句
 - Good ability in planning , prevision and problems solving .
 	- 较好的计划、预见和解决问题的能力。
 - Ampere 's Prevision on Elements Chlorine , Fluorine and Iodine

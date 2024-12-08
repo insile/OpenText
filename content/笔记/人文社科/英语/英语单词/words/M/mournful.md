@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɔːnfl/； 美：/ˈmɔːrnfl/
 - #词性/adj  悲哀的；悲痛的；忧伤的
-# 例句
+##### 例句
 - Silent , mournful , abandoned , broken , Czechoslovakia recedes into the darkness .
 	- 缄默的、悲哀的、被抛弃的、支离破碎的捷克斯洛伐克，已在黑暗之中
 - None answered to the roll call , each one had passed away ; we felt the pain and the anguish , on that sad and mournful day .

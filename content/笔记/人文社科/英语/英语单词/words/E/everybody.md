@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈevribɒdi/； 美：/ˈevribɑːdi/
 - #词性/pron  (某个群体中的)每个人；所有人；人们
-# 例句
+##### 例句
 - I 'd asked everybody but only two people came .
 	- 每个人我都请了，却只来了两个人。
 - There was nowhere near enough for everybody .

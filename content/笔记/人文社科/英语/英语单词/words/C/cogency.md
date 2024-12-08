@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  说服力；（复）令人信服的说法
-# 例句
+##### 例句
 - The film makes its points with cogency and force .
 	- 影片强有力地阐明了主旨。
 - The proposition " cogency " to a certain extent renewed the poetry language research method ;

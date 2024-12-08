@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɒzˈməʊsɪs/； 美：/ɑːzˈmoʊsɪs/
 - #词性/n  渗透；潜移默化；耳濡目染；透析
-# 例句
+##### 例句
 - Water passes into the roots of a plant by osmosis .
 	- 水经透析进入植物根部。
 - The dynamic osmosis method was used to study the drug release characteristics of DHAQ EC MS.

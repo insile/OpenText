@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈmɔːfəs/； 美：/əˈmɔːrfəs/
 - #词性/adj  无定形；无组织的；不规则的；无固定形状的
-# 例句
+##### 例句
 - The Effect of Amorphous Materials on the Mechanical Property and Structure of Soil
 	- 无定形物质对土的力学性质和结构的影响
 - The theory of phase transition of a new spin structure in amorphous materials

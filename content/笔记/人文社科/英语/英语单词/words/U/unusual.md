@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈjuːʒuəl/； 美：/ʌnˈjuːʒuəl/
 - #词性/adj  不寻常的；特别的；罕见的；与众不同的；独特的；别致的
-# 例句
+##### 例句
 - Pep up meals by adding more unusual spices .
 	- 加些特别的调料使饭菜味道更佳。
 - Do you have anything in a more unusual style ?

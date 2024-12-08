@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhærəsmənt/； 美：/həˈræsmənt/
 - #词性/n  骚扰；烦扰
-# 例句
+##### 例句
 - They have a policy of zero tolerance for sexual harassment .
 	- 他们对性骚扰采取绝不容忍的政策。
 - The harassment had become too much to tolerate and he decided to move out

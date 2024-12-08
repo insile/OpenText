@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/hɪˈleəriəs/； 美：/hɪˈleriəs/
 - #词性/adj  令人捧腹的；极其滑稽的
-# 例句
+##### 例句
 - The show was hilarious ─ I couldn 't stop laughing .
 	- 表演十分滑稽，弄得我笑个不停。
 - Lynn found the whole situation hilarious .

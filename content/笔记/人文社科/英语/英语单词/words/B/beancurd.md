@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  豆腐
-# 例句
+##### 例句
 - The beancurd has gone bad .
 	- 豆腐已酸腐变质。
 - Study on Cellulase Degradation of Soybean Cell wall to Produce Beancurd

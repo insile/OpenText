@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/bəˈnæləti/； 美：/bəˈnæləti/
 - #词性/n  平庸；陈词滥调；平淡乏味；陈腐的事物
-# 例句
+##### 例句
 - The danger of banality is an insidious one .
 	- 平庸的危险是隐性的。
 - Its superficiality and banality could be interpreted as a critique of shopping .

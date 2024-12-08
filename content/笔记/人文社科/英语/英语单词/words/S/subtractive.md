@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  减去的；负的；有负号的
-# 例句
+##### 例句
 - Infrared Remote Sensing Target Classification Based on ANFIS and Subtractive Clustering
 	- 基于ANFIS和减法聚类的遥感红外目标分选
 - On the FCM Clustering based on Subtractive Clustering and Cluster Validity Evaluation

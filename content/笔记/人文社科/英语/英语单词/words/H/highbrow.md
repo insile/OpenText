@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhaɪbraʊ/； 美：/ˈhaɪbraʊ/
 - #词性/adj  高雅的；关于正统艺术(或文化)思想的；对正统的艺术(或文化)感兴趣的
 - #词性/n  有文化修养的人；有高雅趣味的人
-# 例句
+##### 例句
 - He presents his own highbrow literary programme .
 	- 他介绍了自己那个专业性很强的文学项目的情况。
 - Highbrow critics sniff that the programme was ' too sophisticated ' to appeal to most viewers .

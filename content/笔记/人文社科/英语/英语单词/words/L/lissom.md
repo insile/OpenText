@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlɪsəm/； 美：/ˈlɪsəm/
 - #词性/adj  苗条的；轻盈优美的；袅娜的
-# 例句
+##### 例句
 - Look at the air floating your lissom dance .
 	- 看那空中漂浮着你轻盈的舞姿。
 - Finally I resided in warm , and your lissom in this season .

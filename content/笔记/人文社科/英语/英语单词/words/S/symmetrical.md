@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/sɪˈmetrɪkl/； 美：/sɪˈmetrɪkl/
 - #词性/adj  对称的
-# 例句
+##### 例句
 - The laws of physics are symmetrical for translational displacements .
 	- 物理定律对平移是对称的
 - The new system can generate highly symmetrical double-wing attractor .

@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈstrɪndʒənt/； 美：/ˈstrɪndʒənt/
 - #词性/adj  严格的；严厉的；（货币）紧缩的；紧缩的；短缺的
-# 例句
+##### 例句
 - The Turkish president has gone on television to defend stringent new security measures
 	- 土耳其总统上电视为严格的新安全措施进行辩护。
 - He announced that there would be more stringent controls on the possession of weapons

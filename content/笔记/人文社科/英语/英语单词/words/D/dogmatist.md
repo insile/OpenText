@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  教条主义者
-# 例句
+##### 例句
 - I wonder if you realize that , you dogmatist .
 	- 我不知道你是否意识到这一点，你这个教条主义者。
 - Science can be achieved is not as simple as dogmatist envisaged things themselves , but only the relations between things . In addition to these relationships , it is known that unknown reality does not exist .

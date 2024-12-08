@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfʌstiən/； 美：/ˈfʌstʃən/
 - #词性/n  纬起绒布(旧时用作衣料)；浮夸的言语
 - #词性/adj  粗斜纹布制的；浮夸的；无价值的
-# 例句
+##### 例句
 - Fustian can 't disguise the author 's meager plot .
 	- 浮夸的文章掩饰不住这个作者的贫乏情节。
 - His fustian shirt , sanguineflowered , trembles its Spanish tassels at his secrets .

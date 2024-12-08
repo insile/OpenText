@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkrɪmɪˈnɒlədʒi/； 美：/ˌkrɪmɪˈnɑːlədʒi/
 - #词性/n  犯罪学
-# 例句
+##### 例句
 - The Current Situation and Development of China Criminology Research
 	- 中国犯罪学研究现状及其发展
 - Method Study and Research Methods of Criminology

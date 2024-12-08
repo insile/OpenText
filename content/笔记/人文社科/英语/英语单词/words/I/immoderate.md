@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈmɒdərət/； 美：/ɪˈmɑːdərət/
 - #词性/adj  过度的；不合理的；极端的；不适度的
-# 例句
+##### 例句
 - He launched an immoderate tirade on Turner .
 	- 他针对特纳发表了一篇极端激愤的长篇演说。
 - " In contrast , " the researchers continue , " many regulations that don 't assume people make rational choices have been successfully applied to control alcohol , a substance — like food — of which immoderate consumption leads to serious health problems . ' '

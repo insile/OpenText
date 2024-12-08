@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/maɪˈældʒə/； 美：/maɪˈældʒə/
 - #词性/n  肌痛
-# 例句
+##### 例句
 - Mechanism of rotary constant-strength magnetic field to cure myalgia induced by sport
 	- 旋转恒定强磁治疗运动后肌痛机理研究
 - The main adverse effects included leukopenia , alopecia and myalgia .

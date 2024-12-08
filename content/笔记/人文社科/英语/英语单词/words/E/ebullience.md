@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  热情洋溢；沸腾；（感情等的）奔放，兴高采烈
-# 例句
+##### 例句
 - Study on Fast Burning Cement Suspension Ebullience Kiln
 	- 水泥快速烧成-悬浮沸腾窑的研究
 - Introduce the process flow , major equipment and the plant features of multistage ebullience fluidized calcination cooling technology .

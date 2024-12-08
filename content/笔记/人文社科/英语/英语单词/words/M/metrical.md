@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmetrɪkl/； 美：/ˈmetrɪkl/
 - #词性/adj  韵律的；格律的
-# 例句
+##### 例句
 - A composition written in metrical feet forming rhythmical lines .
 	- 以有韵律的韵脚写成的构成韵律行的作品。
 - He emphasizes rhythmic time , metrical harmonious beauty , and clean and tidy sentence structure so as to form a unique writing style to impress readers with changes of tidiness and terseness .

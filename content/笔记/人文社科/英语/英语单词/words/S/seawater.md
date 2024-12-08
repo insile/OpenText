@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsiːˌwɔːtə/； 美：/ˈsiˌwɑtər/
 - #词性/n  海水
-# 例句
+##### 例句
 - Study on a new method of measurement of seawater transparency
 	- 一种海水透明度测量新方法的研究与实现
 - Application of Infiltration Intake Technology in Seawater Source Heat Pump System

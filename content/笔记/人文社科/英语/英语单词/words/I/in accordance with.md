@@ -5,9 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪn əˈkɔːdns wɪð/； 美：/ɪn əˈkɔːrdns wɪð/
-# 例句
+- #词性/adv  与……一致；按照……的规定或要求
+##### 例句
 - Most people believe they conduct their private and public lives in accordance with Christian morality .
 	- 大多数人认为他们是依照基督教的道德体系来处理自己的私生活和公共事务的。
 - Entries which are not in accordance with the rules will be disqualified .

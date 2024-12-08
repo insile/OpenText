@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈprɒflɪɡəsi/； 美：/ˈprɑːflɪɡəsi/
 - #词性/n  挥霍；浪费
-# 例句
+##### 例句
 - Subsequently , this statement was quoted widely in the colony as an evidence of profligacy .
 	- 结果这句话成为肆意挥霍的一个例证在那块领地里传开了
 - IN GERMAN EYES this crisis is all about profligacy .

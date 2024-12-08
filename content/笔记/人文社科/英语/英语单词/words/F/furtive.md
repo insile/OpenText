@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɜːtɪv/； 美：/ˈfɜːrtɪv/
 - #词性/adj  偷偷摸摸的；鬼鬼祟祟的；遮遮掩掩的
-# 例句
+##### 例句
 - His furtive behaviour aroused our suspicion .
 	- 他鬼鬼祟祟的行为引起了我们的怀疑。
 - The man 's furtive manner made the policeman follow him .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈdɔːntɪd/； 美：/ˌʌnˈdɔːntɪd/
 - #词性/adj  百折不挠；顽强；坚强不屈；未被吓倒的
-# 例句
+##### 例句
 - He seemed undaunted by all the opposition to his idea .
 	- 尽管他的思想屡遭非难，他似乎仍然百折不挠。
 - As long as we fight on undaunted , the final victory will be ours .

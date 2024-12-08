@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdɪmli/； 美：/ˈdɪmli/
 - #词性/adv  模糊地；暗淡地；昏暗地
-# 例句
+##### 例句
 - When you give a speech , you can often only dimly see the people out there .
 	- 你在发表演讲时，往往只能模糊地看到下面的人群。
 - They but dimly represent the great surging feelings and desires which lie behind .

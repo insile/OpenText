@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/trænˈzɪʃənl/； 美：/trænˈzɪʃənl/
 - #词性/adj  (时期)过渡的；过渡性的;过渡时期的
-# 例句
+##### 例句
 - As a transitional step or in a transitional manner .
 	- 像一个过渡的步骤或者以过渡的方式。
 - This chapter reviews the developing history of credit risk measurement models , these models can be divided into three groups : classic credit risk analysis method , modern credit risk quantitative measurement models and transitional models .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈferəs/； 美：/ˈferəs/
 - #词性/adj  铁的；含铁的
-# 例句
+##### 例句
 - Determination of Zinc and Ferrous Ion in Drugs by Ion Chromatography
 	- 离子色谱法检测含锌和含铁的药物
 - Argon serves as a shielding gas to protect metals from oxidation during welding . Inert gas welding is the preferred method of joining several ferrous and nonferrous alloys .

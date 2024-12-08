@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈpɜːviəs/； 美：/ɪmˈpɜːrviəs/
 - #词性/adj  不透水的；不透气的；不能渗透的；不受影响的
-# 例句
+##### 例句
 - All surfaces inside the building should be of impervious material to permit thorough washing .
 	- 建筑里所有的表面都应当用不透水的材料这样可以彻底清洗。
 - The pit bottom should be impervious , which is benefit to soil moisture moving in horizontal direction ;

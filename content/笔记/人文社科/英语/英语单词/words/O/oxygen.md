@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɒksɪdʒən/； 美：/ˈɑːksɪdʒən/
 - #词性/n  氧；氧气
-# 例句
+##### 例句
 - Humans take in oxygen and breathe out carbon dioxide .
 	- 人吸入氧气，呼出二氧化碳。
 - All life depends ultimately on oxygen .

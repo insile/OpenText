@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  化学超净的
-# 例句
+##### 例句
 - Theory Study of Light Scattering Measurement Technology on Particulate Contamination under Ultraclean Environment
 	- 超净介质中颗粒状杂质的光散射测试技术的理论研究
 - Research on Producing Ultraclean Industrial Pure Iron

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  水文的；水文学的
-# 例句
+##### 例句
 - Advances in Research about Influence of Microbiotic Crust on Soil Hydrological Process in Semiarid & Arid Zones
 	- 干旱、半干旱地区微生物结皮土壤水文学的研究进展
 - Study on Parameter Optimization Algorithm and Its Application in Hydrological Model

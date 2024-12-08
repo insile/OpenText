@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈʌpkʌmɪŋ/； 美：/ˈʌpkʌmɪŋ/
 - #词性/adj  即将到来的；即将发生(或来临)的
-# 例句
+##### 例句
 - We 'll face a tough fight in the upcoming election .
 	- 在即将到来的选举中，我们将面临一场恶斗。
 - The upcoming movie " Now You See Me : The Second Act " has released its full character posters .

@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌriːˈsaɪkləbl/； 美：/ˌriːˈsaɪkləbl/
 - #词性/adj  可回收利用的，可再循环的
 - #词性/n  可被再利用物，可被回收的物品
-# 例句
+##### 例句
 - The residual activated sludge contains large amounts of recyclable material , which is the material basis of its resourcefulness .
 	- 剩余活性污泥中含有大量可回收利用的物质，这是实现其资源化的物质基础。
 - In consideration of the legal regulations and competitive differentiation the importance of recyclable products even in the capital goods industry gets more significant .

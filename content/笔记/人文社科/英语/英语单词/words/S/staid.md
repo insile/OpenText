@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/steɪd/； 美：/steɪd/
 - #词性/adj  古板的；一本正经的；没意思的
-# 例句
+##### 例句
 - I always thought of him as a rather staid old gentleman .
 	- 我一直以为他是个相当古板的绅士。
 - The museum is trying to get rid of its staid image .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtɪklɪʃ/； 美：/ˈtɪklɪʃ/
 - #词性/adj  怕痒的；棘手的；难对付的；使喉咙发痒的；难处理的；易痒的
-# 例句
+##### 例句
 - This massage method is not recommended for anyone who is very ticklish .
 	- 这种按摩法不推荐给怕痒的人使用。
 - Strangely enough , even if a person knows that they are about to be tickled , the fear of being touched may cause the same ticklish reaction .

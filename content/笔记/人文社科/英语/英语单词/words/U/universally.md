@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌjuːnɪˈvɜːsəli/； 美：/ˌjuːnɪˈvɜːrsəli/
 - #词性/adv  到处；一致地；随时随地；在各种情况下；共同地；全体地
-# 例句
+##### 例句
 - This treatment is not universally available .
 	- 这种疗法不是到处都有的。
 - Cash is , by its very nature , universally transferable .

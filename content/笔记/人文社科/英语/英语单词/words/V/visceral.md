@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɪsərəl/； 美：/ˈvɪsərəl/
 - #词性/adj  内脏的；(未经过认真思考而)出自内心的，发自肺腑的；脏腑的
-# 例句
+##### 例句
 - " Scientific and clinical interest in epicardial adipose tissue , the visceral fat located around the heart , is new but rapidly emerging ," lead investigator Dr.
 	- 心外膜脂肪的科学的和临床的兴趣，内脏的脂肪位于心脏周围是新的但是是迅速出现的。
 - Methods In SD rats CRD was used as noxious visceral stimuli .

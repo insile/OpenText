@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈrævənəs/； 美：/ˈrævənəs/
 - #词性/adj  严重的；十分的；极其饥饿的
-# 例句
+##### 例句
 - What 's for lunch ? I 'm absolutely ravenous .
 	- 午饭吃什么？我饿死了。
 - Amy realized that she had eaten nothing since leaving Bruton Street , and she was ravenous .

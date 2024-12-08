@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  专心地
-# 例句
+##### 例句
 - Reading a novel intently , I did not realize he came in .
 	- 因为专心地看小说，我没注意到进来。
 - Most of the nervous studentbegan intently scribbling out long dissertations .

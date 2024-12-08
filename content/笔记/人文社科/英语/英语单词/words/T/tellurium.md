@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/teˈljʊəriəm/； 美：/teˈlʊriəm/
 - #词性/n  碲
-# 例句
+##### 例句
 - Influence of Ordinary Powder Additives on Chilling Effect of Tellurium Coating
 	- 常用粉料对碲涂料激冷能力的影响
 - Application Research on Surfactant & Kinetic Spectrophotometric Determination of Trace Selenium and Tellurium

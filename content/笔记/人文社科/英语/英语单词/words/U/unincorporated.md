@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnɪnˈkɔːpəreɪtɪd/； 美：/ˌʌnɪnˈkɔrpəˌreɪtɪd/
 - #词性/adj  未合并的；未立案的；未组成公司（团体）的，未赋予组成法人资格的，非法人的
-# 例句
+##### 例句
 - On the Legal Status and Legislation Mode of the Unincorporated Organizations
 	- 非法人组织的法律地位及其立法模式&兼评《民法（草案）》总则有关条文
 - Main body of civil law is person . On Status of Civil Subject of Unincorporated Body

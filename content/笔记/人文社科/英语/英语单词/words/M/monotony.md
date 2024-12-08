@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/məˈnɒtəni/； 美：/məˈnɑːtəni/
 - #词性/n  单调；千篇一律
-# 例句
+##### 例句
 - A night on the town may help to break the monotony of the week .
 	- 进城住一晚或许有助于消除一周生活的单调。
 - The warmth of the room and the monotony of the speaker 's voice grew soporific .

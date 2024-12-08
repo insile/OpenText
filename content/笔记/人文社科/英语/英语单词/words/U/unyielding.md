@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈjiːldɪŋ/； 美：/ʌnˈjiːldɪŋ/
 - #词性/adj  坚定的；坚固的；顽强不屈的；固执的；不弯曲的
-# 例句
+##### 例句
 - With mutually cherished memories , pure love , and an unyielding promise . I promise in my own name to take on all her love , hope and grief forever and forever .
 	- 带着相互珍惜的回忆、纯洁的爱情与一段坚定的承诺。我用我的名字发誓承担她所有的爱情、希望和悲痛，永远，永远。
 - The final product struck a mixed tone . One part sadness , one part resolve , one part unyielding optimism , Mr. Blatter 's speech urged FIFA and its members to do a better job policing themselves .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˌsætɪsˈfæktəri/； 美：/ˌʌnˌsætɪsˈfæktəri/
 - #词性/adj  不能令人满意的；不够好的
-# 例句
+##### 例句
 - Most teachers and students would probably agree that examinations are unsatisfactory .
 	- 大多数教师和学生可能都会同意，考试是不能令人满意的。
 - This table illustrates clearly the discrepancy between the soaring medical expenses and the unsatisfactory hospital facilities .

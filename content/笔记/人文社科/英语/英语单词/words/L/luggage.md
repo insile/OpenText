@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlʌɡɪdʒ/； 美：/ˈlʌɡɪdʒ/
 - #词性/n  行李
-# 例句
+##### 例句
 - There 's room for one more piece of luggage .
 	- 还有地方再放一件行李。
 - Our luggage was checked all the way through to our final destination .

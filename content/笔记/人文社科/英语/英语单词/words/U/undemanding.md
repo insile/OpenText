@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌndɪˈmɑːndɪŋ/； 美：/ˌʌndɪˈmændɪŋ/
 - #词性/adj  随和的；不要求照顾的；不费力的；不费神的；轻松容易的；不强求的
-# 例句
+##### 例句
 - Over a tenth of the population have secure , undemanding jobs
 	- 超过1\/10的人口拥有稳定且相对轻松的工作。
 - The book is an enjoyable and undemanding read .

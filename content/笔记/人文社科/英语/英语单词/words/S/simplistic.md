@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/sɪmˈplɪstɪk/； 美：/sɪmˈplɪstɪk/
 - #词性/adj  (把问题、局面等)过分简单化的
-# 例句
+##### 例句
 - It must be said that this is a simplistic argument that goes against fair taxation .
 	- 不得不说这是一个过分简单化的理由，违反了公平纳税原则。
 - The simplistic view of commercialized media continues in only slightly more sophisticated form from its origins early in this century .

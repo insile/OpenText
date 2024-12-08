@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəˌmɜːʃəlaɪˈzeɪʃ(ə)n/； 美：/kəˌmɜrʃəlɪˈzeɪʃən/
 - #词性/n  商业化；商品化
-# 例句
+##### 例句
 - Study on Different Stage Oriented Assessment Model of New Technology Commercialization
 	- 新技术商业化分阶段评价模型研究
 - An Empirical Study on the Key Factors of the New Technology Commercialization

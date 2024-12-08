@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsiːfeərɪŋ/； 美：/ˈsiːferɪŋ/
 - #词性/adj  海上劳作(或航行)的
 - #词性/n  航海业；当海员
-# 例句
+##### 例句
 - The Lebanese were a seafaring people .
 	- 黎巴嫩人曾是一个航海民族。
 - Her former consort , I understand , was a seafaring man .

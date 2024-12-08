@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkəʊəˈlɛsns/； 美：/ˌkoʊəˈlɛsəns/
 - #词性/n  聚结；合并；联合；接合
-# 例句
+##### 例句
 - Methods , Mechanism and Application of Coalescence Separation
 	- 聚结分离过程的机理、方法及应用
 - Study on crack coalescence process under loading and hydraulic pressures

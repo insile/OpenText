@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈθiːɪzəm/； 美：/ˈθiːɪzəm/
 - #词性/n  有神论
-# 例句
+##### 例句
 - The usual theism is more insipid .
 	- 平常的有神论则更淡而无味了。
 - Here comes in the question of money Theism remains , however .

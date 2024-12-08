@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  不方便的；不合式的；狭小得无回旋余地的
-# 例句
+##### 例句
 - Indeed , while the internal structure of the code that comprises the application is incommodious to change and difficult to trace , externally the system may fulfill its functional requirements well .
 	- 必须承认，当组成程序的代码的内部结构不适应更改，或者很难追踪时，在外部系统可能还会很好的履行它的职责。
 - Methods Incommodious bile duct was restored by making gallbladder one ( lamella ) with cystic artery into half - cannular or cannular gallbladder one ( lamella ) .

@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/slæŋ/； 美：/slæŋ/
 - #词性/n  俚语；行话，黑话
 - #词性/v  口>辱骂，谩骂；<英俚>欺骗，诈取；用俚语对…说
-# 例句
+##### 例句
 - He tends to use a lot of slang expressions that I 've never heard before .
 	- 他往往用许多我以前从未听说过的俚语。
 - Slang often goes in and out of fashion quickly .

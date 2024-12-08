@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/wɪɡ/； 美：/wɪɡ/
 - #词性/n  （英）辉格党；（美）共和党党员
 - #词性/adj  辉格党的；支持辉格党的
-# 例句
+##### 例句
 - Section two discusses the attitude of Whig to the political issues during this period .
 	- 第二节介绍了辉格党对这一时期主要政治问题的态度。
 - The Whig was gradually formed in this process .

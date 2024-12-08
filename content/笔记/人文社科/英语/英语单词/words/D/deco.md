@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdekəʊ/； 美：/ˈdekoʊ/
 - #词性/n  装饰；装饰，装饰品
-# 例句
+##### 例句
 - The Research of Design 's Style in Art Deco & Post Modernism
 	- 装饰艺术与后现代主义设计的风格比较研究
 - Art deco in its many forms was largely perceived as thoroughly modern .

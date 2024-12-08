@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌriːəˈlɪstɪkli/； 美：/ˌriːəˈlɪstɪkli/
 - #词性/adv  (表明你认为实际实现的可能性)如实地，实际地；逼真地；切合实际地；栩栩如生地；明智地
-# 例句
+##### 例句
 - Kate spoke realistically about the task ahead .
 	- 凯特如实地谈了面临的任务。
 - The Great Gatsby he writes realistically records people 's mental condition in that special historical period .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈprɒvɪdəns/； 美：/ˈprɑːvɪdəns/
 - #词性/n  上帝；天佑；苍天
-# 例句
+##### 例句
 - To act as you have done is to fly in the face of Providence .
 	- 照你的所作所为那样去行事，是违背上帝的意志的。
 - Providence appears to me to have no share in this affair ;

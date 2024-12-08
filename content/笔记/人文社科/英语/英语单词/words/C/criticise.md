@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  批评
-# 例句
+##### 例句
 - You can criticise him until you 're blue in the face , but you 'll never change his personality .
 	- 即使你苦口婆心地批评他，也改变不了他的个性。
 - Far be it from me to criticise , but shouldn 't their mother take a share of the blame ?

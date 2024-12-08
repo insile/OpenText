@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/vəˈluːmɪnəs/； 美：/vəˈluːmɪnəs/
 - #词性/adj  庞大的；浩繁的；宽松的；长篇的；很大的；冗长的；大部头的；肥大的；用布料多的
-# 例句
+##### 例句
 - Iron and aluminum compounds precipitate as a voluminous sludge .
 	- 铁和铝的化合物成为一种体积庞大的蓬松的游渣沉淀下来。
 - This is financed by paying Chinese households low or negative inflation-adjusted returns on their voluminous bank deposits .

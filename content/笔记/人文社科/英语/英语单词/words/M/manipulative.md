@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/məˈnɪpjələtɪv/； 美：/məˈnɪpjəleɪtɪv/
 - #词性/adj  善于操纵的；熟练操作的；会控制的；会摆布人的；有操作能力的
-# 例句
+##### 例句
 - He described Mr Long as cold , calculating and manipulative
 	- 他说郎先生是个冷酷、算计，又爱摆布人的人。
 - He is sharp and manipulative with a strong personality

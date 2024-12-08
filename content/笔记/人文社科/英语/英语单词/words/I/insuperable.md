@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈsuːpərəbl/； 美：/ɪnˈsuːpərəbl/
 - #词性/adj  不可逾越的；无法克服的
-# 例句
+##### 例句
 - Traditional theory and technology of network security have three insuperable flaws .
 	- 然而传统的网络安全理论和技术却存在着以下三个无法克服的缺陷。
 - The proposal to turn APEC into a free trade area runs into insuperable political and technical difficulties .

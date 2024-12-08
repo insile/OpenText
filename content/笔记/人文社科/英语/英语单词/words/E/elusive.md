@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/iˈluːsɪv/； 美：/iˈluːsɪv/
 - #词性/adj  难以捉摸；难以达到的；难找的；难以解释的
-# 例句
+##### 例句
 - Try to catch the elusive charm of the original in translation .
 	- 翻译时设法把握住原文中难以捉摸的风韵。
 - Number is a crucial but elusive concept in English teaching and learning .

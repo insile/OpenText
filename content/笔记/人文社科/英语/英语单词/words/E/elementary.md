@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌelɪˈmentri/； 美：/ˌelɪˈmentri/
 - #词性/adj  基本的；基础的；初级的；简单的；容易的
-# 例句
+##### 例句
 - The education in that school is elementary .
 	- 那所学校的教育是初级的。
 - It 's a fairly elementary course , so advanced learners won 't get much out of it .

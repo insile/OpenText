@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/veˈstɪdʒiəl/； 美：/veˈstɪdʒiəl/
 - #词性/adj  残留的；退化的；残余的
-# 例句
+##### 例句
 - Vestigial or imperfectly developed , especially in comparison with other individuals or related species ;
 	- 退化的，发育不完全的器官退化或发育不全的，尤指其他相关个体或种属；
 - Note the presence of two vestigial structures , the appendix testis and the appendix epididymis .

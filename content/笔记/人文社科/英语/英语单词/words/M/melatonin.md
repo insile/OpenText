@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmeləˈtəʊnɪn/； 美：/ˌmeləˈtoʊnɪn/
 - #词性/n  褪黑素；褪黑激素
-# 例句
+##### 例句
 - Researchers have discovered that " night milk " contains more melatonin , which has been proven to help people feel sleepy and reduce anxiety ．
 	- 研究人员发现,"夜间牛奶"中含有更多的褪黑素,它已被证实有助于人们感到困倦和减少焦虑。
 - Those given night milk , which contained 10 times the amount of melatonin , were less active and less anxious than those fed with the milk collected during daytime , according to the study published in The Journal of Medicinal Food ．

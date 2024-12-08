@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌverɪsɪˈmɪlɪtjuːd/； 美：/ˌverɪsɪˈmɪlɪtuːd/
 - #词性/n  逼真；貌似真实
-# 例句
+##### 例句
 - To add verisimilitude , the stage is covered with sand for the desert scenes .
 	- 为了更加逼真，舞台上铺满了沙子作为沙漠的场景。
 - At the required level of visual verisimilitude , computer animation is costly .

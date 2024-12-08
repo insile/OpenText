@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  不安；不安定；焦虑
-# 例句
+##### 例句
 - Also , the apocalyptic and oracular tone provides the spectators with a glimpse of the anxiety and inquietude penetrating current Japanese society .
 	- 其天启式、神谕性的基调让观众一睹渗透整个日本社会的焦虑和不安情绪。
 - On this eventful day , moreover , there was a certain singular inquietude and excitement in her mood , resembling nothing so much as the shimmer of a diamond , that sparkles and flashes with the varied throbbings of the breast on which it is displayed .

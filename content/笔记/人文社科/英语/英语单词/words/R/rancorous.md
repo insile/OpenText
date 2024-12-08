@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈræŋkərəs/； 美：/ˈræŋkərəs/
 - #词性/adj  充满怨恨的
-# 例句
+##### 例句
 - The deal ended after a series of rancorous disputes .
 	- 经过一连串充满敌意的争吵，交易泡汤了。
 - His speech was a bilious , rancorous attack on young people .

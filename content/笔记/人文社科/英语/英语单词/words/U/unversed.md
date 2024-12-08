@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  无经验的，不熟练的
-# 例句
+##### 例句
 - Unversed in the jargon of the social scientist .
 	- 对社会科学家之间的行话不熟悉。
 - Most of those unversed in New Classical economics assume that John Maynard Keynes exploded these fallacies 70 years ago .

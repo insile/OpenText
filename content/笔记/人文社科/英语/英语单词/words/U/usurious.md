@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/juːˈʒʊəriəs/； 美：/juːˈʒʊriəs/
 - #词性/adj  放高利贷的；收取高利的
-# 例句
+##### 例句
 - Some questions about Ming Dynasty 's usurious interest rate
 	- 关于明代高利贷资本利率的几个问题
 - Impacts of usurious loan on the processes of agricultural modernization in China and India

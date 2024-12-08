@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈpresɪv/； 美：/ɪmˈpresɪv/
 - #词性/adj  给人印象深刻的；令人赞叹的；令人敬佩的
-# 例句
+##### 例句
 - an impressive line-up of speakers
 	- 给人印象深刻的演讲者阵容
 - I know how highly you regard their work , and I readily admit that they have shown very impressive results .

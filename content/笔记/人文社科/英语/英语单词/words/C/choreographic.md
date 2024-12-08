@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkɒriəˈɡræfɪk/； 美：/ˌkɔːriəˈɡræfɪk/
 - #词性/adj  编舞的；舞蹈设计的
-# 例句
+##### 例句
 - A brief choreographic presentation can add beauty and excitement to any show .
 	- 一出简短的舞蹈表演能为任何节目增添美感和激情。
 - Frequent viewing assignments will help students identify visual , musical , and kinesthetic underpinnings of choreographic structure .

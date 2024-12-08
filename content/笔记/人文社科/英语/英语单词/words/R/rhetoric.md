@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈretərɪk/； 美：/ˈretərɪk/
 - #词性/n  修辞；花言巧语；修辞技巧；华而不实的言语
-# 例句
+##### 例句
 - The man like beautiful face , women like rhetoric .
 	- 男人喜欢漂亮脸蛋，女人喜欢花言巧语。
 - He is stronger on rhetoric than on concrete action .

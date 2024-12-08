@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmjuːtjʊˈælɪti/； 美：/ˌmjutʃuˈæˌlɪti/
 - #词性/n  相互性；互助，相互关系
-# 例句
+##### 例句
 - With " Dedication , Friendship , Mutuality and Advancement " as its aim , the Youth Voluntary Service grows vigorously throughout the whole country . The city community has become its main position .
 	- 青年志愿服务行动以奉献、友爱、互助、进步为宗旨，在全国范围内蓬勃开展，城市社区成为青年志愿服务行动的主要阵地。
 - Using three mechanisms , which are substitute mechanism , mutuality mechanism and assistance mechanism , we have resolved the one point invalidation problem , security information distribution not in time , heavy loading problem when the security affairs happen , etc.

@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɒrɪbʌnd/； 美：/ˈmɔːrɪbʌnd/
 - #词性/adj  垂死的；濒临死亡的；行将灭亡的；即将倒闭的；濒于崩溃的
 - #词性/n  将死的人
-# 例句
+##### 例句
 - Imperialism is monopolistic , parasitic and moribund capitalism .
 	- 帝国主义是垄断的、寄生的、垂死的资本主义。
 - Existing World Trade Organisation export rules are weak and proposals to strengthen them failed to make it into the moribund Doha trade talks .

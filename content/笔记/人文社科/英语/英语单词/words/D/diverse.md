@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/daɪˈvɜːs/； 美：/daɪˈvɜːrs/
 - #词性/adj  不同的；多种多样的；形形色色的；相异的
-# 例句
+##### 例句
 - My collectionis rally diverse because I 've traveled all over the world to find them .
 	- 我的收藏是多种多样的，因为我在世界各地旅行，找到它们。
 - Flavonoid compounds are low molecular weight ingredients in natural plant , and have diverse pharmacological actions with low side effect .

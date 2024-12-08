@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdespətɪzəm/； 美：/ˈdespətɪzəm/
 - #词性/n  专制主义；专制统治；暴政；独裁制
-# 例句
+##### 例句
 - Therefore this cultural despotism , too , had better be " folded up " .
 	- 因此，这种文化专制主义，也还是收起为妙。
 - However , because of the restriction of the despotism , the ancient political ideas were not realized .

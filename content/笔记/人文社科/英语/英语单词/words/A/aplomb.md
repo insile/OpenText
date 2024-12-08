@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈplɒm/； 美：/əˈplɑːm/
 - #词性/n  沉着；泰然自若；镇定
-# 例句
+##### 例句
 - Again she made it down the course , though not with the aplomb and grace of most other racers .
 	- 她再次滑上赛道，不过没有大多数其他参赛者的镇定与优雅。
 - Except for a quick squirt of guano , she maintained aplomb as Slager and senior aquarist Julia Mariottini pushed her through the hallway , onto the elevator and down to the second floor .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌrevəˈkeɪʃn/； 美：/ˌrevəˈkeɪʃn/
 - #词性/n  (法律等的)撤销，废除
-# 例句
+##### 例句
 - the revocation of planning permission
 	- 建筑许可的撤销
 - Based on this scheme , design key update and revocation policies .

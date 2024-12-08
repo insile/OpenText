@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  机械化； 机理
-# 例句
+##### 例句
 - Their effects on fabric structure , operation and mechanisation are analyzed and compared .
 	- 分析比较了各种减纱技术对织物结构完整性、操作简便性、机械化编织等方面的影响。
 - Mechanisation of road maintaining is the developing trend of modern road maintaining

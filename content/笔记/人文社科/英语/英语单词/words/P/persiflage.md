@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɜːsɪflɑːʒ/； 美：/ˈpɜːrsɪflɑːʒ/
 - #词性/n  取笑；插科打诨
-# 例句
+##### 例句
 - The persiflage is not appropriate when we are discussing such serious problems .
 	- 当我们在讨论如此严肃的问题的时候，这种戏谑的言辞是不恰当的。
 - When he spoke of murder , suicide , venereal disease , amputated limbs , and altered faces , it was with a faint air of persiflage .

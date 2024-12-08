@@ -5,9 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪn veɪn/； 美：/ɪn veɪn/
-# 例句
+- #词性/adv  徒劳无功：没有成功或结果
+##### 例句
 - Have you been taking my name in vain again ?
 	- 你又在滥用我的名义吧？
 - They tried in vain to persuade her to go .

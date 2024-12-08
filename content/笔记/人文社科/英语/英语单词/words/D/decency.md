@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdiːsnsi/； 美：/ˈdiːsnsi/
 - #词性/n  体面；正派；礼仪；得体；行为准则；彬彬有礼
-# 例句
+##### 例句
 - Still has some sense of decency left .
 	- 还能知道做些体面的事情。
 - They tried to restore some sense and decency to the administration .

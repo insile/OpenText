@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈdetɪd/； 美：/ɪnˈdetɪd/
 - #词性/adj  负债的；感激的；蒙恩的
-# 例句
+##### 例句
 - The service or favor for which one is indebted to another .
 	- 恩惠一个人对另一人感激的帮助或恩惠。
 - Take time to deal with legal documents and the affairs of people who you may be indebted to .

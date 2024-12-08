@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈspensəbl/； 美：/dɪˈspensəbl/
 - #词性/adj  可有可无；不必要；不重要
-# 例句
+##### 例句
 - A garage is useful but dispensable .
 	- 汽车房虽然有用，但不必要。
 - 680 . He repents having compensated the dispensable pension for fear of penalty .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɛləʊkwəns/； 美：/ˈɛləkwəns/
 - #词性/n  雄辩；口才
-# 例句
+##### 例句
 - She was struck by his simple , spellbinding eloquence
 	- 她被他那率直、富有鼓动性的口才迷住了。
 - He is gifted with rare eloquence .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  （使）窘迫，混乱（discombobulate 的过去式及过去分词）
-# 例句
+##### 例句
 - Who was the rapper you were talking about earlier , the one who used " discombobulated " ?
 	- 京晶：你刚刚说的是哪位说唱歌手，就是那个歌词中使用“discombobulated”的？
 - Was discombobulated by the staggering number of possibilities ;

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡraʊndwɔːtə(r)/； 美：/ˈɡraʊndwɔːtər/
 - #词性/n  地下水
-# 例句
+##### 例句
 - In Florida , farmers are squaring off against cities for rights to groundwater
 	- 在佛罗里达州，农民正摆好架势，准备和城市争夺地下水的使用权。
 - They lack water-storing structures , and their existence on rock faces prevents them from tapping groundwater , so they have instead developed the ability to change their metabolism .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəʊl/； 美：/koʊl/
 - #词性/n  科尔；油菜，小菜
-# 例句
+##### 例句
 - Nitrogen Release Mechanism of Coated Urea and Biological Activity of Cole
 	- 包膜尿素氮素释放机理及其对油菜生长效应研究
 - Virtual Design of Cleaning Plant of Cole Harvester Based on ADAMS and Test Research

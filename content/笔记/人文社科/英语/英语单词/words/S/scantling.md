@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  构件尺寸；少量；小块木材；材料尺寸
-# 例句
+##### 例句
 - The Scantling Design of TLP Main Structure
 	- 张力腿平台结构主体规划设计
 - It has many advantages , such as adaptability to boundary , scantling of input data and small memory capacity required .

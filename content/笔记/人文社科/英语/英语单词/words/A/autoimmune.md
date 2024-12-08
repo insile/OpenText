@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɔːtəʊɪˈmjuːn/； 美：/ˌɔːtoʊɪˈmjuːn/
 - #词性/adj  自身免疫的；自体免疫的
-# 例句
+##### 例句
 - Objective : To estimate the relationship between chronic hepatitis B and autoimmune .
 	- 目的：评价慢性乙肝与自身免疫的关系。
 - Novel Treatment Strategies to Cure T Cell-mediated Autoimmune Diabetes

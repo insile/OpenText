@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  阐明；表明；宣言；清晰的发音
-# 例句
+##### 例句
 - Competent quality enunciation is clear , standard spoken Chinese standard ;
 	- 胜任素质口齿清晰，普通话标准；
 - English is quite different from Chinese in dealing with the standard of correct enunciation .

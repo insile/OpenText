@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ræf/； 美：/ræf/
 - #词性/n  拉夫
-# 例句
+##### 例句
 - Who let all this riff raff into the room ?
 	- 谁让这些乱七八糟的东西进来的？
 - The aromatics contents in both extract and raff mate were determined , and the aromatics distribution coefficient and the aromatics solubility in the solvent were calculated .

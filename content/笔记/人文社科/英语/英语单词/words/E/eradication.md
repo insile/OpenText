@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˌrædɪˈkeɪʃn/； 美：/ɪˌrædɪˈkeɪʃn/
 - #词性/n  根除；根除，消（扑）灭
-# 例句
+##### 例句
 - The eradication of an established infestation is not easy .
 	- 根除昆虫蔓延是不容易的。
 - Result The eradication rate was 86.5 % after treatment .

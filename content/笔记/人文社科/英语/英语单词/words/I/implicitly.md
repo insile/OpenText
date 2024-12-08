@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈplɪsɪtli/； 美：/ɪmˈplɪsətli/
 - #词性/adv  含蓄地；无保留地；暗中地；不明显地；无疑问地
-# 例句
+##### 例句
 - It reinforces , implicitly or explicitly , the idea that money is all-important .
 	- 这或暗示或明确地强调了金钱至上这一观念。
 - I trust John implicitly .

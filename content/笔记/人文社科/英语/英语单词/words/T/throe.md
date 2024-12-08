@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  剧痛
-# 例句
+##### 例句
 - But China must suffer the throe in the process of modernization .
 	- 这是中国现代化之路上，必须要付出的代价和承受的镇痛。
 - Niche construction shows throe differences from ecosystem engineering ;

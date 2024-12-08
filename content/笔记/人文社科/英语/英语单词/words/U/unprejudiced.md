@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈpredʒədɪst/； 美：/ʌnˈpredʒədɪst/
 - #词性/adj  公正的；无成见的；无偏见的；一视同仁的
-# 例句
+##### 例句
 - To understand what is requires an enormous capacity , a swift and unprejudiced mind .
 	- 了解实相需要巨大的容量，敏锐和不带偏见的心意。
 - An unprejudiced appraisal of the pros and cons ; the impartial eye of a scientist .

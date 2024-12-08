@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɪələs/； 美：/ˈfɪrləs/
 - #词性/adj  无畏的；不怕的；大胆的
-# 例句
+##### 例句
 - Once upon a time , there be a famous chieftain named fearless
 	- 从前，有一个叫做天不怕的酋长
 - Off I went , fearless and stupid .

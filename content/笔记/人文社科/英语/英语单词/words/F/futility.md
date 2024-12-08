@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fjuːˈtɪləti/； 美：/fjuːˈtɪləti/
 - #词性/n  徒劳；无用；无益
-# 例句
+##### 例句
 - Economic theory recognizes the futility of throwing good money after bad .
 	- 经济理论认为，搭上老本来挽回损失是无益的。
 - One of those generalized but savage remarks about the futility of love .

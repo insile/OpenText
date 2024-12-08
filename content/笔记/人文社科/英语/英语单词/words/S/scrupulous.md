@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈskruːpjələs/； 美：/ˈskruːpjələs/
 - #词性/adj  一丝不苟的；仔细的；细致的；审慎正直的；恪守道德规范的
-# 例句
+##### 例句
 - In these three chapters , scrupulous analysis will be given to show how their dissimilar characters have led them to set on different life paths .
 	- 这三章将会呈现细致的分析，显示姐妹俩的性格如何引导她们走上不同的人生轨道。
 - We keep the spirit of being scrupulous about every detail in every stage of production .

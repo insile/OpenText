@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈʌndəwɜːld/； 美：/ˈʌndərwɜːrld/
 - #词性/n  黑社会；阴间；黑道；冥府；犯罪集团；阴曹地府
-# 例句
+##### 例句
 - Uh - oh , this looks like an underworld operation .
 	- 哎呀，这地方看起来像黑道经营的场所。
 - I have heard he has some friends in the underworld .

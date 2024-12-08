@@ -8,11 +8,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɜːtʃəndaɪs , ˈmɜːtʃəndaɪz/； 美：/ˈmɜːrtʃəndaɪs , ˈmɜːrtʃəndaɪz/
 - #词性/n  商品；货品；相关商品；指定商品
 - #词性/vt  推销；(运用广告等)销售
-# 例句
+##### 例句
 - The merchandise is reasonably priced and offers exceptionally good value .
 	- 这些商品定价合理，很是划算。
 - They could sell their merchandise for quadruple the asking price .

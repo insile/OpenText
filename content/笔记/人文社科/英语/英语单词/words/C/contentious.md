@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈtenʃəs/； 美：/kənˈtenʃəs/
 - #词性/adj  有争议的；充满争吵的；可能引起争论的；爱争论的
-# 例句
+##### 例句
 - Both views are highly contentious .
 	- 两种观点都很有争议。
 - Sanctions are expected to be among the most contentious issues .

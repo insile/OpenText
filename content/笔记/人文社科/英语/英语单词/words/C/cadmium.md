@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkædmiəm/； 美：/ˈkædmiəm/
 - #词性/n  镉
-# 例句
+##### 例句
 - Zinc can also reduce the cadmium content in body and mind .
 	- 锌也可以降低身体和大脑中的镉含量水平。
 - Method of determination of cadmium and lead in stack gas

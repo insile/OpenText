@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmjuːkəs/； 美：/ˈmjukəs/
 - #词性/adj  粘液的；粘的；分泌粘液的
-# 例句
+##### 例句
 - Healthy , skin , mucous membranes , and cilia are natural barriers to many viruses .
 	- 健康的皮肤，粘膜和纤毛是许多病毒的天然屏障。
 - This paper the morphology of gastric glands and mucous surface in the hatchlings of alligator sinensis .

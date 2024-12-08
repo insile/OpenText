@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  远离；遥远
-# 例句
+##### 例句
 - The remoteness and mystery of the place stoked my curiosity .
 	- 这些遥远而神秘的地方撩拨着我的好奇心。
 - That said , it is not suffering from conflict and has no natural barriers other than its sheer remoteness .

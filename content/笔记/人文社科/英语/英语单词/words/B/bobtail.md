@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbɒbteɪl/； 美：/ˈbɑːbteɪl/
 - #词性/n  短尾；短尾狗(或猫、马)；截短的尾巴
 - #词性/adj  截尾的；截短了的
-# 例句
+##### 例句
 - TAIL : Customarily docked or natural bobtail .
 	- 尾：习惯上截去或者天生短尾线；
 - The white Japanese bobtail cat with a red bow and six symmetrical whiskers will star in the film project with an estimated budget of $ 160 million to $ 240 million .

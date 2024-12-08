@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈəʊvəli/； 美：/ˈoʊvərli/
 - #词性/adv  过于；十分；很
-# 例句
+##### 例句
 - I may have been overly rude earlier when I called you a pirate .
 	- 我先前很不礼貌的称你为海盗。
 - But many of these are overly speculative or even just get rich quick schemes with no actual value being created .

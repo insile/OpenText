@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/iˈmɜːdʒəns/； 美：/iˈmɜːrdʒəns/
 - #词性/n  出现；兴起
-# 例句
+##### 例句
 - The emergence of this kitchen and the Han dynasty 's " ji an " not without contact .
 	- 这种厨的出现与汉代的“几案”不无联系。
 - The emergence of such problems seriously hamper the development of enterprises .

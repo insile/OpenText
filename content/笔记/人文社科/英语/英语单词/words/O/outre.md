@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈuːtreɪ/； 美：/uˈtreɪ/
 - #词性/adj  惊人的；古怪的；反常的
-# 例句
+##### 例句
 - Yet while musicians have always embraced the more outre side of footwear , now they are no longer an exception .
 	- 音乐家总是喜欢穿稀奇古怪的鞋履，而如今他们也不再那么另类了。
 - Idon 't think I shall buy the hat & it 's absolutely splendid but a little outre for my sober tastes .

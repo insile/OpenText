@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈplænətri/； 美：/ˈplænəteri/
 - #词性/adj  行星的
-# 例句
+##### 例句
 - It takes days to calculate the planetary shift of each new location .
 	- 这需要几天的时间去计算每个新的行星的移动。
 - The scope ranges from the fine structure to planetary scale motions .

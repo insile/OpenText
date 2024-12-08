@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfleɪvɪn/； 美：/ˈfleɪvɪn/
 - #词性/n  黄素
-# 例句
+##### 例句
 - Rapid separation and detection of riboflavin in synthetic flavin mononucleotide by microchip capillary electrophoresis
 	- 芯片毛细管电泳快速分离检测黄素单核苷酸合成品中的核黄素
 - Studies on the Pulse Polarography of Flavin Mononucleotide and It 's Measurement of Rate Constant at the Mercury Electrode

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  粪便；污浊，渣滓，污物
-# 例句
+##### 例句
 - Secondly , OFM can decrease the waste of land resources caused by many tangible markets and reduce environmental pollution of noise , sewage & feculence .
 	- 可以减少有形市场对土地资源的浪费，减轻噪音、污水、污物等环境污染；
 - The laser cutting will be affected infinitely not only in quality but also in efficiency if there are some rust , paint or other else feculence .

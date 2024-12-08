@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkredɪtəbl/； 美：/ˈkredɪtəbl/
 - #词性/adj  值得赞扬的；高尚的；应当认可的；道德上好的
-# 例句
+##### 例句
 - A creditable attempt , performance , etc
 	- 值得赞扬的努力、表现等
 - It was a very creditable result for the team .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɒfθælˈmɒlədʒi/； 美：/ˌɑːfθəˈmɑːlədʒi/
 - #词性/n  眼科学
-# 例句
+##### 例句
 - Reform and practice of ophthalmology teaching under new medical teaching model
 	- 新医学教学模式下的眼科学教学改革与探索
 - Comparison of the effects of two different teaching modes on ophthalmology teaching

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/keɪˈɒtɪk/； 美：/keɪˈɑːtɪk/
 - #词性/adj  混乱的；杂乱的；紊乱的
-# 例句
+##### 例句
 - Complex system development occurs under chaotic circumstances .
 	- 复杂的系统开发发生于混乱的系统环境中。
 - We prefer to wait until the chaotic market condition on your side have settled .

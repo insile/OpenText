@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmænɪdʒəbl/； 美：/ˈmænɪdʒəbl/
 - #词性/adj  可管理的；可处理的；可操纵的
-# 例句
+##### 例句
 - It 's really important for you to learn how to break a big project into small , manageable tasks .
 	- 学习如何把一个大项目分解成若干个小的、可管理的任务，这对你来说真的很重要。
 - It provides mechanisms and methodologies that enable manageable Web services applications to interoperate across enterprise and organizational boundaries .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbɪɡətri/； 美：/ˈbɪɡətri/
 - #词性/n  偏执；顽固盲从
-# 例句
+##### 例句
 - He deplored religious bigotry .
 	- 他强烈谴责了宗教偏执。
 - You really think that kind of embedded bigotry goes away ?

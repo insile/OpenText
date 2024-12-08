@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  膨胀；肿大；膨大；肿块；肿胀物
-# 例句
+##### 例句
 - Approximate solutions were found for the rate of growth of a bubble in the process of intumescence .
 	- 得到了膨胀过程中气泡生长速率的近似解。
 - The main fertilizing period was before flower bud differentiation and at alabastrum intumescence stage .

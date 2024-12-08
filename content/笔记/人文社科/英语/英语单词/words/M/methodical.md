@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/məˈθɒdɪkl/； 美：/məˈθɑːdɪkl/
 - #词性/adj  有条不紊的；有条理的；办事有条不紊的
-# 例句
+##### 例句
 - Information Design of Fashion Brand Communication displays the complicated information clearly by methodical analysis , consequently , communication efficiency is improved and the information can be conveyed to the recipient effectively .
 	- 时尚品牌传播中的信息设计是通过有条理的分析，将繁杂的信息以清晰的形式表现出来，提高传达效率，把信息高效地传达给接收者。
 - Finally , writing the program with the C + + . And using the idea of the depth-first-search in order to searching the database methodically , methodical search of the database data , and data exchange . Achieving the feature of data exchange .

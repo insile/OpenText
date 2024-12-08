@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪntrɪkət/； 美：/ˈɪntrɪkət/
 - #词性/adj  错综复杂的
-# 例句
+##### 例句
 - He knows his way around the intricate maze of European law
 	- 他通晓错综复杂的欧洲律法。
 - Intertextuality in the peasants ' paintings is a blend of multiple main results embodied in the intricate relationships in the counseling teachers and peasant painting of painting language .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  地壳的；地壳的，（尤指）地球或月球外壳的
-# 例句
+##### 例句
 - Study on crustal strain and stress fields in China Continent
 	- 中国大陆地壳的应变应力场研究
 - Deep seismic detection of crustal geologic structure in the north of the South China Sea

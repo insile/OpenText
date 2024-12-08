@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌlɑːdʒ ˈskeɪl/； 美：/ˌlɑːrdʒ ˈskeɪl/
 - #词性/adj  大规模的；大范围的；大比例尺的；大批的；按大比例绘制(或制作)的
-# 例句
+##### 例句
 - Large-scale inflation is a recipe for disaster .
 	- 大规模的通货膨胀会造成灾难。
 - Research and technology parks , on the other hand , tend to be large-scale projects that house everything from corporate2 , government or university labs to very small companies .

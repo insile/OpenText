@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌhepəˈtaɪtɪs/； 美：/ˌhepəˈtaɪtɪs/
 - #词性/n  肝炎
-# 例句
+##### 例句
 - The doctor tested him for hepatitis .
 	- 医生对他进行了肝炎病检查。
 - As a major health risk hepatitis is second only to tobacco .

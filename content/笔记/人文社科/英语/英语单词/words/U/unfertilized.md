@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  未受精的；不施肥的
-# 例句
+##### 例句
 - Unfertilized lobster roe ; reddens in cooking ; used as garnish or to color sauces .
 	- 未受精的龙虾卵；烹饪时变红；用作装饰或给酱油加色。
 - The way it works is first you take out a cell from either a part of the body or a fertilized egg . Then you take that cell and put it in to a unfertilized ovum .

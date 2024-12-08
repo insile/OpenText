@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈrɪvəbæŋk/； 美：/ˈrɪvərbæŋk/
 - #词性/n  河岸；河堤
-# 例句
+##### 例句
 - They set out in a westerly direction along the riverbank .
 	- 他们沿着河岸向西出发了。
 - Thousands of frogs croaked in the reeds by the riverbank .

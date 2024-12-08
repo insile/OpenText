@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  糖蛋白
-# 例句
+##### 例句
 - Research Progress on Extraction and Physiological Activity of Sweet Potato Glycoprotein
 	- 甘薯糖蛋白提纯及生理活性研究进展
 - Expression and Application Study of Porcine Cytomegalovirus Recombinant Glycoprotein B Protein

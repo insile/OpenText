@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpʌŋktjʊˈælɪti/； 美：/ˌpʌŋktʃuˈælɪti/
 - #词性/n  准时；严守时间；敏捷
-# 例句
+##### 例句
 - Reliability and punctuality have become more important .
 	- 可靠性和准时性变得更为重要。
 - In hospitals , punctuality can make all the difference between life and death .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈmensli/； 美：/ɪˈmensli/
 - #词性/adv  非常；极大地；极端地
-# 例句
+##### 例句
 - His only experience of gardening so far proved immensely satisfying
 	- 到目前为止他唯一的一次园艺经历非常令人满意。
 - Sir James was an immensely distinguished architect in the vanguard of his profession .

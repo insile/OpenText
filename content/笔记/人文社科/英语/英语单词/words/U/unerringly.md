@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  无误地；准确地；正确无误的；无过失的；无过失地
-# 例句
+##### 例句
 - They are , however , unerringly perceptive of trusting relationships with professionals .
 	- 但他们却是，准确无误地知觉与专业人士的信任关系。
 - Moreover , one trait , such as dark skin , doesn 't unerringly predict the presence of others , like hair texture , the association said .

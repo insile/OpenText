@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈfensəbl/； 美：/dɪˈfensəbl/
 - #词性/adj  可防御的；有正当理由的；合乎情理的；可辩解的；可守护的
-# 例句
+##### 例句
 - Is abortion morally defensible ?
 	- 堕胎从道德上讲合乎情理吗？
 - Her reasons for acting are morally defensible .

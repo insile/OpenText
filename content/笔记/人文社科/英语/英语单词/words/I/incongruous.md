@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈkɒŋɡruəs/； 美：/ɪnˈkɑːŋɡruəs/
 - #词性/adj  不协调的；不相称的；不合适的
-# 例句
+##### 例句
 - The incongruous falsetto voice took on a musing note . At length the lady of the caravan shook off her fit of meditation .
 	- 那个不相称的假嗓子里带着一种沉思的声调。最后车上那个女子抛弃了她那一阵的沉思。
 - He lowered the level of his incongruous falsetto voice .

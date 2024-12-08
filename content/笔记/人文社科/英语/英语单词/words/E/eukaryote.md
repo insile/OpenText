@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  真核生物
-# 例句
+##### 例句
 - This ancestor was a single-celled aquatic eukaryote , and would have had the common features of animal and plant cells described above .
 	- 它是单细胞水生真核生物，并应该具备上述动物和植物细胞的共同特点。
 - VAMP-2 is a membrane receptor protein widely distributed in eukaryote and plays an important role in exocytosis , signal transduction , intracellular traffic and secretion .

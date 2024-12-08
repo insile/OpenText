@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rəʊm/； 美：/roʊm/
 - #词性/n  罗马
-# 例句
+##### 例句
 - We 're going to Rome later in the year .
 	- 我们年内晚些时候要到罗马去。
 - I have to go to Rome on business .

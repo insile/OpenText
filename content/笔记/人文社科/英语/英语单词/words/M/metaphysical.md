@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmetəˈfɪzɪkl/； 美：/ˌmetəˈfɪzɪkl/
 - #词性/adj  形而上学的；玄学的
-# 例句
+##### 例句
 - The metaphysical world outlook sees things as isolated , static and one-sided .
 	- 形而上学宇宙观用孤立的、静止的和片面的观点去看世界。
 - The second stage is the metaphysical stage .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈmɪdst/； 美：/əˈmɪdst/
 - #词性/prep  在…中；中间；在…过程中；同 amid
-# 例句
+##### 例句
 - The visit took place amidst tight security .
 	- 访问是在戒备森严的情况下进行的。
 - I tackled him about how anyone could live amidst so much poverty .

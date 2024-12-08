@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/seɪt/； 美：/seɪt/
 - #词性/vt  满足(欲望)；充分满足
-# 例句
+##### 例句
 - Nothing could sate the careerist 's greed for power .
 	- 什么也满足不了这个野心家的权力欲。
 - Both sate an appetite that is there beyond its strict biological need .

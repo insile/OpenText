@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwɒʃɪŋtən/； 美：/ˈwɑʃɪŋtən , ˈwɔʃɪŋtən/
 - #词性/n  华盛顿
-# 例句
+##### 例句
 - She 's been posted to Washington for two years .
 	- 她被派往华盛顿工作两年。
 - Washington is the seat of government of the US .

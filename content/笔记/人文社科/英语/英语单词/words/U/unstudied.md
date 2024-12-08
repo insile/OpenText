@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  未经研究的；自然而不做作的
-# 例句
+##### 例句
 - She was utterly feminine and devastatingly attractive in an unstudied way .
 	- 她温存无比，魅力四射而又绝不矫揉造作。
 - Experiments demonstrate that the method achieves a recognition rate of 95.8 % in 500 unstudied samples .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌhɑːd ˈwɜːkɪŋ/； 美：/ˌhɑːrd ˈwɜːrkɪŋ/
 - #词性/adj  辛勤的；勤奋的；工作努力的
-# 例句
+##### 例句
 - We are looking for someone who is reliable and hard-working .
 	- 我们在物色可靠而又勤奋的人。
 - Hard-working Hong Kongers take 17.2 days of paid leave a year , although workers on Chinese mainland have it worse .

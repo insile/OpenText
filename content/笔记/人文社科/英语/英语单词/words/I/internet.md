@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  互联网；互联网，因特网（=the Internet）
-# 例句
+##### 例句
 - More and more people are using the Internet .
 	- 越来越多人在使用互联网。
 - Did you see her piece about the Internet in the paper today ?

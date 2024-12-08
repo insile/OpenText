@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  浮雕
-# 例句
+##### 例句
 - The Relievo Display of An Image Using Generalized Fuzzy Operator
 	- 广义模糊算子法用于图象的浮雕显示
 - Design Course of Decorative Relievo

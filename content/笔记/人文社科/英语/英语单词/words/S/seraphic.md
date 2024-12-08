@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/səˈræfɪk/； 美：/səˈræfɪk/
 - #词性/adj  天使般的；天使般美丽(或纯洁等)的；无比快乐的
-# 例句
+##### 例句
 - You 're a seraphic suggestion of attenuated thought .
 	- 你的思想是轻灵得如同天使一般的
 - All was over , Cosette had fallen back into deep , seraphic love .

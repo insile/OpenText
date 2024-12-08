@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  随机；随意；未加计划地
-# 例句
+##### 例句
 - The winning numbers are randomly selected by computer .
 	- 中奖号码是由电脑随机选取的。
 - All samples are chosen randomly .

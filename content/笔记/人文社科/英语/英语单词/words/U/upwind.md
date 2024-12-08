@@ -5,12 +5,12 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌpˈwɪnd/； 美：/ˌʌpˈwɪnd/
 - #词性/adv  逆风；顶风
 - #词性/adj  逆风的
 - #词性/n  逆风
-# 例句
+##### 例句
 - Application of upwind factor method to transonic cascade calculation
 	- 二维粘性跨音叶栅流场计算中逆风因子法的应用
 - Upwind developing in 2001 , facing both challenge and opportunity in 2002

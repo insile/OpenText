@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnəˈdɔːnd/； 美：/ˌʌnəˈdɔːrnd/
 - #词性/adj  朴素的；简朴的；不加装饰的
-# 例句
+##### 例句
 - The last skyscraper built in Paris opened in 1973 , an unadorned dark block , rising 59 stories & the Montparnasse Tower .
 	- 巴黎的最后一个摩天大楼是1973年揭幕的蒙帕纳斯大厦（MontparnasseTower），它是一座楼高59层、朴素的黑色大楼。
 - Rousseau 's short discourse , a work that was generally consistent with the cautious , unadorned prose of the day , deviated from that prose style in its unrestrained discussion of the physical sciences .

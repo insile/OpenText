@@ -7,11 +7,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtempərəl/； 美：/ˈtempərəl/
 - #词性/adj  时间的；颞的；世俗的；太阳穴的；现世的；世间的
 - #词性/n  颞骨[肌,动脉等]；太阳穴；世俗的权力；一时的事物
-# 例句
+##### 例句
 - Spiritual and temporal powers were entrusted to different orders .
 	- 宗教和世俗的机构各有自己的活动领域。
 - On Temporal Reasoning Temporal Correctness Validation of Distributed Real-time Simulation ( DRTS ) System

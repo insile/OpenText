@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/njuːˈtræləti/； 美：/nuːˈtræləti/
 - #词性/n  中立；中立状态
-# 例句
+##### 例句
 - We have tried to pursue a policy of neutrality .
 	- 我们力行中立的政策。
 - The UN at the moment is still trying to maintain the charade of neutrality .

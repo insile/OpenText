@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kɪˈnetɪk/； 美：/kɪˈnetɪk/
 - #词性/adj  运动的；运动引起的
-# 例句
+##### 例句
 - In English , kinetic energy equals one half mass times velocity squared .
 	- 即运动的能量等于二分之一的质量乘以速度的平方。
 - In nature , for example , the several celestial bodies , which form our solar system , compose a kinetic system , and thereby show that they are related to one another .

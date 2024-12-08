@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpɛdəˈgɒdʒɪkəl/； 美：/ˌpɛdəˈgɑdʒɪkəl/
 - #词性/adj  教育学的；教学论的
-# 例句
+##### 例句
 - On the Growing Point and the Nature of Modern Pedagogical Theory
 	- 试论现代教学论的生长点及其实质
 - It is necessary , inevitable and advantageous for us to make the subjectivity as the growing point of the modern pedagogical theory .

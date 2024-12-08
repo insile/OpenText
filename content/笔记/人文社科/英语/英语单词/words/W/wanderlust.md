@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwɒndəlʌst/； 美：/ˈwɑːndərlʌst/
 - #词性/n  旅行癖；漫游癖；游荡癖
-# 例句
+##### 例句
 - Peace and quiet returned to this earth and with peace and quiet on the part of the elders came the Wanderlust of the younger generation .
 	- 老一辈的和平安宁带来了年轻一辈中产生了许多有旅行癖的人。
 - Marquis 's mother called the police , but when Marquis returned , her mother didn 't scold . Fighting Marquis 's wanderlust was hopeless .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlɑːftə(r)/； 美：/ˈlæftər/
 - #词性/n  笑声；笑
-# 例句
+##### 例句
 - He was bent double with laughter .
 	- 他笑弯了腰。
 - It was scarcely an occasion for laughter .

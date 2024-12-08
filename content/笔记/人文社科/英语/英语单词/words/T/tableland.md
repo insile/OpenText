@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈteɪbllænd/； 美：/ˈteɪbllænd/
 - #词性/n  高原；台地
-# 例句
+##### 例句
 - Area error caused by different data and projection surface in tableland
 	- 高原地区不同坐标系及投影面引起的面积误差
 - The Research of 120 Distributing Valve Testing Standard on Tableland Low Atmosphere Pressure

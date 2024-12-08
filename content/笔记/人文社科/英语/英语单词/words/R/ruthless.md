@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈruːθləs/； 美：/ˈruːθləs/
 - #词性/adj  无情的；残忍的
-# 例句
+##### 例句
 - Fascists is the most ruthless enemy of the people .
 	- 法西斯是人民最残酷无情的敌人。
 - We couples who have been separated hate the ruthless “ The Milky Way ” .

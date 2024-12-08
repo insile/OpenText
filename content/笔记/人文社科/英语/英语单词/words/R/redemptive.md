@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈdemptɪv/； 美：/rɪˈdemptɪv/
 - #词性/adj  赎回的；救赎的；拯救的
-# 例句
+##### 例句
 - What is the possible redemptive way ?
 	- 那么，救赎的道路何在？
 - I think the universe is conspiring to help us have a redemptive moment here .

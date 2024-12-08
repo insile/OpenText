@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/praɪˈmɔːdiəl/； 美：/praɪˈmɔːrdiəl/
 - #词性/adj  原始的；基本的；原生的
-# 例句
+##### 例句
 - Let us imagine the primordial din , the original vortex !
 	- 让我们想象原始的喧嚣，原初的漩涡！
 - the unquenchable , adaptable and primordial human drive to love .

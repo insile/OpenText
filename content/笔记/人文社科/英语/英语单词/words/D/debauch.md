@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  放荡
 - #词性/v  使放荡；诱奸（妇女）；纵情声色；使（情趣等）变坏
-# 例句
+##### 例句
 - Rochester 's life was one long shambolic debauch before he died exhausted at age 33 in 1680 .
 	- 1680年33岁的罗切斯特筋疲力尽而死。在此之前，他一直过着混乱不堪，放荡堕落的生活。
 - Why on earth should we take this market sentiment any more seriously than that which led to the great debauch of 2007 ?

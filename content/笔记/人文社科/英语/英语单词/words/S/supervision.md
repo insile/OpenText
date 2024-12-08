@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsuːpəˈvɪʒn/； 美：/ˌsuːpərˈvɪʒn/
 - #词性/n  监督;管理
-# 例句
+##### 例句
 - More people will be doing the work with proper supervision and thus , more safely .
 	- 更多人将在适当的监督下从事这项工作，因而会更安全。
 - The plan calls for a ceasefire and UN supervision of the country

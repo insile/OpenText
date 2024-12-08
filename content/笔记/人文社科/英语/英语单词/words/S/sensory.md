@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsensəri/； 美：/ˈsensəri/
 - #词性/adj  感觉的；感官的；知觉的
-# 例句
+##### 例句
 - The result is the same : You may have sensory conflict that can make you feel queasy .
 	- 其结果与普通动晕症相同：感觉的冲突会让你觉得恶心。
 - Applied anatomy for sensory reconstruction in greater trochanter region

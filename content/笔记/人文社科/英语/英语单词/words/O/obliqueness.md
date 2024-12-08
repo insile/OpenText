@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  倾斜
-# 例句
+##### 例句
 - Analysis on Obliqueness of Position Taken up by Traveler on the Ring in Spinning Process
 	- 纺纱钢丝圈对钢领位置倾斜分析
 - Molecules absorbed on the obliqueness of a right angled prism generate harmonic waves and dispersion

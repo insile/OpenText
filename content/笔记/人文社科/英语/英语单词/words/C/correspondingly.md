@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkɒrəˈspɒndɪŋli/； 美：/ˌkɔːrəˈspɑːndɪŋli/
 - #词性/adv  相应地；相似地；关联地
-# 例句
+##### 例句
 - Correspondingly , deviation detection can be used for different tasks .
 	- 相应地，偏差检测可用于不同的任务。
 - Correspondingly , the search process can be divided into two stages .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈprɪnsəpli/； 美：/ˈprɪnsəpli/
 - #词性/adv  主要地
-# 例句
+##### 例句
 - We had a lot of opportunities and they were thinking principally in defending .
 	- 我们有很多机会，并且他们在保卫主要地认为。
 - No new power stations have been built , principally because of the cost .

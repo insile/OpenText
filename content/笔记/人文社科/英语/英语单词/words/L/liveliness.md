@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  活泼；生动；强烈；鲜明
-# 例句
+##### 例句
 - While it has lost its tranquility , the area has gained in liveliness .
 	- 虽然该地区失去了往日的宁静，但是却有了生气。
 - The meeting was then at its liveliness .

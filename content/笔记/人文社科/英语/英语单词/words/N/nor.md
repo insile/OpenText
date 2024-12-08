@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/nɔː(r)/； 美：/nɔːr/
 - #词性/conj #词性/adv  也没有；(用于肯定动词前，表示同意刚提及的否定命题)也不
 - #词性/n  “或非”
-# 例句
+##### 例句
 - We don 't forget that . Nor does he
 	- 我们没有忘记那事，他也没有。
 - Marchers jeered at white passers-by , but there was no violence , nor any arrests

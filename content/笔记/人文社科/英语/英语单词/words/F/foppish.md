@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɒpɪʃ/； 美：/ˈfɑːpɪʃ/
 - #词性/adj  浮夸的；衣着浮华的；有纨绔习气的
-# 例句
+##### 例句
 - He wore a foppish hat , making him easy to find .
 	- 他戴着一顶流里流气的帽子使他很容易被发现。
 - He stood out because he wore a foppish clothes .

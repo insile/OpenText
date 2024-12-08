@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdeləˈtɪəriəs/； 美：/ˌdeləˈtɪriəs/
 - #词性/adj  有害的；损害的；造成伤害的
-# 例句
+##### 例句
 - The cold weather had most deleterious consequences among the chrysanthemums .
 	- 寒冷的天气对菊花产生了极有害的影响。
 - In normal seedlings the deleterious recessive genes are not expressed .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prɪˈpɒstərəs/； 美：/prɪˈpɑːstərəs/
 - #词性/adj  荒谬的；荒唐的；离奇古怪的；极不合情理的；怪诞的
-# 例句
+##### 例句
 - It would be preposterous to shovel coal with a teaspoon .
 	- 用茶匙铲煤是荒谬的。
 - The preposterous bailouts of this decade will come back to haunt Americans in future decades in preposterously high tax rates .

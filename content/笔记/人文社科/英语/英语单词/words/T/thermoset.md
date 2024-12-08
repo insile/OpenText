@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  热固性；热凝物
 - #词性/adj  热固性的
-# 例句
+##### 例句
 - CAE analysis and design of injection mould for thermoset plastic loop framework
 	- 热固性塑料线圈骨架注射模设计与CAE分析
 - Design of Injection Mold for the Thermoset Plastic Handle

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈwʌndəfl/； 美：/ˈwʌndərfl/
 - #词性/adj  精彩的；绝妙的；令人惊奇的；令人赞叹的；令人高兴的；使人愉快的
-# 例句
+##### 例句
 - They have just returned from faraway places with wonderful stories to tell .
 	- 他们刚从遥远的地方回来，有很多精彩的故事要讲。
 - The most pleasurable experience of the evening was the wonderful fireworks display

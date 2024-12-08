@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfæbjələs/； 美：/ˈfæbjələs/
 - #词性/adj  绝妙的；极好的；巨大的；很大的；寓言中的；神话似的
-# 例句
+##### 例句
 - I mean , god bless Elena , but she does not understand the word " Fabulous . "
 	- 愿主保佑埃琳娜但她一定不明白什么叫“极好的”
 - It was a fabulous bargain .

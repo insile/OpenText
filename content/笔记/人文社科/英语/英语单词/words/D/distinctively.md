@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  特殊地
-# 例句
+##### 例句
 - The cheese has a distinctively sharp taste .
 	- 这奶酪味道很冲。
 - He has a distinctively sinuous way of walking .

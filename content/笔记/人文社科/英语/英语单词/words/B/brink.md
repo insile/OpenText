@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/brɪŋk/； 美：/brɪŋk/
 - #词性/n  边缘；(峭壁、河岸等的)边沿；(新的、危险的，或令人兴奋的处境的)初始状态
-# 例句
+##### 例句
 - Civilization is on the brink of apocalypse .
 	- 文明已濒临毁灭的边缘。
 - The government brought itself to the brink of fiscal disaster

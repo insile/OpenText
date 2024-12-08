@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvæpɪd/； 美：/ˈvæpɪd/
 - #词性/adj  乏味的；枯燥的；愚蠢的
-# 例句
+##### 例句
 - A bland diet ; insipid hospital food ; flavorless supermarket tomatoes ; vapid beer ; vapid tea .
 	- 不油腻的饮食；无味的医院的食物；无味的超市的番茄；乏味的啤酒；无味的茶。
 - There is a pervasive sense that not only jobs but also power , wealth , ideas and national identity itself are migrating , permanently and at disarming speed , to leave a vapid grandeur on the banks of the Seine .

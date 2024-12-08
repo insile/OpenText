@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/twiː/； 美：/twiː/
 - #词性/adj  矫揉造作的；花里胡哨的；故作多情的
-# 例句
+##### 例句
 - The room was decorated with twee little pictures of animals .
 	- 这个房间里挂满了花哨的动物小图片。
 - She has a rather twee manner that I find irritating .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prəˈvɪnʃəlɪzəm/； 美：/prəˈvɪnʃəlɪzəm/
 - #词性/n  地方主义；排外主义；胸襟狭隘；陈腐态度
-# 例句
+##### 例句
 - Despite its obvious provincialism , the Arts Festival was a huge success .
 	- 尽管这个艺术节颇显土气，它还是获得了巨大的成功。
 - He wanted to escape from the provincialism of the small university where he teach

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  增加的；倍增的；乘法的
 - #词性/n  【语】倍数词
-# 例句
+##### 例句
 - There was no interaction of multiplicative model among factors by interaction analysis .
 	- 未发现因素之间有相乘模型的交互作用。
 - Research into the Application of Multiplicative Seasonal Model to Apartment Sales

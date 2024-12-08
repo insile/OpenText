@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmɪnɪˈstɪəriəl/； 美：/ˌmɪnɪˈstɪriəl/
 - #词性/adj  部长的；大臣的
-# 例句
+##### 例句
 - The scandal cut short his dazzling ministerial career .
 	- 这件丑闻断送了他当部长的灿烂前程。
 - Herr Ballin had rejected the offer of a ministerial post in germany .

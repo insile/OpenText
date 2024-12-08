@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  运动性；机动性；自动力
-# 例句
+##### 例句
 - Objective To study the correlation between parameters about the sperm motility .
 	- 目的考察全自动精子分析中各运动性参数间的相关性。
 - The Basic Theory and Practice of Treatment on Gastrointestinal Motility Diseases with Cisapride

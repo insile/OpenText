@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈveɪgnəs/； 美：/ˈveɪgnɪs/
 - #词性/n  含糊不清；茫然
-# 例句
+##### 例句
 - The Vagueness of " Expression "
 	- 表现的暧昧
 - Thus political language has to consist largely of euphemism , question-begging and sheer cloudy vagueness .

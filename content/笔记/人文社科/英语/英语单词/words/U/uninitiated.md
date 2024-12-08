@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnɪˈnɪʃieɪtɪd/； 美：/ˌʌnɪˈnɪʃieɪtɪd/
 - #词性/n  外行；门外汉；无专门知识(或经验)的人
 - #词性/adj  外行的，缺少经验的
-# 例句
+##### 例句
 - To the uninitiated the system seems too complicated .
 	- 对外行而言，这个系统似乎过于复杂。
 - For the uninitiated , Western Swing is a fusion of jazz , rhythm blues , rock roll and country music

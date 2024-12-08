@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɒnɪk/； 美：/ˈsɑːnɪk/
 - #词性/adj  声音的；声速的
-# 例句
+##### 例句
 - Programming skills for graphic and sonic effect in multi-media education ware
 	- 多媒体课件中图形及声音的制作技巧
 - The enclosure offer the ultimate in " plug and play " convenience while maximizing sonic performance .

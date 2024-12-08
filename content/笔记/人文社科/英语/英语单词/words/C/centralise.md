@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  集中；使处于中央的控制之下,把…集中于中央
-# 例句
+##### 例句
 - The company built a new HQ to centralise their administration .
 	- 公司建了新总部把管理集中起来。
 - Banks are increasingly able to centralise computer systems and to use common platforms .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈsɪliətəri/； 美：/kənˈsɪliətɔːri/
 - #词性/adj  和解的；调解的；抚慰的；意在和解的
-# 例句
+##### 例句
 - They approached the talks in a conciliatory spirit .
 	- 他们抱一种和解的态度去参加谈判。
 - Her conciliatory smile told him that they were friends again .

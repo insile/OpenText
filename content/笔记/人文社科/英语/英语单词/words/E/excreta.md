@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪkˈskriːtə/； 美：/ɪkˈskriːtə/
 - #词性/n  (身体的)排泄物
-# 例句
+##### 例句
 - Studies on Relationship between Dietary Pattern and Human Excreta Equivalent in Various Indicators
 	- 膳食结构与人体排泄物各指标排污当量关系研究粪便肠排泄出的物体
 - Inadequate disposal of human excreta is a major health risk in emergency situations .

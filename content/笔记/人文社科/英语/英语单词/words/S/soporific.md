@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsɒpəˈrɪfɪk/； 美：/ˌsɑːpəˈrɪfɪk/
 - #词性/adj  催眠的；让人瞌睡的
 - #词性/n  安眠药
-# 例句
+##### 例句
 - Her soporific voice made it difficult to stay awake in the lecture .
 	- 她那催眠的声音使人在听讲座时很难保持清醒。
 - soporific After his soporific speech for an hour , the speaker received no applause from the audience .

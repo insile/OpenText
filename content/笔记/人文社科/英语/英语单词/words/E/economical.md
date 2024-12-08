@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌiːkəˈnɒmɪkl/； 美：/ˌiːkəˈnɑːmɪkl/
 - #词性/adj  经济的；节约的；实惠的；节俭的；省钱的；简洁的；精打细算的
-# 例句
+##### 例句
 - Coke is an economical fuel but it leaves a lot of ash .
 	- 焦炭是一种很经济的燃料，可是燃烧后剩下很多灰。
 - Using the mixture of gasoline and methanol is considered as a practical , economical , safe and environmental way all over the world .

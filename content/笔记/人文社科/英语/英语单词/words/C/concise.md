@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈsaɪs/； 美：/kənˈsaɪs/
 - #词性/adj  简洁的；简明的；简练的；简略的；简缩的
-# 例句
+##### 例句
 - Peer-reviewed for accuracy and chaptered for easy reference , these videos provide a concise review of the procedure , including preparation , equipment , and more .
 	- 通过同行对精确性的评论和分章节的简单参考，这些视频提供了简明的操作程序的回顾，包括了准备，设备，以及更多。
 - In this paper , local stress analysis on three kinds of unequal thickness connections in cylindrical vessels is made according to the thin-wall theory . By arranging the results into a concise formula and some simple diagrams and comparing them with our experimental data .

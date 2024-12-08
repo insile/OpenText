@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈiːgəli/； 美：/ˈigərli/
 - #词性/adv  急切地；渴望地；热切地
-# 例句
+##### 例句
 - The eagerly anticipated movie will be released next month .
 	- 那出观众翘首企盼的电影将于下月上映。
 - The rumours were eagerly seized upon by the local press .

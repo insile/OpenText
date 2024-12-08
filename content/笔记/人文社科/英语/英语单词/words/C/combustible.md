@@ -7,11 +7,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəmˈbʌstəbl/； 美：/kəmˈbʌstəbl/
 - #词性/adj  可燃的；易燃的
 - #词性/n  可燃物
-# 例句
+##### 例句
 - Don 't smoke near combustible materials .
 	- 别在易燃的材料附近吸烟。
 - ( of fuel ) highly combustible ; having a high proportion of fuel to air .

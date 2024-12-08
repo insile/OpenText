@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  强夺；销魂；陶醉，狂喜
-# 例句
+##### 例句
 - The supervision of counter appeal after ravishment still face challenges : the mediation and execution are free of the supervision of counter appeal ;
 	- 新法实施后抗诉监督面临的问题主要有：调解活动脱离于抗诉监督；
 - Grindcorn Mill and Lord 's Mill , the ruins of Muddy Hall , the Ravishment , Battle Valley , Oldforge , the villages of Buckle , Blackbuckle , Cairns , and Claypool , and the market town at Mudgrave .

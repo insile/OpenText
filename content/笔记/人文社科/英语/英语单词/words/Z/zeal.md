@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ziːl/； 美：/ziːl/
 - #词性/n  热情；激情
-# 例句
+##### 例句
 - The reforms were carried out with an almost messianic zeal .
 	- 改革是以极大的热情进行的。
 - His reforming zeal was boundless .

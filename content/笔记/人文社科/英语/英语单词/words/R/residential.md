@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌrezɪˈdenʃl/； 美：/ˌrezɪˈdenʃl/
 - #词性/adj  住宅的；提供住宿的；适合居住的；需要在某地居住的
-# 例句
+##### 例句
 - Application of solar energy in new type of residential house
 	- 新型住宅的太阳能应用
 - Development direction of residential design in new century

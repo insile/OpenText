@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  使饿；〈古〉使饿死；挨饿
-# 例句
+##### 例句
 - When that mine eye is famish 'd for a look ,
 	- 当眼睛无法将尊容亲睹，
 - I suppose a dearth of food can famish you and make you anxious to believe any promise of a better life , regardless of your mental faculty .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  丰满的
-# 例句
+##### 例句
 - Dynamic Contrast-enhanced MR Imaging for the Differential Diagnosis of the Tumorous and Non-tumorous Plumpy Pituitary Gland
 	- MRI动态增强扫描在丰满垂体中的鉴别诊断价值
 - Conclusion : DMRI appears to have great potentials in differentiating the tumorous and non-tumorous plumpy pituitary gland .

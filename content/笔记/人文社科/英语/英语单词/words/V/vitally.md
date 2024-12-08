@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvaɪtəli/； 美：/ˈvaɪtəli/
 - #词性/adv  至关重要的；极其；绝对
-# 例句
+##### 例句
 - Education is vitally important for the country 's future .
 	- 教育对国家的未来是至关重要的。
 - It is vitally important to cancel the order immediately .

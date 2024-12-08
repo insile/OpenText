@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsuːpəˈsɪliəs/； 美：/ˌsuːpərˈsɪliəs/
 - #词性/adj  高傲的；傲慢的
-# 例句
+##### 例句
 - She retained her slightly hurt and supercilious air .
 	- 她仍保持她那副略受伤害和傲慢的样子。
 - Passing down the aisle came a very fair-haired banker 's son , also of chicago , who had long eyed this supercilious beauty .

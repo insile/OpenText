@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/nɪəˈvɑːnə/； 美：/nɪrˈvɑːnə/
 - #词性/n  湼盘(超脱一切烦恼的境界)
-# 例句
+##### 例句
 - Many businessmen think that a world where relative prices never varied would be nirvana .
 	- 很多商人认为，一个相对价格从不变化的地方会是极乐世界。
 - Entering the realm of Nirvana is only possible for those who have become pure .

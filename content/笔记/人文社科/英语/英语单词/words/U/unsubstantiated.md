@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnsəbˈstænʃieɪtɪd/； 美：/ˌʌnsəbˈstænʃieɪtɪd/
 - #词性/adj  未经证实的；未被证明的
-# 例句
+##### 例句
 - Did he attempt to verify the accuracy of the story , or did he simply repeat an unsubstantiated rumor ?
 	- 他是否设法验证消息的准确性，或者只是重复一个未经证实的传言？
 - But overnight , his lawyers denied two other women 's claims , saying that accusers are " coming out of the woodwork with fabricated or unsubstantiated stories . "

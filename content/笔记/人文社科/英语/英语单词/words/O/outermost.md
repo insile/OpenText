@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈaʊtəməʊst/； 美：/ˈaʊtərmoʊst/
 - #词性/adj  最外边的；最远的
-# 例句
+##### 例句
 - The outermost element encloses one or more elements , each representing a book or " volume " matching the search query .
 	- 最外边的元素包含一个或多个元素，每个元素表示匹配搜索查询的一本书或“卷”。
 - If the double quotation mark is the outermost quote , all variables are expanded .

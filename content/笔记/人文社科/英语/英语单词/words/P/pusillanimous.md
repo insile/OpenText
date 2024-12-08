@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpjuːsɪˈlænɪməs/； 美：/ˌpjuːsɪˈlænɪməs/
 - #词性/adj  胆怯的；懦弱的；怯懦的
-# 例句
+##### 例句
 - The pusillanimous man would not defend his own family .
 	- 软弱无力的人不会保卫他自己的家。
 - The authorities have been too pusillanimous in merely condemning the violence .

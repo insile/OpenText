@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɪvɪk/； 美：/ˈsɪvɪk/
 - #词性/adj  公民的；市民的；城市的；市政的；城镇的；城镇居民的
-# 例句
+##### 例句
 - Don 't you think they speak well for our civic pride and moral upbringing ?
 	- 难道你不认为他们对于我们公民的自尊心和道德的培养谈得很好吗？
 - It is a historical problem that we roundly improve the civic scientific literacy , which the national and international governments are endlessly questing for , in the new century .

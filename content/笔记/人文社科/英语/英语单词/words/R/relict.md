@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  残余的；遗物，残遗物；残生物
-# 例句
+##### 例句
 - Management and protection strategy of the relict population was discussed based on these results .
 	- 根据研究结果讨论了种群的管理和保护策略。
 - Effect of Relict Element to the Function of Pipeline Steel

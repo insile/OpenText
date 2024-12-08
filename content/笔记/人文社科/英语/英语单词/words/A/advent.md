@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈædvent/； 美：/ˈædvent/
 - #词性/n  (重要事件、人物、发明等的)出现；到来；将临节，基督降临节(圣诞节前的四个星期)
-# 例句
+##### 例句
 - The advent of war led to a greater austerity .
 	- 战争的到来使形势更为严峻。
 - Deptford had come alive with the advent of the new priest at St Paul 's.

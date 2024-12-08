@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhæpɪli/； 美：/ˈhæpɪli/
 - #词性/adv  高兴地；快乐地；欣然；幸运地；满足地；情愿地；合适地
-# 例句
+##### 例句
 - He grinned happily .
 	- 他快乐地咧着嘴笑。
 - A little bird was singing happily in the tree .

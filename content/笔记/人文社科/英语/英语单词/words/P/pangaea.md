@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pænˈdʒiːə/； 美：/pænˈdʒiːə/
 - #词性/n  泛大陆；盘古大陆；泛古陆；原始大陆；联合古陆
-# 例句
+##### 例句
 - It is thought that she may be from the weapons world of Middle Pangaea .
 	- 这是以为她可能是从武器的世界中，盘古大陆。
 - The emerging supercontinent of Pangaea presented severe extremes of climate and environment due to its vast size .

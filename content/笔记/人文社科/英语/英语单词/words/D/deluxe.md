@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈlʌks/； 美：/dɪˈlʌks/
 - #词性/adj  豪华的；高级的
-# 例句
+##### 例句
 - Rates are higher for deluxe accommodations .
 	- 豪华间收费较高。
 - I liked the deluxe edition , but I could afford only a second best .

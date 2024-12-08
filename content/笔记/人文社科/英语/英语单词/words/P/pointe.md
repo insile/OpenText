@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pwæ̃t/； 美：/pwæ̃t/
 - #词性/n  (芭蕾舞鞋的)硬鞋尖
-# 例句
+##### 例句
 - Finally , the paper elaborated the whole system 's security and some pointe that need improving .
 	- 最后，阐述了整个系统安全性以及需要完善和改进之处。
 - Pointe out that the conclusions of this thesis research , and to propose further research directions .

@@ -6,9 +6,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  动员；赋予可动性
-# 例句
+##### 例句
 - India is now in a better position to mobilise its forces
 	- 印度现在更有条件动员军队了。
 - The purpose of the journey is to mobilise public opinion on the controversial issue

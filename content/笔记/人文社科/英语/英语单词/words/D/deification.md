@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdeɪɪfɪˈkeɪʃn/； 美：/ˌdeɪɪfɪˈkeɪʃn/
 - #词性/n  神化;奉若神明
-# 例句
+##### 例句
 - For the same reason , our party abhors the deification of an individual .
 	- 因为这样，我们党也厌弃对于个人的神化
 - Mechanical Copy and Deification of TV Media & A Discussion of Modern TV Media 's Negative Characteristics

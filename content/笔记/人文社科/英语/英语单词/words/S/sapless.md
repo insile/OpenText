@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  枯萎的；萨普莱斯；无活力；老一套
-# 例句
+##### 例句
 - As if her veins were sapless and old ,
 	- 如同她那老迈而枯萎的血脉，
 - The rats and roaches scurrying along the sapless planks - Norman Mailer .

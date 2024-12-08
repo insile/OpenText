@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˌnækrəˈnɪstɪk/； 美：/əˌnækrəˈnɪstɪk/
 - #词性/adj  落伍的;过时的；不合时宜的
-# 例句
+##### 例句
 - Many of its practices seem anachronistic .
 	- 它的很多习俗显得落伍过时。
 - His views on love and marriage are a little bit anachronistic .

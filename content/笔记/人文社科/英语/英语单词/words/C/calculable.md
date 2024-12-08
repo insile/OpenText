@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkælkjələbl/； 美：/ˈkælkjələbl/
 - #词性/adj  可计算的；可估计的
-# 例句
+##### 例句
 - A cell theory of nematic liquid crystals is presented , which provides a calculable theoretical model for investigation of molecular short-range correlations .
 	- 本文提出了向列型液晶的格胞理论，为研究分子短程关联提供一个可计算的理论模型。
 - The quantitative analyze of metallography is about how to determinately express the organization of metallography by measurable and calculable parameters , and find the relationship and ruler between material performance and these parameters .

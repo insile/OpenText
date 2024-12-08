@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɛksɪˈteɪʃən/； 美：/ˌɛksaɪˈteɪʃən/
 - #词性/n  励磁；激发，兴奋
-# 例句
+##### 例句
 - Different experimental conditions were used : excitation power and crystal size .
 	- 实验中包括不同尺寸大小的晶体和不同强度的激发光功率。
 - Electromagnetic vibration technology in the application of seismic excitation source

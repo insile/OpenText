@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbaʊntiəs/； 美：/ˈbaʊntiəs/
 - #词性/adj  十分慷慨的；非常大方的
-# 例句
+##### 例句
 - Thank you for your bounteous gifts .
 	- 谢谢您的厚礼。
 - He is a bounteous gentleman .

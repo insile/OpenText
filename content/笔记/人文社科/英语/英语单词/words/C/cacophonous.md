@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəˈkɒfənəs/； 美：/kəˈkɑːfənəs/
 - #词性/adj  刺耳的；刺耳嘈杂的
-# 例句
+##### 例句
 - They produced the most cacophonous beat of pop music .
 	- 他们制造了流行音乐最不协调的节拍
 - Hinduism takes many forms from serene private prayer to cacophonous public festival .

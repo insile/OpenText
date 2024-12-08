@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈstrɒnəmi/； 美：/əˈstrɑːnəmi/
 - #词性/n  天文学
-# 例句
+##### 例句
 - Speaking generally , the space enterprise has served astronomy well .
 	- 总的说来，航空企业很好地促进了天文学的发展。
 - We are on the threshold of a new era in astronomy .

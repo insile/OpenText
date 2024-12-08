@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈsɜːbəti/； 美：/əˈsɜːrbəti/
 - #词性/n  酸涩；辛辣尖刻的幽默
-# 例句
+##### 例句
 - Before why crying is nose acerbity acerbity ?
 	- 为什么在哭之前鼻子会酸酸的呢？
 - The biggest to amino acerbity demand still is animal feed additive .

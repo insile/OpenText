@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  镍钛诺；镍钛化合物
-# 例句
+##### 例句
 - Clinical effect comparison of root canal preparation by nitinol file with stainless steel K file
 	- 镍钛及不锈钢手用根管预备器械的临床应用比较
 - Experimental Study of the Domestic Nitinol Alloy Stent

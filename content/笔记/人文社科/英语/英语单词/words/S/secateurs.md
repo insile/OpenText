@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsekəˈtɜːz/； 美：/ˌsekəˈtɜːrz/
 - #词性/n  修枝剪；整枝剪
-# 例句
+##### 例句
 - ^ study on the new plant grafting secateurs
 	- 植物嫁接修枝剪刀的研究
 - Secateurs give you wonderful feeling power ; you become menace all you survey .

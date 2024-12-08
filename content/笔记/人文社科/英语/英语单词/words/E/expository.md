@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  解释的；解（注）释的，说明的，叙述的
-# 例句
+##### 例句
 - His language at such points generally seems to be explainable primarily in terms of his expository objectives .
 	- 在这点上他的语言似乎对于所解释的对象是解说性的。
 - A Contrastive Study of Topic Structure in Chinese and English Expository Text

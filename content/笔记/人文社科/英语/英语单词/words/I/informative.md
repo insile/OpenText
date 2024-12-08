@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈfɔːmətɪv/； 美：/ɪnˈfɔːrmətɪv/
 - #词性/adj  提供有用信息的；给予知识的
-# 例句
+##### 例句
 - I found the talk both informative and entertaining .
 	- 我认为这次演讲知识与趣味并重。
 - The book is too long but , nonetheless , informative and entertaining .

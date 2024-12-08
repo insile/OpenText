@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  霍普韦尔；霍普威尔；霍普维尔
-# 例句
+##### 例句
 - Hopewell 's success begs the question : why aren 't more companies doing the same ?
 	- 霍普韦尔的成功让人不禁要问：为什么其他公司不效仿呢？
 - Yes , the east coast metropolitan elites have been offloading their striped cotton shirt-dresses , Hopewell Mini Chain Crossbody bags and Karita Lace-Up Block-Heel Sandals by the sackful .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnjuːdəti/； 美：/ˈnuːdəti/
 - #词性/n  裸体；赤裸
-# 例句
+##### 例句
 - The committee claimed that there was too much nudity on television .
 	- 委员会指出电视里的裸体镜头太多。
 - It was the first show to use the F-word and show nudity on stage

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfleʃi/； 美：/ˈfleʃi/
 - #词性/adj  肉质的；多肉的；肥胖的
-# 例句
+##### 例句
 - He let the young men clasp his bony hand in their fleshy ones .
 	- 他让这些年轻人把他骨瘦如柴的手紧握在他们多肉的手里。
 - Mexican or West Indian plant with large fleshy leaves yielding a stiff fiber used in e.g. rope .

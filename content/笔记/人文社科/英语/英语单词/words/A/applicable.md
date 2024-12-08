@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈplɪkəbl/； 美：/ˈæplɪkəbl/
 - #词性/adj  适用；合适；可应用的
-# 例句
+##### 例句
 - There are several variables applicable to a visualization pattern .
 	- 对可视化模板有一些可应用的变量。
 - Nor is there a vast pool of applicable analytical or quantitative methods we could use .

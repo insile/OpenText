@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɔːsəti/； 美：/ˈpɔːsəti/
 - #词性/n  贫乏；少量；少许
-# 例句
+##### 例句
 - Even the film 's impressive finale can 't hide the first hour 's paucity of imagination .
 	- 这部电影的结局可圈可点，即使这样也无法掩盖前一个小时想象力贫乏的缺憾。
 - Even so , expert opinion and Cochrane reviews do not recommend this practice because of the paucity of data regarding safety and resistance and the absence of adequately powered , multicenter trials .

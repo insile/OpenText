@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkwɪzɪkl/； 美：/ˈkwɪzɪkl/
 - #词性/adj  诧异的；感到好笑的
-# 例句
+##### 例句
 - He gave Robin a mildly quizzical glance .
 	- 他有些惊讶地瞥了罗宾一眼。
 - He looked up with a quizzical look on his face .

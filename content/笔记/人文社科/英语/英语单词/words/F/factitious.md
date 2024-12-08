@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fækˈtɪʃəs/； 美：/fækˈtɪʃəs/
 - #词性/adj  人为的；虚假的
-# 例句
+##### 例句
 - Brokers created a factitious demand for stocks .
 	- 经纪人造成了一场人为的股票需求。
 - Practical application shows that it can improve work efficiency , put an end to factitious operation error , and prevent various of cheat behaviors .

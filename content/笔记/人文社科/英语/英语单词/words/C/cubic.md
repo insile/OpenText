@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkjuːbɪk/； 美：/ˈkjuːbɪk/
 - #词性/adj  立方的；立方体的；立方形的；用立方单位度量(或表示)的
 - #词性/n  三次曲线；三次多项式；三次函数；三次方程式
-# 例句
+##### 例句
 - It 's a cubic crystal inside of it !
 	- 里面有一块立方体的水晶！
 - Some conclusions are drawn : the compressive strength and flexural strength of cubic specimens of steel fibre reinforced concrete increase with the dosage of steel fibre ;

@@ -7,11 +7,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈkʌrənt/； 美：/kənˈkɜːrənt/
 - #词性/adj  <律>有相等权力的，同时(实施)的；同意的，一致的；同时发生的；合作的；协调的；并存的；<数>共点的，会合的；共同(或同时)起作用的
 - #词性/n  竞争者；共存物；同时发生的事情
-# 例句
+##### 例句
 - In a proportion of patients there was also evidence of a concurrent autoimmune disorder .
 	- 在部分病人中还发现了同时发生的自身免疫性疾病。
 - Thus have I heard , the below poignant and hilarious accounts are based on actual concurrent incidents ...

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  玻璃制品；玻璃（器）制造（业），玻璃厂，玻璃制品
-# 例句
+##### 例句
 - Clinical analysis on seven cases of chronic arsenic poisoned patients in a glasswork
 	- 玻璃厂慢性砷中毒7例临床分析
 - The Design of Fuzzy Control System for Glasswork Product Line Based on I-7000 Modules

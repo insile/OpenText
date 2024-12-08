@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  警句的；警句；讽刺
-# 例句
+##### 例句
 - An epigrammatic Japanese verse form of three short lines .
 	- 由三行短诗构成的警句式的日本诗。
 - Papers are written about " activating stunned fish ", his epigrammatic summation of the post-merger integration of the succulent but ill-managed morsels that Haier has taken over .

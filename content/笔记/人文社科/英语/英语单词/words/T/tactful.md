@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtæktfl/； 美：/ˈtæktfl/
 - #词性/adj  圆滑的；得体的；圆通的；不得罪人的
-# 例句
+##### 例句
 - She gets them to accept these changes by tactful management .
 	- 她用圆滑的手腕说服他们接受这些变动。
 - She get them to accept these change by tactful management .

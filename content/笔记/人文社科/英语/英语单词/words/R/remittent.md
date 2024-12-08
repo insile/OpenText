@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  （发热）弛张的；（病症）间歇性的，忽轻忽重的
-# 例句
+##### 例句
 - During the first week there is a gradually increasing remittent fever .
 	- 第一周驰张热逐渐升高。
 - There are three types , intermittent fever , remittent fever and relapsing fever .

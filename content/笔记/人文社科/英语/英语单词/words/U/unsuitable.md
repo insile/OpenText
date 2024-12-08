@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈsuːtəbl/； 美：/ʌnˈsuːtəbl/
 - #词性/adj  不合适的；不适宜的；不适当的
-# 例句
+##### 例句
 - Unsuitable interest rate and exchange rate are important factors ;
 	- 不适当的利率和汇率政策是资本帐户开放风险产生的重要因素；
 - However , unsuitable instruction design will cause heavy cognitive load and hinder inquiry learning course .

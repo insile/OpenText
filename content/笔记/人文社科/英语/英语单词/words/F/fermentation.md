@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌfɜːmenˈteɪʃn/； 美：/ˌfɜːrmenˈteɪʃn/
 - #词性/n  发酵（作用）
-# 例句
+##### 例句
 - Controlled fermentation with extended maceration , stopped by grape brandy addition .
 	- 采用浸泡发酵工艺，加入葡萄白兰地终止发酵
 - Research and application of continuous cascade system in fermentation process

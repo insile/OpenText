@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  男女同校；男女同校制
-# 例句
+##### 例句
 - Analyzing on the advantages of adopting coeducation during physical education course in general higher college
 	- 普通高校专项体育课男女生合班教学的优势分析
 - Still others feared the changes were a step toward coeducation .

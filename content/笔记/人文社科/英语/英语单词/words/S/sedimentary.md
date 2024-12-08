@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsedɪˈmentri/； 美：/ˌsedɪˈmentri/
 - #词性/adj  沉积的；沉积形成的
-# 例句
+##### 例句
 - The research on control action of sedimentary system by tectonism
 	- 构造对沉积的控制作用
 - Clay soil formed by sedimentary deposits .

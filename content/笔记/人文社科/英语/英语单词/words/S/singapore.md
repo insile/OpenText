@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsɪŋgə'pɔ:/； 美：/ˌsiŋɡəˈpɔː(r)/
 - #词性/n  新加坡
-# 例句
+##### 例句
 - I transferred at Bahrain for a flight to Singapore .
 	- 我在巴林转乘飞往新加坡的班机。
 - Singapore and South Africa have established diplomatic relations .

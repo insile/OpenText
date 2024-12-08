@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  上升；优越，权势，主权
-# 例句
+##### 例句
 - A Summery of the International Symposium on the Social Ascendance in Modern Chinese Villages
 	- 近代中国乡村社会权势国际学术研讨会综述
 - China 's ascendance to prominence must begin with our generation !

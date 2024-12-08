@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlækrɪməʊs/； 美：/ˈlækrɪmoʊs/
 - #词性/adj  爱哭的；爱流泪的
-# 例句
+##### 例句
 - Julia Moreno plays the lachrymose heroine of the film .
 	- 朱莉亚莫雷诺在片中扮演爱哭的女主角。
 - He was by turns devout and obscene , merry and lachrymose .

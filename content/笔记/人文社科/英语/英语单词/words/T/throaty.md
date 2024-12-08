@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈθrəʊti/； 美：/ˈθroʊti/
 - #词性/adj  嘶哑的；声音低沉的
-# 例句
+##### 例句
 - Her laugh was dulcet and throaty .
 	- 她的笑声低沉悦耳。
 - I 'm afraid I 'm rather throaty today because of my cold .

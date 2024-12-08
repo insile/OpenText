@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈvɪviəl/； 美：/kənˈvɪviəl/
 - #词性/adj  欢乐的；(气氛或性格)欢快友好的
-# 例句
+##### 例句
 - The atmosphere was quite convivial .
 	- 气氛非常轻松愉快。
 - The people of Hamburg are well known for their open and convivial nature .

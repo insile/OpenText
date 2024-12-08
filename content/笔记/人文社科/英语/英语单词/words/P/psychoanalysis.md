@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsaɪkəʊəˈnæləsɪs/； 美：/ˌsaɪkoʊəˈnæləsɪs/
 - #词性/n  精神分析(或疗法)；心理分析(或疗法)
-# 例句
+##### 例句
 - Theoretical Development and Analysis in Psychoanalysis in a Century
 	- 百年精神分析理论的发展与剖析
 - The theory on psychoanalysis and the modern social culture

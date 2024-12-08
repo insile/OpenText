@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkɒnsæŋˈɡwɪnəti/； 美：/ˌkɑːnsæŋˈɡwɪnəti/
 - #词性/n  血缘；血亲关系；同宗
-# 例句
+##### 例句
 - The identity in the primitive society was based on consanguinity .
 	- 原始社会存在身份，但这种身份是建立在血缘基础之上的。
 - The Consanguinity Analysis of Wheat Varieties Cultivated in Henan Province in Recent Years

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  符号的；象征；象征的；象征性的
-# 例句
+##### 例句
 - The Tool Value Analysis of the Political Symbolical Sign
 	- 政治象征符号的工具价值分析
 - The fourth chapter deals with the symbolical meaning of the structure .

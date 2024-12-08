@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdʒerɒnˈtɒlədʒi/； 美：/ˌdʒerənˈtɑːlədʒi/
 - #词性/n  老年学
-# 例句
+##### 例句
 - Conditions of and Thoughts on Educational System of Gerontology in China
 	- 中国老年学教育体系的现状与思考
 - To attach importance to the education and research of gerontology ;

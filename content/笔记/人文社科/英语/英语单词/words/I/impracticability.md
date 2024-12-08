@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  不切实际；固执；无法实施；不能实施的事项
-# 例句
+##### 例句
 - The weakness of Chinese current research situation is shown on its impracticability in execution , and serious problems in the theory system itself .
 	- 我国现有行政规划的理论研究非常薄弱，存在严重的不足，主要表现为与实践不相适应，自身理论体系不完善。
 - Impracticability of ZC ( 83 ) Sea-Going Ship Construction Specifications to Boats

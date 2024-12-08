@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkɪtʃɪnweə(r)/； 美：/ˈkɪtʃɪnwer/
 - #词性/n  (商店用语)厨房用具
-# 例句
+##### 例句
 - We want to buy Metalware PVC Handicraft , Keychain , Houseware , Gip Kitchenware , Photo Thermometer Handicrafts .
 	- 我们要采购金属器皿，手工艺品，钥匙链，家庭用品，厨房用具，相片温度计手工艺品。
 - Graves has produced murals , posters , rugs , costumes , kitchenware , and furniture as well as houses , showrooms , and large-scale buildings .

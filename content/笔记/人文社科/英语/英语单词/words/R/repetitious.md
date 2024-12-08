@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌrepəˈtɪʃəs/； 美：/ˌrepəˈtɪʃəs/
 - #词性/adj  重复的；反反复复的；一再的
-# 例句
+##### 例句
 - Fiber reinforced plastic has high mechanical strength , especially fatigue durability , and its performance will not be debased obviously under the repetitious outside force .
 	- 纤维增强塑料不仅具有很高的力学强度，特别是耐疲劳性，在重复的外力作用下，材料的性能不会明显降低。
 - You will need to focus on a more complete way of filtering this information that allows you to cover all of the possible tests per data type , without monotony or repetitious tasks .

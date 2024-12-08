@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈviːniəl/； 美：/ˈviːniəl/
 - #词性/adj  轻微而可原谅的
-# 例句
+##### 例句
 - Her poverty had been a venial fault for two gallant gentlemen .
 	- 她的贫穷对那两位殷勤的绅士而言，只是一个微不足道的缺点。
 - The venial sins are relatively minor and more easily forgiven .

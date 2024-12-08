@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/mɪ'stɪərɪəslɪ/； 美：/mɪsˈtɪrɪəslɪ/
 - #词性/adv  神秘地
-# 例句
+##### 例句
 - She was silent , smiling mysteriously .
 	- 她沉默不语，神秘地笑着。
 - South Africa 's great white sharks – the stuff of nightmares and of nature documentaries – have gone mysteriously missing .

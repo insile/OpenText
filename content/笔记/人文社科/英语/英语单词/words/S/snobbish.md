@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsnɒbɪʃ/； 美：/ˈsnɑːbɪʃ/
 - #词性/adj  势利的；自命不凡的
-# 例句
+##### 例句
 - She had a slightly snobbish attitude towards the theatre .
 	- 她对待戏剧带有几分势利的态度。
 - Lu : I appreciate that you can be fair-weather friends were rich , I do not like the kind of snobbish people .

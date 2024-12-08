@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  炖锅
-# 例句
+##### 例句
 - She scooped the chicken bones back into the stewpot .
 	- 她拿勺捞起鸡骨头放回了炖锅里。
 - He does not see how he can empty his stewpot in time for coffee .

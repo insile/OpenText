@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌstɪmjʊˈleɪʃən/； 美：/ˌstɪmjəˈleɪʃən/
 - #词性/n  激励；兴奋(作用)
-# 例句
+##### 例句
 - Theory of stimulation is an important part of the organization management theory .
 	- 激励理论是组织管理理论的重要组成部分，激励理论在高等学校教育管理中广为应用。
 - Research on the Stimulation Function of Corporate Culture and Its Improvement Way

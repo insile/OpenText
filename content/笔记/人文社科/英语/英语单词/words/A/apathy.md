@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈæpəθi/； 美：/ˈæpəθi/
 - #词性/n  冷漠；淡漠
-# 例句
+##### 例句
 - The government response seems to be the result of strong public reaction against the police apathy .
 	- 政府的回应似乎是公众强烈抵制警察冷漠执法的结果。
 - They told me about isolation and public apathy .

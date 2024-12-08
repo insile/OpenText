@@ -9,11 +9,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈmjuːn/； 美：/ɪˈmjuːn/
 - #词性/adj  豁免；免除；有免疫力；不受影响；受保护
 - #词性/n  免疫者
-# 例句
+##### 例句
 - I am immune from the disease , for I had it once .
 	- 我对这病有免疫力，因为我已得过一次。
 - She think women may be immune to lung cancer .

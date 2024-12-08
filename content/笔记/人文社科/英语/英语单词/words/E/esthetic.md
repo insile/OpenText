@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/iːsˈθɛtɪk/； 美：/ɛˈsθɛtɪk/
 - #词性/adj  审美的；美学的
 - #词性/n  美学；审美家；唯美主义者
-# 例句
+##### 例句
 - Chinese traditional construction has very high artistic achievement and unique esthetic characteristics .
 	- 中国传统建筑具有很高的艺术成就和独特的审美特征。
 - There are mainly three esthetic characteristics of the sixth generation .

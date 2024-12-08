@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  腐败；金钱主义，贪财，受贿，唯利是图，以权谋私
-# 例句
+##### 例句
 - Instead , he zeroes in on the ills of contemporary Chinese society , his barbed posts targeting topics from official venality to the failings of a state-produced movie about Confucius .
 	- 相反，他在零点对当代中国社会的弊病，他的刺员额配置从官方受贿主题的孔子国家生产的电影的失败。
 - The result is a culture of venality that affects even basic government services and increases the cost of doing business .

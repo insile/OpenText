@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪŋɡlɪʃ ˈspiːkɪŋ/； 美：/ˈɪŋɡlɪʃ ˈspiːkɪŋ/
 - #词性/adj  说英语的
-# 例句
+##### 例句
 - And you may chat with English-speaking people to practice your oral English .
 	- 还能和说英语的人聊天练口语。
 - Both China and English-speaking countries have realized the importance of the culture exchanging .

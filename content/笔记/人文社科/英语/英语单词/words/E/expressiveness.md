@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  表现；达意；富有表现力；善于表现
-# 例句
+##### 例句
 - A Preliminary Study of Technical Ability and Expressiveness in Piano Playing
 	- 钢琴演奏中技术与表现力初探
 - Analysis of the Interactive Relationship between Music and Expressiveness in Calisthenics Teaching

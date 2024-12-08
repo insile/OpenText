@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌwel ˈhiːld/； 美：/ˌwel ˈhiːld/
 - #词性/adj  富有的；有钱的
-# 例句
+##### 例句
 - The well-heeled people helped rebuild the countryside road .
 	- 富人帮助重建了乡村的道路。
 - The shop attracted a loyal and large following among the well-heeled with its personal service .

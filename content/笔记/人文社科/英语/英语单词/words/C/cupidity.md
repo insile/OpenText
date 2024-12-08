@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kjuːˈpɪdəti/； 美：/kjuːˈpɪdəti/
 - #词性/n  贪婪；贪心
-# 例句
+##### 例句
 - Cupidity Shooting Algorithm Based on Maximal Angle for Robot Soccer
 	- 基于最大角的足球机器人贪心射门算法
 - Approach of fingerprint matching using cupidity algorithm triangulation

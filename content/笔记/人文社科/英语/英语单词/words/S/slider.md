@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈslaɪdə(r)/； 美：/ˈslaɪdər/
 - #词性/n  (控制收音机音量等的)滑杆，滑动器；浮动块，滚动条滑块；红腹彩龟(北美淡水龟)
-# 例句
+##### 例句
 - In the Pointer Trail area , drag the Length slider .
 	- 在指针尾部区，拖动长度滑杆。
 - This paper exemplifies Button , Switch and Slider control to demonstrate the design and manufacture of controls .

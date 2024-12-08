@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈleksɪkl/； 美：/ˈleksɪkl/
 - #词性/adj  词汇的
-# 例句
+##### 例句
 - Emotional semantic conveys lexical information , such as " joyful ", " sadness " .
 	- 情绪语义传达着词汇的信息，例如欢喜悲哀。
 - Lexical changes are one of the important aspects of language change .

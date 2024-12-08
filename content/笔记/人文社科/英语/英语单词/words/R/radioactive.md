@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌreɪdiəʊˈæktɪv/； 美：/ˌreɪdioʊˈæktɪv/
 - #词性/adj  放射性的；有辐射的
-# 例句
+##### 例句
 - Wine is radioactive but few people stop drinking it on that account .
 	- 酒是有放射性的，可是很少有人因此而戒酒。
 - The nuclear engineer described this leak as extremely radioactive water .

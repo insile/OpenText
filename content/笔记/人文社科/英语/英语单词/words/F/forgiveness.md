@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/fəˈɡɪvnəs/； 美：/fərˈɡɪvnəs/
 - #词性/n  原谅；宽恕；宽宏大量
-# 例句
+##### 例句
 - They dropped to their knees and begged forgiveness .
 	- 他们跪下请求原谅。
 - She wanted to run to her ex-boyfriend and beg his forgiveness .

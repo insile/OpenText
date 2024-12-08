@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpælətəbl/； 美：/ˈpælətəbl/
 - #词性/adj  可口的；适口的；宜人的；可接受的；味美的；可意的
-# 例句
+##### 例句
 - Or into boiling water for5 minutes , cool , packed in ice containers , then according to personal taste with palatable of spice , dampen consumption .
 	- 或入沸水5分钟后捞出，放冷，装在有冰的器皿中，根据个人口味配上适口的佐料，蘸取食用。
 - High levels of voluntary alcohol intake were promoted by providing adolescent rats with access to alcohol in a palatable gel matrix under nondeprivation conditions .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkredəˈbɪləti/； 美：/ˌkredəˈbɪləti/
 - #词性/n  可信性；可靠性
-# 例句
+##### 例句
 - The system has good real - time capability and high credibility .
 	- 该系统经实践验证，实时性强、可靠性高。
 - Evaluation of Effect of Air-defense Missile System Credibility on Fire Efficiency

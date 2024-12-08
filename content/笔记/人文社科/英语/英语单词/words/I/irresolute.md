@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈrezəluːt/； 美：/ɪˈrezəluːt/
 - #词性/adj  犹豫不决的；踌躇的
-# 例句
+##### 例句
 - Your irresolute attitude , coupled with your irrepressible sense of nonchalance simply is inappropriate to the seriousness of the situation .
 	- 你犹豫不决的态度以及抑制不住的冷淡与事态的严重性完全不相称。
 - But I stood irresolute ; when looking at a clock in the corner , he exclaimed I vum it 's Sunday-you won 't see that harpooneer to-night ;

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌndɪˈzɜːvɪŋ/； 美：/ˌʌndɪˈzɜːrvɪŋ/
 - #词性/adj  不配的；不够格的；不相当的
-# 例句
+##### 例句
 - Tell them that every time an undeserving movie wins Best Picture , God spawns a racist .
 	- 告诉他们，每次只要不够格的电影获得最佳影片，上帝就会造个种族歧视者出来。
 - He was undeserving of her affections .

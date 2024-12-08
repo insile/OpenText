@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  洞穴学
-# 例句
+##### 例句
 - The 10th International Speleology Congress held in budapest , Hungary
 	- 第10届国际洞穴学大会在匈牙利举行
 - An Outline of Speleology Research Progress

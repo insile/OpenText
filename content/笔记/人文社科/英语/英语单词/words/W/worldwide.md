@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌwɜːldˈwaɪd/； 美：/ˌwɜːrldˈwaɪd/
 - #词性/adv  在全世界；遍及全球地
 - #词性/adj  世界各地的；影响全世界的
-# 例句
+##### 例句
 - We have 2 000 members worldwide .
 	- 我们在全世界有2000名成员。
 - He said such methods would discredit the party worldwide .

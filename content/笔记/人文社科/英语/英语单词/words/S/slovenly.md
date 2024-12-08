@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈslʌvnli/； 美：/ˈslʌvnli/
 - #词性/adj #词性/adv  邋遢的/地；衣冠不整的/地，凌乱的/地；马虎的/地
-# 例句
+##### 例句
 - He grew lazy and slovenly in his habits .
 	- 他养成了懒散邋遢的习惯。
 - A slovenly waiter , secretary , cook , etc

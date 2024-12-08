@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  人类学；人类学上
-# 例句
+##### 例句
 - Traditional Chinese Medicine is not only a science intellectually , but also a culture anthropologically .
 	- 中医学不仅只是智力意义上的科学，而且也是人类学意义上的文化。
 - I mean , anthropologically speaking - Fine .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/speɪn/； 美：/speɪn/
 - #词性/n  西班牙
-# 例句
+##### 例句
 - Did you have a good time in Spain ?
 	- 你在西班牙过得愉快吗？
 - We made excellent time and arrived in Spain in two days .

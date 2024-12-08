@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfiːkənd/； 美：/ˈfiːkənd/
 - #词性/adj  多产的；生殖力旺盛的；有发明创造力的；(尤指)能提出新颖想法的
-# 例句
+##### 例句
 - Large animals are less fecund than small ones .
 	- 大动物没有小动物繁殖能力强。
 - The pampas are still among the most fecund lands in the world

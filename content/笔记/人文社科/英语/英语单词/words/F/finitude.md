@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  有限性；界限，限制
-# 例句
+##### 例句
 - But the actual educational activities usually ignore the finitude of life .
 	- 现实的教育活动却往往忽视了这一点。
 - This variety constitutes the finitude of design within its own nature .

@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈvɑːntɪdʒ/； 美：/ˈvæntɪdʒ/
 - #词性/n  优势
-# 例句
+##### 例句
 - The cafe was a good vantage point for watching the world go by .
 	- 从这家小餐馆能清楚地看到世事的变迁。
 - From a concealed vantage point , he saw a car arrive

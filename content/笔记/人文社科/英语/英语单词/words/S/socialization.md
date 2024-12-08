@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsəʊʃəlaɪˈzeɪʃn/； 美：/ˌsoʊʃələˈzeɪʃn/
 - #词性/n  社会化；适应社会的过程
-# 例句
+##### 例句
 - Female socialization emphasizes getting along with others .
 	- 女性的社会化强调与人相处。
 - Socialization of production is still at a very low level .

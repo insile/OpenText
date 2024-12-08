@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈdjuːbɪtəbl/； 美：/ɪnˈduːbɪtəbl/
 - #词性/adj  不容置疑的；毋庸置疑的；明确无疑的
-# 例句
+##### 例句
 - And the impact of the incentive system in the course of the human resource management is indubitable .
 	- 激励机制在人力资源管理过程中的作用是不容置疑的，其地位是不可替代的。
 - Global climate change has become indubitable .

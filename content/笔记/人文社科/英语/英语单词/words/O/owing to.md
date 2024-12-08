@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈəʊɪŋ tə/； 美：/ˈoʊɪŋ tə/
 - #词性/prep  因为，由于
-# 例句
+##### 例句
 - He was out of work owing to a physical injury
 	- 他因为受伤而失业了。
 - The progress of negotiation between the two sides has slowed down owing to their absence .

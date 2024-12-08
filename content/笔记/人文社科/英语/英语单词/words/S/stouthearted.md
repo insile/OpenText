@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  刚毅的
-# 例句
+##### 例句
 - A stalwart knight ; a stouthearted fellow who had an active career in the army .
 	- 勇敢的骑士；一个在军队中有着活跃的事业的、刚毅的人。
 - The stouthearted are spoiled , they have slept their sleep : and none of the men of might have found their hands .

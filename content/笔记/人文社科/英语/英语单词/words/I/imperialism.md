@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪmˈpɪəriəlɪzəm/； 美：/ɪmˈpɪriəlɪzəm/
 - #词性/n  帝国主义；(商业、文化等向外国的)扩张；帝国统治；扩张主义
-# 例句
+##### 例句
 - Might is right -- that is the logic of imperialism .
 	- 强权即公理--这是帝国主义的逻辑。
 - Our two peoples share the same experience of having been oppressed by imperialism .

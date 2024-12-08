@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbleɪtnt/； 美：/ˈbleɪtnt/
 - #词性/adj  公然的；明目张胆的
-# 例句
+##### 例句
 - This is in blatant disregard of judicial fairness .
 	- 这是对司法公正明目张胆的践踏。
 - To shouting learn from the slogan , blatant " cottage " other countries work .

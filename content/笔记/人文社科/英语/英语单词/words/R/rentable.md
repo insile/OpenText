@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  可出租的
-# 例句
+##### 例句
 - Feasibility study on rentable battery in University
 	- 高校电池租赁可行性研究
 - It will help to optimize each unit 's search for underused and rentable spectrum .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsæŋɡwɪnəri/； 美：/ˈsæŋɡwɪneri/
 - #词性/adj  血腥的；嗜血成性的；(好)杀戮的
-# 例句
+##### 例句
 - Jadeite Jade With Sanguinary Conflict ( 3 )
 	- 流血的翡翠（连载三）
 - This bitter and sanguinary war .

@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnaʊədeɪz/； 美：/ˈnaʊədeɪz/
 - #词性/adv  现在；目前；现今
 - #词性/n  现在
-# 例句
+##### 例句
 - We are too busy to entertain much nowadays .
 	- 现今我们忙得都不能经常请客了。
 - Nowadays the bride almost always wears white , no matter how many times she has been down the aisle .

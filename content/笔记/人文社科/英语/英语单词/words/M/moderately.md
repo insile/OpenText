@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɒdərətli/； 美：/ˈmɑːdərətli/
 - #词性/adv  适度；适中；适量；一般地；勉强地
-# 例句
+##### 例句
 - Second , implement the moderately real estate financial policy .
 	- 二是实行适度的房地产金融政策。
 - Transport supply and demand to adapt , and moderately advanced .

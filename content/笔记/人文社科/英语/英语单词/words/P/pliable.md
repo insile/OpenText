@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈplaɪəbl/； 美：/ˈplaɪəbl/
 - #词性/adj  柔韧的；易弯曲的；可塑的；易受影响的；容易摆布的
-# 例句
+##### 例句
 - The finely twined baskets are made with young , pliable spruce roots .
 	- 这些编织精美的篮子是用柔韧的云杉嫩树根编成的。
 - A substance added to plastics or other materials to make them more pliable .

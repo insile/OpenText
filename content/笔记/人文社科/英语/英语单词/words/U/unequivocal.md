@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnɪˈkwɪvəkl/； 美：/ˌʌnɪˈkwɪvəkl/
 - #词性/adj  毫不含糊的；斩钉截铁的；表达明确的
-# 例句
+##### 例句
 - We are for the large shape because it has the impact of the unequivocal .
 	- 我们选择大号尺幅是因为其毫不含糊的冲击力。
 - So far , the market has been unequivocal : Since Steve Jobs 's death , Apple 's share price has risen 78 % .

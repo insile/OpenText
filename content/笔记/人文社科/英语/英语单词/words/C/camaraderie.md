@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌkæməˈrɑːdəri/； 美：/ˌkɑːməˈrɑːdəri/
 - #词性/n  友情；同事情谊
-# 例句
+##### 例句
 - Then there is the challenge of how to foster a sense of common purpose and camaraderie among workers who join forces over web-based platforms yet rarely , or never , meet in person .
 	- 那么，这里就存在着一个挑战：如何帮助那些在网络平台上通力合作、却很少甚至从未谋面的员工建立起共同使命感和同事情谊。
 - Great managers use it to build trust , pride , and camaraderie every step of the way .

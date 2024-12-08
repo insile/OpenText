@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  简洁；（文体）优美，简洁
-# 例句
+##### 例句
 - For the purpose of exact and concinnity , we should use different ways of translation on the basis of the difference in the similes .
 	- 针对不同类型的比喻，可以采用不同的翻译方法，力求翻译的合理和优美。
 - Tied arch bridge , not only has a concinnity outline , but also is fit for buildings in the watery region and cities on the soft clay ground .

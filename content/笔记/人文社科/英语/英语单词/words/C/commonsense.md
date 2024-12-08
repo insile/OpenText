@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  常识；直觉判断力
 - #词性/adj  有常识的；明白的
-# 例句
+##### 例句
 - Commonsense now dictates that it would be wise to sell a few shares .
 	- 现在，常识告诉我们卖掉一些股票是明智的。
 - The judge 's ruling was based on the simple commonsense tenet that no man is above the law .

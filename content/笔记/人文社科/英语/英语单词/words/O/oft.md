@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɒft/； 美：/ɔːft/
 - #词性/adv  时常
-# 例句
+##### 例句
 - However , there are many rewards that come with this oft maligned career .
 	- 然而，这个时常被中伤的职业也伴随着很多回报。
 - Development ofT human resources means that a worldwide educational reform will surge .

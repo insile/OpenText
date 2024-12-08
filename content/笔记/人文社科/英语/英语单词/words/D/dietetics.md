@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdaɪəˈtetɪks/； 美：/ˌdaɪəˈtetɪks/
 - #词性/n  饮食学
-# 例句
+##### 例句
 - This book makes a significant contribution to dietetics .
 	- 此书对营养学有很大贡献。
 - You have a bad diet habit and I don 't think you know dietetics .

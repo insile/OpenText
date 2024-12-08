@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  中和；抵消
-# 例句
+##### 例句
 - Mr Obama 's plan would neutralise that hit ( see table ) .
 	- 奥巴马的计划将中和上述的打击（看表格）。
 - the fly has a physiology that can neutralise the lethal levels of salt .

@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌvɪəˈniːz/； 美：/viˈɛˌnis/
 - #词性/n  维也纳；维也纳人
 - #词性/adj  维也纳的；维也纳人的
-# 例句
+##### 例句
 - I started with the Viennese speciality frittatensuppe , or pancake soup .
 	- 我吃的第一道菜是维也纳特色菜鸡蛋饼汤，也叫炒饼汤。
 - Many of them play in smaller groups devoted only to Viennese music .

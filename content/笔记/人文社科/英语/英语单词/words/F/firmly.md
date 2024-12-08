@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɜːmli/； 美：/ˈfɜːrmli/
 - #词性/adv  坚定地；坚决地；坚固地
-# 例句
+##### 例句
 - " We want more than that ," he said firmly .
 	- 我们要的不只那些。他态度坚决地说。
 - Money hasn 't changed me , 'she stated firmly .

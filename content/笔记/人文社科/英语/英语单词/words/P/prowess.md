@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpraʊəs/； 美：/ˈpraʊəs/
 - #词性/n  造诣；高超的技艺；非凡的技能
-# 例句
+##### 例句
 - The best and the brightest pupils competed to demonstrate their intellectual prowess .
 	- 最出色、最聪明的学生们竞相展示他们的才智。
 - He 's always bragging about his prowess as a cricketer

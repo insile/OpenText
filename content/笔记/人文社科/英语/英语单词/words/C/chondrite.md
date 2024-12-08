@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  球粒陨石
-# 例句
+##### 例句
 - Preliminary study on the Xin Yang chondrite
 	- 信阳球粒陨石初步研究
 - K-Ar age and ~ ( 38 ) ar exposure age determination of the Kirin chondrite

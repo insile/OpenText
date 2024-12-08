@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  无知的；蒙昧；闭塞；愚昧无知的；未开化
-# 例句
+##### 例句
 - I pity them , these poor unenlightened souls .
 	- 我真同情他们，这些无知的可怜虫。
 - Today it is in the transforming period in china , in which a unenlightened and traditional agricultural country is changing an opened and modern industrial country .

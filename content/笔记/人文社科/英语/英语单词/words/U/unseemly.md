@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈsiːmli/； 美：/ʌnˈsiːmli/
 - #词性/adj  不体面的；不得体的；不礼貌的；不相宜的
 - #词性/adv  不适宜地，不合时宜地；不得体地，不合乎礼仪地；不合适地
-# 例句
+##### 例句
 - It was unseemly to yield to such pressure .
 	- 要是屈服于这种压力，那是不体面的。
 - There 's nothing unseemly about cracking a few jokes when everybody here is taking themselves too seriously .

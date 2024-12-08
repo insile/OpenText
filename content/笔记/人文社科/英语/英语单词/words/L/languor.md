@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlæŋɡə(r)/； 美：/ˈlæŋɡər/
 - #词性/n  倦怠；慵懒；懒洋洋
-# 例句
+##### 例句
 - Discussion on the Job Languor of the TV University Teachers
 	- 谈电大教师的职业倦怠
 - Animals on the Job On Professional Languor of Teachers

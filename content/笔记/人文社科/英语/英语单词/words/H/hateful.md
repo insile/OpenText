@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈheɪtfl/； 美：/ˈheɪtfl/
 - #词性/adj  可恶的；十分讨厌的
-# 例句
+##### 例句
 - You are a hateful , lazy , arrogant , hateful man !
 	- 你是一个可恶的，懒惰的，自大的，可恨的男人！
 - They were hateful sharks , bad smelling , scavengers as well as killers , and when they were hungry they would bite an oar or the rudder of a boat .

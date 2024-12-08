@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌfeməˈnɪnəti/； 美：/ˌfeməˈnɪnəti/
 - #词性/n  阴柔；女气；女子气质
-# 例句
+##### 例句
 - First , the beauty of femininity and female consciousness .
 	- 第一，阴柔之美与女性意识。
 - The Unification of Masculinity and Femininity in The Lives of Girls and Women

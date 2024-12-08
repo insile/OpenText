@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪ'spɒnsɪvnəs/； 美：/rɪ'spɒnsɪvnəs/
 - #词性/n  响应性；灵敏度；敏感性；响应度；易起反应
-# 例句
+##### 例句
 - How can multiple streams provide better responsiveness in transporting data ?
 	- 多流如何在传输数据时提供更好的响应性呢？
 - Increase your flexibility and responsiveness with process driven guidance .

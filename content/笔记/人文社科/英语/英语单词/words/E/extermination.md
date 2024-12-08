@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪksˌtɜːmɪˈneɪʃən/； 美：/ɪkˌstɜrməˈneɪʃən/
 - #词性/n  灭绝；绝灭，消灭，根绝
-# 例句
+##### 例句
 - The Bounded Extermination and Stability of Mutual Interference System of Four-Dimensional Species
 	- 4维种群互斥系统的有界性绝灭性和稳定性
 - Their extermination shall be for their own good .

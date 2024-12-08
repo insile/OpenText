@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  分隔的；分离的
 - #词性/n  反意连接词
-# 例句
+##### 例句
 - Research on the primary disjunctive normal form of fuzzy logic function
 	- 模糊逻辑函数的主析取范式的研究
 - An Experimental Study on Disjunctive Reasoning under Uncertainty of the College Students

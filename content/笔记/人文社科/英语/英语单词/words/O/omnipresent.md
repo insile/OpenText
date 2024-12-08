@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɒmnɪˈpreznt/； 美：/ˌɑːmnɪˈpreznt/
 - #词性/adj  无所不在的；遍及各处的
-# 例句
+##### 例句
 - Therefore , the collective unconsciousness is omnipresent in ancient Chinese characters .
 	- 所以说集体无意识在古文字中是无所不在的。
 - It is an omnipresent part of life .

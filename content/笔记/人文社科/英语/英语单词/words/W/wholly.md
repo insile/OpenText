@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhəʊlli/； 美：/ˈhoʊlli/
 - #词性/adv  完全地；整体地；全面地
-# 例句
+##### 例句
 - Workers make their living wholly or mainly by selling their labour power .
 	- 工人完全地或主要地以出卖劳动力为生。
 - Inbreeders are plants which predominantly or wholly produce seeds from self-fertilization .

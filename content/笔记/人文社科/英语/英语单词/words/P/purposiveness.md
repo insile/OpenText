@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  有目的的；目的性；合目的性
-# 例句
+##### 例句
 - And the formal purposiveness is an analogy of the real one .
 	- 而形式上的主观合目的性，是类比于实在的合目的性提出的。
 - Secondly , the design of questions ' scene should have purposiveness , feasibility and challenge ;

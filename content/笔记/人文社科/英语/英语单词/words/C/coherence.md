@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kəʊˈhɪərəns/； 美：/koʊˈhɪrəns/
 - #词性/n  连贯性；条理性
-# 例句
+##### 例句
 - The anthology has a surprising sense of coherence .
 	- 整本选集有着惊人的连贯性。
 - " Coherence " Analysis of Inner - building Environment Vision Direction Design

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  土地所有者；地主；持有土地者
-# 例句
+##### 例句
 - It is the national well-known original Mashi Landholder Group Manor as well as the biggest national cave manor .
 	- 是闻名全国的原马氏地主集团庄园，也是全国最大的窑洞庄园。
 - Land was seemingly limitless in extend and , therefore , not highly priced , and almost every colonist wanted to be a landholder .

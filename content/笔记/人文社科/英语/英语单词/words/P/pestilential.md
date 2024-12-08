@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpestɪˈlenʃl/； 美：/ˌpestɪˈlenʃl/
 - #词性/adj  瘟疫的；引起瘟疫的；极讨厌的；极烦人的
-# 例句
+##### 例句
 - To develop pestilential theory by combing special disease differentiation with symptom factors differentiation
 	- 辨特定病种与辨证候要素相结合创新瘟疫理论
 - We must get rid of these pestilential flies .

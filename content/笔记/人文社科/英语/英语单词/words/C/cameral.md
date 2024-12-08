@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  财政学的；咨询委员会的；与审判庭或立法院有关的
 - #词性/adj  推事室的
-# 例句
+##### 例句
 - Experimental Analysis and Calculation of Electron Diffraction Cameral Length in TEM
 	- TEM中电子衍射相机长度的实验分析及计算
 - Cameral Automatic Tracking System for Remote Operation of Master Slave Manipulator

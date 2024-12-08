@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfeldspɑː(r)/； 美：/ˈfeldspɑːr/
 - #词性/n  长石
-# 例句
+##### 例句
 - Study on Mechanism and New Process of Potassium Extraction from Potash Feldspar
 	- 钾长石提钾机理研究及新工艺探讨
 - The development of potassium feldspar resources used for ceramics in Anhui Province

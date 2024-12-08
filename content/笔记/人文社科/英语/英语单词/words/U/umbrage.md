@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈʌmbrɪdʒ/； 美：/ˈʌmbrɪdʒ/
 - #词性/n  树荫；（成荫的）簇叶；阴影；愤懑
-# 例句
+##### 例句
 - He takes umbrage against anyone who criticises him .
 	- 不管谁批评他，他都心生愤懑。
 - She took umbrage at my remarks about her hair .

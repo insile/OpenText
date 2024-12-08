@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈskeptɪsɪzəm/； 美：/ˈskeptɪsɪzəm/
 - #词性/n  怀疑态度；怀疑论；怀疑主义
-# 例句
+##### 例句
 - This paper briefly explains the characteristics and positive meanings of skepticism .
 	- 本文对怀疑论的特点和积极意义给予了扼要的说明。
 - He notes that there is however a lot of skepticism .

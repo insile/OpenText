@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  重申；再次确认；再确认
-# 例句
+##### 例句
 - Diplomatic Conference on the Reaffirmation and Development of International Humanitarian Law Applicable in Armed Conflicts
 	- 关于重申和发展武装冲突中适用的国际人道主义法律问题外交会议
 - Diplomatic Conference on the Reaffirmation and Development of the Four Geneva Conventions of 1949 on Protecting the Victims of War

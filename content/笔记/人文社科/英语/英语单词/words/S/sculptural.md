@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈskʌlptʃərəl/； 美：/ˈskʌlptʃərəl/
 - #词性/adj  雕刻的;雕塑的
-# 例句
+##### 例句
 - He enjoyed working with clay as a sculptural form
 	- 他喜欢用黏土来做雕塑。
 - The sculptural style of the classical and Hellenistic periods .

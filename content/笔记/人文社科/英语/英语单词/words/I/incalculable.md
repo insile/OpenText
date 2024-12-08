@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈkælkjələbl/； 美：/ɪnˈkælkjələbl/
 - #词性/adj  不可估量的；不可计算的；极大的
-# 例句
+##### 例句
 - He warned that the effects of any war would be incalculable
 	- 他警告说任何战争造成的后果都是不可估量的。
 - The benefit to the local economy would be incalculable .

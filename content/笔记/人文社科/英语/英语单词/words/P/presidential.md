@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌprezɪˈdenʃl/； 美：/ˌprezɪˈdenʃl/
 - #词性/adj  总统的；与总统有关的
-# 例句
+##### 例句
 - The presidential mandate is limited to two terms of four years each .
 	- 总统的任期不得超过两届，每届四年。
 - He stands accused of destroying the party in pursuit of his presidential ambitions

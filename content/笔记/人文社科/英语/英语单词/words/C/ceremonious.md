@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌserəˈməʊniəs/； 美：/ˌserəˈmoʊniəs/
 - #词性/adj  隆重的；讲究礼仪的
-# 例句
+##### 例句
 - And I could make sure it would be very ceremonious !
 	- 我保证这次婚礼绝对非常隆重！
 - To bring , offer , or give , often in a formal or ceremonious way .

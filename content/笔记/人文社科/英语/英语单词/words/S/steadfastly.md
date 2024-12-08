@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  坚决；坚定不移地；坚定地；不变地；踏实地
-# 例句
+##### 例句
 - Nevertheless , we still steadfastly march toward this goal .
 	- 尽管有难度，我们也要坚定不移地向这一目标前进。
 - He said to steadfastly maintain ethnic unity and social stability in Xinjiang is the obligatory responsibility of the armed forces .

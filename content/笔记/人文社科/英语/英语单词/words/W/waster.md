@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈweɪstə(r)/； 美：/ˈweɪstər/
 - #词性/n  废物；浪费…的人；饭桶；酒囊饭袋；耗费…的东西；无用的人
-# 例句
+##### 例句
 - The Situation and Preventive Measures of Pollution of the Solid Waster Materials in Guangdong
 	- 广东省固体废物污染状况及防治对策
 - Lack of disposal facilities of solid waster materials ;

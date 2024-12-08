@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmeɪhem/； 美：/ˈmeɪhem/
 - #词性/n  骚乱；慌乱
-# 例句
+##### 例句
 - There was absolute mayhem when everyone tried to get out at once .
 	- 众人蜂拥而出，造成了极大的混乱。
 - Their arrival caused mayhem as crowds of refugees rushed towards them .

@@ -5,9 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsɪvɪlaɪˈzeɪʃən/； 美：/ˌsɪvəlɪˈzeɪʃən/
-# 例句
+- #词性/n  文明；文明社会，美好的生活环境（civilization 的英式拼写）
+##### 例句
 - We wanted to single out the main threat to civilisation .
 	- 我们想特别指出威胁文明的主要因素。
 - This opera is one of the cultural totems of Western civilisation .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsækərɪn/； 美：/ˈsækərɪn/
 - #词性/n  糖精
-# 例句
+##### 例句
 - We use saccharin in substitution for sugar .
 	- 我们用糖精代替糖。
 - The efforts on closedown and suspension of small sugar refineries , small saccharin refineries and small paper mills are also being carried out in steps .

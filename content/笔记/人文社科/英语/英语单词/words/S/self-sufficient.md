@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌself səˈfɪʃnt/； 美：/ˌself səˈfɪʃnt/
 - #词性/adj  自给自足的；自立的
-# 例句
+##### 例句
 - Village , is a relatively closed space with a specific meaning self-sufficient living space .
 	- 村落，是相对较封闭的自给自足的具有特定时空意义的生活空间。
 - So they live self-sufficient life with money but have no idea how to spend it .

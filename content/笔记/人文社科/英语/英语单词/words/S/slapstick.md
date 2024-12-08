@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈslæpstɪk/； 美：/ˈslæpstɪk/
 - #词性/n  打闹剧；粗俗滑稽剧
-# 例句
+##### 例句
 - Also see Bluebeard , Slapstick , Welcome to the Monkey House , Breakfast of Champions , among others , if you like the two listed here .
 	- 如果有兴趣，还可以看看他的其他作品，如《蓝胡子》《打闹剧》《欢迎到猴子屋》《冠军早餐》等。
 - A comedy characterized by slapstick and burlesque .

@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌflɔːˈresnt/； 美：/ˌflɔːˈresnt/
 - #词性/adj  发荧光的；发亮的；强烈反光的
 - #词性/n  荧光灯；荧光灯模式
-# 例句
+##### 例句
 - The strap has a fluorescent coating that glows in the dark .
 	- 皮带面上有一层荧光在黑暗中微微发光。
 - A typical fluorescent lamp is a tube with metal electrodes at each end .

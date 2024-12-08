@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈhelɪkl/； 美：/ˈhelɪkl/
 - #词性/adj  螺旋的；螺旋形的
-# 例句
+##### 例句
 - Flying downward in a helical path with a large radius .
 	- 在大的范围内以螺旋的路径向下飞。
 - Helical conjugate axial theory and its application

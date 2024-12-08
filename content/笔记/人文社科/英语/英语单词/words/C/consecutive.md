@@ -9,10 +9,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/kənˈsekjətɪv/； 美：/kənˈsekjətɪv/
 - #词性/adj  连续的；连续不断的
-# 例句
+##### 例句
 - He is beginning his fourth consecutive term of office .
 	- 他开始了第四届任期。
 - She was absent for nine consecutive days .

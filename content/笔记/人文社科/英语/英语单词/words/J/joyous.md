@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdʒɔɪəs/； 美：/ˈdʒɔɪəs/
 - #词性/adj  快乐的；高兴的；令人愉快的
-# 例句
+##### 例句
 - The birth of their first child was a joyous occasion .
 	- 他们第一个孩子的出生是件令人高兴的事。
 - Yet contact between the dead and the living can be joyous .

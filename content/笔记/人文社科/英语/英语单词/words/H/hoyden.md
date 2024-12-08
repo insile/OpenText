@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  野丫头；粗野的女孩；顽皮姑娘；喧闹的顽皮姑娘；粗野的女孩，野丫头
-# 例句
+##### 例句
 - Don 't put out your tongue at me , you cheeky hoyden !
 	- 不要向我伸舌头，你这个没规矩的野丫头！
 - The man , free as a hoyden , ran to a chestnut tree and scratched his back on its bark .

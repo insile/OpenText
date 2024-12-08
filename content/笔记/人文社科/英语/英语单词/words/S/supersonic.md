@@ -8,11 +8,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsuːpəˈsɒnɪk/； 美：/ˌsuːpərˈsɑːnɪk/
 - #词性/adj  超音速的；超声速的
 - #词性/n  超声波[频]；超音速飞机
-# 例句
+##### 例句
 - These planes travel at supersonic speeds .
 	- 这些飞机以超音速的速度飞行。
 - The results shows that the mixing time under subsonic blowing condition is remarkably longer than that under supersonic condition .

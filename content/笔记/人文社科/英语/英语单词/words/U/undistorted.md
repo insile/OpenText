@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌndɪsˈtɔːtɪd/； 美：/ʌndɪˈstɔrtəd/
 - #词性/adj  不失真的；无失真的；无畸变的
-# 例句
+##### 例句
 - A New Method of Undistorted Data Compression
 	- 一种无损数据压缩新方法
 - The best uses for scarce resources are found through an undistorted market system .

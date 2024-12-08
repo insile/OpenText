@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈʃɪftləs/； 美：/ˈʃɪftləs/
 - #词性/adj  懒惰的；混日子的；没志气的；不思上进的
-# 例句
+##### 例句
 - He called the young people shiftless , lazy and good-for-nothing .
 	- 他说这些年轻人胸无大志、懒惰和无用。
 - Wu Kang was a shiftless fellow who changed apprenticeships all the time .

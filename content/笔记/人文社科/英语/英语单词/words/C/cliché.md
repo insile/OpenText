@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkliːʃeɪ/； 美：/kliːˈʃeɪ/
 - #词性/n  陈词滥调；老生常谈；老套
-# 例句
+##### 例句
 - The old clich é of the customer being always right is what gives them airs and graces .
 	- “顾客总是对的”这种陈词滥调让他们变得趾高气扬。
 - The wisdom of crowds has become a modern clich é .

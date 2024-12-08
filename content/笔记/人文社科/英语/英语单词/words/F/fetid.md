@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfetɪd/； 美：/ˈfetɪd/
 - #词性/adj  恶臭的
-# 例句
+##### 例句
 - The horizon was swimming in a fetid heat haze .
 	- 地平线在恶臭的热气里晃动着。
 - The fetid air of the prison cell made her want to vomit .

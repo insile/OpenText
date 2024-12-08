@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/niˈændətɑːl/； 美：/niˈændərtɑːl/
 - #词性/adj  (石器时代生活于欧洲的)尼安德特人的；守旧的；粗鲁无礼的；僵化过时的；令人厌烦的
-# 例句
+##### 例句
 - Recent studies suggest that Neanderthal genes even influence human health today , contributing to conditions from allergies to depression .
 	- 近期的研究表明，尼安德特人的基因甚至影响到当今人类的健康，与包括过敏和抑郁在内的多个病状有关。
 - Their analysis confirmed previous studies : Some Neanderthal DNA did indeed end up in modern Europeans and Asians .

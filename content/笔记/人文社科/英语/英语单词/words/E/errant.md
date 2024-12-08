@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈerənt/； 美：/ˈerənt/
 - #词性/adj  离开正道的，迷途的；犯错误的；漫游的，漂泊的
 - #词性/n  漫游者；游侠骑士
-# 例句
+##### 例句
 - After all , errant sell decisions are lost opportunities for returns .
 	- 毕竟，错误的卖出决策就是丧失收益机会。
 - They came straight up to me , like errant children , begging forgiveness .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈkɒnvɜːsli/； 美：/ˈkɑːnvɜːrsli/
 - #词性/adv  相反地；反过来
-# 例句
+##### 例句
 - In real life , nobody was all bad , nor , conversely , all good .
 	- 在现实生活中，没有彻头彻尾的坏人，相反地，也没有完完全全的好人。
 - Conversely , maybe success depends completely on effective team leadership .

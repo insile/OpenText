@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  强迫性地；强制地
-# 例句
+##### 例句
 - She watched him compulsively .
 	- 她情不自禁地注视着他。
 - A chocoholic is a person who craves1 or compulsively consumes chocolate .

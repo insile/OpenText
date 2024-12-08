@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪsˈɒnə/； 美：/dɪˈsɑnər/
 - #词性/n  不名誉；拒付；丢脸
 - #词性/v  使蒙羞；玷辱
-# 例句
+##### 例句
 - She refuses to see her beloved boy die in such dishonor .
 	- 她不愿看到她深爱的男友就这样不名誉地死去。
 - But wait , there ’ s more : you ’ ll also get exciting plot twists and a world in which good and evil , nobility and dishonor , fear and courage , love and death , are intertwined . Gone with the Wind

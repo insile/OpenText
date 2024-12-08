@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌæstrəʊˈfɪzɪks/； 美：/ˌæstroʊˈfɪzɪks/
 - #词性/n  天体物理学
-# 例句
+##### 例句
 - However , China is notably behind other scientific powerhouses in clinical medicine and astronomy and astrophysics , ranking at 12th and 8th , respectively .
 	- 不过，中国在临床医学以及天文学与天体物理学方面与其他科技强国差距明显，分别排名第12名和第8名。
 - Gravitational effect is an important content in astrophysics and astronomy .

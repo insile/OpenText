@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡaɪlləs/； 美：/ˈɡaɪlləs/
 - #词性/adj  朴实的；老实的；厚道的；不奸猾的
-# 例句
+##### 例句
 - He had never seen such a guileless countenance .
 	- 他从未见过这样一个朴实的面容。
 - Halliday is a sweet , shaggy nerd with a guileless Northern California drawl and a deeply awkward manner , especially around women .

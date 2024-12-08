@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  短波
-# 例句
+##### 例句
 - Churchill 's cadences began to roll out of the shortwave radio .
 	- 短波电台里开始传出丘吉尔那抑扬顿挫的声调。
 - Simulation of Shortwave Channel Model and Research on Improved Algorithm

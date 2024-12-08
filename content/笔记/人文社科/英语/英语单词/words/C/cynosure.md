@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsaɪnəsjʊə(r)/； 美：/ˈsaɪnəʃʊr/
 - #词性/n  引人注目的人(或事物)；注意的中心
-# 例句
+##### 例句
 - Ruth was the cynosure of all eyes .
 	- 鲁思吸引了所有的目光。
 - The princess , dressed head to foot in gold , was the cynosure of all eyes .

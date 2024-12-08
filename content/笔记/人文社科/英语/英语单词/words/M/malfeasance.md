@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  渎职；渎职罪；不法行为；（尤指公务人员的）违法乱纪；滥用职权；胡作非为；恶行
-# 例句
+##### 例句
 - Four is put forward constructive countermeasures of crime of malfeasance trial .
 	- 四是提出渎职犯罪案件审理的建设性对策。
 - On the Determination of the Subject of the Crime of Malfeasance

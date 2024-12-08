@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdesɪˈkeɪʃn/； 美：/ˌdesɪˈkeɪʃn/
 - #词性/n  干涸；枯竭
-# 例句
+##### 例句
 - The Technical and Economic Comparison on Gas Transmission Pipeline Desiccation Project
 	- 天然气管道干燥方案的技术经济比选
 - Current Research of Basic Substances Related to Desiccation Tolerance in Seeds

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  法利赛人的；法利赛式
-# 例句
+##### 例句
 - That the mission became universal was due to the conversion and work of a Pharisaic Jew from Asia Minor , Paul .
 	- 传教使命变得普及是由于来自小亚细亚的法利赛的犹太教徒保罗的皈依和工作。
 - None of the writings of the Sadducees survived , so the little we know about them comes from their Pharisaic opponents .

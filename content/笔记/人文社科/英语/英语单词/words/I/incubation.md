@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪŋkjuˈbeɪʃn/； 美：/ˌɪŋkjuˈbeɪʃn/
 - #词性/n  孵化；(传染病的)潜伏期；孵(卵)；(细菌等的)繁殖
-# 例句
+##### 例句
 - City Science and Technology Innovation Incubation System
 	- 城市科技创新孵育体系探讨
 - Exploration of characteristics and incubation mode of human resources for passenger-dedicated line

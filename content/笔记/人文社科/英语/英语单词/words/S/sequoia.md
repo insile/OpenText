@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/sɪˈkwɔɪə/； 美：/sɪˈkwɔɪə/
 - #词性/n  红杉
-# 例句
+##### 例句
 - The photo shows the enormous general Sherman tree in California 's sequoia national park .
 	- 照片显示的是加利福尼亚州红杉国家公园内巨大的谢尔曼将军树。
 - The sequoia national forest is at the southern end of the sierra nevada range .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɑːftə(r)wə(r)d/； 美：/ˈæftərwərd/
 - #词性/adv  之后；后来
-# 例句
+##### 例句
 - Afterward he changed the research direction from the country the residential society .
 	- 后来他把研究方向从国家转向了市民社会。
 - The State Department afterward intervened frequently on a diplomatic level .

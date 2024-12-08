@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈprɒmɪnənt/； 美：/ˈprɑːmɪnənt/
 - #词性/adj  显眼的，显著的，突出的；重要的；著名的，杰出的；凸现的
 - #词性/n  <昆>舟蛾
-# 例句
+##### 例句
 - Here the window plays a prominent part in the design .
 	- 这里窗户在设计中起着非常重要的作用。
 - Almost all anthropological schools and prominent anthropologists have left their research achievements in the field of mythological studies .

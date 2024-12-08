@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈkjuːtli/； 美：/əˈkjuːtli/
 - #词性/adv  (描述不快的感觉)极其，强烈地；强烈意识到；深深感觉到
-# 例句
+##### 例句
 - After her mother 's death , she became acutely aware of her own mortality .
 	- 她母亲去世后，她开始强烈意识到自己的生命是有限的。
 - It was an acutely uncomfortable journey back to London .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vt #词性/vi  稳定；（使）稳定，（使）稳固
-# 例句
+##### 例句
 - The increased investment will help stabilise the economy
 	- 增加的投资将有助于经济的稳定。
 - Government intervention has precedence and can help stabilise the system .

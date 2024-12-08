@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  模拟（与数字相对应）；类似物
 - #词性/adj  模拟的
-# 例句
+##### 例句
 - New debuting analog thermostat welding machine , easy to operate .
 	- 新登场模拟式调温电焊台，操作简单。
 - An amplifying type ( or analog ) device , as opposed to digital device .

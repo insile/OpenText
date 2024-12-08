@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡrævəti/； 美：/ˈɡrævəti/
 - #词性/n  重力；严重性；地球引力；严肃；庄严
-# 例句
+##### 例句
 - Anything with strong gravity attracts other things to it .
 	- 任何有较强重力的物体都会对其他物体产生引力。
 - Arrows would continue to fly forward forever in a straight line were it not for gravity , which brings them down to earth .

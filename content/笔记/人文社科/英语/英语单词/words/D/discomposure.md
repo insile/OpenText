@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  不安；心乱；狼狈
-# 例句
+##### 例句
 - Application of Discomposure Demurrer Right in Power Supply Contract
 	- 试论供用电合同中不安抗辩权的运用
 - Chapter two discusses contradiction and discomposure of the young represented by several young people in the novel .

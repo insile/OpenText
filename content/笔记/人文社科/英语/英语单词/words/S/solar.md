@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsəʊlə(r)/； 美：/ˈsoʊlər/
 - #词性/adj  太阳能的；太阳的
 - #词性/n  同“solarium. the solar system”
-# 例句
+##### 例句
 - The final solar convulsions will wipe out all life on the planet .
 	- 太阳的最后灾变将把地球上的一切生命消灭干净。
 - We can use the solar energy to make electric and get warm .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪsˈdʒʌŋkʃn/； 美：/dɪsˈdʒʌŋkʃn/
 - #词性/n  分离；分裂
-# 例句
+##### 例句
 - The effect of low dose ionizing radiation on meiotic chromosome non - disjunction of mice
 	- 低剂量电离辐射引起小鼠胚胎上皮细胞中染色体不分离的研究
 - They would have been deeply dismayed by today 's disjunction between science and the rest of culture .

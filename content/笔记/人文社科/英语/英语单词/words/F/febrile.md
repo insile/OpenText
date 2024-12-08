@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfiːbraɪl/； 美：/ˈfiːbraɪl/
 - #词性/adj  发热的；热性的；狂热的；发热引起的
-# 例句
+##### 例句
 - After the third treatment cycle , bevacizumab was associated with significantly more toxic events , particularly febrile neutropenia and pulmonary hemorrhage .
 	- 在第三个治疗周期后，贝伐单抗与显著增多的毒性事件有关系，特别是发热引起的粒细胞减少和肺出血。
 - This antipyretic action is usually rapid and effective in febrile patients .

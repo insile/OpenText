@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɑːləs/； 美：/ˈpɑːrləs/
 - #词性/adj  危险的；恶劣的；动荡的
 - #词性/adv  非常地；…得吓人
-# 例句
+##### 例句
 - They had a parlous journey on stormy seas .
 	- 他们在风暴海洋上进行了一次危险的旅行。
 - There have five rooms two parlous and two toilets .

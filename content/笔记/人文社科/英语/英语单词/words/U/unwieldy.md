@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ʌnˈwiːldi/； 美：/ʌnˈwiːldi/
 - #词性/adj  笨拙的；笨重的；运转不灵的；尾大不掉的；不灵巧的；难控制(或操纵、管理)的；笨手笨脚的
-# 例句
+##### 例句
 - They came panting up to his door with their unwieldy baggage .
 	- 他们提着笨重的行李气喘吁吁地来到他门口。
 - It was his own off-the-shelf wearable computing system , a gordian thing connecting his outdated Windows smartphone to a pair of personal video glasses via an unwieldy battery pack in his shorts .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpeɪəbl/； 美：/ˈpeɪəbl/
 - #词性/adj  应付；应付予(抬头人、收款人等)；可偿付
-# 例句
+##### 例句
 - On the thoughts of opportunity cost in Account payable The Time Account
 	- 关于应付账款机会成本的思考
 - This action would reduce notes payable on the balance sheet .

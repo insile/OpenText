@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/pɪˈdʒɒrətɪv/； 美：/pɪˈdʒɔːrətɪv/
 - #词性/adj  贬义的；轻蔑的；贬损的
 - #词性/n  轻蔑语
-# 例句
+##### 例句
 - I 'm using the word ‘ academic ’ here in a pejorative sense .
 	- 我这里使用的“学术”一词是贬义的。
 - Do you think'brit'is a pejorative term ?

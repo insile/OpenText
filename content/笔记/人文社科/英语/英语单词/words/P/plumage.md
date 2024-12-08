@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpluːmɪdʒ/； 美：/ˈpluːmɪdʒ/
 - #词性/n  羽毛；(鸟的)全身羽毛
-# 例句
+##### 例句
 - The bright plumage of many male birds has evolved to attract females
 	- 很多雄鸟进化出鲜艳的羽毛是为了吸引雌鸟。
 - Its body plumage suddenly began to ruffle and swell .

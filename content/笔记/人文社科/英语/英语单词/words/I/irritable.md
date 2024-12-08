@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɪrɪtəbl/； 美：/ˈɪrɪtəbl/
 - #词性/adj  易怒的；暴躁的
-# 例句
+##### 例句
 - The old man is an irritable person .
 	- 那个老人是个易怒的人。
 - Highly tense or nervous ; irritable .

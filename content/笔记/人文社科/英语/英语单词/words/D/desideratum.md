@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˌzɪdəˈrɑːtəm/； 美：/dɪˌzɪdəˈrɑːtəm/
 - #词性/n  需要的东西；想望的东西
-# 例句
+##### 例句
 - Her only desideratum was health .
 	- 她唯一的希望就是身体健康。
 - The second desideratum , of low thermal and high electrical conductivity , was achieved by dividing the bismuth telluride into pellets a few nanometres across .

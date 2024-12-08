@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɔːwədnəs/； 美：/ˈfɔːrwərdnəs/
 - #词性/n  鲁莽；冒失；无礼；孟浪
-# 例句
+##### 例句
 - It has characteristics of high elasticity , fast speed , forwardness and high spinning .
 	- 高弹性、速度快，前冲性快攻反胶，既有速度，又有旋转。
 - By changing the probability of inheritance and variation , it can improve the forwardness of GA.

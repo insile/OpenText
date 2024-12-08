@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈveɪɡli/； 美：/ˈveɪɡli/
 - #词性/adv  含糊地；稍微；略微；心不在焉地；不详细地；不确切地
-# 例句
+##### 例句
 - She waved vaguely in the direction of the house .
 	- 她含糊地朝房子的方向挥了挥手。
 - She vaguely intimated that she couldn 't invite them to the party .

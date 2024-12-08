@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡriːʃn/； 美：/ˈɡriːʃn/
 - #词性/adj  希腊人；希腊式的
 - #词性/n  希腊学家；希腊语
-# 例句
+##### 例句
 - Sport and Freedom of Grecian ── Impressions after Reading Parts of Hegel 's Historical Philosophy
 	- 体育，希腊人的自由&读黑格尔《历史哲学》片段
 - It was not until the 14th century that an Italian painter recognized the lap as a Grecian temple , upholstered in flesh and cloth .

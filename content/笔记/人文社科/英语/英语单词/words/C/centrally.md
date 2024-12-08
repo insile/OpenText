@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈsɛntrəli/； 美：/ˈsɛntrəli/
 - #词性/adv  在中心（央）
-# 例句
+##### 例句
 - 【 Objective 】 To investigate the value of electric bronchoscope exam in the diagnosis of centrally located lung cancer .
 	- 目的探讨电子支气管镜在中心型肺癌诊断中的价值。
 - In this paper the deformations and stability in large axisymmetric deflection of spherical caps under centrally distributed pressures are investigated .

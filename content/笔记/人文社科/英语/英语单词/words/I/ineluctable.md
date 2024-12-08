@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnɪˈlʌktəbl/； 美：/ˌɪnɪˈlʌktəbl/
 - #词性/adj  不可避免的；无可避免的
-# 例句
+##### 例句
 - The application of the fuzzy control technique is ineluctable .
 	- 在今后的发射场改造工作中，应用模糊控制技术将是不可避免的。
 - The error is always ineluctable in each measurement for oil tank .

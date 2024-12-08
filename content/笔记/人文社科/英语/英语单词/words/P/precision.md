@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prɪˈsɪʒn/； 美：/prɪˈsɪʒn/
 - #词性/n  精确；准确；细致
 - #词性/adj  精确的
-# 例句
+##### 例句
 - He lacked profundity and analytical precision .
 	- 他缺乏深度和分析的精确性。
 - Your working day will need to be organized with military precision .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/bɜːɡ/； 美：/bɜːrɡ/
 - #词性/n  山；山脉；群山；(南非)德拉肯斯山脉
-# 例句
+##### 例句
 - Berg tilts his head and a mischievous look crosses his face
 	- 伯格侧着头，脸上掠过一丝调皮的神情。
 - Connell said a new medical term should be applied to Berg 's actions . He calls it ' medicide ' .

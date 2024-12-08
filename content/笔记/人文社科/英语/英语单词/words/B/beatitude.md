@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/bi'ætɪtju:d/； 美：/bi'ætɪtju:d/
 - #词性/n  八福，真福八端(耶稣的山中圣训)
-# 例句
+##### 例句
 - The Bible gives us two applications to this fourth beatitude .
 	- 对这第四个福气的宣告，圣经给了我们两个应用的途径。
 - In the first beatitude , Jesus said that the entrance into the Kingdom of Heaven begins with being poor in spirit .

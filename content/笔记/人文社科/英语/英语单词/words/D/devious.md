@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈdiːviəs/； 美：/ˈdiːviəs/
 - #词性/adj  曲折的(道路)；迂回的(路线)；欺诈的；不诚实的；不直率的
-# 例句
+##### 例句
 - Characterized by an inability to mask your feelings ; not devious .
 	- 以缺少掩饰自己感觉的能力为特点；不是迂回的。
 - Meanwhile , within the conventions of female gothic , Charlotte expressed her sense of dualities through devious strategies : one is submission to tradition ; the other is reluctance to be concealed by the orthodoxy .

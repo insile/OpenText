@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtuːfəʊld/； 美：/ˈtuːfoʊld/
 - #词性/adj  双重的；两倍的；由两部分组成的；有两部分的
 - #词性/adv  两倍地
-# 例句
+##### 例句
 - The crises of the modern world are twofold .
 	- 现代世界的危机是双重的。
 - The researchers believe the could be twofold .

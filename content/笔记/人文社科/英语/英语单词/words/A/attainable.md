@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈteɪnəbl/； 美：/əˈteɪnəbl/
 - #词性/adj  可达到的；可获得的
-# 例句
+##### 例句
 - They set the limit of performance attainable .
 	- 它们确定着可达到的运行限度。
 - Ensure That Goals Are Perceived as Attainable .

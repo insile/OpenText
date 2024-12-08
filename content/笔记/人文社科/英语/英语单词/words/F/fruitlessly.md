@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  无果而终；徒劳地，无益地
-# 例句
+##### 例句
 - Plodded through the shadows fruitlessly like an ubiquitous spook ( Joseph Heller )
 	- 象无所不在的鬼一样，徒劳地在阴影中缓慢不停地走动（约瑟夫赫勒）
 - Her niece had been searching fruitlessly for her every day since March12th .

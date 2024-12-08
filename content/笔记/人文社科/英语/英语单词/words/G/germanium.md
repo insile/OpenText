@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dʒɜːˈmeɪniəm/； 美：/dʒɜːrˈmeɪniəm/
 - #词性/n  锗
-# 例句
+##### 例句
 - Study on form extraction of germanium in soil and its form distribution
 	- 土壤中锗的形态提取和形态分布研究
 - An analysis method for trace amount of germanium

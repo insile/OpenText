@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlaɪkwaɪz/； 美：/ˈlaɪkwaɪz/
 - #词性/adv  同样地；类似地；还；亦；而且；(表示感觉相同)我也是，我有同感；也
-# 例句
+##### 例句
 - Likewise directories themselves you should be able to annotate .
 	- 同样地目录他们自己你应该可以注解
 - And some lawyers have introduced unreasonable things into common law , so likewise many teachers have introduced absurd things into common good manners .

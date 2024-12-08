@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  区域化；区划；地域化；地区化
-# 例句
+##### 例句
 - Study of Legal System on Regionalization Management of China 's Agricultural Products Quality and Safety
 	- 我国农产品质量安全区域化管理法制建设研究
 - The Application Research of the Regionalization Difference in the Urban Architecture Color Planning

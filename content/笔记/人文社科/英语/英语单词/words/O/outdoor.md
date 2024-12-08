@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈaʊtdɔː(r)/； 美：/ˈaʊtdɔːr/
 - #词性/adj  室外的；户外的
-# 例句
+##### 例句
 - An outdoor area for children 's play .
 	- 供孩子们玩耍的户外的一块地。
 - I enjoy indoor and outdoor activities of all kinds .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əbˈstetrɪks/； 美：/əbˈstetrɪks/
 - #词性/n  产科学
-# 例句
+##### 例句
 - She brought her children into the world at a time when obstetrics was a primitive art .
 	- 她生孩子的时候，产科学还是一门原始医术。
 - The Virtual Hospital website contains some basic reviews of obstetrics and gynecology from the University of Iowa Family Practice Handbook .

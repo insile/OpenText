@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪntəˈtʃeɪndʒəbl/； 美：/ˌɪntərˈtʃeɪndʒəbl/
 - #词性/adj  可互换的；可交换的；可交替的
-# 例句
+##### 例句
 - The Interchangeable Sequence of Random Variable
 	- 可交换的随机变量序列
 - Each object type is interchangeable from the point of view of how it functions within read_app_data () .

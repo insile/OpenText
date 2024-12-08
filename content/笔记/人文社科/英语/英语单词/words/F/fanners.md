@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  通风机
-# 例句
+##### 例句
 - The manufacture and application of the monitor-alarming device of main fanners
 	- 主通风机运行监测报警装置的研制与应用
 - This paper introduces the function , character , working principle and application of the monitor-alarming device of the main fanners .

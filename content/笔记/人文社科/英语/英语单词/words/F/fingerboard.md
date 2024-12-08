@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈfɪŋɡəbɔːd/； 美：/ˈfɪŋɡərbɔːrd/
 - #词性/n  (吉他或小提琴等的)指板
-# 例句
+##### 例句
 - Clinical observation of the fingerboard uterine reset method in the tubal ligation surgery
 	- 指板子宫复位法在输卵管结扎术中的临床观察
 - The bridge is also made from maple , and the fingerboard and the pegs for the strings usually from ebony .

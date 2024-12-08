@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdɪskəmˈpəʊz/； 美：/ˌdɪskəmˈpoʊz/
 - #词性/vt  分解；使不安；使心烦意乱；扰乱
-# 例句
+##### 例句
 - Therefore , to discompose these signals by filtering can help to understand possible sedimentary dynamic procedures .
 	- 用滤波方法分析分解信号，可以了解不同沉积作用特征并进一步分析可能的环境变化控制机制。
 - The grin of his friend discompose Jack when he tried to make his speech .

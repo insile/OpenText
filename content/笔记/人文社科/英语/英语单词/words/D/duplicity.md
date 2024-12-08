@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/djuːˈplɪsəti/； 美：/duːˈplɪsəti/
 - #词性/n  欺骗(行为)；奸诈
-# 例句
+##### 例句
 - To a great extent , this context decides that many western commercial advertisements are kinds of emotional duplicity .
 	- 这一文化语境在很大程度上决定了许多西方商业广告是一种情感欺骗。
 - The only real duplicity is over the photos .

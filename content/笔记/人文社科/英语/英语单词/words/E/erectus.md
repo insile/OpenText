@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈrektəs/； 美：/ɪˈrektəs/
 - #词性/n  直立人；直立的
-# 例句
+##### 例句
 - New Advance in Research of Homo Erectus of Tangshan , Nanjing
 	- 南京直立人研究的新进展
 - because the Homo erectus that made these objects did not have language .

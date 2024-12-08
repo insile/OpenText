@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdevəˈsteɪʃn/； 美：/ˌdevəˈsteɪʃn/
 - #词性/n  (尤指大面积的)破坏；毁灭；蹂躏
-# 例句
+##### 例句
 - It has been a year of devastation for capital values .
 	- 对资产价值来说，这是毁灭性的一年。
 - However this amount of rain and devastation is even more unexpected .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  确证；确证的事实等；确证，证实
-# 例句
+##### 例句
 - The cationic corroboration is performed by selective ion .
 	- 采用选择离子进行阳性确证。
 - Some applications of mass spectrometry in new developing drugs investigation , including synthesis procedure , corroboration of chemical structure , quality control and drug metabolism are reviewed .

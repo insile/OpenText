@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdebəˈneə(r)/； 美：/ˌdebəˈner/
 - #词性/adj  温文尔雅的；潇洒的
-# 例句
+##### 例句
 - So who is the debonair looking guy in the photograph above ?
 	- 谁是我们在上面照片中看到的那个温文尔雅的人呢？
 - Debonair Pungency & Appreciation of Toledo : A Problem of Menus ;

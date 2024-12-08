@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈpɜːmɪən/； 美：/ˈpɜrmiən/
 - #词性/adj  二叠纪的；
 - #词性/n  二叠纪；二叠系；二叠世；二叠
-# 例句
+##### 例句
 - Reef building model for the Permian organic reefs in South China
 	- 华南二叠纪生物成礁模式探讨
 - Characteristics and Correlation of Permian Depositional Sequences in South China

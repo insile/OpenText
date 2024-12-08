@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈleʒə(r)/； 美：/ˈliːʒər/
 - #词性/n  休闲；闲暇；空闲
 - #词性/adj  闲暇的
-# 例句
+##### 例句
 - It was hard to draw clear lines of demarcation between work and leisure .
 	- 在工作和闲暇之间很难划出明确的界限。
 - A copy of the report is available for you to peruse at your leisure .

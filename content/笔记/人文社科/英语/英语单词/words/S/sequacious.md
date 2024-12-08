@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  盲从的；盲从；顺从的
-# 例句
+##### 例句
 - The Chinese modern literature before the new period became break the ranks cause the mortification literature policy and yarnsmith 's sequacious craze .
 	- 新时期以前的中国当代文学，在禁欲文化政策与作家狂热盲从的双重夹击下，成了世界文学的掉队者。
 - Teenagers are very sequacious and they often emulate the behavior of their idols .

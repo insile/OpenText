@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  蟋蟀；格利精；葛利格
-# 例句
+##### 例句
 - Grig is an active member of the Python and agile testing communities .
 	- Grig是Python和敏捷测试社区的活跃成员。
 - Desire to grig people .

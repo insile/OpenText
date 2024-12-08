@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  上升的；上升的，进步的，强调的
-# 例句
+##### 例句
 - I should leave , how to turn that feeling into me ascensive motivation ?
 	- 我要离开了，怎样将那份情感变成我进步的动力？
 - Thoroughly changing the built-in traditional procreation conception of the masses , and replacing the scientific , civilized and ascensive procreation conception , is a profound thought revolution .

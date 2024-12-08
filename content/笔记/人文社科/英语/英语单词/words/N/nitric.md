@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈnaɪtrɪk/； 美：/ˈnaɪtrɪk/
 - #词性/adj  氮的;含氮的
-# 例句
+##### 例句
 - When nitric acid is poured on copper , a Brown vapour gives off .
 	- 将硝酸倒在铜上，会散发出一种棕色的蒸气。
 - Recently the reactivity of nitric esters in the presence of hydrazine has been investigated .

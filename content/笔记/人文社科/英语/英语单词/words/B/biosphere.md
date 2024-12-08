@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbaɪəʊsfɪə(r)/； 美：/ˈbaɪoʊsfɪr/
 - #词性/n  生物圈
-# 例句
+##### 例句
 - The entire biosphere was becoming more transparent .
 	- 整个生物圈越来越透明。
 - Biosphere 2 was ultimately ridiculed as a research debade , as exfravagant pseudoscience .

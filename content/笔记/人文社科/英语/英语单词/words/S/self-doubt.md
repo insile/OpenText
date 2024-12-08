@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌself ˈdaʊt/； 美：/ˌself ˈdaʊt/
 - #词性/n  自我怀疑
-# 例句
+##### 例句
 - She is assailed by self-doubt and emotional insecurity .
 	- 她被自我怀疑和情感上的不安全感所困扰。
 - It is the negative psychological or behavioral effects of having or pursuing wealth , as irresponsible acts and feelings of self-doubt or guilt5 .

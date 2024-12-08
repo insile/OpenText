@@ -5,8 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
-# 例句
+##### 词义
+- #词性/n  吐鲁番（新疆维吾尔自治区）
+##### 例句
 - Seismic disaster prediction of the power system in the Turpan area
 	- 吐鲁番地区电力系统震害预测
 - Information system for environmental regionalization ── a case study in Turpan Basin

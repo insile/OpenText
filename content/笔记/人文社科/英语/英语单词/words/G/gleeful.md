@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡliːfl/； 美：/ˈɡliːfl/
 - #词性/adj  高兴的；幸灾乐祸的；欢喜的
-# 例句
+##### 例句
 - There were ruins on every hand , read a perhaps gleeful card on one such film , now posted by the Library of Congress .
 	- 到处都是废墟，一部国会图书馆发布的电影里，有人在一张卡片上以或许有些幸灾乐祸的口气写道。
 - I know that may seem like a surprising thing to say when I 've just sort of gone on my little gleeful amount about how I 'm going to fail all of you , but it 's worth my saying you guys are so smart .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnbɪˈkʌmɪŋ/； 美：/ˌʌnbɪˈkʌmɪŋ/
 - #词性/adj  不相称的；不得体；不合适的；不恰当；不合时宜的；不可接受
-# 例句
+##### 例句
 - Conduct unbecoming to an officer and a gentleman
 	- 与官员和绅士身分不相称的行为
 - Maria , such thoughts are unbecoming to you .

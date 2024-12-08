@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/'səʊʃəlaɪz/； 美：/'səʊʃəlaɪz/
 - #词性/v  交际；使适应社会；使社会主义化；按社会主义原则行事
-# 例句
+##### 例句
 - I suspect he has told you to socialise because that is his crass way of nurturing you .
 	- 我猜想，他之所以要你去交际，是因为他想培养你，只是方式比较愚钝。
 - Like it or not , most of your firm 's clients are male , so you should start learning how to socialise with them by practising with your colleagues .

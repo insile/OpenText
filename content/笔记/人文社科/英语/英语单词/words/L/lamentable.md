@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ləˈmentəbl/； 美：/ləˈmentəbl/
 - #词性/adj  令人遗憾的；使人惋惜的；十分令人失望的
-# 例句
+##### 例句
 - This lamentable state of affairs lasted until 1947
 	- 这一令人遗憾的事态一直持续至1947年。
 - The reason for this lamentable state of affairs is political intransigence or lack of focus .

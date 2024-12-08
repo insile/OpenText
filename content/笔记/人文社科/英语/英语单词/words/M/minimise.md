@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  最小化；对(某事物)作最低估计；极力贬低(某事物)的价值〔重要性〕
-# 例句
+##### 例句
 - The Mayor of Jerusalem has tried to minimise conflict by maintaining a middle way between the various religions .
 	- 耶路撒冷市市长对各宗教采取折中的态度，力图使冲突最小化。
 - The right style of swimsuit can help to hide , minimise or emphasise what you want it to

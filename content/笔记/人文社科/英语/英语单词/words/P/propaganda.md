@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌprɒpəˈɡændə/； 美：/ˌprɑːpəˈɡændə/
 - #词性/n  宣传；鼓吹
-# 例句
+##### 例句
 - Art may be used as a vehicle for propaganda .
 	- 艺术可以用作宣传的工具。
 - The news reports were being discounted as propaganda .

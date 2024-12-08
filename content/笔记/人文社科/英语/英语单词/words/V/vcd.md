@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/abbr  视频高密光盘（Video Compact Disc）；歌曲；香港版
-# 例句
+##### 例句
 - Do you have some VCD of Chinese movies ?
 	- 您这儿卖中国电影的激光视盘吗？
 - Study on the simple cotton cultivation expert system base on VCD system

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɒnwədz/； 美：/ˈɑːnwərdz/
 - #词性/adv  向前；前往；从(某时)起一直
-# 例句
+##### 例句
 - She walked onwards to the pool .
 	- 她一直向前，走到水池那里。
 - Onwards continued fraction algorithm for Mie scattering and numerical simulation

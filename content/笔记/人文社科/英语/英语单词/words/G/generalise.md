@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  概括；归纳
-# 例句
+##### 例句
 - It is inadvisable to generalise from the results of a single experiment .
 	- 就单个实验的结果进行概括是不明智的。
 - It is far more difficult to generalise across all people in all cultures , even for simple head movements .

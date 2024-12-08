@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  决定性地；最后地
-# 例句
+##### 例句
 - The study fuelled debate over nanotechnology 's health risks , with some arguing that the study did not conclusively show that nanoparticles were to blame ( see Nanoparticles killed women , study claims ) .
 	- 这项研究让关于纳米技术风险的辩论更加激烈，一些人认为这项研究并没有决定性地证明了纳米颗粒就是元凶（见研究称纳米粒子杀死女工）。
 - The analysis by the UK-based company , a London-based operator of communications satellites , and UK air accident investigators , proved conclusively that the last signal from the aircraft came from a remote part of the southern Indian Ocean .

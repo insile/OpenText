@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌperəɡrɪˈneɪʃn/； 美：/ˌperəɡrɪˈneɪʃn/
 - #词性/n  (尤指漫长而缓慢的)旅程
-# 例句
+##### 例句
 - He experienced different cultures during his peregrination .
 	- 在国外的游历使他体验到不同的文化。
 - In the course of this peregrination , each participant visited six of the 90 food stalls in the market .

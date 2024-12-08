@@ -6,10 +6,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/səˈtɪrɪkl/； 美：/səˈtɪrɪkl/
 - #词性/adj  讽刺的；讥讽的
-# 例句
+##### 例句
 - It presented in satirical terms points made in earnest by Catholic writers
 	- 它用讽刺的语言呈现了天主教作家郑重其事表明的观点。
 - A vein of satirical anger runs through all his work .

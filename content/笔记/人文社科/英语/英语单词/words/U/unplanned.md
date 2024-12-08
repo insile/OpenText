@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌʌnˈplænd/； 美：/ˌʌnˈplænd/
 - #词性/adj  意外的；未计划(或筹划)的
-# 例句
+##### 例句
 - Determined the effective cost of planned and unplanned outages , and hence the justifiable expense of additional redundant capacity to prevent them .
 	- 决定计划的和未计划的中断的实际成本，并因而确定合理的附加冗余容量成本来防止它们。
 - Such outages can be planned or unplanned events , such as when restarting servers in the cell after an application update , or when a server power supply fails .

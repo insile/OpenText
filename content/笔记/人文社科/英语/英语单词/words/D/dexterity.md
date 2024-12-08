@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dekˈsterəti/； 美：/dekˈsterəti/
 - #词性/n  灵巧；灵活；(思维)敏捷；(手)熟练
-# 例句
+##### 例句
 - You need manual dexterity to be good at video games .
 	- 玩好电子游戏手要灵巧。
 - Time is limited , so it will take all your attention and dexterity !

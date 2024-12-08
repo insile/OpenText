@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/v  损害， 伤害， 危害
-# 例句
+##### 例句
 - Discussion on new techniques , new products , new disserve and new health quarantine
 	- 新技术、新危害与新的卫生检疫模式
 - Text introduce three basis types of asphalt pavement break and disserve , and advance several transact methods about it .

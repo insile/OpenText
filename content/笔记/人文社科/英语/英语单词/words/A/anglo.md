@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈæŋɡləʊ/； 美：/ˈæŋɡloʊ/
 - #词性/n  英美；盎格鲁；英国人
-# 例句
+##### 例句
 - The distinctions between Latin America and Anglo America are not merely linguistic but also cultural .
 	- 拉丁美洲与盎格鲁美洲不但有不同的语文，还有不同的文化。
 - The biggest is that Japan does not have an Anglo Saxon-style enterprise culture .

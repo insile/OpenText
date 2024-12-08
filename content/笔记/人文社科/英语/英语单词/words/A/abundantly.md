@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈbʌndəntli/； 美：/əˈbʌndəntli/
 - #词性/adv  十分清楚；大量地；充裕地；丰盛地；非常明白；十分地
-# 例句
+##### 例句
 - You 've made yourself abundantly clear .
 	- 你已经说得非常明白了。
 - Obviously , food , clothing and shelter could be produced abundantly , there is enough scientific knowledge to supply the demand ;

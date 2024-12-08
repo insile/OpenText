@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmiːtiˈɒrɪk/； 美：/ˌmiːtiˈɔːrɪk/
 - #词性/adj  流星的；迅速成功的
-# 例句
+##### 例句
 - To his features , as to all other objects , the meteoric light imparted a new expression ; or it might well be that the physician was not careful then , as at all other times , to hide the malevolence with which he looked upon his victim .
 	- 流星的亮光，如同对一切其它物体一样，也给予他的容貌一种崭新的表情；也可能是，医生当时没有象乎素那样小心地掩饰他看着自己的牺牲品时的那种恶毒样子。
 - His early career had been meteoric .

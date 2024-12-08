@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌdɪsɪnˈɡeɪdʒmənt/； 美：/ˌdɪsɪnˈɡeɪdʒmənt/
 - #词性/n  脱离;分离
-# 例句
+##### 例句
 - This policy of disengagement from the European war had its critics .
 	- 这项从欧洲战场抽身退出的政策遭到了非议。
 - Science has shown a clear correlation between high stress levels in workers and absenteeism , reduced productivity , disengagement and high turnover .

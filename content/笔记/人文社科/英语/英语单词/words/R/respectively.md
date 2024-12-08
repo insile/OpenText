@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/rɪˈspektɪvli/； 美：/rɪˈspektɪvli/
 - #词性/adv  分别；各自；分别地；依次为；顺序为
-# 例句
+##### 例句
 - Two assembly lines will be built in China and Russia respectively .
 	- 将会分别地在中国和俄国建设二条装配线。
 - Under continuous time domain and discrete time domain , two mathematic models are built for two systems , respectively .

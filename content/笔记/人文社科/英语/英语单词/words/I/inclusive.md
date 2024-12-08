@@ -8,10 +8,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈkluːsɪv/； 美：/ɪnˈkluːsɪv/
 - #词性/adj  包含全部费用；包括所提到的费用在内；包括提到的所有的天数(或月、数目等)在内；包容广阔的；范围广泛的
-# 例句
+##### 例句
 - The party must adopt more inclusive strategies and a broader vision .
 	- 这个党必须采取更广泛的策略和更远大的视野。
 - The castle is open daily from May to October inclusive .

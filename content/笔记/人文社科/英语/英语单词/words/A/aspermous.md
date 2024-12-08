@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  无精液的；无（种）子的
-# 例句
+##### 例句
 - Studies on the Photosynthetic Characteristics of Aspermous Watermelon
 	- 嫁接无籽西瓜光合特性研究
 - In aspermous Patients the reason is the obstruction of spermatogenesis , the most common obstruction occurs in the spermatid level .

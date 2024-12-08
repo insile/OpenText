@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈfektɪv/； 美：/əˈfektɪv/
 - #词性/adj  情感的；感情的
-# 例句
+##### 例句
 - The classroom teaching effect of teachers ' affective factors were analyzed on the basis of in classroom teaching , negative affective into the causes are analyzed and summarized .
 	- 本部分在对课堂教学中影响教师感情的因素进行分析的基础上，对课堂教学中教师消极感情形成的具体原因进行了剖析和归纳。
 - Affective Functions and Roles in Foreign Language Learning

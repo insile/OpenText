@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌsaɪkiˈætrɪk/； 美：/ˌsaɪkiˈætrɪk/
 - #词性/adj  精神病的；精神病学的
-# 例句
+##### 例句
 - and everyone knows that you 're the one with psychiatric problems .
 	- 大家都知道你是有精神病的那个
 - A medical committee has been formed to regulate psychiatric reports and prevent abuses .

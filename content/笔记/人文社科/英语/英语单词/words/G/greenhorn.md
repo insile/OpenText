@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɡriːnhɔːn/； 美：/ˈɡriːnhɔːrn/
 - #词性/n  新手
-# 例句
+##### 例句
 - Don 't take advantage of the greenhorn .
 	- 不要占那新手的便宜吧。
 - Gambling on a greenhorn to run a multinational clearly makes no sense .

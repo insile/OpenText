@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/prɪˈdɪktəbl/； 美：/prɪˈdɪktəbl/
 - #词性/adj  可预测的；可预见的；可预料的；意料之中的；老套乏味的
-# 例句
+##### 例句
 - This provides a very predictable way to add , modify , and debug business logic .
 	- 这就提供了一种可预测的方法来添加，修改和调整业务逻辑。
 - To automate administration , you define predictable administrative tasks and then specify the conditions under which each task occurs .

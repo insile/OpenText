@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/əˈkjuːəti/； 美：/əˈkjuːəti/
 - #词性/n  敏锐度；(思维、视力、听力的)敏度，敏锐
-# 例句
+##### 例句
 - We work on improving visual acuity .
 	- 我们致力于提高视觉的敏锐度。
 - A new method of adaptable rendering for interacting in Virtual Environment ( VE ) through the use of different visual acuity equations is proposed .

@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  瘟疫的；致命的；有害的；瘟疫之
-# 例句
+##### 例句
 - I destroy all noisome and rank weeds , I keep down all pestilent vapours .
 	- 我摧毁了一切丛生的毒草，控制一切有害的烟雾。
 - I 'm glad to find another true-hearted loyalist in this pestilent , rebellious city .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈleprəsi/； 美：/ˈleprəsi/
 - #词性/n  麻风
-# 例句
+##### 例句
 - Evaluation of Effects of Leprosy Control Using the Life Table
 	- 以寿命表评价麻风防治效果
 - Analysis of New Cases of Leprosy Detected for 1985 to 1993

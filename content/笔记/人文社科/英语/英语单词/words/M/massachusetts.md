@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌmæsəˈtʃuːsɪts/； 美：/ˌmæsəˈtʃusəts/
 - #词性/n  马萨诸塞州；马萨诸塞（美国东部一州；位于新英格兰地区；略作Mass．）
-# 例句
+##### 例句
 - States such as Michigan and Massachusetts are making deep cuts in welfare
 	- 诸如密歇根和马萨诸塞等州正在大幅削减社会保障金。
 - He is now a professor of economics at Western New England College in Springfield , Massachusetts .

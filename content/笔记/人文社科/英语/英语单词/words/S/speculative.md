@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈspekjələtɪv/； 美：/ˈspekjələtɪv/
 - #词性/adj  投机的；猜测的；推测的；投机性的；推断的；试探的；揣摩的；风险性的；忖度的
-# 例句
+##### 例句
 - If this plays out as a gulf hurricane there is speculative energy galore to go along with it .
 	- 如果这演奏因为那里海湾飓风是投机的能量丰盛去与它一起。
 - Sometimes , these short-term and inventory limited productions are very popular with consumers . So it appears to speculative opportunities .

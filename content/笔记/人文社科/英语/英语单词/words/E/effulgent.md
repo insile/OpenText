@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪˈfʌldʒənt/； 美：/ɪˈfʌldʒənt/
 - #词性/adj  灿烂的；光辉的；光彩照人
-# 例句
+##### 例句
 - China and India are both world-famous , civilized countries and they have effulgent culture .
 	- 中国和印度都是举世闻名的文明古国，都有着光辉灿烂的文化。
 - China ancient female artists and male artists went hand in hand with effulgent China culture arts .

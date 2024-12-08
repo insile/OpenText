@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/trænsˈgrɛʃən/； 美：/trænzˈgrɛʃən/
 - #词性/n  过犯；违反；犯罪；侵犯；逾越；越界
-# 例句
+##### 例句
 - A transgression of law ; a crime .
 	- 违法违反法律；
 - Chapter X crimes of servicemen 's transgression of duties

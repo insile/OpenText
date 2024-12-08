@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpəʊləraɪˈzeɪʃn/； 美：/ˌpoʊlərəˈzeɪʃn/
 - #词性/n  偏振(化)；极化；两极分化；极化强度
-# 例句
+##### 例句
 - The results showed that the eco-economic relation intensity between cities of spark industrial belt in Gansu Corridor were relatively low and polarization significantly .
 	- 结果表明，产业带城市生态经济联系强度整体偏低，两极分化显著。
 - The socialist system must and can avoid polarization .

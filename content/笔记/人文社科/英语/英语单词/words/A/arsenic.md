@@ -6,11 +6,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈɑːsnɪk/； 美：/ˈɑːrsnɪk/
 - #词性/n  砷
 - #词性/adj  砷的
-# 例句
+##### 例句
 - Strychnine , arsenic , and opium are poison .
 	- 马钱子碱、砷和鸦片都是毒药。
 - Major treatment methods for arsenic include sulfide precipitation , or complexation with polyvalent heavy metals .

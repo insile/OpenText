@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈbɔːksaɪt/； 美：/ˈbɔːksaɪt/
 - #词性/n  铝土矿
-# 例句
+##### 例句
 - High power IP method in bauxite survey and its prospecting effectiveness
 	- 大功率电法勘查铝土矿的效果
 - Understanding of bauxite resource and alumina industry development in China

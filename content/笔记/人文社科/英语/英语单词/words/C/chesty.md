@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtʃesti/； 美：/ˈtʃesti/
 - #词性/adj  患胸部疾病的；有胸部疾病征兆的
-# 例句
+##### 例句
 - B : I 've got an awful chesty cough . Can you recommend8 anything to take ?
 	- “我咳嗽得特别厉害。你能推荐什么药吗？”
 - Dan has been off6 work for a few7 days because he has a terrible chesty cough .

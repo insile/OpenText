@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmiːnɪŋləs/； 美：/ˈmiːnɪŋləs/
 - #词性/adj  无意义的；不重要的；无所谓的；无价值的；晦涩的；毫无目的的；意思不明确的
-# 例句
+##### 例句
 - Getting your priorities in order is a good way to not waste energy on meaningless pursuits .
 	- 将事情按优先顺序排列能有效地避免把精力浪费在无意义的工作上。
 - Many XML editors generate sample documents for you , but those documents generally contain meaningless data and don 't have correctly related ID and IDREF values used in the associations .

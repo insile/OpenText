@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ɪnˈkredəbli/； 美：/ɪnˈkredəbli/
 - #词性/adv  令人难以置信；极其；难以置信地；极端地
-# 例句
+##### 例句
 - This will be a transformative version of the rental model . We 're incredibly excited about it .
 	- 这将是一个转型版本的租赁模式，我们对此是难以置信地激动。
 - Conversely , developing a drug in the Western world is incredibly difficult , as rigorous testing must be performed before it is approved for sale .

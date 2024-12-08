@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈmɑːksɪzəm/； 美：/ˈmɑːrksɪzəm/
 - #词性/n  马克思主义；马克思；西方马克思主义；马克思主义者；马克斯主义
-# 例句
+##### 例句
 - The class analysis is a basic method of Marxism .
 	- 阶级分析方法是马克思主义的基本方法。
 - On Marxism Ethnic Theories and Their Application and Development in China

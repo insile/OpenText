@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  远郊的；市郊之外，城市远郊的
-# 例句
+##### 例句
 - We have found ourselves a beautiful exurban retreat .
 	- 我们已在市郊之外找到了一个美丽的安静之处。
 - Study on Ecological Serives Value in different Period and Ecosystem in Zhengzhou Southwest Exurban Freeway

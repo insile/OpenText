@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/dɪˈmjʊə(r)/； 美：/dɪˈmjʊr/
 - #词性/adj  端庄的；娴静的；故作庄重的, 假正经的
-# 例句
+##### 例句
 - The two demure little girls sat quiet and still next to their mother in church .
 	- 两个娴静的小姑娘挨着他们的母亲在教堂里静静安坐。
 - She must be a woman of complicated character , and there was something dramatic in the contrast of that with her demure appearance .

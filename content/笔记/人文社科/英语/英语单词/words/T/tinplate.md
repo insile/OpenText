@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtɪnpleɪt/； 美：/ˈtɪnpleɪt/
 - #词性/n  马口铁；镀锡铁皮
-# 例句
+##### 例句
 - I need to buy any quantity of tinplate scrap .
 	- 求购废镀锡铁皮，数量不限。
 - Metal Material Tinplate Welding Procedure of Copper-Steel Different Materials

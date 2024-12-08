@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vt  复查；重新审视；复试；重新审查；重新检验
-# 例句
+##### 例句
 - The Common Problem and Resolvent in Apply for Measurement Standard Reexamine and Propose Material
 	- 计量标准复查申请和提交资料时常见问题及解决方法
 - And detecting the expression of survivin in urine may be a new method to find and diagnose in early stage or reexamine after operation .

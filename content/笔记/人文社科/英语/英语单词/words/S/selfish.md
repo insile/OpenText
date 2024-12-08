@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈselfɪʃ/； 美：/ˈselfɪʃ/
 - #词性/adj  自私的
-# 例句
+##### 例句
 - A little selfish behaviour is unlikely to cause real damage to those around us
 	- 稍许自私的行为不会对我们身边的人造成实质性伤害。
 - Britain 's rarest breeding birds are under threat from fanatical and selfish egg collectors .

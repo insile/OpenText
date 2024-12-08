@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌɪnkənˈsɪdərət/； 美：/ˌɪnkənˈsɪdərət/
 - #词性/adj  考虑不周的；不体谅别人的；不为别人着想的
-# 例句
+##### 例句
 - It was inconsiderate of you not to call .
 	- 你连个电话也不打，不够体谅人。
 - Inconsiderate neighbours can be more than an annoyance .

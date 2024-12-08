@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌbjʊərəˈkrætɪk/； 美：/ˌbjʊrəˈkrætɪk/
 - #词性/adj  官僚的；官僚主义的
-# 例句
+##### 例句
 - But these advances were hamstrung by bureaucratic corporate software development processes .
 	- 但是这些先进理念却受到官僚的企业软件开发流程的限制。
 - I had designed Crystal Clear to be the least bureaucratic methodology I could imagine .

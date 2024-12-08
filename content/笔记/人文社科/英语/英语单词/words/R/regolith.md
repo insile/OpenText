@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  风化层；浮土；土被；月壤；表土
-# 例句
+##### 例句
 - Real lunar regolith is too precious to melt down , so they fed the printer with imitation lunar soil - a close chemical match to the real thing .
 	- 月球表面风化层材料十分珍贵，不宜将其溶化，因此他们模仿月球土壤作为替代——一种接近真实材料的化学物。
 - Reinforces the measure not carries on reinforcement processing in view of the right flank main hole in the accumulative stratum and the strong regolith contact surface spot , existence certain flaw .

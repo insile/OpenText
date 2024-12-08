@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/n  净化；清洗；涤罪；清除；导泻
-# 例句
+##### 例句
 - It was suggested that nonthermal effect of microwave might influence purgation of leukemic cells .
 	- 提示微波的非热效应可能会影响白血病细胞的净化。
 - The paper expounds the methods about improve quality of gangue sintering brick from the technology of purgation homogeneity banality .

@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/vt  侦察，勘查
 - #词性/vi  侦察，探究
-# 例句
+##### 例句
 - The threaten in the war is from high-tech reconnoiter and precise guidance weapons . In some ways , finding means destroy .
 	- 战争中面临的威胁主要来自于敌方的高技术侦察和精确制导武器的打击，而从某种意义上讲，发现意味着摧毁。
 - Frequency agility is used by most of modern military radars , which makes it difficult for anti-radiation seeker to reconnoiter the signals .

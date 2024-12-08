@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈklæsɪkl/； 美：/ˈklæsɪkl/
 - #词性/adj  经典的；古典的；传统的；古文的；受古希腊与古罗马文化影响的；简洁优美的；和古希腊与古罗马文化相关的
-# 例句
+##### 例句
 - This numerical method is simply a classical Adams method .
 	- 当s＝0时，这种方法只不过是古典的Adams法。
 - Not especially . I like classical better .

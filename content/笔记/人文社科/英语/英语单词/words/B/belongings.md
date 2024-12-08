@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/bɪˈlɒŋɪŋz/； 美：/bɪˈlɔːŋɪŋz/
 - #词性/n  财物；随身物品；动产
-# 例句
+##### 例句
 - Please make sure you have all your belongings with you when leaving the plane .
 	- 请确保在下飞机前带好所有的随身物品。
 - I collected my belongings and left

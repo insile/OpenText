@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈtʃaɪldləs/； 美：/ˈtʃaɪldləs/
 - #词性/adj  无子女的；无后代的
-# 例句
+##### 例句
 - Thousands of childless couples are to be given new hope by the government .
 	- 政府将为数千对无子女的夫妇带来新的希望。
 - She was present at the births of all her three nieces and admits she spoils them rotten . Sociologists coined the acronym to reflect the growing number of childless professional women who have plenty of disposable income and time to spend with youngsters .

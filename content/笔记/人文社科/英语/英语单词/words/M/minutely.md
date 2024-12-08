@@ -5,11 +5,11 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/maɪˈnjuːtli/； 美：/maɪˈnuːtli/
 - #词性/adv  仔细地;详细地；微小地;很少地
 - #词性/adj  时常发生的；〈古〉每分钟的
-# 例句
+##### 例句
 - The agreement has been examined minutely .
 	- 协议经过了细致入微的审查。
 - They follow minutely the news from abroad on Cable News Network .

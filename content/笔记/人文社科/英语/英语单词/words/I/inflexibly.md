@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adv  不灵活地；不屈曲地，不屈地
-# 例句
+##### 例句
 - These are very dynamic people , but they manifest inflexibly in relating to the world .
 	- 这是一些很有力量的人，但他们在与这个世界的联系中表现地过于强硬而难于妥协。
 - The culture of China 's traditional Wushu differs from that of the Olympic Games . Both can live harmoniously but can never be mixed inflexibly .

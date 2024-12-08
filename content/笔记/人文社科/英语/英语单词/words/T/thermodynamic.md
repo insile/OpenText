@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  热力学的；热力学的，使用热动力的
-# 例句
+##### 例句
 - The thermodynamic efficiency tests and the analysis methods are introduced .
 	- 就热力学的效率试验和分析方法进行了介绍。
 - In this passage , study coal mine air current base on thermodynamic theory .

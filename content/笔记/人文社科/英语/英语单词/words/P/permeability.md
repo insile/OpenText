@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌpɜːmjəˈbɪlɪti/； 美：/pərmiəˈbɪlɪti/
 - #词性/n  渗透性；磁导率；渗蚀度；(气球气体的)透出量
-# 例句
+##### 例句
 - Test and Research of Concrete Permeability of Different Stress Levels
 	- 不同应力水平下混凝土渗透性的试验研究
 - Testing methods on the permeability and influence factors of permeability of concrete

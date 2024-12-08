@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌseləˈbreɪtəri/； 美：/ˈseləbrətɔːri/
 - #词性/adj  庆祝的；庆典的
-# 例句
+##### 例句
 - What are the chances that John Tsang did not pop open a celebratory bottle afterwards ?
 	- 曾俊华事后不会打开一瓶酒庆祝的几率是多大呢？
 - a celebratory spoil procured through mysterious back channels and offered when babies or businesses are born .

@@ -7,10 +7,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌænθrəˈpɒlədʒi/； 美：/ˌænθrəˈpɑːlədʒi/
 - #词性/n  人类学
-# 例句
+##### 例句
 - The Anthropology of the future will not be concerned above all else with primitives .
 	- 未来的人类学不会以原始人为主要的研究对象。
 - " Essentially , I could not agree more with the authors , " said Svante Paabo , a biologist and director of the Max Planck Institute for Evolutionary Anthropology in Germany .

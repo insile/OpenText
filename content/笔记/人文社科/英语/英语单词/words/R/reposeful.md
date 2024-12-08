@@ -5,9 +5,9 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - #词性/adj  安定的；平稳的；沉着的；恬适的
-# 例句
+##### 例句
 - Results The long dated curative effect was satisfactory and reposeful .
 	- 结果远期疗效满意、平稳。
 - Cardiff Hill , beyond the village and above it , was green with vegetation and it lay just far enough away to seem a Delectable Land , dreamy , reposeful , and inviting .

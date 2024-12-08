@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˌænəˈtɒmɪkl/； 美：/ˌænəˈtɑːmɪkl/
 - #词性/adj  解剖的；解剖学的；(人或动物)身体结构上的
-# 例句
+##### 例句
 - Anatomical research on Nourishing Organs of Rhodiola sachalinensis a.bor .
 	- 高山红景天营养器官解剖学的研究。
 - general public knowledge of the anatomical self is lacking .

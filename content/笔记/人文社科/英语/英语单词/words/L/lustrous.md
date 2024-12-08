@@ -5,10 +5,10 @@ tags:
 掌握: false
 模糊: false
 ---
-# 词义
+##### 词义
 - 英：/ˈlʌstrəs/； 美：/ˈlʌstrəs/
 - #词性/adj  有光泽的；柔软光亮的
-# 例句
+##### 例句
 - The women have lustrous cascades of black hair
 	- 那些女子拥有瀑布般乌黑亮泽的秀发。
 - This mask definitely makes the skin fair and lustrous .
