@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 装甲板；胸甲；护胸甲；胸衣；胸甲套
+- #词性/n  装甲板；胸甲；护胸甲；胸衣；胸甲套
 # 例句
 - Armor plate that protects the chest ; the front part of a cuirass .
 	- 保护胸部的盔甲；是护胸铁甲的前边一部分。

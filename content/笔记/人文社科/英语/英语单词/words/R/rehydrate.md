@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 补水；再水合；再水化；补充水分；补充水份
+- #词性/vt  补水；再水合；再水化；补充水分；补充水份
 # 例句
 - The best way of preparing the nuts is to rehydrate them by soaking overnight .
 	- 做这些坚果的最好方法就是用水浸泡一个晚上，为其补充水分。

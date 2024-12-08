@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 民俗；民风；习俗；社会风俗；社会习俗
+- #词性/n  民俗；民风；习俗；社会风俗；社会习俗
 # 例句
 - Folkway is a general topic in all kinds of local chronicles .
 	- 民风是各类地方志都会涉及到的普遍话题。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 班图；班图人；班图语
+- #词性/n  班图；班图人；班图语
 # 例句
 - It just doesn 't call this " Bantu education . "
 	- 美国只是不把这称作“班图人教育”。

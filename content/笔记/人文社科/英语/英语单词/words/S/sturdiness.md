@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 坚固；强健；健壮；坚强
+- #词性/n  坚固；强健；健壮；坚强
 # 例句
 - Volvo could have launched it up the value chain , competing overseas on sturdiness and safety rather than price .
 	- 沃尔沃可能会让它向价值链上方移动，不再靠价格、而是靠坚固和安全性在海外竞争。

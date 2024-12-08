@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 轻率的
+- #词性/adj  轻率的；未受劝告的
 # 例句
 - A defendant unadvised of her legal rights .
 	- 对她的法定权利完全无知的被告。

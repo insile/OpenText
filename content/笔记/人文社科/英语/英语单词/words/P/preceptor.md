@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 导师；教师；训导者；感知器；指导教师
+- #词性/n  导师；教师；训导者；感知器；指导教师
 # 例句
 - He is at once the product and preceptor of his time .
 	- 他既是时代的产儿，也是时代的先锋。

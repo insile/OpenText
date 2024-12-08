@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈstɛpə/； 美：/ˈstɛpər/
-- #词性缺失 步进电机；步进式；步进机；步进光刻机；步进式光刻机
+- #词性/n  步进电机；步进式；步进机；步进光刻机；步进式光刻机
 # 例句
 - The overlay accuracy is one of the most important specifications of the stepper .
 	- 套刻精度是步进式光刻机最重要的指标之一。

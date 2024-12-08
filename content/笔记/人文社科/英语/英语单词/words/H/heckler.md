@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 质问者；起哄者；诘问别人之人；克勒
+- #词性/n  质问者；起哄者；诘问别人之人；克勒
 # 例句
 - The heckler was ejected from the hall by a couple of police officers .
 	- 几个警官把起哄者赶出了礼堂。

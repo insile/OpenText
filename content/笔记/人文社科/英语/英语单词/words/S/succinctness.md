@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 简洁；精炼；简洁性；简明
+- #词性/n  简洁；精炼；简洁性；简明
 # 例句
 - The design is characterized by logicality , flexibility , systematization and succinctness by case analysis .
 	- 并通过实例证明设计上具有逻辑性、灵活性、系统性和简洁性等特点

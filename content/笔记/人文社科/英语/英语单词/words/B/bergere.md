@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 贝格尔；法国式高背扶手椅；贝赫若黑；家白吉尔
+- #词性/n  贝格尔；法国式高背扶手椅；贝赫若黑；家白吉尔
 # 例句
 - What 's more formal than a bergere chair upholstered in damask ?
 	- 更重要的是比冰山更正式用锦缎软垫椅子？

@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/skʌlˈdʌɡəri/； 美：/skʌlˈdʌɡəri/
-- #词性缺失 欺诈；欺骗；骗局
+- #词性/n  欺诈；欺骗；骗局
 # 例句
 - Because of such skullduggery , Roman law is filled with punishments for these types of offenses .
 	- 由于这些欺骗行为的盛行，罗马法律中也充斥着对这些行为的惩罚规定。

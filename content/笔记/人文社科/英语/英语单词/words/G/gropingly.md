@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 摸索着；暗中摸索地
+- #词性/adv  摸索着；暗中摸索地
 # 例句
 - He put his hand out gropingly , touched hers .
 	- 他伸出手摸索着，碰到了她的手。

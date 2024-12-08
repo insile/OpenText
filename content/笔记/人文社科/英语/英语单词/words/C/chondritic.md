@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 球粒陨石；球粒状陨石的
+- #词性/adj  球粒陨石；球粒状陨石的
 # 例句
 - Compositional variation of chondritic metal phase during thermometamorphism and melting of its parent body
 	- 球粒陨石金属相在热变质及熔融条件下的组成变化

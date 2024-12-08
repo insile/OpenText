@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 非我；无我；非自体；非自身；非自己
+- #词性/n  非我；无我；非自体；非自身；非自己
 # 例句
 - Nonself Feature Extracting Algorithm Based on Rules Reorganization
 	- 基于规则重组的非我特征序列抽取算法

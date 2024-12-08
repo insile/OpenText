@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 善于交际；善于应酬地；和蔼可亲地
+- #词性/adv  善于交际；善于应酬地；和蔼可亲地
 # 例句
 - Sociably , the new neighbors invited everyone on the block for coffee .
 	- 那个喜好交际的新邻居邀请街区的每个人去喝咖啡。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 倔强；躁动；难以驾御；乱闹
+- #词性/n  倔强；躁动；难以驾御；乱闹
 # 例句
 - There were signs of restiveness among the younger members .
 	- 年轻成员流露出了不满的情绪

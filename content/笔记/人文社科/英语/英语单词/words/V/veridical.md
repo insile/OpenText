@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 真实的；不虚伪的
+- #词性/adj  真实的；不虚伪的
 # 例句
 - The victim is willing and able to provide veridical testimony .
 	- 受害者愿意并且能够真实地作证。

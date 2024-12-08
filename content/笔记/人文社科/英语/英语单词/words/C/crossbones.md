@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈkrɒsbəʊnz/； 美：/ˈkrɔːsboʊnz/
-- #词性缺失 骷髅头；骷髅旗；交叉骨；红骷髅的跟班交叉骨；海盗王国
+- #词性/n  骷髅头；骷髅旗；交叉骨；红骷髅的跟班交叉骨；海盗王国
 # 例句
 - But " Crossbones " leans heavily on research and recent political events .
 	- 但《骷髅旗》植根于调查和最近的政治事件。

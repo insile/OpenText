@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 振兴；激发；激励；激发活力；振作
+- #词性/v  使有生命力，使有活力
 # 例句
 - How to Vitalize the Old Forest Industrial Bases in Heilongjiang Province
 	- 振兴黑龙江省老森林工业基地发展对策

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 多产的；多产；多产地；大量地
+- #词性/adv  丰富地；多产地；大量地
 # 例句
 - I was one of those people who lived sensibly and prolifically each minute of his life .
 	- 那些一辈子里每分钟都很谨慎的人，我曾经是他们中的一员。

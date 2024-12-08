@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 水力；水能；水力发电
+- #词性/n  水力；水能；水力发电
 # 例句
 - The thesis studies the position salary system design of waterpower enterprises .
 	- 论文研究水力发电企业岗位工资制度的设计。

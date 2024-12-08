@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 区域化；区划；地域化；地区化
+- #词性/n  区域化；区划；地域化；地区化
 # 例句
 - Study of Legal System on Regionalization Management of China 's Agricultural Products Quality and Safety
 	- 我国农产品质量安全区域化管理法制建设研究

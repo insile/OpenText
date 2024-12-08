@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 协同的；协同；协同作用；合作的；协作
+- #词性/adj  协同的；协同；协同作用；合作的；协作
 # 例句
 - Chapter 2 introduces foundational theory of synergic and the concept of synergic production and synergic production management .
 	- 第二章研究与分析了协同的基础理论、协同生产和协同生产管理的概念，建立了包含过程概念层、理论方法层和支撑技术层的协同生产管理三层理论体系结构。

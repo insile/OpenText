@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 分期；周期训练；历史分期；周期化
+- #词性/n  分期；周期训练；历史分期；周期化
 # 例句
 - Another Discussion on the Periodization of Modern and Contemporary Chinese Literature History
 	- 再论中国现当代文学的分期

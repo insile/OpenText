@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 哈姆林
+- #词性/n  哈姆林（姓氏）
 # 例句
 - Studies on the storage technology of Hamlin orange and their mechanism
 	- 哈姆林甜橙采后生理及贮藏技术的研究

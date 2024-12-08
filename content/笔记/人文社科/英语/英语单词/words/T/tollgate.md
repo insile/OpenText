@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 收费站；关卡；收费口
+- #词性/n  收费站；关卡；收费口
 # 例句
 - Go to the tollgate and see !
 	- 去收费站自己看看吧！

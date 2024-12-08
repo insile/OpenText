@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 磨蹭；磨磨蹭蹭；浪费时间
+- #词性/v  磨蹭；磨磨蹭蹭；浪费时间
 # 例句
 - Students had no time to dillydally in the school cafeteria .
 	- 学生们没时间在学校的自助食堂磨蹭。

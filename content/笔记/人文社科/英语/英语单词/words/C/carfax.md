@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 卡法克斯；卡尔法克斯钟塔；克斯；卡费克斯
+- #词性/n  卡法克斯；交叉路口，主要道路或街道相交的地方，尤其是城镇中四条道路相交的地方
 # 例句
 - With scarcely another word I saw her to the convent , then took the bus back to carfax .
 	- 我送她去修道院的路上几乎没有再说什么话，后来搭了公共汽车回到卡尔法克斯。

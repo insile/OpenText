@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 沉重地；重要地
+- #词性/adv  沉重地；重要地
 # 例句
 - The realization theory , the difficulty and skill of the uniform user management development technique are weightily introduced ;
 	- 着重介绍了统一用户管理系统中统一用户的组件开发技术的实现依据原理、实现难度和技巧；

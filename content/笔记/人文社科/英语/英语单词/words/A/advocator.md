@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 倡导者；拥护者；提倡者；鼓吹者；辩护者
+- #词性/n  倡导者；拥护者；提倡者；鼓吹者；辩护者
 # 例句
 - The officials were the advocator and guide of Han culture .
 	- 流官是汉文化的倡导者、引导者。

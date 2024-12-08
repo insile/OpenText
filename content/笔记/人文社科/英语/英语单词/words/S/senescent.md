@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 衰老；衰老的
+- #词性/adj  衰老；衰老的
 # 例句
 - A comparative study on different senescent types in Wheat Variety
 	- 小麦品种衰老类型的比较研究

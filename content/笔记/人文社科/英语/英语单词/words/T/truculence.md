@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 好战；野蛮；残酷
+- #词性/n  好战；野蛮；残酷（等于 truculency）
 # 例句
 - The history research aims to expose the truculence and hypocrisy of the religious history , to remove religious influence and to restore the real belief .
 	- 历史研究要揭示宗教历史的野蛮与虚伪，清除宗教思想和恢复真正的信仰；

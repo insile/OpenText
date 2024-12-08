@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 行为
+- #词性/n  行为
 # 例句
 - The Mean Field Model and Analysis on the Dynamical Behavious for Network Traffic
 	- 网络流量的平均场模型及其动力学行为分析

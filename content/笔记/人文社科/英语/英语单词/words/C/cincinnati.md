@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˌsɪnsɪˈnæti/； 美：/ˌsɪnsəˈnæti/
-- #词性缺失 辛辛那提；辛辛那提市；辛辛纳提
+- #词性/n  辛辛那提；辛辛那提市；辛辛纳提
 # 例句
 - The Cooperative Education in Cincinnati University of America and its Inspiration
 	- 美国辛辛纳提大学的合作教育及其启示

@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈpliːstəʊsiːn/； 美：/ˈplaɪstəˌsin/
-- #词性缺失 更新世；更新世的；更新统；更新世时期
+- #词性/n  更新世；更新世的；更新统；更新世时期
 # 例句
 - The patterns of environmental changes since late Pleistocene in northwestern China
 	- 中国西北地区晚更新世以来环境变迁模式

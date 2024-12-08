@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈmenənaɪt/； 美：/ˈmenənaɪt/
-- #词性缺失 门诺派教徒
+- #词性/n  门诺派教徒
 # 例句
 - The Mennonite Church in North America is not large , but its history goes back to the Reformation period .
 	- 北美的门诺会并不大，但其历史却可以追溯到十六世纪的教会改革时期。

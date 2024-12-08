@@ -7,7 +7,8 @@ tags:
 ---
 # 词义
 - 英：/səˈmɪtɪk/； 美：/səˈmɪtɪk/
-- #词性缺失 闪族的；闪族；闪米特；闪米特人；闪米特语
+  - #词性/adj  闪米特人的；闪族语系的
+  - #词性/n  闪族人；闪语族
 # 例句
 - The study of the history , languages , and cultures of the Semitic peoples .
 	- 对闪米特民族的历史，语言，和文化的研究。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 口若悬河；流利
+- #词性/n  口若悬河；流利
 # 例句
 - She spoke with a volubility I never suspected she had in her .
 	- 她说起话来那样滔滔不绝，是我从来未怀疑过的。

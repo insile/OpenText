@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 傲慢；傲气；傲慢,不逊
+- #词性/n  傲慢；傲气；傲慢,不逊
 # 例句
 - Finally he came to realize it was his haughtiness that held people off .
 	- 他终于意识到是他的傲慢态度使人不敢同他接近。

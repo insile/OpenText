@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 美索不达米亚；美索不达米亚的
+- #词性/n  美索不达米亚
+- #词性/adj  美索不达米亚的
 # 例句
 - I incorrectly stated that the Mesopotamian civilization is the oldest continuous civilization .
 	- 我错误地陈述了美索不达米亚文明是最古老的仍然持续的文明。

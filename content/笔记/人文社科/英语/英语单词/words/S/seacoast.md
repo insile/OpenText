@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 海岸；海滨；港区
+- #词性/n  海岸；海滨；港区
 # 例句
 - Studies on Biomass Productivity of Three Different Agroforestry Models in Seacoast Area
 	- 海岸带不同林农复合经营模式的生物生产力研究

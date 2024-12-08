@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈsɔɪllɪs/； 美：/ˈsɔɪləs/
-- #词性缺失 无土
+- #词性/adj  不用泥土的；无污点的
 # 例句
 - Study on the feasible parameter of substrate quality for soilless culture
 	- 无土栽培基质的质量参数（孔隙性）研究

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 连续
+- #词性/adj  连续性的；继续的，接连的
 # 例句
 - Traditional econometrical modeling is based on fixed interval data . In plenty instances , the econometrical market information is successional and different interval data .
 	- 传统的计量经济学建模是基于固定时间间隔的数据建模，而金融市场上大多数的信息是连续不等间隔的变化过程。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 猪笼草；忘忧草；奈裴斯；埃及忘忧药；忘忧药；传说中的忘忧药
+- #词性/n  猪笼草；忘忧草；奈裴斯；埃及忘忧药；忘忧药；传说中的忘忧药
 # 例句
 - Viewed from a distance , the island of Nepenthe looked like a cloud .
 	- 从远处眺望，尼彭西岛就像一朵云。

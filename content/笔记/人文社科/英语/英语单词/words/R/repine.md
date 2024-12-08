@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 抱怨；埋怨；不满；不满,心中抱怨
+- #词性/vi  抱怨；埋怨；不满；不满,心中抱怨
 # 例句
 - I repine at the shortness of life , and envy the great river its eternal course .
 	- 哀我生之须臾，羡长江之无穷。

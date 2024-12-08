@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈɪŋɡlɪʃ ˈspiːkɪŋ/； 美：/ˈɪŋɡlɪʃ ˈspiːkɪŋ/
-- #词性缺失 说英语的
+- #词性/adj  说英语的
 # 例句
 - And you may chat with English-speaking people to practice your oral English .
 	- 还能和说英语的人聊天练口语。

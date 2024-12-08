@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/rəʊˈmæntɪk(ə)li/； 美：/roʊˈmæntɪkəli/
-- #词性缺失 浪漫地
+- #词性/adv  浪漫地
 # 例句
 - This turn of events is fueled primarily by the dramatic drop in the share of young Americans who are choosing to settle down romantically before age 35 .
 	- 这种转变的主要原因是选择在35岁之前就与伴侣浪漫地安定生活的美国年轻人比例急剧下降。

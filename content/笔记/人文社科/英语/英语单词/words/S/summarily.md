@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 简易；草率地；概括地；简单地
+- #词性/adv  简易；草率地；概括地；简单地
 # 例句
 - Please give your views summarily .
 	- 请把你的看法概括地讲一讲。

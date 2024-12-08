@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 浪漫主义者；配对媒人
+- #词性/n  浪漫主义者；配对媒人；讲虚构故事的人；传奇小说作家
 # 例句
 - You keep twenty pounds in reserve , do you , you young romancer ?
 	- 你留下20英镑，是不是，你这个小传奇作家？

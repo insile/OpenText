@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 坟墓；墓穴
+- #词性/n  坟墓；墓穴
+- #词性/vt  埋葬
 # 例句
 - He said softly , as if his voice were coming from a sepulcher .
 	- 他幽幽说道，象是从坟墓里传来的声音。

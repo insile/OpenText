@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 足；浪费时间；闲混；胡闹
+- #词性/v  做笨事；说呆话；浪费时间
+- #词性/n  呆话；傻事
 # 例句
 - I wish he would not footle about so much .
 	- 我希望他不要这样混日子。

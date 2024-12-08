@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 张力；紧张性；调核位置；调核
+- #词性/n  张力；紧张性；调核位置；调核
 # 例句
 - Results : Besides the structural changes caused by operation , barium meal revealed : ① decreased gastrointestinal tonicity and abnormal configuration .
 	- 结果：除手术引起的胃肠结构改变外，胃肠钡餐还显示：①胃肠张力降低、形态失常；

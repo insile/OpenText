@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 临近预报；短时预报；即时预报；实时预报
+- #词性/n  临近预报；短时预报；即时预报；实时预报
 # 例句
 - Climate background analysis of convective weather was the foundation of nowcasting , which was the necessary to Olympics weather service in2008 .
 	- 对流性天气的气候背景分析是临近预报的基础，是做好北京2008年奥运气象服务必不可少的准备工作。

@@ -6,7 +6,9 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 套筒；细丝
+- #词性/n  细丝；乱丝，纠缠一团
+- #词性/vt  解开
+- #词性/vi  分成细丝
 # 例句
 - The forming cause of the appearance quality defect of rubber sleave was analyzed , and the solvation measures were presented .
 	- 分析了橡胶皮套外观质量缺陷产生的原因，介绍了解决措施。

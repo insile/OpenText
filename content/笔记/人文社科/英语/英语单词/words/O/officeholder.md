@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 官员
+- #词性/n  官员
 # 例句
 - Research in Local Officeholder in Late Tudor and Early Stuart England ;
 	- 早期斯图亚特是英国贵族官员腐败行为比较突出的时期。

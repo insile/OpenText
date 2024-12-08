@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 中和；抵消
+- #词性/v  中和；抵消
 # 例句
 - Mr Obama 's plan would neutralise that hit ( see table ) .
 	- 奥巴马的计划将中和上述的打击（看表格）。

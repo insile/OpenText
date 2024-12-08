@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 公开认错；改变论调；改变信仰
+- #词性/n  公开认错；改变论调；改变信仰
 # 例句
 - Recantation was not enough to appease the company and she was sacked a few days later .
 	- 公开认错不足以让公司平息，几天后她便被炒了鱿鱼。

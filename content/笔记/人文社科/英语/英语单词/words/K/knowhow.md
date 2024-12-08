@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 专有技术；技术；知识；秘诀；技术秘密
+- #词性/n  专有技术；技术；知识；秘诀；技术秘密
 # 例句
 - Our special knowhow & automatic scale removing system of wash tank , rinsing heater , spray arms and all connections .
 	- 专有技术&全系统自动除垢系统：主洗缸、漂洗加热器、喷臂及所有的联通系统。

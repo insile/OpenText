@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 真声演唱的歌手
+- #词性/n  真声演唱的歌手
 # 例句
 - When the surface electric charge in the solid particle gets higher , the belter strengthening result can get .
 	- CMS的粒子表面电荷越高，羧甲基淀粉钠的增强效果越好。

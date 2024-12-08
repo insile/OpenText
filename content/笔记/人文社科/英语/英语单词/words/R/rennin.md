@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 肾素；凝乳；凝乳酶；蛋白原酶
+- #词性/n  肾素；凝乳；凝乳酶；蛋白原酶
 # 例句
 - Would you like to outlook the direct rennin inhibition in the future ?
 	- 您能否展望这种肾素抑制剂的未来应用前景？

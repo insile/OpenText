@@ -7,7 +7,8 @@ tags:
 ---
 # 词义
 - 英：/ˈtʃɑːfɪŋ/； 美：/ˈtʃæfɪŋ/
-- #词性缺失 开玩笑；混淆
+- #词性/v  开玩笑，打趣，戏弄（chaff 的现在分词）
+- #词性/n  开玩笑；混淆
 # 例句
 - It is a chaffing way to say that someone is not so handsome or just ordinary-looking .
 	- 这是一个开玩笑的说法，形容某人不是那么帅或者仅仅是长相普通而已。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 不爱说话的；沉默寡言的
+- #词性/adj  不爱说话的；沉默寡言的
 # 例句
 - Incommunicative as he was , some time elapsed before I had an opportunity of gauging his mind .
 	- 由于他不爱说话，我过了一些时候才有机会探测他的心灵

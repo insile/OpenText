@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 未经辨味的；未被尝过的；未体验过的
+- #词性/adj  未经辨味的；未被尝过的；未体验过的
 # 例句
 - I will laugh at evil and it will die untasted ;
 	- 我笑邪恶，它们远我而去；

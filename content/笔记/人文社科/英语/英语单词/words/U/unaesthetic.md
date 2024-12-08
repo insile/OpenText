@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 不美观的；非审美的；缺乏美感的
+- #词性/adj  不美观的；非审美的；缺乏美感的
 # 例句
 - Aesthetic function system occupy the leading position and each unaesthetic function system make up network .
 	- 此系统以审美功能为主导，与各种非审美功能组成网络系统，且二者相互渗透、相互融合。

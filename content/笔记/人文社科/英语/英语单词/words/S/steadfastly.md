@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 坚决；坚定不移地；坚定地；不变地；踏实地
+- #词性/adv  坚决；坚定不移地；坚定地；不变地；踏实地
 # 例句
 - Nevertheless , we still steadfastly march toward this goal .
 	- 尽管有难度，我们也要坚定不移地向这一目标前进。

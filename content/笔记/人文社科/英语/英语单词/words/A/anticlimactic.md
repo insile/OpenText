@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 虎头蛇尾；虎头蛇尾的
+- #词性/adj  虎头蛇尾；虎头蛇尾的
 # 例句
 - Seems a bit anticlimactic , doesn 't it ?
 	- 似乎有点虎头蛇尾，不是吗？

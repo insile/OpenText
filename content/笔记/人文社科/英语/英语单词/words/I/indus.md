@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 印度河；印度；印第安座；梧桐；印地安座
+- #词性/n  印度河；印度；印第安座；梧桐；印地安座
 # 例句
 - The Indus civilization was brought to light in excavation by Sir John Marshall in the1920s .
 	- 印度河文化是约翰·马歇尔爵士20世纪20年代进行的发掘中发现的。

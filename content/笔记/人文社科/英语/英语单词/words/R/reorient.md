@@ -7,7 +7,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 调整；重新定向；重定向；适应；使适应；白银资本
+- #词性/vt  调整；重新定向；重定向；适应；使适应；白银资本
 # 例句
 - Note that the pivot foot is facing the " old direction " and is twisting in place , so the horse will have to pick it up to reorient it to the new direction .
 	- 注意，图中的支点腿正对着原来的方向，所以马必须抬起它，重新定向到新的位置。

@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈsɪŋkrənaɪzə/； 美：/ˈsɪŋkrəˌnaɪzər/
-- #词性缺失 同步器；同步装置
+- #词性/n  同步器；同步装置
 # 例句
 - The Synchronizer allows you to synchronize folders , disks or computers .
 	- 同步器可让您同步文件夹，磁盘或计算机上

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 奋斗者；挣扎者
+- #词性/n  奋斗者；挣扎者
 # 例句
 - To be success , one must be a struggler first .
 	- 想要做一名成功人士，首先得做一名奋斗者。

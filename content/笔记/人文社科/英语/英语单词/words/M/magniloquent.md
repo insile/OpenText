@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 浮夸的
+- #词性/adj  浮夸的
 # 例句
 - News of the death of forests appears to have been greatly magniloquent .
 	- 森林在灭亡的消息似乎被很大程度上夸大其词了。

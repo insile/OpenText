@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 驱除；驱邪；驱魔；驱鬼；驱逐
+- #词性/vt  驱除；驱邪；驱魔；驱鬼；驱逐
 # 例句
 - Four priests were dispatched to exorcise the demons .
 	- 四个牧师被指派去驱魔。

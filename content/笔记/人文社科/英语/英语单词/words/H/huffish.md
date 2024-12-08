@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 不高兴的；傲慢的
+- #词性/adj  不高兴的；傲慢的
 # 例句
 - To Fu child for , regular meeting causes not contented sensation , huffish even , resentment .
 	- 对妇子来说，常会引起不满足的感觉，甚至发怒、怨恨。

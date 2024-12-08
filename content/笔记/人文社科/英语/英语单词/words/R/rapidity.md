@@ -7,7 +7,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 快速；迅速；速度；急速；快捷
+- #词性/n  快速；迅速；速度；急速；快捷
 # 例句
 - The method of variable structure control with rapidity
 	- 具有快速性的变结构控制方法

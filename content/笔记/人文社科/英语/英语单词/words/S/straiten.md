@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 限制；穷困；使穷困；变窄；使为难；变紧
+- #词性/vt  限制；使……穷困；使……为难
+- #词性/vi  变窄；变紧
 # 例句
 - Your going to go down and straiten out those chair people .
 	- 你要去和椅店的人协调清楚。

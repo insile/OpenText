@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 毫无根据地
+- #词性/adv  毫无根据地
 # 例句
 - You 'd better provide your evidence and not accuse an innocent person groundlessly .
 	- 你最好拿出证据来，不要凭白无故冤枉好人。

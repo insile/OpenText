@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 断裂；切断；分离；裂开；剪裂
+- #词性/n  断裂；切断；分离；裂开；剪裂
 # 例句
 - Investigation of chain scission behavior of Ni-catalyzed cis-polybutadiene vulcanizates during thermo-oxidative aging
 	- 镍系顺丁硫化胶氧化链断裂行为的解析

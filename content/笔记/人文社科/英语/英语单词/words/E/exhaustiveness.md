@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 穷尽性；全面性；彻底性
+- #词性/n  穷尽性；全面性；彻底性
 # 例句
 - A Regulation-based Study : Probing into the Exhaustiveness of News Discourse Structure and Type
 	- 基于规则的研究：新闻语篇结构类型的穷尽性探析

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 破烂的；破烂地；粗糙地
+- #词性/adv  破烂的；破烂地；粗糙地
 # 例句
 - She was breathing raggedly .
 	- 她急促地呼吸着。

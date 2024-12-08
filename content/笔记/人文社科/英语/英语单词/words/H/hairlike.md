@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 毛发状的；毛发似的
+- #词性/adj  毛发状的；毛发似的
 # 例句
 - The role of oxygen free radical in experimental keratitis a minute hairlike projection on mucous membrane .
 	- 氧自由基在实验性角膜炎中的作用黏膜上起保护作用的细小的毛。

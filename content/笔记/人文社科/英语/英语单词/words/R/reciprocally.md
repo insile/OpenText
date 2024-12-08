@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 往复；相互；相互地；相反地
+- #词性/adv  往复；相互；相互地；相反地
 # 例句
 - It opens channels from heart to heart so that feelings can flow reciprocally .
 	- 它打开诚实的渠道，以便情感能相互地流动。

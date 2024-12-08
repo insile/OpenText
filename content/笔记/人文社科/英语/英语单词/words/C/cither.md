@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 齐特拉琴；西特琴
+- #词性/n  齐特拉琴；西特琴
 # 例句
 - Both Input and output of the networks are cither procedures or functions .
 	- 网络的输入输出可为过程或时变函数。

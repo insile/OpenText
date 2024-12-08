@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 激励的；鼓励的；劝励语气；劝告；鼓动的；祈使不如说是劝告
+- #词性/adj  激励的；鼓励的；劝励语气；劝告；鼓动的；祈使不如说是劝告
 # 例句
 - Once in a while only a hortative smile can encourage yourself to carry on .
 	- 偶尔，只需要一个鼓励的微笑，就可以说服自己继续坚强下去。

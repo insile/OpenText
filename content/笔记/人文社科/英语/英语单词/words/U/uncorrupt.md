@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 不腐败的；纯正的；未堕落的；无讹误的
+- #词性/adj  不腐败的；纯正的；未堕落的；无讹误的
 # 例句
 - Bhutan , Botswana and Jordan are low-income countries perceived to be relatively uncorrupt .
 	- 不丹、博茨瓦纳和约旦均为低收入国家，但被感知的腐败程度却相对较轻。

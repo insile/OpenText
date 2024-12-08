@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/naɪt klʌb/； 美：/naɪt klʌb/
-- #词性缺失 夜总会
+- #词性/n  夜总会
 # 例句
 - This night-club is not a place for a young and innocent girl like you .
 	- 这家夜总会不是像你这样年轻纯洁的女孩涉足的地方。

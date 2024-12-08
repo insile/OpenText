@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 内温动物
+- #词性/n  内温动物；恒温动物
 # 例句
 - Simulation of the dual melting endotherms of pet
 	- PET熔融双峰的模拟分析

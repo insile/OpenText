@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 联合国
+- #词性/abbr  联合国
 # 例句
 - The civil war claimed the life of a U.N. interpreter yesterday
 	- 昨天，内战夺去了一位联合国译员的生命。

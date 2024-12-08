@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 香烟
+- #词性/n  香烟
 # 例句
 - I could hardly see her through the haze of cigaret smoke .
 	- 在香烟的烟雾弥漫中，我简直看不见她。

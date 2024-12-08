@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ʃəʊˈʃəʊni/； 美：/ʃoʊˈʃoʊni/
-- #词性缺失 肖肖尼；肖肖尼人；肖松尼族人
+- #词性/n  肖肖尼；肖肖尼人；肖松尼族人
 # 例句
 - A Shoshone guide helped the explorers cross the high mountains .
 	- 肖肖尼向导帮助探险者穿过高山。

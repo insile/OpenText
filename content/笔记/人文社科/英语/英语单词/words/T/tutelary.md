@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 守护神；守护的
+- #词性/n  守护神；守护的
+- #词性/adj  监护的；保护的
 # 例句
 - Daycare that is educational and not just custodial ; a guardian angel ; tutelary gods .
 	- 日托不仅仅是保护，还有教育性；守护天使；守护神。

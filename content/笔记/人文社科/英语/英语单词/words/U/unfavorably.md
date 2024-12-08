@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 不利的；不适宜；不利地
+- #词性/adv  不利的；不适宜；不利地
 # 例句
 - Current marriage law does not provide an out for such marriages and many wives view divorce unfavorably .
 	- 当前的婚姻法对这样的婚姻不提供抽身机会，许多妻子把离婚视为不利的。

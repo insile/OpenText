@@ -7,7 +7,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 先知；占卜师；占卜者
+- #词性/n  先知；占卜师；占卜者
 # 例句
 - Why not get a diviner to expound my dream ?
 	- 为什么不去叫一个占卜者来解释我的梦呢？

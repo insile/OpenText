@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 刻苦；勤奋；勤勉
+- #词性/n  刻苦；勤奋；勤勉
 # 例句
 - The basic spirit of the new village movement is : assiduity , self-service , coordination in South Korean .
 	- 韩国新村运动的基本精神是：勤勉、自助、协同。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 有节奏地；有节律性的；富有节奏地
+- #词性/adv  有节奏地；有节律性的；富有节奏地
 # 例句
 - They danced rhythmically , swaying their hips to the music .
 	- 他们伴着音乐扭动屁股，有节奏地跳舞。

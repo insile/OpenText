@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 长期的；纪事报；纪事；慢性的；慢性
+- #词性/adj  长期的；纪事报；纪事；慢性的；慢性
 # 例句
 - Chronical prejudice will mislead you in making judgment on this event .
 	- 长期的成见会误导你对这件事情做判断。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 流纹岩；火山岩
+- #词性/n  流纹岩；火山岩
 # 例句
 - Experimental Data Analysis on Full Diameter Rhyolite Cores from Daqing Deep Layers
 	- 大庆深层流纹岩全直径岩心实验数据分析

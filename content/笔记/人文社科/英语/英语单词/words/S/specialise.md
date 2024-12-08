@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 专业化；专门研究；专营；专门做
+- #词性/vi  专门研究（specialize 的英式拼写）
+- #词性/vt  使专门化；限定……的范围；深入（specialize 的英式拼写）
 # 例句
 - I thought I could specialise in folk music .
 	- 我觉得我可以专门研究民间音乐。

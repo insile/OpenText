@@ -126,7 +126,6 @@
 - [ ] [[technological]]
 - [ ] [[technologically]]
 - [ ] [[technology]]
-- [ ] [[tecnology]]
 - [ ] [[tectonic]]
 - [ ] [[tectonics]]
 - [ ] [[ted]]

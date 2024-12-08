@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 阿拉斯加；阿拉斯加人
+- #词性/n  阿拉斯加；阿拉斯加人
+- #词性/adj   阿拉斯加的
 # 例句
 - Alaskan Eskimos believe that every living creature possesses a spirit
 	- 阿拉斯加的爱斯基摩人认为每一个活着的生物都有灵魂。

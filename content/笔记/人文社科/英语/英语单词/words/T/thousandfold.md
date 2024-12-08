@@ -7,7 +7,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 千倍；千倍地
+- #词性/adj  千倍的
+- #词性/adv  千倍地
 # 例句
 - It shows a thousandfold selectivity for fluoride over other common anions .
 	- 它对氟离子的选择性比其它普通阴离子高几千倍。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 陶醉；销魂
+- #词性/n  强夺；销魂；陶醉，狂喜
 # 例句
 - The supervision of counter appeal after ravishment still face challenges : the mediation and execution are free of the supervision of counter appeal ;
 	- 新法实施后抗诉监督面临的问题主要有：调解活动脱离于抗诉监督；

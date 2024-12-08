@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 枯萎的；萨普莱斯；无活力；老一套
+- #词性/adj  枯萎的；萨普莱斯；无活力；老一套
 # 例句
 - As if her veins were sapless and old ,
 	- 如同她那老迈而枯萎的血脉，

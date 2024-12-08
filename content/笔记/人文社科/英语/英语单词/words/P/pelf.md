@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 财物；氟尿嘧啶；阿堵物
+- #词性/n  财物；氟尿嘧啶；阿堵物
 # 例句
 - Pelf makes friends , adversity tries them .
 	- 富贵交友易，患难显真情。

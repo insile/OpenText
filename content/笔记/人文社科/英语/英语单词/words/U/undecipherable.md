@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 难辨认的；可辨认的
+- #词性/adj  难辨认的；破译不出的
 # 例句
 - Layered column chromatography A hopelessly undecipherable jumble of overlapping names .
 	- 层叠式柱色谱（法）一大团无法分辨、层层叠叠的名字。

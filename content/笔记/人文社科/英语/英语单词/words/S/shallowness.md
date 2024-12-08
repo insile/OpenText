@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 肤浅；浅薄
+- #词性/n  肤浅；浅薄
 # 例句
 - In like the cases , shallowness can be a delightful alternative .
 	- 这时间，肤浅没出国疑问是唯一愉快的挑选。

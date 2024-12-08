@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 向地球的
+- #词性/adj  向地球的
+- #词性/adv  向地球；向地面
 # 例句
 - The plasmoids on the earthward side of the neutral line move toward the earth and coalesce with the reconnection region near the earth .
 	- 中性线近地侧的等离子体团朝着地球运动，并合并于地球附近的重联区内。

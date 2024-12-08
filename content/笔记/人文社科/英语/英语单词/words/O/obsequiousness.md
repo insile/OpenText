@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 谄媚；奉承；顺从；逢迎
+- #词性/n  谄媚；奉承；顺从；逢迎
 # 例句
 - He became rebarbative and prickly and spiteful ; I find his obsequiousness repellent .
 	- 他变得令人讨厌、易发怒，怀有恶意；我发现他的奉承令人厌恶。

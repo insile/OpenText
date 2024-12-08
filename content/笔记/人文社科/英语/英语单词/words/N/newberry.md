@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 纽贝里；纽伯里；纽伯利；纽伯瑞
+- #词性/n  纽贝里；纽伯里；纽伯利；纽伯瑞
 # 例句
 - Neuman and Newberry will certainly be getting their money 's worth .
 	- 诺尔曼和纽巴瑞一定会觉得他们的钱值了。

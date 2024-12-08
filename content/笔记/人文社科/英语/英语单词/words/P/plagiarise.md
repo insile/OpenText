@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 抄袭；剽窃
+- #词性/v  抄袭；剽窃
 # 例句
 - As a result , researchers and academics particularly those in lesser universities or institutes plagiarise or buy papers .
 	- 因此，这促成了研究人员和学者特别是在较弱的大学或学术机构剽窃或购买文章。

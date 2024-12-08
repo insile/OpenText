@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 和解；调和的
+- #词性/adj  和解的，调和的
 # 例句
 - I have faith in your reconciliatory navigational skills .
 	- 我对你的“和解式”导航法相当有信心。

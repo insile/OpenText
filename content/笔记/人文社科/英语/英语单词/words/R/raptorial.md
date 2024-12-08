@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 凶猛的
+- #词性/adj  凶猛的；猛禽类的；捕食动物的；适于捕捉小生物的
 # 例句
 - Morphological Characteristics and Function of Raptorial Tarsometatarsus
 	- 猛禽类跗跖骨形态特征与功能的分析

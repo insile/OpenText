@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 不安；不安定；焦虑
+- #词性/n  不安；不安定；焦虑
 # 例句
 - Also , the apocalyptic and oracular tone provides the spectators with a glimpse of the anxiety and inquietude penetrating current Japanese society .
 	- 其天启式、神谕性的基调让观众一睹渗透整个日本社会的焦虑和不安情绪。

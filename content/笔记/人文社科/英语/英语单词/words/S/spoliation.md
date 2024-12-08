@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 掠夺；强夺；破坏证据
+- #词性/n  掠夺；强夺；破坏证据
 # 例句
 - Thus , the spoliation of evidence system can be established .
 	- 从而，我国的证明妨碍制度初步得以确立。

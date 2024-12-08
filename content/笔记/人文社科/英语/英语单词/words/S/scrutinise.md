@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 审查；详细检查；细察
+- #词性/vi  作仔细检查；细致观察
+- #词性/vt  细看；仔细观察或检查；核对（等于 scrutinize）
 # 例句
 - Regulators should scrutinise the form these new exchanges take .
 	- 监管机构应密切审查这些新交易所采取的形式。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 冷静的；稳健
+- #词性/adj  冷静的；稳健
 # 例句
 - He had always known Tirion to be an honorable , levelheaded man .
 	- 他一直觉得提里奥是个有荣誉感，头脑冷静的男人。

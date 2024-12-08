@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 负担不起的；买不起的；付不起
+- #词性/adj  负担不起的；买不起的；付不起
 # 例句
 - Before you brush this argument aside as rubbish , or think of joy as an unaffordable luxury in a nation where there is awful poverty , low academic achievement , and high dropout rates , think again .
 	- 在你把这一论点当作垃圾置之不理,或者认为快乐在贫穷不堪、学业成绩低下、辍学率高的国家是一种无法负担的奢侈品之前,请三思。

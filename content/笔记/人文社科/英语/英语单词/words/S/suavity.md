@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 温和；殷勤；柔和
+- #词性/n  温和；殷勤；柔和
 # 例句
 - He 's got a surface flow of suavity , but he 's rough as a rasp underneath .
 	- 他表面看来和和气气的，其实是个粗野狂暴的恶棍。

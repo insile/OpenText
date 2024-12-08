@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˌriːdəˈbɪlɪti/； 美：/ˌridəˈbɪlɪti/
-- #词性缺失 可读性；易读性；可阅读性
+- #词性/n  可读性；易读性；可阅读性
 # 例句
 - The essay is dead boring and lacks readability .
 	- 这篇文章很没趣，可读性不强。

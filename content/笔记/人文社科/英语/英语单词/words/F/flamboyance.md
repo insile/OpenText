@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 华丽；浮夸；炫耀；火焰
+- #词性/n  华丽；浮夸；炫耀；火焰
 # 例句
 - She allows herself no flamboyance in her clothes .
 	- 她不穿华丽的衣服

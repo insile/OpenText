@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 旗鱼；剑鱼
+- #词性/n  旗鱼；剑鱼
 # 例句
 - All in all , a long day , arriving too late to make the drive to Sailfish Bay .
 	- 总之是漫长的一天，因为到得太晚，也赶不及开车前往旗鱼湾了。

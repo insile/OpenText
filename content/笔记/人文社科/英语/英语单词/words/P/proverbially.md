@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 众所周知
+- #词性/adv  众所周知
 # 例句
 - It is proverbially easier to destroy than to construct .
 	- 谁都知道破坏容易建设难。

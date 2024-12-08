@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/sɪˈnɒptɪk/； 美：/sɪˈnɑptɪk/
-- #词性缺失 天气的；天气学；概要的；概要；符类福音；摘要的
+- #词性/adj  天气的；天气学；概要的；概要；符类福音；摘要的
 # 例句
 - Analysis of Distribution Characteristics and Synoptic Patterns of Lightning in Guangzhou
 	- 广州地区雷电时空分布特点及天气学分析

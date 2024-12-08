@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 区域主义者；地方主义者；本土主义
+- #词性/n  区域主义者；地方主义者；本土主义
 # 例句
 - A Study on China 's Regionalist Strategies
 	- 中国地区主义战略研究

@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/juːˈfreɪtiːz/； 美：/juˈfreɪtiz/
-- #词性缺失 幼发拉底河；幼发拉底；幼发拉底斯
+- #词性/n  幼发拉底河；幼发拉底；幼发拉底斯
 # 例句
 - Turkey plans to harness the waters of the Tigris and Euphrates rivers for big hydro-electric power projects .
 	- 土耳其计划利用底格里斯河和幼发拉底河的河水开发大型水电项目。

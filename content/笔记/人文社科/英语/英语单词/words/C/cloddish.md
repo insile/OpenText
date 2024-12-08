@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 土里土气的
+- #词性/adj  粗鲁的；土块一样的；土里土气的
 # 例句
 - He cannot prevent the reader from preferring Ethan Brand to the cloddish villagers of the tale .
 	- 读者还是喜欢伊桑？布兰德而讨厌故事里那些土头土脑的乡民。这他是阻止不了的。

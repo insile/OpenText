@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 木刻；伐木
+- #词性/n  木刻；伐木
 # 例句
 - I have been trained as a carpenter , and I think I would fit into the woodcutting business .
 	- 我学过木工，自以为干伐木是合适的。

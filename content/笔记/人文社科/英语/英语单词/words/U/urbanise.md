@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 城市化；使都市化
+- #词性/v  （使）城市化；（使）农村人口迁徙到城市（等于 urbanize）
 # 例句
 - First , China will continue to urbanise rapidly , which will raise household income and create new sources of growth .
 	- 首先，中国将继续快速实现城市化，这将提高家庭收入，创造新的增长来源。

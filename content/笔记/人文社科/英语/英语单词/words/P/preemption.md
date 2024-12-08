@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˌpriːˈempʃn/； 美：/ˌpriːˈempʃn/
-- #词性缺失 优先；抢占；先发制人；先买权；先占
+- #词性/n  优先；抢占；先发制人；先买权；先占
 # 例句
 - Improved Response Time Analysis Method for Scheduling Tasks with Preemption Threshold
 	- 改进的基于抢占阈值调度的任务响应时间分析方法

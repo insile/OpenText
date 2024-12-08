@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 事先存在
+- #词性/vi  先前存在
+- #词性/vt  先于……存在
 # 例句
 - The effects of relative compression height and preexist strain on strengthening efficiency are studied .
 	- 研究了加固后截面相对受压区高度以及恒载初应变对外贴FRP加固RC、PC受弯构件加固效率的影响。

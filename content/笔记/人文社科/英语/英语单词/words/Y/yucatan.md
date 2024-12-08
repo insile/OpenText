@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 尤卡坦；尤卡坦半岛；尤卡坦州；犹加敦
+- #词性/n  尤卡坦；尤卡坦半岛；尤卡坦州（位于墨西哥）
 # 例句
 - The Yucatan is also a nature lover 's heaven .
 	- 尤卡坦也是大自然爱好者的天堂。

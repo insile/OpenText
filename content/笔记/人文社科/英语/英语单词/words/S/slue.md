@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 旋转；回转；大量的
+- #词性/v  （使）突然转向，急转；（电子仪表）旋转
+- #词性/n  猛烈（或无法控制的）侧转
 # 例句
 - where the water runs off and creates the Tijuana slue 's
 	- 水在这里流出创造出提华纳沼泽

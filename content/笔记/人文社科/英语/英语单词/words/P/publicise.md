@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 宣传；公布；广告；宣扬
+- #词性/vt  宣传；公布；广告；宣扬
 # 例句
 - It 's precisely because very few people know about it that we must publicise it .
 	- 惟其知者甚少，故须多加宣传。

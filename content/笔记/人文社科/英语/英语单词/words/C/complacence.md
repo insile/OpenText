@@ -7,7 +7,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 自满；满足；自满,自以为是
+- #词性/n  自满；满足；自满,自以为是
 # 例句
 - Men of complacence are obstinate and consider themselves always right .
 	- 我认为自满，就是我所指的心之凶德。他们自以为是，刚愎自用。

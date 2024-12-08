@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 突出的；突出；前突；推出
+- #词性/adj  突出的；突出；前突；推出
 # 例句
 - A relatively slow developing trend was shown , however , good protrusive kinds of TCM aerosols not seldom .
 	- 中药气雾剂技术呈现缓慢发展的状况，但不乏个别表现突出的品种

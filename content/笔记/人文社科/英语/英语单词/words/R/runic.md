@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 北欧古字；古代北欧文字；如尼文；尼文
+- #词性/n  北欧古字；古代北欧文字；如尼文；尼文
+- #词性/adj  古代北欧文字的；神秘的
 # 例句
 - Endless Winter-2nd rank changed to make Mind Freeze cost no runic power .
 	- 无尽寒冬-第二层变成了心灵冰冻不费符文能量。

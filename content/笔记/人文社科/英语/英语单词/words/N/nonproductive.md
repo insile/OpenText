@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˌnɒnprəˈdʌktɪv/； 美：/ˌnɑnprəˈdʌktɪv/
-- #词性缺失 非生产性的；非生产的
+- #词性/adj  非生产性的；非生产的
 # 例句
 - Nonproductive expenditures keep tapering down .
 	- 非生产性开支一直在下降。

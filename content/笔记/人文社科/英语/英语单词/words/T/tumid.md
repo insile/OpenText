@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 肿胀；肿大的
+- #词性/adj  （身体某部分）肿胀的；（语言、文体）浮夸的，浮华的
 # 例句
 - Tumid lupus erythematosus occurring following highly active antiretroviral therapy for HIV infection : A manifestation of immune restoration
 	- 高效抗病毒治疗HIV感染后出现肿胀性红斑狼疮：一种免疫恢复现象

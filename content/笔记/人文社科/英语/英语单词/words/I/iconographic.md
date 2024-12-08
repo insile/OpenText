@@ -7,7 +7,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 图像学；肖像学；肖像；肖像的；图像志
+- #词性/adj  图像学；肖像学；肖像；肖像的；图像志
 # 例句
 - Inscriptions , iconographic evidence , and literary references point to the emergence of devotional theism in the 2nd century BC .
 	- 碑铭、肖像的证据，还有参考文献表明，虔诚的有神论在公元前二世纪浮现。

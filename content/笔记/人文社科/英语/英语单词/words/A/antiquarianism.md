@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 古物学；古物研究；古物搜藏；好古癖；古董主义
+- #词性/n  古物学；古物研究；古物搜藏；好古癖；古董主义
 # 例句
 - Antiquarianism does not provide the answers any more than does immersion in today 's technical achievements .
 	- 复古主义不是答案，就像沉醉于当今的技术发展不能解决问题一样。

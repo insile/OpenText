@@ -96,4 +96,3 @@
 - [ ] [[krypton]]
 - [ ] [[kudos]]
 - [ ] [[kung fu]]
-- [ ] [[kung]]

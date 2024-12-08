@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 灵长类动物学；灵长类学；灵长目学；灵长目动物学
+- #词性/n  灵长类动物学；灵长类学；灵长目学；灵长目动物学
 # 例句
 - The history , institutions and research fields concerning with primatology in China have been introduced in details .
 	- 本文回顾了我国灵长类生物学发展的过程，介绍了我国从事本学科研究的机构和领域。

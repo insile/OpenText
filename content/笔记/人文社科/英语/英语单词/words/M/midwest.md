@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˌmɪd'west/； 美：/ˌmɪd'west/
-- #词性缺失 中西部；美国中西部；中西；中西部公司
+- #词性/n  中西部；美国中西部；中西；中西部公司
 # 例句
 - The difference on Midwest diet culture
 	- 大相径庭的中西饮食文化

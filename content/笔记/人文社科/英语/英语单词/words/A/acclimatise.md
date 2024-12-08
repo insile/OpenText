@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 适应
+- #词性/v  适应
 # 例句
 - This year he has left for St Louis early to acclimatise himself
 	- 今年他早早地前往圣路易斯以便适应新环境。

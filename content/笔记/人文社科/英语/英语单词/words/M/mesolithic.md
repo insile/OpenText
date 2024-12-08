@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 中石器时代
+- #词性/n  中石器时代
+- #词性/adj  中石器时代的
 # 例句
 - The bow seems to have been invented in the late Paleolithic or early Mesolithic periods .
 	- 弓箭早在旧石器时代晚期或中石器时代早期就出现了。

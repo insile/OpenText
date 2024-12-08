@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 林线；树带界线；林木线
+- #词性/n  林线；树带界线；林木线
 # 例句
 - Timberline is a sharp ecotone that the community structure changes drastically .
 	- 林线交错带是群落结构发生急剧变化的地段。

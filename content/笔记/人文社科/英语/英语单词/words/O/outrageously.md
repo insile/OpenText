@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 粗暴；悍然；令人不能容忍地
+- #词性/adv  粗暴；悍然；令人不能容忍地
 # 例句
 - The newest version of the outrageously fun , smash-hit board game , Cranium ?
 	- 粗暴乐趣的新版本，捣毁击中了棋，头盖骨？

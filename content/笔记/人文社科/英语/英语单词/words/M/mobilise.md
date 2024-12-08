@@ -7,7 +7,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 动员；赋予可动性
+- #词性/v  动员；赋予可动性
 # 例句
 - India is now in a better position to mobilise its forces
 	- 印度现在更有条件动员军队了。

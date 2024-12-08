@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/rɪˌpjuːdɪˈeɪʃən/； 美：/rɪˌpjudiˈeɪʃən/
-- #词性缺失 否认；拒绝；批判；抵赖；拒绝履行
+- #词性/n  否认；拒绝；批判；抵赖；拒绝履行
 # 例句
 - Application of security technology in communications system & A new non repudiation protocol
 	- 通信系统安全技术应用&一种新型非否认协议

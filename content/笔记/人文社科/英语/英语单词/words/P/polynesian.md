@@ -7,7 +7,8 @@ tags:
 ---
 # 词义
 - 英：/ˌpɒlɪˈniːʒən/； 美：/ˌpɑˌlɪˈniʒən/
-- #词性缺失 波利尼西亚人；玻利尼西亚；波里尼西亚；波利尼亚人
+- #词性/n  波利尼西亚人；玻利尼西亚；波里尼西亚；波利尼亚人
+- #词性/adj  波利尼西亚的；波利尼西亚人的
 # 例句
 - Experts say Polynesian people first sailed to Hawaii about two thousand years ago .
 	- 专家说波利尼西亚人最早在两千年前到达这个岛。

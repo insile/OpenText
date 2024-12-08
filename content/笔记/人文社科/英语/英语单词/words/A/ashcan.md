@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 垃圾桶；深水炸弹；阿西看
+- #词性/n  垃圾桶；深水炸弹；阿西看
 # 例句
 - The host see I write not to come out the word , but throw me into ashcan in .
 	- 主人见我写不出来字，而把我扔进了垃圾筒里。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 城市化；城镇化；都市化；城市化过程
+- #词性/n  城市化；城镇化；都市化；城市化过程（等于 urbanization）
 # 例句
 - With urbanisation the antagonism between rich and poor sharpened
 	- 伴随着城市化的推进，贫富间的对立情绪也加剧了。

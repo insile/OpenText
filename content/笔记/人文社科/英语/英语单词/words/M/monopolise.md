@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 垄断；独占
+- #词性/vt  垄断；独占
 # 例句
 - Binhai new zone multinational techonology transfer and monopolise research
 	- 滨海新区跨国公司技术转移与技术垄断博弈研究

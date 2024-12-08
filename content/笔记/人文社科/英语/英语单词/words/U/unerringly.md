@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 无误地；准确地；正确无误的；无过失的；无过失地
+- #词性/adv  无误地；准确地；正确无误的；无过失的；无过失地
 # 例句
 - They are , however , unerringly perceptive of trusting relationships with professionals .
 	- 但他们却是，准确无误地知觉与专业人士的信任关系。

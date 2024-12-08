@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 可感知；可感知的；感知；可知觉的；可感的
+- #词性/adj  可感知；可感知的；感知；可知觉的；可感的
 # 例句
 - This new logo symbolizes a mountain , a metaphor for the challenges and perceivable goals that all athletes must meet and overcome .
 	- 这个新的logo象征着一座大山，一个隐喻的挑战和可感知的目标，这个logo告诉所有的人们必须做好接受挑战的准备，克服一切困难才能达到这个目标。

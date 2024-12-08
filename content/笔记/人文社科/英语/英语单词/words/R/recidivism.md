@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 累犯；再犯；惯犯
+- #词性/n  累犯；再犯；惯犯
 # 例句
 - It needs to supplement the personality factor to confirm the ordinary recidivism .
 	- 在普通累犯成立的条件中，应增加罪犯的人格因素。

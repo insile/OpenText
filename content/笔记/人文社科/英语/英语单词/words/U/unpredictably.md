@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 不可预测地；不可预见地
+- #词性/adv  不可预测地；不可预见地
 # 例句
 - New infectious diseases , such as AIDS and herpes , have unpredictably appeared .
 	- 新的传染病，比如艾滋病和疱疹，已经不可预测地出现了。

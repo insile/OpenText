@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 勇敢；意气
+- #词性/n  勇敢；意气
 # 例句
 - Spiritedness is the central , psychological quality of the Republic .
 	- 意志是《理想国》的核心，与精神质量。

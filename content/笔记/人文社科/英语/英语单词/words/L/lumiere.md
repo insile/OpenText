@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 时光
+- #词性/n  电影时光（专辑名称）；卢米埃（男子名）
 # 例句
 - Lumiere : did you see that ? It 's a girl !
 	- 吕米埃：你看见了吗？是个女孩子哎！

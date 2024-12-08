@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/lɔːˈreɪʃə/； 美：/lɔːˈreɪʃə/
-- #词性缺失 劳拉西亚；劳亚大陆；劳亚古大陆；劳亚古陆
+- #词性/n  劳拉西亚；劳亚大陆；劳亚古大陆；劳亚古陆
 # 例句
 - Those deposits had placed the origin of ants in Laurasia .
 	- 以前那些沉积物将蚂蚁的起源定位在劳拉古陆。

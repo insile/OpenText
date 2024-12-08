@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 叶柄；茎部
+- #词性/n  叶柄；茎部
 # 例句
 - Simple leaf : one blade and one petiole ;
 	- 单叶：一个叶片，一个叶柄；

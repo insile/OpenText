@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 慷慨；包容性
+- #词性/n  慷慨；包容性
 # 例句
 - According to external environment , its impact on the management and control was explored from three dimensions : dynamic , munificence and complex .
 	- 对于外部环境，研究其在动态性、慷慨性和复杂性三个维度上对管控的影响。

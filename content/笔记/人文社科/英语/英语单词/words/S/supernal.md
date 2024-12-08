@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 神圣的；天堂的；非凡的；超凡语
+- #词性/adj  神圣的；天堂的；非凡的；超凡语
 # 例句
 - It has virtue of strong function , supernal efficiency .
 	- 它具有功能强，效率高的优点。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 征服；屈服；镇压；服从；克制
+- #词性/n  征服；屈服；镇压；服从；克制
 # 例句
 - Guardian 's Band of Subjugation now correctly grants universal haste .
 	- 守护者的征服指环现在获得了通用的加速效果。

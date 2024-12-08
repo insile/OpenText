@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 蓝鳍金枪鱼；金枪鱼；蓝鳍；黑鲔
+- #词性/n  蓝鳍金枪鱼；金枪鱼；蓝鳍；黑鲔
 # 例句
 - Daily hauls have already fallen by about 20 per cent due to overfishing , while international quotas on the most valuable tuna varieties , such as southern bluefin , mean captains can no longer target them to maximise revenues .
 	- 由于过度捕捞，目前金枪鱼日渔获量已下降20%左右。同时，针对南方蓝鳍金枪鱼等最为名贵的金枪鱼品种的国际捕捞配额意味着，船主们不能再把目标瞄准它们，以实现收入最大化。

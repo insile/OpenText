@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 省力；节省劳力的；省力化；省工
+- #词性/adj  省力；节省劳力的；省力化；省工
 # 例句
 - Spread and application of laborsaving discharge valve in small-scale reservoir
 	- 省力放水阀在小型水库管理中的推广应用

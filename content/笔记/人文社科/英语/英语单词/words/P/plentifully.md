@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 丰富地；大量地；充足地
+- #词性/adv  丰富地；大量地；充足地
 # 例句
 - Evidence is plentifully available .
 	- 证据俯拾即是。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 不听话的；不顺从的；难教的；难顺服的；难驯服的
+- #词性/adj  不听话的；不顺从的；难教的；难顺服的；难驯服的
 # 例句
 - The student of average middle school is really indocile !
 	- 普通中学的学生真难教啊！

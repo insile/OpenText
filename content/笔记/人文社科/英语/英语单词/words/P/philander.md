@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - #词性/v  玩弄；调戏女人
-- #词性缺失 菲兰德
+- #词性/n  菲兰德
 # 例句
 - He spent his time philander with the girls in the village .
 	- 他把时间花在和村子里的姑娘们调情上了。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 超洁净
+- #词性/adj  化学超净的
 # 例句
 - Theory Study of Light Scattering Measurement Technology on Particulate Contamination under Ultraclean Environment
 	- 超净介质中颗粒状杂质的光散射测试技术的理论研究

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 统治者；统御式
+- #词性/adj  在位的，统治的；占主导地位的；占优势（或主导）的；流行的，广泛的
 # 例句
 - Capitalist private ownership engenders human dissimilation to object , which makes money become the regnant power of society .
 	- 资本主义私有制造成了人对物的异化，使金钱成为社会的统治力量。

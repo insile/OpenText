@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 悠然；悠闲；观自在
+- #词性/n  悠然；悠闲；观自在
 # 例句
 - Leisureliness and Ease & A Comparative Study of Prose Style of the Zhou Brothers
 	- 雍容与洒脱&周氏兄弟散文风格比较

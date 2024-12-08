@@ -174,7 +174,6 @@
 - [ ] [[lust]]
 - [ ] [[luster]]
 - [ ] [[luxurious]]
-- [ ] [[lvory]]
 - [ ] [[lyric]]
 - [ ] [[lyrical]]
 - [ ] [[lyrically]]

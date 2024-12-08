@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈhæmpʃɪə/； 美：/ˈhæmpʃər/
-- #词性缺失 汉普郡；罕布什尔；汉普夏；汉普希尔；汉普夏猪
+- #词性/n  汉普郡；罕布什尔；汉普夏；汉普希尔；汉普夏猪
 # 例句
 - Gas officials are investigating the cause of an explosion which badly damaged a house in Hampshire
 	- 煤气系统的官员正在调查一起瓦斯爆炸的起因，这起事故严重毁坏了汉普郡的一所房屋。

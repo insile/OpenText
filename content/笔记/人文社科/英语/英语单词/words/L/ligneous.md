@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 木质的
+- #词性/adj  木质的
 # 例句
 - All these ligneous plants are imported from Russia .
 	- 这些木本植物都是从俄国进口而来。

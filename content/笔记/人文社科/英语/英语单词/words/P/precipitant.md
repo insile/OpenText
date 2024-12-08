@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 沉淀物；沉淀剂；突然的；勇往直前的
+- #词性/n  沉淀物；沉淀剂
+- #词性/adj  急促的；匆忙的；突如其来的；轻率的
 # 例句
 - Not Manual Method for Adding Precipitant Drop by Drop in Weight Analysis Method
 	- 重量分析法中非手工滴加沉淀剂的一种方法

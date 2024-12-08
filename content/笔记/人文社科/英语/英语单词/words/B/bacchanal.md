@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 酒神；狂欢；酒神节；酒神图；狂饮作乐的人
+- #词性/n  酒神；狂欢；酒神节；酒神图；狂饮作乐的人
+- #词性/adj   酒神的
 # 例句
 - Cleaning up the wreckage left by our250-year industrial bacchanal will require fundamental changes in a society hooked on its fossil fuels .
 	- 要清理过去250年工业的迅速发展所带来的问题，需要整个社会进行根本性的变革，改变目前依赖煤、石油、天然气等矿物燃料的习惯。

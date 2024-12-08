@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˌstændədaɪˈzeɪʃən/； 美：/stændərdɪˈzeɪʃən/
-- #词性缺失 标准化
+- #词性/n  标准化
 # 例句
 - The two tools use slightly different annotations however and so there is a case for standardisation .
 	- 不过，这两个工具使用的注解有细微不同，也因此有了标准化的需求。

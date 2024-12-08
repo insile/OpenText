@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 球状；球形；椭球；椭球体；类似球体的
+- #词性/adj  球状；球形；椭球；椭球体；类似球体的
 # 例句
 - A new cast steel materials with spheroidal graphite has been studied .
 	- 文中研究的是球状石墨铸钢新材料。

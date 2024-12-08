@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 顶呱呱的；幻绝；极出色的
+- #词性/adj  顶呱呱的；幻绝；极出色的
 # 例句
 - It stands for author 's wish for fantabulous love and humanity .
 	- 它寄托了作者渴望美好的爱情与人性的愿望。

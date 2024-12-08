@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 休会
+- #词性/v  休会
 # 例句
 - On my advice , the Governor General has agreed to prorogue Parliament .
 	- 总督采纳了我的建议，同意推迟国会。

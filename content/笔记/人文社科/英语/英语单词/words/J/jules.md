@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/dʒuːlz/； 美：/dʒulz/
-- #词性缺失 朱尔斯；儒勒；朱尔
+- #词性/n  朱尔斯（男子名）；儒勒；朱尔
 # 例句
 - But Jules was not eager for classroom learning , he hungered for adventure .
 	- 但朱尔斯对坐在课堂里学习并不热心，他渴望冒险。

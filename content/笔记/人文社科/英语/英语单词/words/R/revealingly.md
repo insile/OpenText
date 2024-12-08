@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 启发人地
+- #词性/adv  启发人地
 # 例句
 - The event points revealingly to the parallels between biological and commercial competition .
 	- 这一事件揭示出了生物竞争和商业竞争之间的相似性。

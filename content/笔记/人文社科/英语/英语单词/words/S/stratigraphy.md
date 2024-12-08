@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 地层学；地层层序
+- #词性/n  地层学；地层层序
 # 例句
 - Research progress on the application of seismic data in sequence stratigraphy
 	- 地震资料在层序地层学中的应用进展

@@ -7,7 +7,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 线状的；细长的
+- #词性/adj  线状的；细长的
 # 例句
 - Research and improvement on pickup algorithm for threadlike graphs
 	- 线状图形拾取算法的研究与改进

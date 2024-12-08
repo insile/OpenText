@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 兽脚亚目；兽脚类；兽脚亚目恐龙；兽脚亚目的；兽脚类恐龙
+- #词性/n  兽脚亚目；兽脚类；兽脚亚目恐龙；兽脚亚目的；兽脚类恐龙
 # 例句
 - But that does not completely explain the absence of theropod tracks .
 	- 但这并不能完全解释兽脚亚目食肉恐龙的缺位。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 舞蹈的
+- #词性/adj  舞蹈的
 # 例句
 - The mutual infiltration and expatiation between musical and orchestic symbols
 	- 音乐符号与舞蹈符号的互渗互阐

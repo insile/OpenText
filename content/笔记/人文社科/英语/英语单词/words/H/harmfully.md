@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 有害的；有害地
+- #词性/adv  有害地；伤害地
 # 例句
 - Under the action of complex excitation , the structures of the ship often vibrate harmfully .
 	- 在外界复杂的激励源的作用下，船舶结构往往会产生有害振动。

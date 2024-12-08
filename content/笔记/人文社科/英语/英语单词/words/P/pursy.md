@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 肥胖的
+- #词性/adj  肥胖的
 # 例句
 - Results The rate of overweight was 47.3 % , and that of pursy was 7.4 % .
 	- 结果飞行人员体重超重的比例高达47.3%；明显肥胖的飞行人员占7.4%；

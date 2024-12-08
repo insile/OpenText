@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 巫师；咒法师；幻术士；妖术师；咒术师
+- #词性/n  巫师；咒法师；幻术士；妖术师；咒术师
 # 例句
 - The conjurer waved his magic wand .
 	- 那个魔术师挥动魔杖。

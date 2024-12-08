@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 复兴；复活
+- #词性/vi  复兴；复活
 # 例句
 - It is difficult for Central and Southern Europe to resurge in the short term .
 	- 中东欧经济短期内难以东山再起。

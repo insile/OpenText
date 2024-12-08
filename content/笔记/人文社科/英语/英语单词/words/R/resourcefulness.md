@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 智慧；足智多谋；丰富资源；机智
+- #词性/n  智慧；足智多谋；丰富资源；机智
 # 例句
 - On teachers ' educational resourcefulness and its cultivation
 	- 教师的教育机智及其培养

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 整体的；整体性；全面地；整体地
+- #词性/adv  整体论地；整体性；全面地；整体地
 # 例句
 - Program management is a very special type of project management that deals with projects holistically ; while at the same time being knowledgeable about the projects'individual performance .
 	- 计划管理是非常特殊类型的项目管理，它整体地处理项目，同时了解项目的个别表现。

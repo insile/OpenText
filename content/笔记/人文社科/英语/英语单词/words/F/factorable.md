@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 可分解的；可因子化的；可分解因子的
+- #词性/adj  可分解的；可因子化的；可分解因子的
 # 例句
 - Some Sufficient Conditions Factorable Groups are y-groups
 	- 可分解群为y-群的几个充分条件

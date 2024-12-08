@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 切分音
+- #词性/vt  切分音；词中省略，缩写
 # 例句
 - The song have a syncopate rhythm in the Jazz version .
 	- 这首歌曲改编为爵士乐后采用了切分音节奏。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 桶状
+- #词性/adj  肥胖的；桶状的
 # 例句
 - An instrument that measures the outer profile parameters of piston rings such as conical rings , tubbish rings by scanning is introduced .
 	- 介绍一种采用扫描方式测量锥面环、桶面环等活塞环外圆轮廓参数的测量仪。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 色彩鲜艳的；多彩华丽的
+- #词性/adv  色彩鲜艳地；多彩华丽地
 # 例句
 - Many colorfully dressed girls were working in the fields .
 	- 许多穿红戴绿的姑娘在田间劳动。

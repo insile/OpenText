@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 忘恩负义的；忘恩负义的人；忘恩
+- #词性/adj  忘恩负义的，不知感恩的
+- #词性/n  忘恩负义的人；忘恩
 # 例句
 - I will never make friends with such an ingrate again .
 	- 我再也不跟像这样忘恩负义的人做朋友了。

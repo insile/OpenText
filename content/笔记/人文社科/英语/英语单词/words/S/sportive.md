@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 运动的
+- #词性/adj  运动的
 # 例句
 - From the View Point of Herbalism to Investigate Sportive Fatigue and Recovery
 	- 从中医角度看运动性疲劳和恢复

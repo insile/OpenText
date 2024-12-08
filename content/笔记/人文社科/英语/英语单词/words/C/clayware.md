@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 土器
+- #词性/n  土器
 # 例句
 - Technology of making clayware handwork a creator of great skill in the manual arts .
 	- 砂器工艺品的烧制技术在手工艺术方面有很高技艺的创作者。

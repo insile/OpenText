@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 浮雕
+- #词性/n  浮雕
 # 例句
 - The Relievo Display of An Image Using Generalized Fuzzy Operator
 	- 广义模糊算子法用于图象的浮雕显示

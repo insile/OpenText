@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/wel dɪˈzɜːvd/； 美：/wel dɪˈzɜːrvd/
-- #词性缺失 当之无愧；当之无愧的；应得的
+- #词性/adj  当之无愧；当之无愧的；应得的
 # 例句
 - The Park Hotel has a well-deserved reputation .
 	- 帕克旅馆的名声当之无愧。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 杜邦；庞特；蓬特
+- #词性/n  （南非的）缆拉渡船；庞特；蓬特（人名）
 # 例句
 - On Evaluation of Enterprise Performance with Du Pont Financial Analysis System
 	- 应用杜邦财务分析体系对企业进行绩效评价

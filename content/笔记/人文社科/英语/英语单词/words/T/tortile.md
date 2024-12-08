@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 驼色；扭瓣石斛
+- #词性/adj  扭转的，扭曲的；弯曲的
 # 例句
 - Mechanical mould of tortile close framework analysis
 	- 封闭框架扭转力学模型分析

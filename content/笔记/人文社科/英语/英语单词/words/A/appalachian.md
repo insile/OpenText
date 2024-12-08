@@ -7,7 +7,8 @@ tags:
 ---
 # 词义
 - 英：/ˌæpəˈleɪtʃɪən/； 美：/ˌæpəˈleɪtʃən/
-- #词性缺失 阿巴拉契亚山脉；阿巴拉契亚；阿帕拉契亚
+- #词性/n  阿巴拉契亚山脉；阿巴拉契亚；阿帕拉契亚
+- #词性/adj   阿巴拉契亚山脉的
 # 例句
 - In the Appalachian Mountains , ramps have been an important food for a longtime .
 	- 在阿巴拉契亚山脉地区，长期以来北美野韭都是一种重要的食物。

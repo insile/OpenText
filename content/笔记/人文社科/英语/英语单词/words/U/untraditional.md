@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 非传统的
+- #词性/adj  非传统的
 # 例句
 - The new sight of the environment around china : untraditional safe problem
 	- 周边环境新视角：非传统安全问题

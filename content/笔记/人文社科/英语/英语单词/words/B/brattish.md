@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 讨厌的
+- #词性/adj  讨厌的
 # 例句
 - And the brattish whining is distinctly unattractive .
 	- 显然他那些小孩般的抱怨也不讨人喜欢。

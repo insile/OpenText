@@ -7,7 +7,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 前工业化；工业化前的；前工业时代
+- #词性/adj  前工业化；工业化前的；前工业时代
 # 例句
 - Am I suggesting that we should return to the preindustrial mode of production or to nineteenth-century " free enterprise " capitalism ?
 	- 我是否在建议我们应回到工业化前的生产模式或回到十九世纪“自由企业”资本主义时期呢？

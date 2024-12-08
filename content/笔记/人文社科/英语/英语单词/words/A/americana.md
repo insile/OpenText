@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/əˌmerɪˈkɑːnə/； 美：/əˌmerɪˈkɑːnə/
-- #词性缺失 美洲的；美国文物；亚美利加纳
+- #词性/n  美洲的；美国文物；亚美利加纳
 # 例句
 - Study on respiratory system tumor cell cytotoxicity of extracts from periplaneta americana
 	- 美洲大蠊提取物对3株人体呼吸系统肿瘤细胞的细胞毒性研究

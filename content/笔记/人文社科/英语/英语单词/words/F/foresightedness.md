@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 先见之明
+- #词性/n  先见之明
 # 例句
 - The ecological city construction values compensation , lacks foresightedness .
 	- 生态城市建设重补偿，缺乏前瞻性。

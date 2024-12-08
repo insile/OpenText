@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 本体的；本体；实体；实体论；形器
+- #词性/adj  本体的；本体；实体；实体论；形器
 # 例句
 - So government publicity is government ontic being , but not public entity or idiographic publicity .
 	- 因而公共性是政府的实体性存在，而非公共实体和具体的公共性。

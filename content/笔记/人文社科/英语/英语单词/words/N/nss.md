@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 盐雾试验；谈判支持系统；对食盐不敏感
+- #词性/abbr  盐雾试验；谈判支持系统；对食盐不敏感；网络安全系统（Network Security Services）；卫星导航系统（navigation satellite system）
 # 例句
 - The Latest Researching Advance for NSS
 	- 谈判支持系统最新研究进展

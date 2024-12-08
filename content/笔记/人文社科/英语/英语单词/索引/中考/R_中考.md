@@ -74,6 +74,5 @@
 - [ ] [[runner]]
 - [ ] [[rural]]
 - [ ] [[rush]]
-- [ ] [[rusia]]
 - [ ] [[russia]]
 - [ ] [[russian]]

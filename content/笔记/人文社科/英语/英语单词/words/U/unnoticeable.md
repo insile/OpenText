@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 不明显的
+- #词性/adj  不明显的
 # 例句
 - It 's like an agile athlete balancing on one foot : They constantly adjust and realign themselves , but these adjustments are virtually unnoticeable in the context of the performance .
 	- 这就像一只脚平衡的灵活的运动员：他们不断地调整并重新校准自己，但这些调整在性能的情况下实际上是不明显的。

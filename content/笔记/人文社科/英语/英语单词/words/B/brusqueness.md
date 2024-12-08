@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 唐突；无礼
+- #词性/n  唐突；无礼
 # 例句
 - His brusqueness is really rather off-putting .
 	- 他的粗暴无礼实在令人讨厌。

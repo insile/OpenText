@@ -8,4 +8,4 @@
 - [ ] [[kitten]]
 - [ ] [[knife]]
 - [ ] [[know]]
-- [ ] [[kung]]
+- [ ] [[kung fu]]

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 稳定；稳健；稳重；踏实；稳固性
+- #词性/n  稳定；稳健；稳重；踏实；稳固性
 # 例句
 - The cadre quality concerns social steadiness and economic development directly .
 	- 干部素质的高低直接关系到社会的稳定、经济的发展。

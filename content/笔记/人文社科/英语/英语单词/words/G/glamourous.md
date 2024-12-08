@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 魅力；迷人；风华
+- #词性/adj  魅力；迷人；风华
 # 例句
 - They are glamourous , beautiful stones to have wrapped around ones wrist in a bracelet .
 	- 他们是富有魅力的，美丽的宝石有缠在手腕上的手鍊。

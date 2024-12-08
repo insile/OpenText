@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 希克索斯；希克索斯王朝
+- #词性/n  希克索斯；希克索斯王朝
 # 例句
 - Egypt , which had not been closely consolidated before the Hyksos invasion , was now a United country ;
 	- 在希克索斯入侵前未能紧密团结的埃及，现在倒成了一个统一的国家；

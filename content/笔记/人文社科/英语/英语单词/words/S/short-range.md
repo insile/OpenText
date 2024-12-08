@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 短程
+- #词性/adj  短程
 # 例句
 - A quark model calculation for the shortrange contribution in the pion double charge exchange reaction
 	- π-核双电荷交换反应短程贡献的夸克模型计算

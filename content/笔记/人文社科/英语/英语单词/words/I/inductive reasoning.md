@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ɪnˈdʌktɪv ˈriːznɪŋ/； 美：/ɪnˈdʌktɪv ˈriːznɪŋ/
-- #词性缺失 归纳推理；归纳推理能力；归纳法
+- #词性/n  归纳推理；归纳推理能力；归纳法
 # 例句
 - The Base of Infants ' Inductive Reasoning : Perceptional Similarity or Category Concept ?
 	- 幼儿归纳推理的依据：知觉相似性还是类别概念？

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 装载量
+- #词性/n  列车载重；装载量
 # 例句
 - Never mind the wreck of your whole life , never mind that you got railroaded into this place by a whole trainload of bad luck .
 	- 不要老想着自己一生都毁了，不要老想着自己怎么会这么倒霉。

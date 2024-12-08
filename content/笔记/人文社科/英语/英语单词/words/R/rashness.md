@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 鲁莽；轻率；草率；卤莽
+- #词性/n  鲁莽；轻率；草率；卤莽
 # 例句
 - He suddenly realized the rashness of what he had said .
 	- 他突然意识到他出言鲁莽。

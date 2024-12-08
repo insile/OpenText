@@ -469,7 +469,6 @@
 - [ ] [[gristle]]
 - [ ] [[grit]]
 - [ ] [[grizzly]]
-- [ ] [[groa]]
 - [ ] [[groan]]
 - [ ] [[grocer]]
 - [ ] [[grocery]]

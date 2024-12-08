@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 重新包装；重新打包；改装
+- #词性/v  重新包装；重新打包；改装
 # 例句
 - It would involve a delay of about five days in shipment to repack the goods . Total Late Reads is the total number of late read operations since the last time the counter was reset .
 	- 改装此货将使装运期延迟大约五天。延迟读取操作总数是指自上次计数器复位后，所执行的延迟读取操作的总数。

@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/kəˈlʌmbiən/； 美：/kəˈlʌmbiən/
-- #词性缺失 哥伦布
+- #词性/adj  哥伦比亚的；美国的；哥伦布的；美洲的
 # 例句
 - The British Columbian city is consistently voted as one of the most desirable cities in the world to live .
 	- 英国哥伦布市是世界上最适宜居住城市票选排行榜上的常客。

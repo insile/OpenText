@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 海地
+- #词性/n  海地
 # 例句
 - The Church in Haiti has played an important role in the drive towards democracy .
 	- 海地的教会在争取民主的运动中扮演了重要的角色。

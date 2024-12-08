@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈhɑːləm/； 美：/ˈhɑrləm/
-- #词性缺失 哈莱姆；哈勒姆；黑人住宅区
+- #词性/n  哈莱姆；哈勒姆；黑人住宅区
 # 例句
 - I ran straight up to Columbia County , then turned East , came down the Harlem Valley and thence home
 	- 我一直跑到哥伦比亚县，然后向东转，沿着哈勒姆山谷，从那里回到家。

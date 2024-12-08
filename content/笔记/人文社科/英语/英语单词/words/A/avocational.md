@@ -7,7 +7,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 业余爱好的；职业；嗜好的
+- #词性/adj  业余爱好的；职业；嗜好的
 # 例句
 - You might call it an avocational hazard .
 	- 你可以将之称为一心两用的危险。

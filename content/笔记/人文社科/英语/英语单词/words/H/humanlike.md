@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 像人类的；似人类的
+- #词性/adj  像人类的；似人类的
 # 例句
 - The most typical humanlike characteristic of a robot is its arm .
 	- 机器人最具人性化的特点是它的机器臂。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 准确的；真实的；诚实的；诚实
+- #词性/adj  准确的；真实的；诚实的；诚实
 # 例句
 - This technique can show image quickly and veracious ;
 	- 这种技术可以快速而准确的实时显示图像；

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 曼丹；曼丹人
+- #词性/n  曼丹；曼丹人
 # 例句
 - After six months they stopped and built Fort Mandan .
 	- 6个月后，他们停下并建造了曼丹堡。

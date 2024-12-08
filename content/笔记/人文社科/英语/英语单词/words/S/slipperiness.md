@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 打滑；滑溜
+- #词性/n  打滑；滑溜
 # 例句
 - A slipperiness additive to modify the performance of friction LSDs and aid differential break-in .
 	- 阿滑溜添加剂修改摩擦溶和援助差分性能打破项。

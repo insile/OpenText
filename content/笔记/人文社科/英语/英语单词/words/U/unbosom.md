@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 倾诉；吐露心事
+- #词性/vt  吐露；透露
+- #词性/vi  剖明心迹；吐露心事
 # 例句
 - in the country , as a rule , they unbosom themselves to their guests .
 	- 而通常，在乡下，单身汉们向客人敞开心扉。

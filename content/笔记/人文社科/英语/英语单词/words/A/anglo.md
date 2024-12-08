@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈæŋɡləʊ/； 美：/ˈæŋɡloʊ/
-- #词性缺失 英美；盎格鲁；英国人
+- #词性/n  英美；盎格鲁；英国人
 # 例句
 - The distinctions between Latin America and Anglo America are not merely linguistic but also cultural .
 	- 拉丁美洲与盎格鲁美洲不但有不同的语文，还有不同的文化。

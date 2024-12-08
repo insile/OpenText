@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 使可能；加强；增强的；增强
+- #词性/vt  使可能；加强；增强的；增强
 # 例句
 - Conclusion 5-HT could potentiate the intrapulmonary vasoconstrictor response to NA .
 	- 结论5－HT可加强NA对肺内血管的收缩作用；

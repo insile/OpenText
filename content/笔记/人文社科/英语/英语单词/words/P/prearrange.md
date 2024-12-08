@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 预定；预先安排；事先安排
+- #词性/vt  预定；预先安排；事先安排
 # 例句
 - Let us prearrange the new specialedition .
 	- 让我们一起预定燕姿新版唱片。

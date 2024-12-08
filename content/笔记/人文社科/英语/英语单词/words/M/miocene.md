@@ -7,7 +7,8 @@ tags:
 ---
 # 词义
 - 英：/ˈmaɪəʊsiːn/； 美：/ˈmaɪəˌsin/
-- #词性缺失 中新世；中新统；晚中新世；第三纪中新世
+- #词性/n  中新世；中新统；晚中新世；第三纪中新世
+- #词性/adj  第三纪中新世的
 # 例句
 - Both lower and upper overpressure systems formed after Miocene .
 	- 上、下超压系统的形成时间一致，均在中新世以后。

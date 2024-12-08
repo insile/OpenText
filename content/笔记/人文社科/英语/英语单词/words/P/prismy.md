@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 色彩缤纷
+- #词性/adj  棱柱的；棱镜的；五光十色的
 # 例句
 - Direct Forming Method of Manufacture for Prismy Formed Turning Tools Based on WEDM Machine Tools
 	- 基于线切割的棱体成形车刀制造的直接廓形法

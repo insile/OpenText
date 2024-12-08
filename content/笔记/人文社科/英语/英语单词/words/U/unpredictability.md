@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 不可预测性；不可预见性；不确定性；不可预知性
+- #词性/n  不可预测性；不可预见性；不确定性；不可预知性
 # 例句
 - The unpredictability of the real world may bring to the surface a troubling software problem .
 	- 现实世界的不可预测性可能会使一个令人担心的软件问题浮出表面。

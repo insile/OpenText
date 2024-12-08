@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 非传统的；非传统性
+- #词性/adj  非传统的；非传统性
 # 例句
 - Nontraditional Students in American Higher Education : Problems and Countermeasures
 	- 美国高等教育非传统学生：问题与对策

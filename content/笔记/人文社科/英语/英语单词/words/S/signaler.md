@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 信号员
+- #词性/n  信号装置；信号员
 # 例句
 - Help \/ Emergency : Assist the signaler as quickly as possible .
 	- 求救\/紧急情况：救援求救人要尽可能迅速。

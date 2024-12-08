@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 敏捷的；柔软的；柔软
+- #词性/adj  敏捷的；柔软的；柔软
 # 例句
 - His works often present a smart and lissome feeling .
 	- 他的作品通常给人以灵动而轻盈的观感。

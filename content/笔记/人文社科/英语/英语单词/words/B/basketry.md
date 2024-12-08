@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 篮子；篮筐；编制工艺；编织术
+- #词性/n  篮子；篮筐；编制工艺；编织术
 # 例句
 - Traditional maintenance method and basketry of maintenance process cannot meet the need of fast and exact maintenance from customer .
 	- 传统的产品维修方式及其工艺的制定方法已不能适应用户对产品快速、准确维修的要求。

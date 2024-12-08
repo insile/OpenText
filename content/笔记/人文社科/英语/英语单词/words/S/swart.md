@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 斯沃特；斯瓦特；黑的
+- #词性/adj  有害的；恶性的；（诗、文）黝黑的
 # 例句
 - Swart Competition and Countermeasures Development Tendency of Hi - technique Industries and Our Strategies after Joining in WTO
 	- 恶性竞争及其应对策略入世以后高新技术产业发展趋势与应对

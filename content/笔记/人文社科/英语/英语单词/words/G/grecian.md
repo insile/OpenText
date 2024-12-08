@@ -7,7 +7,8 @@ tags:
 ---
 # 词义
 - 英：/ˈɡriːʃn/； 美：/ˈɡriːʃn/
-- #词性缺失 希腊人；希腊式的
+- #词性/adj  希腊人；希腊式的
+- #词性/n  希腊学家；希腊语
 # 例句
 - Sport and Freedom of Grecian ── Impressions after Reading Parts of Hegel 's Historical Philosophy
 	- 体育，希腊人的自由&读黑格尔《历史哲学》片段

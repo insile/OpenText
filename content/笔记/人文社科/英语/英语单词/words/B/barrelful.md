@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 桶装的；一桶之量
+- #词性/n  桶装的；一桶之量
 # 例句
 - Biotech pharmaceuticals require networked intelligence to manage living soups as they flow by the barrelful from one vat to the next .
 	- 生物技术制药则需要一种网络化的智慧来在那些“活体汤”从这桶流到那桶的时候对其进行管理。

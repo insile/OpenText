@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˌmɑːˈseɪ/； 美：/mɑrˈsaɪl/
-- #词性缺失 马赛；马塞；旅游
+- #词性/n  法国马赛市；马塞；旅游
 # 例句
 - On their way back to Marseille they spoke very little
 	- 返回马赛的路上，他们没怎么说话。

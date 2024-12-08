@@ -7,7 +7,8 @@ tags:
 ---
 # 词义
 - 英：/ˌlɪlɪˈpjuːʃn/； 美：/ˌlɪlɪˈpjuːʃn/
-- #词性缺失 小人国；微小的；侏儒；小人
+- #词性/n  小人国；侏儒；小人
+- #词性/adj  微小的；琐碎或琐碎的
 # 例句
 - A very small person ( resembling a Lilliputian ) . Humble Folk & the Strength of Great Britain
 	- 非常小的人（像小人国居民）。小人物&英国的脊梁

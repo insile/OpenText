@@ -588,7 +588,6 @@
 - [ ] [[luxuriant]]
 - [ ] [[luxurious]]
 - [ ] [[luxury]]
-- [ ] [[lvory]]
 - [ ] [[lymphatic]]
 - [ ] [[lynch]]
 - [ ] [[lyric]]

@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 恳求；哀求；祈愿
+- #词性/vt  恳求，哀求；恳请
+- #词性/vi  哀求；恳请；祈求
 # 例句
 - I do not supplicate to women because they find it unattractive .
 	- 我不会向女人恳求，因为那吸引不了她们。

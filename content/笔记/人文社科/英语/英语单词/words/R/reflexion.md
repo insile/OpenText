@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/rɪˈflekʃn/； 美：/rɪˈflekʃn/
-- #词性缺失 反射；反思；思考；反映
+- #词性/n  反射；反思；思考；反映
 # 例句
 - Analysis of Bragg Reflection of Cholesteric Liquid Crystals Using Dynamical Reflexion Theory
 	- 利用动态反射法对手性液晶Bragg反射的分析

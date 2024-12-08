@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 宁静；安宁；平静
+- #词性/n  宁静；安宁；平静
 # 例句
 - He enjoyed the tranquillity of village life .
 	- 他非常享受乡村生活的宁静。

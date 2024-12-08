@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/self 'raɪtʃəsnəs/； 美：/self 'raɪtʃəsnəs/
-- #词性缺失 自以为是；自义；自以为义
+- #词性/n  自以为是；自义；自以为义
 # 例句
 - She visualized him stomping to his car , the picture of self-righteousness
 	- 她想象着他噔噔噔地走向车子，一副自以为是的模样。

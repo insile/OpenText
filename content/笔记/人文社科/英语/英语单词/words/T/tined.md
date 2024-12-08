@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 尖端的；有齿的
+- #词性/adj  尖端的；有齿的
 # 例句
 - She was dead tined at the end of the day 's work .
 	- 一天工作完了，她筋疲力尽。

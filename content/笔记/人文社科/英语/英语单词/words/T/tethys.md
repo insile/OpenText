@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 特提斯；特提斯海；土卫三；古地中海；特提斯洋
+- #词性/n  忒堤斯（希腊神话中十二提坦神之一，海神俄刻阿诺斯的妻子）；土卫三；特提斯海；古地中海
 # 例句
 - An Evolution of Tethys in Global Ocean - continent Transformation
 	- 全球洋－陆转换中的特提斯演化

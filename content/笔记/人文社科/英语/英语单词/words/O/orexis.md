@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 欲望；食欲
+- #词性/n  欲望；食欲
 # 例句
 - Do you feel hungry frequently ? Is orexis bloom a good thing ?
 	- 最近时常感觉饿吗？食欲旺盛是好事吗？

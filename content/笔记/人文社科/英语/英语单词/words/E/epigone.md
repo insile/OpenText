@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 追随者；尾随者
+- #词性/n  追随者；尾随者
 # 例句
 - See business opportunity when everybody so when , the company that we join and their competitor has had certain space , so these companies can be epigone only is not the person that precede .
 	- 这样当大家都看到生意机会的时候，我们所投的公司和它们的竞争对手已经有一定距离了，那么这些公司只能是追随者而不是领先者。

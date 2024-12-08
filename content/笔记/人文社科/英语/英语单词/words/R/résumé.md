@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 简历
+- #词性/n  简历
 # 例句
 - Send them your r é sum é if you want to go for this job .
 	- 如果你想得到这份工作，就寄份简历给他们。

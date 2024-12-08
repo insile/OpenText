@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 充满；充足；充实；吃饱；饱食
+- #词性/n  充满；充足；充实；吃饱；饱食
 # 例句
 - A baby vomits milk from repletion .
 	- 婴儿吃饱会吐奶。

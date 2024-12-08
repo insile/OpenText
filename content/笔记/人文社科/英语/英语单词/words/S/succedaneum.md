@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 替代品；野漆树；替代物
+- #词性/n  替代品；野漆树；替代物
 # 例句
 - As for it also has low working voltage and small power dissipation , it has became the ideal succedaneum of CRT .
 	- 且工作电压低、功耗小，是CRT显示器的理想替代品。

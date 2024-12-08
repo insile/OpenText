@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 永恒；永久的
+- #词性/adj  永恒；永久的
 # 例句
 - The dateless rise and fall of the tides ; time is endless ; sempiternal truth .
 	- 永恒的潮起潮落；时间是无穷的；永恒的真理。

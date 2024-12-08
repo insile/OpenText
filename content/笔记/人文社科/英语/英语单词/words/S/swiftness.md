@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈswɪftnəs/； 美：/ˈswɪftnəs/
-- #词性缺失 迅速；迅捷；快速性；迅速性
+- #词性/n  迅速；迅捷；快速性；迅速性
 # 例句
 - Feline Swiftness – This talent no longer increases your movement speed while prowled .
 	- 豹之迅捷-这个天赋不再增加你在潜行状态下的移动速度。

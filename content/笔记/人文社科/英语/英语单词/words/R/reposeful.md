@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 安定的
+- #词性/adj  安定的；平稳的；沉着的；恬适的
 # 例句
 - Results The long dated curative effect was satisfactory and reposeful .
 	- 结果远期疗效满意、平稳。

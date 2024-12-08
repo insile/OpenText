@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 系统的；系统性；体系的；有组织的；有条不紊的
+- #词性/adj  系统的；系统性；体系的；有组织的；有条不紊的
 # 例句
 - These models is applied in marketing work , but lack of systematical .
 	- 这些模型均是在实际工作中正在加以应用的工具，但是缺乏系统性。

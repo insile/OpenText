@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 低于冰点的
+- #词性/adj  低于冰点的
 # 例句
 - Effects of Subfreezing Storage on the Freshness of Strawberry
 	- 草莓微冻保鲜方法的研究

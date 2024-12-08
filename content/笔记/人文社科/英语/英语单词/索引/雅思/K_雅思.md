@@ -4,4 +4,3 @@
 - [ ] [[kidney]]
 - [ ] [[kindle]]
 - [ ] [[kit]]
-- [ ] [[kung fu]]

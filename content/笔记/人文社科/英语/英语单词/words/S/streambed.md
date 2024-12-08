@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 河床
+- #词性/n  河床
 # 例句
 - A streambed filled with water only in the rainy season .
 	- 只在雨季有水的河床。

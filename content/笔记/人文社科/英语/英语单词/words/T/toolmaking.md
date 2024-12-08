@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 工具制造；机床维修
+- #词性/n  工具制造；机床维修
 # 例句
 - The Vienna-based company says it makes hundreds of different grades of steel for toolmaking .
 	- 这家总部位于维也纳的公司表示，它能生产数百种不同的工具制造用钢。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 霍普韦尔；霍普威尔；霍普维尔
+- #词性/n  霍普韦尔；霍普威尔；霍普维尔
 # 例句
 - Hopewell 's success begs the question : why aren 't more companies doing the same ?
 	- 霍普韦尔的成功让人不禁要问：为什么其他公司不效仿呢？

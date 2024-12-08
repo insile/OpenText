@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 不清晰；未阐明的；不相合
+- #词性/adj  口齿不清的，不善于表达的；表达不连贯的，表达不清晰的；未提及的
 # 例句
 - To express certain emotions , especially mirth , delight , or derision , by a series of spontaneous , usually unarticulated sounds often accompanied by corresponding facial and bodily movements .
 	- 笑为表达某种情感，尤指高兴、快乐或嘲笑而发的一阵自发的，通常是不清晰的声音，并常伴随着脸部和身体的运动。

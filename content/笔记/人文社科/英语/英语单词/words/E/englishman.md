@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈɪŋɡlɪʃmən/； 美：/ˈɪŋɡlɪʃmən/
-- #词性缺失 英国人；英格兰人；英国男人；英吉利人
+- #词性/n  英国人；英格兰人；英国男人；英吉利人
 # 例句
 - Have you heard anything of the other Englishman ?
 	- 你了解另一个英国人的情况吗？

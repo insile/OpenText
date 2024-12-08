@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˌdiː en ˈeɪ/； 美：/ˌdiː en ˈeɪ/
-- #词性缺失 病毒核酸；乙肝病毒脱氧核糖核酸；前病毒；多核苷酸
+- #词性/abbr  病毒核酸；乙肝病毒脱氧核糖核酸；前病毒；多核苷酸
 # 例句
 - Development of a Novel DNA Vaccine Against Japanese Encephalitis Virus
 	- 日本脑炎病毒核酸疫苗的构建及鉴定

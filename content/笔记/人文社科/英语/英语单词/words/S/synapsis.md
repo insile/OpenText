@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 联会；突触；染色体结合；联合；同源染色体联会
+- #词性/n  联会；突触；染色体结合；联合；同源染色体联会
 # 例句
 - The structure is closely related with homologous chromosomes synapsis , recombination and segregation .
 	- 它与同源染色体联会、遗传交换、染色体分离密切相关。

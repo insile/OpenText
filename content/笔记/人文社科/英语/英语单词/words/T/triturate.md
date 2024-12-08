@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 研制；磨碎；粉碎；捣碎
+- #词性/vt  磨碎；把……研成粉末
+- #词性/n  磨碎物
 # 例句
 - Methods : 1 : To triturate the a - interferon suppository and dust it on the wound surface .
 	- 方法：1将α-干扰素研碎均匀撒于糜烂面上。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 警句的；警句；讽刺
+- #词性/adj  警句的；警句；讽刺
 # 例句
 - An epigrammatic Japanese verse form of three short lines .
 	- 由三行短诗构成的警句式的日本诗。

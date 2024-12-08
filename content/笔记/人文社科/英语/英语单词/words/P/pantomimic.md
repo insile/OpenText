@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 哑剧的
+- #词性/adj  哑剧的
 # 例句
 - A large group of folk gestures could be classed as pantomimic & that is , they are an acting out of the intended message .
 	- 还有许多可归类为哑剧性动作，即借表演来传达信息。

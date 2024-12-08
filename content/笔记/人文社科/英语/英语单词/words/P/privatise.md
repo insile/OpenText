@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 私有化
+- #词性/v  私有化
 # 例句
 - A particular source of contention is plans to privatise state-run companies .
 	- 发生争执的一个根源就是国营公司的私有化方案。

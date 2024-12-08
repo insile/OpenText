@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 狼吞虎咽；贪吃
+- #词性/n  狼吞虎咽；贪吃
+- #词性/v  狼吞虎咽
 # 例句
 - I want to eat till I am full , I want to drink my fill ! to gormandize ! to sleep ! to do nothing !
 	- 我要吃个够，喝个痛快！塞饱，睡足，什么事也不做！

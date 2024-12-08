@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 反常；邪恶；性变态；刚愎自用；刚愎
+- #词性/n  反常；邪恶；性变态；刚愎自用；刚愎
 # 例句
 - It is not a perversity nowadays for a girl to have a crew cut .
 	- 现在女孩子剪平头并非是种反常的行为。

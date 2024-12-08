@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 朱厄特
+- #词性/n  朱厄特（姓氏）
 # 例句
 - The desirability of cooperative catalogues was seen by Jewett in the USA and the Kenyon Committee in britain .
 	- 美国的朱厄特和英国的凯尼恩委员会早已看出了合作编目的必要性。

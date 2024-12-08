@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 虔诚地；要恭敬；虔诚；虔诚的；虔敬地
+- #词性/adv  虔诚地；要恭敬；虔诚；虔诚的；虔敬地
 # 例句
 - Rather than talking about his work or his evolution as a writer , he spoke reverently about a room where he keeps his collection of old paperbacks , and what those books mean to him .
 	- 他没有谈起自己的作品或写作的演化，而是虔诚地谈起自己用来收藏老旧平装书的屋子，以及那些书籍对于他的意义。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 有目的的；目的性；合目的性
+- #词性/n  有目的的；目的性；合目的性
 # 例句
 - And the formal purposiveness is an analogy of the real one .
 	- 而形式上的主观合目的性，是类比于实在的合目的性提出的。

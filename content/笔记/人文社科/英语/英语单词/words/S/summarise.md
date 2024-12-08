@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 总结；概括；概述；汇总
+- #词性/vt  总结；概括；概述；汇总（等于 summarize）
 # 例句
 - Find more than one way of getting your point across and summarise frequently .
 	- 不要只用一种说法来表达自己的意思，同时要经常进行总结。

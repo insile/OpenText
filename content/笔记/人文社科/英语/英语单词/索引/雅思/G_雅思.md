@@ -53,7 +53,6 @@
 - [ ] [[grimy]]
 - [ ] [[grin]]
 - [ ] [[grit]]
-- [ ] [[groa]]
 - [ ] [[grope]]
 - [ ] [[grove]]
 - [ ] [[growl]]

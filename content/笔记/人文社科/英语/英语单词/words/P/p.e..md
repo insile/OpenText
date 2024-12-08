@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 体育；专业工程师
+- #词性/abbr  体育；专业工程师
 # 例句
 - So why does Kelly love P.E. class .
 	- 凯莉为什么喜欢体育课。

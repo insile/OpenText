@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 对流层；对流层的
+- #词性/adj  对流层；对流层的
 # 例句
 - Research of Tropospheric Delay Model and Applications Based on the GPS Data Processing
 	- 对流层延迟改正在GPS数据处理中的应用与研究

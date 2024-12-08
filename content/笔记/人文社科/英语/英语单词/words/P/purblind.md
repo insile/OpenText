@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 半盲；有眼无珠
+- #词性/adj  半盲的；有眼无珠的
 # 例句
 - Even his most purblind supporters knows this is nonsense .
 	- 即使他最愚蠢的支持者也知道这是无稽之谈。

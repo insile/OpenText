@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/trænsˈgrɛʃən/； 美：/trænzˈgrɛʃən/
-- #词性缺失 过犯；违反；犯罪；侵犯；逾越；越界
+- #词性/n  过犯；违反；犯罪；侵犯；逾越；越界
 # 例句
 - A transgression of law ; a crime .
 	- 违法违反法律；

@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/stəˈnɒɡrəfi/； 美：/stəˈnɑːɡrəfi/
-- #词性缺失 速记；速记学；速记, 速记法
+- #词性/n  速记；速记学；速记, 速记法
 # 例句
 - This job necessitated a knowledge of stenography and typewriting , which she soon acquired .
 	- 这工作需要会速记和打字，她不久便学会了。

@@ -7,7 +7,8 @@ tags:
 ---
 # 词义
 - 英：/ˌsʌbˈsɜːfɪs/； 美：/ˈsʌbˌsɜrfəs/
-- #词性缺失 地下；地下的；次表面；次表层；亚表面
+- #词性/n  地下；次表面；次表层；亚表面
+- #词性/adj  地下的；表面下的
 # 例句
 - Magnetic-particle inspection uses magnetic fields to locate surface and subsurface discontinuities in ferromagnetic materials .
 	- 磁粉探伤法是用磁场探测铁磁性材料表面和次表面的不连续性。

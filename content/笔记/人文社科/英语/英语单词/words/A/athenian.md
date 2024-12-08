@@ -7,7 +7,8 @@ tags:
 ---
 # 词义
 - 英：/əˈθiːnjən/； 美：/əˈθiniən/
-- #词性缺失 雅典人；雅典；雅典的
+- #词性/n  雅典人；雅典；
+- #词性/adj  雅典的
 # 例句
 - An Athenian and a Theban were on the road together , and passed the time in conversation , as is the way of travelers .
 	- 一个雅典人和一个底比斯人一同走在路上，就像其他旅行者一样，他们用聊天来打发时间。

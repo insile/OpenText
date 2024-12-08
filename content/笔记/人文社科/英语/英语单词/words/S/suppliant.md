@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 恳求者；哀求者；恳求；哀求的
+- #词性/n  恳求者；哀求者；恳求
+- #词性/adj  哀求的
 # 例句
 - He asked for help in a suppliant attitude .
 	- 他以恳求的态度要我帮忙。

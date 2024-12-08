@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 利己的；自我中心的；自大的
+- #词性/adj  利己的；自我中心的；自大的
 # 例句
 - Under some conditions , altruistic individuals are more apt to evolve than those egoistical individuals .
 	- 在某些情况下，利他的个体比利己的个体更有利于自身的进化。

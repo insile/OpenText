@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 思考；思想
+- #词性/n  思考；思想
 # 例句
 - Consciousness or cerebration has been said to have emerged in the evolution of higher primates .
 	- 据说意识或思考在较高级灵长类的进化中已出现。

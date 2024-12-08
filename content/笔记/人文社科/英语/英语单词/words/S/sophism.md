@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 诡辩
+- #词性/n  诡辩
 # 例句
 - I wasn 't taken in by his sophism .
 	- 我没有被他的诡辩骗倒。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 惩罚的；报应；报应性
+- #词性/adj  惩罚的；报应；报应性
 # 例句
 - Retributive Theory in Zhi Yuan 's Buddhism Ideology
 	- 智圆佛学思想中的报应论

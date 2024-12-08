@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 反射；走遍法国；倒影效果制作
+- #词性/n  反射；走遍法国；倒影效果制作
 # 例句
 - In Warwickshire , they have put up deer mirrors on top of posts along roads , to reflet oncoming headlights into deer and frighten them back into the woods .
 	- 在沃里克郡，人们专门在路边竖立起照鹿镜，以便把来往车辆的车灯反射出去，将鹿吓回树林中去。

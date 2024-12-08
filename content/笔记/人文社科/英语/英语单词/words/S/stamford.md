@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈstæmfəd/； 美：/ˈstæmfərd/
-- #词性缺失 斯坦福德
+- #词性/n  斯坦福德
 # 例句
 - He said the free spending at Stamford Bridge would not last for ever .
 	- 他还说，在斯坦福桥随便花钱的情形不会一直持续。

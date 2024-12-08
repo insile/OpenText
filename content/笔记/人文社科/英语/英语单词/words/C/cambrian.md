@@ -7,7 +7,8 @@ tags:
 ---
 # 词义
 - 英：/ˈkæmbriən/； 美：/ˈkæmbriən/
-- #词性缺失 寒武纪的；寒武系
+- #词性/adj  寒武纪的，寒武系岩的；威尔士的
+- #词性/n  威尔士人；寒武纪（或系）
 # 例句
 - Recent advances in the study of the Cambrian in Henan Province
 	- 河南省寒武系研究进展

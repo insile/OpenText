@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 简洁的；简洁；简洁地；简明地；简练
+- #词性/adv  简洁的；简洁；简洁地；简明地；简练
 # 例句
 - In other words , you need to succinctly state what your application does .
 	- 换句话说，您需要简洁地描述应用程序完成的工作。

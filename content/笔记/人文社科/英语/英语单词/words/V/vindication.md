@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 辩护；证实；辩白；辩证
+- #词性/n  辩护；证实；辩白；辩证
 # 例句
 - Glance on the current system of vindication in China
 	- 我国现行辩护制度管窥

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 矿化；使矿化；矿化作用；矿物化
+- #词性/v  矿化；使矿化；矿化作用；矿物化
 # 例句
 - The photocatalytic process can mineralize the hazardous organic chemicals to carbon dioxide , water and simple mineral acids .
 	- 光催化能够使有害有机物发生矿化作用生成二氧化碳、水和简单的矿物酸。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 嵌合的；空想的；荒诞的；荒诞不经的；不现实,空想
+- #词性/adj  嵌合的；空想的；荒诞的；荒诞不经的；不现实,空想
 # 例句
 - His Utopia is not a chimerical commonwealth but a practical improvement on what already exists .
 	- 他的乌托邦不是空想的联邦，而是对那些已经存在的联邦事实上的改进。

@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/səˌvaɪvəˈbɪlɪti/； 美：/sərˌvaɪvəˈbɪlɪti/
-- #词性缺失 存活率；生存性；生命力；可生存性
+- #词性/n  存活率；生存性；生命力；可生存性
 # 例句
 - Lung cancer is the cancer with the highest mortality rate , early diagnosis can significantly improve the patients ' survivability .
 	- 肺癌是死亡率最高的癌症，对肺癌的早期诊断能极大提高患者的存活率。

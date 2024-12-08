@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 音乐学家；音乐学者；音乐理论家
+- #词性/n  音乐学家；音乐学者；音乐理论家
 # 例句
 - By his second wife , Julie Anne , also a musicologist , he had a son and daughter .
 	- 他的第二任妻子叫茱莉·安妮，也是一位音乐学家，与萨迪有一个儿子和一个女儿。

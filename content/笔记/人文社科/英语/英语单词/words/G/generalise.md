@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 概括；归纳
+- #词性/v  概括；归纳
 # 例句
 - It is inadvisable to generalise from the results of a single experiment .
 	- 就单个实验的结果进行概括是不明智的。

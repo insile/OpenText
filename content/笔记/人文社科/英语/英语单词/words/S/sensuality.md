@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 性感；感性；好色；感觉性；喜爱感官享受
+- #词性/n  性感；感性；好色；感觉性；喜爱感官享受
 # 例句
 - Second , aesthetic transcendence of sensuality and rationality .
 	- 第二，审美足对感性、理性的双重超越。

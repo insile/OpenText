@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 布鲁斯特；布儒斯特角；布鲁斯特角；布儒斯特；布鲁斯特墙纸
+- #词性/n  布鲁斯特；布儒斯特角；布鲁斯特角；布儒斯特；布鲁斯特墙纸
 # 例句
 - Thank you also for being interested in Brewster products .
 	- 另外也感谢您对布鲁斯特产品的兴趣。

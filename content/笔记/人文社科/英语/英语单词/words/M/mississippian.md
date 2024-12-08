@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 密西西比；密西西比纪
+- #词性/n  密西西比；密西西比纪
+- #词性/adj  密西西比河的；密西西比州的
 # 例句
 - Computer methods for analysis of reservoir heterogeneity : example from a lower Mississippian oil field in West Virginia
 	- 储集层非均质性分析的计算机方法：以西弗吉尼亚州下密西西比系油田为例

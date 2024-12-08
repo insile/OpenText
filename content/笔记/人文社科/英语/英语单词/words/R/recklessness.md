@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 鲁莽；轻率；不顾一切；粗心大意；大意
+- #词性/n  鲁莽；轻率；不顾一切；粗心大意；大意
 # 例句
 - If her manner was still harsh , recklessness had tempered it .
 	- 她的态度，如果仍然未改尖酸刻薄，那么轻率则使其不那么厉害了。

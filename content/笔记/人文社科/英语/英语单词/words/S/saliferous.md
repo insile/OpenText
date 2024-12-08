@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 含盐的；盐渍化的；产盐的
+- #词性/adj  含盐的；盐渍化的；产盐的
 # 例句
 - For these bright spots and the low velocity-high conductivity layer , there are still two kinds of understandings and opinions : one is saliferous supercritical fluid ;
 	- 人们对这些亮点和低速高导层有两种不同的解释和认识：一种认为是含盐的超临界流体；

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 诏书；抄件；黄榜
+- #词性/n  诏书；抄件；黄榜
 # 例句
 - In the decades up to the end of the second world war , children were forced to memorise the rescript and recite it , word for word , before a portrait of the emperor .
 	- 直到二战结束的数十年间，儿童被强制记忆诏书并要求在天皇的肖像前逐字逐句的背诵。

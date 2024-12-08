@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 可尼斯；海滨大道；滨海路；险路；滨海
+- #词性/n  可尼斯；海滨大道；滨海路；险路；滨海
 # 例句
 - Strolling along the Corniche in Beirut .
 	- 贝鲁特，沿着险路散步的人们。

@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 粉碎
+- #词性/vt  粉碎，磨碎；彻底打败（pulverize 的英式拼写）
+- #词性/vi  研磨；使……成粉末；变成尘埃（pulverize 的英式拼写）
 # 例句
 - He is set to pulverise his two opponents in the race for the presidency .
 	- 他决心在总统竞选中彻底击垮他的两个对手。

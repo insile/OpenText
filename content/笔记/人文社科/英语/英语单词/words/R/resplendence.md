@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 辉煌
+- #词性/n  辉煌
 # 例句
 - Blue Sky : The Resplendence of China Civilization Once Again
 	- 蔚蓝色：中华文明的再度辉煌

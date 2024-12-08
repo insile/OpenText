@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 可靠地
+- #词性/adv  可靠地
 # 例句
 - No matter how attractive they look in the store , once I get them home they 're unfailingly dry , hard , and tasteless .
 	- 不管他们在商店里看起来有多吸引人,一旦我把他们带回家,他们就永远是干的,硬的,无味的。

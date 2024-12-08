@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈsəʊlə(r) ˈpaʊəd/； 美：/ˈsoʊlər ˈpaʊərd/
-- #词性缺失 太阳能；太阳能的；太阳能动力的；由太阳能驱动的
+- #词性/adj  太阳能；太阳能的；太阳能动力的；由太阳能驱动的
 # 例句
 - English engineers Dick and Jem designed a solar-powered water taxi .
 	- 英国工程师迪克和杰姆设计了一种太阳能水上出租车。

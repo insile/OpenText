@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 报道的；记者的
+- #词性/adj  报道的；记者的
 # 例句
 - Proposal on word count of reportorial abstract Q & A on Sex
 	- 关于报道性摘要字数的建议

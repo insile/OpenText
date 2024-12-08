@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 可出租的
+- #词性/adj  可出租的
 # 例句
 - Feasibility study on rentable battery in University
 	- 高校电池租赁可行性研究

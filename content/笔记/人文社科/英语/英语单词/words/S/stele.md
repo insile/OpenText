@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 石碑；中柱；碑石；石柱
+- #词性/n  石碑；中柱；碑石；石柱
 # 例句
 - The tissues of the stele and cortex are derived from the corpus .
 	- 中柱和皮层组织就是来源于原体。

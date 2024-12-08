@@ -61,7 +61,6 @@
 - [ ] [[taxonomy]]
 - [ ] [[teat]]
 - [ ] [[technocrat]]
-- [ ] [[tecnology]]
 - [ ] [[tedium]]
 - [ ] [[teem]]
 - [ ] [[teeter]]

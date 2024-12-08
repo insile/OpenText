@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 自夸
+- #词性/n  自夸
 # 例句
 - In Britain , by contrast , we love self-deprecation and hate conceit and boastfulness characteristics that might be seen as self-confidence across the Atlantic .
 	- 相比之下，我们英国人崇尚自谦，讨厌骄傲和自夸，而在美国，骄傲和自夸可能被视为自信。

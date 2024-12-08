@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈfrɔɪdiən/； 美：/ˈfrɔɪdiən/
-- #词性缺失 弗洛伊德；弗洛伊德的；佛洛伊德；弗洛伊德学派
+- #词性/adj  弗洛伊德；弗洛伊德的；佛洛伊德；弗洛伊德学派的
 # 例句
 - The Freudian theory about daughters falling in love with their father has little evidence to support it .
 	- 弗洛伊德关于女儿恋父的理论缺乏依据。

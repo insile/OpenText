@@ -7,7 +7,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 石化；石化作用；僵化；石化现象；化石
+- #词性/n  石化；石化作用；僵化；石化现象；化石
 # 例句
 - The Design and Implementation of the Information System Security of China Petrifaction Engineering Corporation
 	- 中国石化工程公司信息系统安全设计与实施

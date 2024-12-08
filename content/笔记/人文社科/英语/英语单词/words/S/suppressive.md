@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 抑制的；压制；镇压的；抑制性
+- #词性/adj  抑制的；压制；镇压的；抑制性
 # 例句
 - Study of inhibitory effects of cancer suppressive factors on solid tumor in mice
 	- 抑癌因子对小鼠实体瘤生长抑制作用的研究

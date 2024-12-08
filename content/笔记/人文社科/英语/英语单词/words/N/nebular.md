@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 星云；云状的
+- #词性/adj  星云；云状的
 # 例句
 - Ultraviolet radiation from the hot star powers the nebular glow .
 	- 热恒星的紫外辐射使星云发光。

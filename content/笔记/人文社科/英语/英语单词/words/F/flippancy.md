@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 轻率；浮躁；轻浮
+- #词性/n  轻率；浮躁；轻浮
 # 例句
 - Warm touted by the media ," Bo 's theory " is not an isolated incident , in essence it reveals the flippancy of Chinese forest circles .
 	- 被媒体超常吹捧的“柏理论”不是一个孤立的事件，它昭示着多种歪风邪气，在本质上揭示了中国林业界浮躁的心态。

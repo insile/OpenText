@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 横纹肌；纹状的；横纹；有条纹的
+- #词性/adj  横纹肌；纹状的；横纹；有条纹的
 # 例句
 - Normal striated muscle cut and muscular septal structure were found .
 	- 表现为正常横纹肌切面和肌间隔结构。

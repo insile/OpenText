@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 人迹罕至；冷落；荒僻的
+- #词性/adj  人迹罕至；冷落；荒僻的
 # 例句
 - Comparing with the Western " Narrative ", what they caught was the unfrequented part Narrative action .
 	- 与西方的Narrative相比，他们抓住的是其中备受冷落的部分&叙述行为。

@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/njuːˈkleɪɪk/； 美：/nuˈkleɪɪk/
-- #词性缺失 核酸；核的
+- #词性/adj  核酸；核的
 # 例句
 - Those from domestic low-risk areas do not have to provide negative nucleic acid test result while arriving in Beijing ;
 	- 国内低风险地区人员进京不再查验核酸阴性证明；

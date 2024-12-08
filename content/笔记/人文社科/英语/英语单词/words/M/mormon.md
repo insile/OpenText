@@ -7,7 +7,8 @@ tags:
 ---
 # 词义
 - 英：/ˈmɔːmən/； 美：/ˈmɔːrmən/
-- #词性缺失 摩门教徒；摩门教；摩门教的
+- #词性/n  摩门教徒；摩门教
+- #词性/adj  摩门教的
 # 例句
 - In 1887 Congress passed a law to dissolve the Mormon church .
 	- 国会于1887年通过了一项解散摩门教的法案。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 贪婪；贪食；贪婪圣契；暴食
+- #词性/n  贪婪；贪食；贪婪圣契；暴食
 # 例句
 - He ate with the voracity of a starving man .
 	- 他饿鬼似的贪婪地吃着。

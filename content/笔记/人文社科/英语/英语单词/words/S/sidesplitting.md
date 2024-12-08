@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 令人捧腹大笑的...；令人捧腹大笑的
+- #词性/adj  令人捧腹大笑的...；令人捧腹大笑的
 # 例句
 - This is a very sidesplitting story .
 	- 这是一个让人捧腹大笑的故事。

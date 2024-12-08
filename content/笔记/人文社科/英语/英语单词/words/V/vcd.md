@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 录像机；歌曲；香港版
+- #词性/abbr  视频高密光盘（Video Compact Disc）；歌曲；香港版
 # 例句
 - Do you have some VCD of Chinese movies ?
 	- 您这儿卖中国电影的激光视盘吗？

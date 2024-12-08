@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 紫荆；紫荆花；美国紫荆
+- #词性/n  紫荆；紫荆花；美国紫荆
 # 例句
 - The Study of Paper Dying of the Natural Pigment from Flower of Chinese Redbud
 	- 天然紫荆花色素制取彩色包装纸的研究

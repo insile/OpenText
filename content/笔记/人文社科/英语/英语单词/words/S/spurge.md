@@ -7,7 +7,8 @@ tags:
 ---
 # 词义
 - 英：/spɜːdʒ/； 美：/spɜrdʒ/
-- #词性缺失 大戟科；大戟；大戟属；大戟属植物；红乳草
+- #词性/n  大戟科；大戟；大戟属；大戟属植物；红乳草
+- #词性/adj  大戟科的
 # 例句
 - An ornamental European spurge ( Euphorbia lathyris ) having a latex considered to be a potential source of hydrocarbons that can be converted into fuel .
 	- 一种装饰性欧洲大戟植物（续随子大戟属），它所含的一种乳液据认为是一种潜在的碳氢化合物的来源，可转化成燃料。

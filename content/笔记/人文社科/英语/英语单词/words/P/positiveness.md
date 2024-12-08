@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 正向；信心；积极性；自信；实证性
+- #词性/n  正向；信心；积极性；自信；实证性
 # 例句
 - Compared with culture , civilization has characteristics of positiveness , universality and integrity in nature .
 	- 与文化比较而言，文明具有积极性、普适性和整体性的特点。

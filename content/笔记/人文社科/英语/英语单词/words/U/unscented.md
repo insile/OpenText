@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˌʌnˈsɛntɪd/； 美：/ʌnˈsɛntɪd/
-- #词性缺失 无味；无香味；无香；无香型
+- #词性/adj  无味；无香味；无香；无香型
 # 例句
 - Application research of the unscented Kalman filter in thermal balance test
 	- 无味卡尔曼滤波在热平衡试验中的应用研究

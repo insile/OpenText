@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 有形的；明确的；有形地；明白地
+- #词性/adv  有形的；明确的；有形地；明白地
 # 例句
 - But it may not contribute tangibly to increasing team productivity or the measurable quality of software work products .
 	- 但它可能没有确实地对团队生产力或者软件工作产品的可度量的质量的增加做出贡献。

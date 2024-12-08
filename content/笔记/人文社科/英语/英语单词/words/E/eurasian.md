@@ -7,7 +7,8 @@ tags:
 ---
 # 词义
 - 英：/juˈreɪʒn/； 美：/juˈreɪʒn/
-- #词性缺失 欧亚；亚欧；欧亚混血人；欧亚人；欧亚混血儿
+- #词性/n  欧亚；亚欧；欧亚混血人；欧亚人；欧亚混血儿
+- #词性/adj  欧亚的；欧亚人的
 # 例句
 - The border between the N American and Eurasian Plates does not subduct .
 	- 北美板块和欧亚板块之间的边界地区不会俯冲潜没，也不会滑动

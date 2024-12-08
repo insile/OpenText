@@ -7,7 +7,8 @@ tags:
 ---
 # 词义
 - 英：/baɪˈzæntaɪn/； 美：/ˈbɪzəntiːn/
-- #词性缺失 拜占庭；拜占庭式；拜占廷；拜占庭人；东罗马帝国
+- #词性/n  拜占庭；拜占庭式；拜占廷；拜占庭人；东罗马帝国
+- #词性/adj  拜占庭式的
 # 例句
 - The images were Gothic or Byzantine rather than classical .
 	- 这些形象属哥特式或者拜占庭式而非古典式。

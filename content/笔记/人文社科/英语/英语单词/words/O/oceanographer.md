@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 海洋学家；海洋学者
+- #词性/n  海洋学家；海洋学者
 # 例句
 - If that doesn 't capture the magnitude of this search , than imagine what one oceanographer described for us .
 	- 如果你还是丈二和尚摸不着头脑不清楚这次搜救功能的困难之处，那就想象海洋学家曾为我们描述过的。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 来世的；超脱尘俗的；超脱尘世的；修来世的；另一世界
+- #词性/adj  来世的；超脱尘俗的；超脱尘世的；修来世的；另一世界
 # 例句
 - They encourage an image of the region as an otherworldly sort of place .
 	- 他们想将这个地区打造成世外桃源。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 运动；移动；移动的
+- #词性/n  运动；移动；有运动力之物或人
 # 例句
 - United Simulation of Scene and Dynamics for Large Locomotor Mechanism
 	- 大型运动机构的视景与动力学联合仿真

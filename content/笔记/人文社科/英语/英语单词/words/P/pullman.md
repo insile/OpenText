@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈpʊlmən/； 美：/ˈpʊlmən/
-- #词性缺失 铂尔曼；普尔曼；普尔门；丽江铂尔曼度假酒店；普曼
+- #词性/n  铂尔曼；普尔曼；普尔门；丽江铂尔曼度假酒店；普曼
 # 例句
 - This private space is especially designed for you , offering all of Pullman 's unique meeting benefits .
 	- 这样的专属空间，是铂尔曼品牌酒店独有的会议配套服务。

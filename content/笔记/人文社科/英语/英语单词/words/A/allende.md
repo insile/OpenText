@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 阿连德；阿言德；阿叶德
+- #词性/n  阿连德；阿言德；阿叶德
 # 例句
 - A victory for Allende would imperil our interests in the western hemisphere .
 	- 阿连德一旦获胜，就将危及我们在西半球的利益。

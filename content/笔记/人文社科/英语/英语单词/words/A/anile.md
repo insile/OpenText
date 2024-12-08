@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 衰老
+- #词性/adj  衰老的
 # 例句
 - Harm : long-term and hollow take candy , can make the person becomes anile , as a result shortens life .
 	- 危害：长期空腹吃糖，可使人变得衰老，以致缩短寿命。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 陨石的；陨石；陨星的
+- #词性/adj  陨石的；陨石；陨星的
 # 例句
 - Research progress in mineralogy of meteorite groups and meteoritic mineral list
 	- 陨石矿物种类的研究进展和矿物表

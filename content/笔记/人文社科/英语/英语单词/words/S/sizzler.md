@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 时时乐餐厅；时时乐；大热天；时时乐君太店
+- #词性/n  时时乐餐厅；时时乐；大热天；炎热天；极烫的东西
 # 例句
 - So where we going , House of pancakes or The Sizzler ?
 	- 我们去哪吃饭，薄饼屋还是时时乐自助？

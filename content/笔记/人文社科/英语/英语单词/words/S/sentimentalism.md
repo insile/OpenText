@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 感伤主义；伤感主义；感情主义；伤感滥情；情主义
+- #词性/n  感伤主义；伤感主义；感情主义；伤感滥情；情主义
 # 例句
 - This is a novel reeking with sentimentalism .
 	- 这是一本充满着感伤主义的小说

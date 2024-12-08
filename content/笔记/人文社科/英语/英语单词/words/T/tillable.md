@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 可耕作的
+- #词性/adj  可耕作的
 # 例句
 - Relationship between consumption of tillable field and economy growth
 	- 耕地资源消费与经济增长相关性探析

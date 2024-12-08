@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 胚胎学的；胚胎的
+- #词性/adj  胚胎学的；胚胎的
 # 例句
 - Consideration on reform for histological and embryological teaching contents on eight-year program medical students
 	- 对八年制医学生组织胚胎学教学内容改革的思考

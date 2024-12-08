@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 可氧化的；可氧化；可氧化态
+- #词性/adj  可氧化的；可氧化；可氧化态
 # 例句
 - The speciation of Pb in the Pb contaminated soil were residual oxidizable reducible acid extractable .
 	- 原位Pb污染土壤中Pb的存在形态表现为：残渣态可氧化态可还原态弱酸提取态。

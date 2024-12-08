@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 教条主义者
+- #词性/n  教条主义者
 # 例句
 - I wonder if you realize that , you dogmatist .
 	- 我不知道你是否意识到这一点，你这个教条主义者。

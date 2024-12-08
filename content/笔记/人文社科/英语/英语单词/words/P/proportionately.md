@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 按比例；成比例的；成比例地；均衡的；相应地；比例式
+- #词性/adv  按比例；成比例的；成比例地；均衡的；相应地；比例式
 # 例句
 - Marine mammals can take in more air with each breath , as their lungs are proportionately larger than those in humans .
 	- 由于海洋哺乳动物的肺成比例地大于人类，所以每次呼吸时它们能吸进更多的空气。

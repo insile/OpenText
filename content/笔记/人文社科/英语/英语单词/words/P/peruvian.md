@@ -7,7 +7,8 @@ tags:
 ---
 # 词义
 - 英：/pəˈruːviən/； 美：/pəˈruːviən/
-- #词性缺失 秘鲁；秘鲁人；秘鲁的
+- #词性/n  秘鲁；秘鲁人；
+- #词性/adj  秘鲁的；秘鲁人的
 # 例句
 - 300 tons of Peruvian mangoes were kept from entering France .
 	- 300吨秘鲁芒果被禁止进入法国。

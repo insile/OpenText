@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 热情的；灿烂；兴致很高的
+- #词性/adj  热情的；灿烂；兴致很高的
 # 例句
 - This zesty and refreshing wine offers a freshly cut grass nose , herbaceous green bean .
 	- 这款爽口的葡萄酒引出绿豆般清新的香气

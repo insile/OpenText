@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 杜氏
+- #词性/n  杜氏营养不良症
 # 例句
 - A study on the gene deletions in the Chinese Duchenne muscular dystrophy patients
 	- 中国人杜氏肌营养不良症患者基因缺失的研究

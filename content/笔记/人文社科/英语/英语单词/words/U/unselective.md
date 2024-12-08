@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 非选择性的
+- #词性/adj  非选择性的
 # 例句
 - ( iv ) the alkyl radical formed upon H-Ab from alkane by metal oxo can be quickly rebounded to the nearby oxygen , greatly prohibiting the unselective radical-chain reactions .
 	- （ⅳ）H在端氧脱除后，产生的烷基自由基能迅速地同近邻的氧原子复合（“rebound”），从而很大程度上避免了非选择性的自由基链式反应。

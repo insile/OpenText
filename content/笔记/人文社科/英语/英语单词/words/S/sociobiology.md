@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 社会生物学；生物社会学
+- #词性/n  社会生物学；生物社会学
 # 例句
 - Research on Networks of Enterprises : Viewpoint from Sociobiology
 	- 企业网络研究：社会生物学视角

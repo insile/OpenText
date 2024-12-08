@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 土质；质朴；土味
+- #词性/n  土质；质朴；土味
 # 例句
 - The Engineering Practice of Highwall Slope Father in Complex Earthiness
 	- 复杂土质高边坡治理的工程实践

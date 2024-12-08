@@ -7,7 +7,8 @@ tags:
 ---
 # 词义
 - 英：/ˈtɜːkɪk/； 美：/ˈtɜrkɪk/
-- #词性缺失 突厥语；突厥；突厥语族；土耳其；土耳其语
+- #词性/n  突厥语；突厥；突厥语族；土耳其；土耳其语
+- #词性/adj  突厥语的；突厥民族的
 # 例句
 - Five Basic Laws of Sound Changes in Turkic Languages
 	- 突厥语历史音变的五条基本规律

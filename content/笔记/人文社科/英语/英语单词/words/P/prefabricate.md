@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 预制；预制性
+- #词性/v  预制；预制性
 # 例句
 - Quality Problems in Prefabricate Board in Highway and Bridge Engineering and Its Prevention
 	- 公路桥梁工程预制板（梁）的质量问题与处治

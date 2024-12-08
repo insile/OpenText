@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 前驱症状；前驱期；先兆；前驱
+- #词性/n  前驱症状；前驱期；先兆；前驱
 # 例句
 - It is prodrome respectively period , foreboding period , convulsion period , atony lethargy period and recognizant convalescence .
 	- 分别是前驱症状期、先兆期、痉挛期、弛缓昏睡期和意识恢复期。

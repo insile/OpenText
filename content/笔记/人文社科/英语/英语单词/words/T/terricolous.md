@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 地栖性
+- #词性/adj  地栖性；生活在土壤上或土壤中
 # 例句
 - The vertical variation is that there are many autogenic carbonate sediments in the earlier period and that terricolous sediments are dominant in the later period .
 	- 纵向上呈现出由早期有较多内源碳酸盐沉积到晚期以大量陆源物为主的变化。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 精明的；机灵地；用心地
+- #词性/adv  精明的；机灵地；用心地
 # 例句
 - I 've watched you looking at people cannily .
 	- 我注意到你在机灵地看别人。

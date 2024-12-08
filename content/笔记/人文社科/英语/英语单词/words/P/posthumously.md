@@ -7,7 +7,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 在死后；死后；于死后；死后的；死后出版的
+- #词性/adv  在死后；死后；于死后；死后的；死后出版的
 # 例句
 - Her last book was published posthumously in 1948 .
 	- 她最后的一本书在她死后于1948年出版了

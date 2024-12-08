@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈəʊklənd/； 美：/ˈoʊklənd/
-- #词性缺失 奥克兰
+- #词性/n  奥克兰
 # 例句
 - The winner will face the Oakland A 's in the playoffs this weekend .
 	- 获胜者将在本周末的季后赛中对阵奥克兰运动者队。

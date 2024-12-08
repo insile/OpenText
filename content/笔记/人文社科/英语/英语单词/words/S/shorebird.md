@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 滨鸟；水鸟；涉禽；岸鸟
+- #词性/n  滨鸟；水鸟；涉禽；岸鸟
 # 例句
 - Either of two North American shorebird with yellow legs .
 	- 北美洲黄色腿滨鸟的任一种。

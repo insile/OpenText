@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 全球化；环球化
+- #词性/v  全球化；环球化
 # 例句
 - Capital expenditure in Japan is helping demand for its network products ; as Japanese companies globalise , so some it spending has been buoyed .
 	- 日本的资本开支对提高其网络产品需求有所帮助；随着日本企业的全球化，某些it支出得到提振。

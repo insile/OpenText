@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 喜马拉雅；喜玛拉雅；喜马拉雅山
+- #词性/n  喜马拉雅；喜玛拉雅；喜马拉雅山
 # 例句
 - New progress of the study on Himalaya uplift and its sedimentary response
 	- 喜马拉雅的隆升及其沉积反应研究新进展

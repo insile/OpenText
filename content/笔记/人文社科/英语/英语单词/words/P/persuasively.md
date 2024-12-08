@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 有说服力地；说服；令人信服的；有说服力的
+- #词性/adv  有说服力地；说服；令人信服的；有说服力的
 # 例句
 - Some scholars such as Professor Nathanson , have argued persuasively that the Court misconstrued the original intent of the Administrative Procedure Act .
 	- 一些学者，如纳撒教授很有说服力地争论到，法院曲解了《行政诉讼法》的本来意图。

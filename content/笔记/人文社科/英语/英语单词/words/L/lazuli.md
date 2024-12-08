@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈlæzjʊli/； 美：/ˈlæzəli/
-- #词性缺失 青金石；天青石
+- #词性/n  青金石；天青石
 # 例句
 - Analysis of SEM on the lapis lazuli pigment of ancient China
 	- 中国古代青金石颜料的电镜分析

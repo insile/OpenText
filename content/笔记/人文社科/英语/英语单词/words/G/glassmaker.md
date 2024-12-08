@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 玻璃制造商；玻璃工人
+- #词性/n  玻璃制造商；玻璃工人
 # 例句
 - She said : ' Prince George has got such unique chocolate brown eyes . I sent them a cutting from the paper so the glassmaker could get them just right . '
 	- 娜塔莉说：乔治小王子的眼睛是独特的巧克力棕色，所以我才把那张照片给他们，这样玻璃工人做出的眼睛颜色就恰到好处了。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 布林；布莱恩
+- #词性/n  布林；布莱恩
 # 例句
 - Does Bryn Mawr have a law school ?
 	- 布林茅尔有法学院吗

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 手推车；货仓车；手推运货车
+- #词性/n  手推车；货仓车；手推运货车
 # 例句
 - Does the worker still deliver goods with the handtruck ?
 	- 那个工人仍然用手推车送货吗？

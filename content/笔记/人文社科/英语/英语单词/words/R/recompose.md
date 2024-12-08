@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 重组；改编；重构；重新构图
+- #词性/vt  重组；改编；重构；重新构图
 # 例句
 - It will more than recompose you for all that you may have lost in the process , and you will be well satisfied with the outcome .
 	- 这将超过重构为所有你可能在此过程中失去了你，你会很好的结果表示满意。

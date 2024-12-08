@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˌmɪdˈwestən/； 美：/ˌmɪdˈwestərn/
-- #词性缺失 中西部；美国中西部；美国中西部的
+- #词性/adj  中西部；美国中西部；美国中西部的
 # 例句
 - Severe weather ripping through parts of the Midwestern United States .
 	- 恶劣天气席卷美国中西部的部分。

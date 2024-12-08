@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 水下；水下的；水中的
+- #词性/adj  水下；水下的；水中的
 # 例句
 - The Subaqueous Explosion Pressure Remote Measuring System Based on Wireless Data-Transfer
 	- 基于无线数据传输的水下爆炸压力遥测系统

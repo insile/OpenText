@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈɒfɪʃ/； 美：/ˈɔːfɪʃ/
-- #词性缺失 冷漠的；冷淡的
+- #词性/adj  冷漠的；冷淡的
 # 例句
 - The effects of dietary carbohydrate kind and level on growth and health offish
 	- 1饲料糖种类和水平对鱼类生长和健康的影响

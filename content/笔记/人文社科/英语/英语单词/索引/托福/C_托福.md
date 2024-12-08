@@ -89,7 +89,6 @@
 - [ ] [[cellulose]]
 - [ ] [[cementation]]
 - [ ] [[cenote]]
-- [ ] [[cenotes]]
 - [ ] [[cenozoic]]
 - [ ] [[censor]]
 - [ ] [[census]]

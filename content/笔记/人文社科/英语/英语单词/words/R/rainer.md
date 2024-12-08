@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈreɪnə/； 美：/ˈreɪnər/
-- #词性缺失 德国；莱纳；赖纳
+- #词性/n  人工降雨装置；喷灌装置；莱纳；赖纳（人名）
 # 例句
 - One of the postulants , Maria Rainer , is on the nearby mountainside regretting leaving the beautiful hills ( The Sound of Music ) where she was brought up . She returns late .
 	- 其中的一名圣职志愿者玛利亚温妮，流连于近郊美丽的山坡而忘记了回到自己长大的修道院（音乐之声响起）。她迟到了。

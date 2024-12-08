@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 多卷；多卷的
+- #词性/adj  多卷；多卷的
 # 例句
 - Probe into the Classification of the Series and the Multivolume Books
 	- 丛书与多卷书分类探析

@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 同步；使同步
+- #词性/vi  同步；同时发生（synchronize 的英式拼写）
+- #词性/vt  使同步；使同时发生（synchronize 的英式拼写）
 # 例句
 - Synchronise the score with the film action .
 	- 将配乐和电影情节进行同步合成。

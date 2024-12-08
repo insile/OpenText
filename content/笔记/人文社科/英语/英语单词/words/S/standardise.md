@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 使标准化；清洁
+- #词性/vt  使……符合标准；使……标准化；使……统一
 # 例句
 - There is a drive both to standardise components and to reduce the number of models on offer
 	- 正在为实现零部件标准化和减少推出的型号数量而努力。

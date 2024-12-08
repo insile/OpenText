@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈluːkəsaɪt/； 美：/ˈluːkəsaɪt/
-- #词性缺失 白细胞；白血球；白血细胞
+- #词性/n  白细胞；白血球；白血细胞
 # 例句
 - The increased leucocyte count is related to degree of infarction .
 	- 白细胞计数的升高与梗死程度相关。

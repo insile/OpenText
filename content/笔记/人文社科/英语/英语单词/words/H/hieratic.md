@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 神职的；僧侣体；僧侣文；祭司体；体符号
+- #词性/adj  神职的；僧侣体；僧侣文；祭司体；体符号
 # 例句
 - A New Hieratic Power Quality Disturbance Signal Identification Method
 	- 一种电能质量扰动信号的分层识别新方法

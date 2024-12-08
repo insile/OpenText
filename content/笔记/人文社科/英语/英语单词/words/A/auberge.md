@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 小旅馆；客栈；旅馆
+- #词性/n  小旅馆；客栈；旅馆
 # 例句
 - What 's the name and number of the auberge ?
 	- 那家宾馆的名字和电话是什么？

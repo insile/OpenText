@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 沉思；仔细思考；深思
+- #词性/n  沉思；仔细思考；深思
 # 例句
 - Cogitation of the Development of University Students Quality in Management Science
 	- 大学生素质发展的管理学思考

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 获得；得到；证得
+- #词性/n  获得；得到；证得
 # 例句
 - The internal and external factors that affected thermal-expansion property of millet starch were systematically studied after the obtainment of quality indicators through statistical analysis .
 	- 本文经统计分析得到米饼品质的表征指标后系统地研究了影响小米淀粉热膨化性质的内因及外因。

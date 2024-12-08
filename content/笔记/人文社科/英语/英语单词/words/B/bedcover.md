@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈbedkʌvə(r)/； 美：/ˈbedkʌvər/
-- #词性缺失 床罩；被面；床盖
+- #词性/n  床罩；被面；床盖
 # 例句
 - The yellow curtains contrast with the blue bedcover .
 	- 黄色窗帘与蓝色床罩形成鲜明的对照。

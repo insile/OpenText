@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 选段；章节；摘录
+- #词性/n  选段；章节；摘录
 # 例句
 - You 're going to pay really good attention to all the details of the pericope .
 	- 好好留意，选段的细节。

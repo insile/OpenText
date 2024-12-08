@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 代表；象征
+- #词性/vt  代表；象征
 # 例句
 - In recent years , Tupperware has seemed to epitomise the American dream .
 	- 近年来，特百惠（tupperware）似乎已经成了美国梦的缩影。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 民俗的；民间传说的
+- #词性/adj  民俗的；民间传说的
 # 例句
 - In the rush to go folkloric watch out for collision of cultures .
 	- 在民俗化的热潮中，要提防不同文化的冲突。

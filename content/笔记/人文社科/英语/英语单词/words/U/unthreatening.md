@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 无威胁；不具有威胁性
+- #词性/adj  无威胁；不具有威胁性
 # 例句
 - First , it consists of an unthreatening minority position .
 	- 第一，它持有不具威胁性的少数股权。

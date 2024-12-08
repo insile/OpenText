@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/ˈjɔːkʃɪə/； 美：/ˈjɔrkʃər/
-- #词性缺失 约克郡；约克夏；大约克夏；约克夏猪
+- #词性/n  约克郡（英格兰东北的一郡）
 # 例句
 - She lives in a quiet corner of rural Yorkshire .
 	- 她居住在约克郡乡间一个僻静的地方。

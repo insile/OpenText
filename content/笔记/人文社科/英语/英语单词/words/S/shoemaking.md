@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 制鞋
+- #词性/n  制鞋
 # 例句
 - Shoemaking CAD system based on reverse engineering and layout algorithm
 	- 基于逆向工程的制鞋CAD系统及排样算法

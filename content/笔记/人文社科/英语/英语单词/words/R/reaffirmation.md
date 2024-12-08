@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 重申；再次确认；再确认
+- #词性/n  重申；再次确认；再确认
 # 例句
 - Diplomatic Conference on the Reaffirmation and Development of International Humanitarian Law Applicable in Armed Conflicts
 	- 关于重申和发展武装冲突中适用的国际人道主义法律问题外交会议

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 下垂的；悬挂的；吊灯；悬垂；吊坠
+- #词性/adj  下垂的；悬挂的；吊灯；悬垂；吊坠
 # 例句
 - A pendent spear of ice formed by the freezing of dripping water .
 	- 悬挂的冰尖，由滴水冻结而成。

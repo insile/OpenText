@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 对抗性；反对地
+- #词性/adv  对抗性；反对地
 # 例句
 - Auxin and cytokinin play antagonistically important roles in many aspects of plant growth and development .
 	- 生长素和细胞分裂素相互拮抗并共同调控植物的生长和发育的诸多方面。

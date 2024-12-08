@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 感情的；爱情；情感性的；情感性；情感上
+- #词性/adj  感情的；爱情；情感性的；情感性；情感上
 # 例句
 - The bonds of marriage and family life are no longer functional , but affectional .
 	- 婚姻和家庭生活的纽带不再是功能性的，而是情感性的了。

@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 扭伤
+- #n  扭伤
+- #词性/vt  扭伤
 # 例句
 - Objective Discuss the effect of different length of cold dressing treatment time on the acute wrick of anklebone .
 	- 目的探讨急性踝关节扭伤不同冷敷时间的效果。

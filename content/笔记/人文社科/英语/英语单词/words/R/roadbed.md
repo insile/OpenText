@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 路基；路床；道床
+- #词性/n  路基；路床；道床
 # 例句
 - The earthquake made the roadbed cave in .
 	- 地震后路基沉陷了。

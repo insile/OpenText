@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 肝的；坏脾气的
+- #词性/adj  肝病的；坏脾气的；似肝的；易怒的
 # 例句
 - The Face Diagnosis of TCM Based on Image Analysis and the Application on Liverish
 	- 基于图像分析的中医面诊及在肝病上的研究

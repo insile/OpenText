@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 稀薄；稀释；稀少；疏部；稀松
+- #词性/n  稀薄；稀释；稀少；疏部；稀松
 # 例句
 - Steady characteristics of Micro Gas Journal Bearings Based on Rarefaction effect
 	- 基于稀薄效应的微气体径向轴承稳态性能

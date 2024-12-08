@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 工业化
+- #词性/vt  工业化
 # 例句
 - Energy consumption rises as countries industrialise
 	- 随着各国实现工业化，能源消费增加了。

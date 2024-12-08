@@ -6,7 +6,8 @@ tags:
 模糊: false
 ---
 # 词义
-- #词性缺失 密克罗尼西亚人
+- #词性/n  密克罗尼西亚的语言；密克罗尼西亚的人
+- #词性/adj  密克罗尼西亚语的；密克罗尼西亚人的
 # 例句
 - The islands lie roughly halfway between Hawaii and Australia in the Micronesian region of the South Pacific .
 	- 该岛大致在南太平洋密克罗尼西亚地区的夏威夷和澳大利亚之间。

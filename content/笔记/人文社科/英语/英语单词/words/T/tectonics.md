@@ -7,7 +7,7 @@ tags:
 ---
 # 词义
 - 英：/tekˈtɒnɪks/； 美：/tekˈtɑːnɪks/
-- #词性缺失 构造学；构造；板块构造理论
+- #词性/n  构造学；构造；板块构造理论
 # 例句
 - Research Program and Development Model for Tectonics
 	- 大地构造学的研究纲领与发展模式
