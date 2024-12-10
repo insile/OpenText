@@ -1,7 +1,7 @@
 ---
 tags:
   - 首字母/U
-  - 级别/高考四级
+  - 级别/中考
 掌握: false
 模糊: false
 ---
@@ -13,5 +13,5 @@ tags:
 	- 一支联合国部队被派出维护和平。
 - The UN has agreed to allow the supply of emergency aid .
 	- 联合国已同意允许提供紧急援助。
-- That was a good ' un .
-	- 那个东西不错。
+- The civil war claimed the life of a UN interpreter yesterday
+	- 昨天，内战夺去了一位联合国译员的生命。

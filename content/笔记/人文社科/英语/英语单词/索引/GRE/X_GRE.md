@@ -1,3 +1,0 @@
-- [ ] [[xenophobia]]
-- [ ] [[xenophobic]]
-- [ ] [[xerophyte]]

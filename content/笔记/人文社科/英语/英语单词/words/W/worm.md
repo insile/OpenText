@@ -9,7 +9,6 @@ tags:
 - 英：/wɜːm/； 美：/wɜːrm/
 - #词性/n  蠕虫；寄生虫；幼虫；肠虫；懦夫
 - #词性/vt  蠕动，曲折行进(尤指通过狭窄或拥挤的地方)；给(动物)驱肠虫
-- #词性/abbr  (= Write-Once Read Multiple ) 【计】一写多读光盘
 ##### 例句
 - The glowworm isn 't a worm .
 	- 萤火虫不是蠕虫。

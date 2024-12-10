@@ -1,5 +1,0 @@
-- [ ] [[vacation]]
-- [ ] [[vegetable]]
-- [ ] [[very]]
-- [ ] [[village]]
-- [ ] [[visit]]

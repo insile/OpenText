@@ -1,3 +1,0 @@
-- [ ] [[quickly]]
-- [ ] [[quiet]]
-- [ ] [[quietly]]
