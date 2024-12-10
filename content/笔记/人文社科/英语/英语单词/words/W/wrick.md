@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 ##### 词义
-- #n  扭伤
+- #词性/n   扭伤
 - #词性/vt  扭伤
 ##### 例句
 - Objective Discuss the effect of different length of cold dressing treatment time on the acute wrick of anklebone .
