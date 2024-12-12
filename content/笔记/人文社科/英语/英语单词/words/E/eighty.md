@@ -7,7 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/ˈeɪti/； 美：/ˈeɪti/
-- #词性/n  八十；八十个；第八十；表示八十的符号
+- #词性/num  八十；八十个；第八十；表示八十的符号
 - #词性/adj  八十(的)；八十个(的)
 ##### 例句
 - He 's already eighty but still going strong .

@@ -1,7 +1,7 @@
 ---
 tags:
   - 首字母/T
-  - 级别/GRE
+  - 级别/高考四级
 掌握: false
 模糊: false
 ---
@@ -9,7 +9,7 @@ tags:
 - 英：/temp/； 美：/temp/
 - #词性/n  临时工；临时雇员
 - #词性/vi  打临时工；做临时工作；打零工
-- #词性/abbr  温度
+- #词性/abbr  温度（缩写自 temperature）；临时（缩写自 temporary）
 ##### 例句
 - What was the new temp doing in David 's office all morning ?
 	- 那个临时雇员整个上午在大卫办公室做什么？

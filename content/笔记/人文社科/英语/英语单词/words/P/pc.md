@@ -7,7 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/ ˌpiː ˈsiː /；美：/ ˌpiː ˈsiː /；
-- #词性/abbr 个人电脑（Personal Computer）；巡逻车（Patrol Car）
+- #词性/abbr 个人电脑（缩写自 Personal Computer）；百分比（缩写自 percent）
 ##### 例句
 - ThePCcomes with office software preloaded.
 	- 这台电脑随机预装了办公软件。

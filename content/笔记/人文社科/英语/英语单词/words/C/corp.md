@@ -7,7 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/kɒp/； 美：/'kɔrp/
-- #词性/abbr  公司；（Latin prefix=body） （拉丁语前缀）身体；主要部分
+- #词性/abbr  公司（缩写自 corporation）
 ##### 例句
 - Performance Management System Design of A Corp Grain & Oil Business Unit
 	- A公司粮油事业部绩效管理体系的设计

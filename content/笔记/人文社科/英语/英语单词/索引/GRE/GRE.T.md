@@ -1,4 +1,4 @@
-##### GRE.T 349
+##### GRE.T 348
 - [ ] [[tabernacle]]
 - [ ] [[tableau]]
 - [ ] [[tableland]]
@@ -65,7 +65,6 @@
 - [ ] [[telepathy]]
 - [ ] [[tellural]]
 - [ ] [[temerity]]
-- [ ] [[temp]]
 - [ ] [[temperamental]]
 - [ ] [[temperance]]
 - [ ] [[temperate]]

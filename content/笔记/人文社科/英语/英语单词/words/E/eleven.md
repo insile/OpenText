@@ -7,7 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/ɪˈlevn/； 美：/ɪˈlevn/
-- #词性/n  十一；十一个；第十一
+- #词性/num  十一；十一个；第十一
 - #词性/adj  十一(的)；十一个(的)
 ##### 例句
 - In Italy the average life of a government is eleven months .

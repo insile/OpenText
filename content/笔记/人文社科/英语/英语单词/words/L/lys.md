@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 ##### 词义
-- #词性/abbr  赖氨酸（lysine）；赖氨酸残基；溶菌酶；里昂
+- #词性/abbr  赖氨酸（缩写自 lysine）；赖氨酸残基；溶菌酶；里昂
 ##### 例句
 - Quantitative Measure of DNA and Lys in e of Sperm Nucleus and Relative Analysis
 	- 精子核DNA和赖氨酸定量测定及有关分析

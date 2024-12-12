@@ -7,8 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/ˌsiː ˈdiː/； 美：/ˌsiː ˈdiː/
-- #词性/n  光盘，激光唱片，光碟(全写为compact disc)
-- #词性/abbr  (= compact disc ) 激光唱片
+- #词性/abbr  光盘，激光唱片，光碟（缩写自 compact disc）
 ##### 例句
 - The book , complete with CD , costs £ 35 .
 	- 此书包括光盘，售价35英镑。

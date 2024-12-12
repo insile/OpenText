@@ -7,7 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/ ˌpiː eɪtʃ ˈdiː /；美：/ ˌpiː eɪtʃ ˈdiː /；
-- #词性/abbr 博士学位；哲学博士学位（Doctor of Philosophy）
+- #词性/abbr 博士学位；哲学博士学位（缩写自 Doctor of Philosophy）
 ##### 例句
 - In 2004, physician-scientist Mauro Zappaterra began hisPhDresearch at Harvard Medical School.
 	- 2004年，物理学家兼科学家 Mauro Zappaterra 在哈佛医学院开始了他的博士研究。

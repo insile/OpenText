@@ -7,7 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/ ˈvɜːsəs /； 美：/ ˈvɜːrsəs /
-- #词性/abbr  对，对抗；与……相对，与……相比（同 versus）
+- #词性/abbr  对，对抗；与……相对，与……相比（缩写自 versus）
 ##### 例句
 - That case is Bowman vs. Monsanto, which is being argued on Tuesday.
 	- 有这样一个鲍曼对孟山都的案子，我们将在周二围绕它进行讨论。

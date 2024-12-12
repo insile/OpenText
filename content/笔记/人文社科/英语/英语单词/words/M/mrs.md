@@ -7,7 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/ˈmɪsɪz/； 美：/ˈmɪsɪz/
-- #词性/abbr  （用于女子的姓氏或姓名前）太太，夫人
+- #词性/abbr  （用于已婚妇女的姓氏或姓名前）太太，夫人（来源自 mistress）
 ##### 例句
 - He lodged with Mrs Brown when he arrived in the city .
 	- 他初到这座城市时租房住在布朗太太的家里。

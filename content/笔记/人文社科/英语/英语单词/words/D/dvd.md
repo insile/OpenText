@@ -7,7 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/ˌdiː viː ˈdiː/； 美：/ˌdiː viː ˈdiː/
-- #词性/abbr  上传；数字化通用磁盘（Digital Video Disk）；学英语
+- #词性/abbr  数字视频光盘（缩写自 digital video disk）；数字多功能光盘（缩写自 digital versatile disk）
 ##### 例句
 - The following items are approved for use in residential rooms : electric blankets , hair dryers , personal computers , radios , televisions and DVD players .
 	- 房间内允许使用以下物品：电热毯、吹风机、个人电脑、收音机、电视和DVD播放机。

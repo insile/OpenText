@@ -7,8 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/ˌtiː ˈviː/； 美：/ˌtiː ˈviː/
-- #词性/abbr  （=television）电视，电视机
-- #词性/adj  在电视上完成的，有关电视的
+- #词性/abbr  电视，电视机（缩写自 television）
 ##### 例句
 - She was offered the leading role in the new TV series .
 	- 她获得主演那部新的电视连续剧的机会。

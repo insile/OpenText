@@ -9,7 +9,6 @@ tags:
 - 英：/ækt/； 美：/ækt/
 - #词性/n  行为，行动，所为；(议会通过的)法案，法令；表演，假装；一幕；表演者；一段表演
 - #词性/v  行为；行动；充当；表演，假装；扮演；举止；做事；（对…）有作用，有影响
-- #词性/abbr  同“Association of Classroom Teachers”
 ##### 例句
 - It seems like an act of monumental folly .
 	- 这似乎是一种非常愚蠢的行为。

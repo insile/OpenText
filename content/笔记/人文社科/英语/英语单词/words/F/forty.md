@@ -7,7 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/ˈfɔːti/； 美：/ˈfɔːrti/
-- #词性/n  四十
+- #词性/num  四十
 - #词性/adj  四十的；四十个的
 ##### 例句
 - They would have been married forty years come this June .

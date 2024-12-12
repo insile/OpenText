@@ -7,7 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/ˌeɪˈtiːn/； 美：/ˌeɪˈtiːn/
-- #词性/n  十八；十八个
+- #词性/num  十八；十八个
 - #词性/adj  十八(的)；十八个(的)；(英)(电影)适于年满18岁者观看的
 ##### 例句
 - The party was ousted from power after eighteen years .

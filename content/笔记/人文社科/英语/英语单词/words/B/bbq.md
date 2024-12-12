@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 ##### 词义
-- #词性/abbr  barbecue 吃烤烧肉的野餐
+- #词性/abbr  吃烤烧肉的野餐（缩写自 barbecue）
 ##### 例句
 - Their destination is the Fiery Food and BBQ Festival which is held over a period of three clays every March .
 	- 他们的目的地是“火热的食物和烧烤节”,该活动每年三月举行，为期三周。

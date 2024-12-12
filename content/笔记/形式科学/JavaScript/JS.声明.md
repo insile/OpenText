@@ -1,5 +1,5 @@
-##### JS.声明
-- JS.声明
+##### 声明
+- 声明
 	- [[JS.let|let]]
 	- [[JS.const|const]]
 	- [[JS.function|function]]

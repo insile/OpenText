@@ -7,7 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/ˌjuː ˈkeɪ/； 美：/ˌjuː ˈkeɪ/
-- #词性/abbr  英国；the United Kingdom联合王国
+- #词性/abbr  英国；大不列颠及北爱尔兰联合王国（缩写自 United Kingdom of Great Britain and Northern Ireland）
 ##### 例句
 - Payment must be made by bank draft drawn on a UK bank .
 	- 付款必须用英国银行承兑的汇票。

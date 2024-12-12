@@ -8,8 +8,6 @@ tags:
 ##### 词义
 - 英：/aɪ/； 美：/aɪ/
 - #词性/pron  我（I）
-- #词性/n  英文字母中的第九个字母；虚数的单位
-- #词性/abbr  电流密度；焓；热函；英寸
 ##### 例句
 - It 's very different to what I 'm used to .
 	- 这与我所习惯的大不相同。

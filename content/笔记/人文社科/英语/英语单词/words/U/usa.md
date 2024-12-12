@@ -7,7 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/ˌjuː es ˈeɪ/； 美：/ˌjuː es ˈeɪ/
-- #词性/abbr  美国；美利坚合众国
+- #词性/abbr  美国；美利坚合众国（缩写自 United States of America）
 ##### 例句
 - Do you need a visa for the USA ?
 	- 你需要美国签证吗？

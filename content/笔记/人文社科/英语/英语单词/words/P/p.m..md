@@ -7,7 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/ˌpiː ˈem/； 美：/ˌpiː ˈem/
-- #词性/abbr  下午，午后(源自拉丁文post meridiem)
+- #词性/abbr  下午，中午之后，正午至午夜（缩写自拉丁语 post meridiem）
 ##### 例句
 - Last admissions to the park are at 4 p.m.
 	- 公园最晚的入园时间是下午4点。

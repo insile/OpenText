@@ -9,7 +9,7 @@ tags:
 - 英：/stem/； 美：/stem/
 - #词性/n  阀杆，导杆；茎，梗，柄；词干；词干；（高脚酒杯的）脚；<美俚>主要街道，干线；有…茎（或梗）的；堵塞物，阻挡物；家系，家谱，血统；烟斗柄；<音>符干；电子管心柱，晶体管管座；转动滑雪屐动作；<美俚>鸦片烟枪
 - #词性/v  阻止；堵塞，止住；遏止；封堵；逆…而行，顶着…而上；给…装柄（或杆）；去掉…的干（或茎、梗、柄）；（滑雪时）转动（滑雪屐）)以停止滑行
-- #词性/abbr  理工科的统称（science, technology, engineering, and mathematics）；（= Scanning transmission electron microscope）扫描透射式电子显微镜
+- #词性/abbr  理工科的统称（缩写自 science, technology, engineering, and mathematics）；扫描透射式电子显微镜（缩写自 Scanning transmission electron microscope）
 ##### 例句
 - The plant 's stem is marked with thin green longitudinal stripes .
 	- 这种植物的茎上长有绿色细长条纹。

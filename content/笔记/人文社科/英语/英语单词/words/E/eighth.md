@@ -1,14 +1,14 @@
 ---
 tags:
   - 首字母/E
-  - 级别/中考
+  - 级别/小学
 掌握: false
 模糊: false
 ---
 ##### 词义
 - 英：/eɪtθ/； 美：/eɪtθ/
 - #词性/adj  第八的；八分之一的
-- #词性/n  第八(个)；八分之一；<音>第八音级，八度音；月的第八日
+- #词性/num  第八(个)；八分之一；<音>第八音级，八度音；月的第八日
 - #词性/adv  第八(用于列举条目等)；居第八位
 ##### 例句
 - There was a peaceful pitch invasion after Milan 's eighth goal .

@@ -7,7 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/ˌeɪ ˈem/； 美：/ˌeɪ ˈem/
-- #词性/abbr  上午；午前(源自拉丁语ante meridiem)；午夜至正午
+- #词性/abbr  上午，中午之前，午夜至正午（缩写自拉丁语 ante meridiem）
 ##### 例句
 - Guests should vacate their rooms by 10.30 a.m.
 	- 旅客应在上午10:30以前腾出房间。

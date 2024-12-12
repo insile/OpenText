@@ -1,0 +1,12 @@
+##### 数据类型
+- 数据类型
+	- 原始数据类型
+		- number 
+		- bigint 
+		- string 
+		- boolean 
+		- null 
+		- undefined 
+		- symbol 
+	- 对象类型
+		- object 

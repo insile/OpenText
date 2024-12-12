@@ -7,7 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/ˌem ˈes/； 美：/ˌem ˈes/
-- #词性/n  毫秒
+- #词性/abbr  毫秒；（女性的默认称呼无论婚姻状况）女士（来源自 mistress）
 ##### 例句
 - The processing of seismic data with 0.5 ms sampling rate
 	- 0.5毫秒采样率地震资料的处理

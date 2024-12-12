@@ -7,8 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/æd/； 美：/æd/
-- #词性/n  广告
-- #词性/abbr  <拉> (= Anno Domini ) 公元
+- #词性/abbr  广告（缩写自 advertisement）；公元后（缩写自 Anno Domini）
 ##### 例句
 - We put an ad in the local paper .
 	- 我们在当地报纸上登了一则广告。

@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 ##### 词义
-- #词性/abbr  博士；(书写形式)医生；(用于街道名)路，大道；珠宝品牌Darry Ring的缩写
+- #词性/abbr  博士；医生（缩写自 doctor）
 ##### 例句
 - It was a certain Dr Davis who performed the operation .
 	- 是一位叫戴维斯的医生做的手术。

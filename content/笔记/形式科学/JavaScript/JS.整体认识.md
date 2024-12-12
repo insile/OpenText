@@ -1,4 +1,4 @@
-##### JS.整体认识
+##### 整体认识
 - 整体认识
 	- 下面是一个在 `<script>` 标签嵌入 JS 代码的 [[标记语言.HTML|HTML]] 文件, 可以保存为 `hi.html` 用浏览器打开运行, 这段代码实现了一个简单的网页交互功能, 用户可以在文本框中输入自己的名字, 点击按钮后页面会显示一条问候信息, 它涵盖了基本的语法包括变量声明, 控制结构, 函数, 事件处理和 DOM 操作
 		- 通过 `const` [[JS.const|声明]]了三个变量 `nameInput`, `greetButton`, `greetingMessage`, 值是使用 `document.getElementById()` 获取的 DOM 元素, 分别表示文本输入框 `<input>`, 问候按钮 `<button>` 和问候段落 `<p>`
