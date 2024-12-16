@@ -8,6 +8,7 @@ tags:
 ##### 词义
 - 英：/prəˈvaɪdɪd/； 美：/prəˈvaɪdɪd/
 - #词性/conj  假如，如果；只要；在…条件下
+- #词性/v  提供；规定；供应；给予
 ##### 例句
 - I will come provided I have the time .
 	- 假如有空，我一定来。

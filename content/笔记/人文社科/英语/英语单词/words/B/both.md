@@ -10,7 +10,6 @@ tags:
 - #词性/det  两者，双方
 - #词性/adj  两...（都），两个...（都）
 - #词性/pron  两个
-- #词性/conj  不仅...而且..，...和...都，既...又...
 - #词性/adv  在两方面同样地
 ##### 例句
 - Penny dreadfuls and shilling shockers are genres4 similar to the dime novel , which both refer to inexpensive novels of violent adventure or crime that was especially popular in mid-to-late Victorian England .

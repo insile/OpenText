@@ -8,7 +8,6 @@ tags:
 ##### 词义
 - 英：/ˌnevəðəˈles/； 美：/ˌnevərðəˈles/
 - #词性/adv  然而；不过；尽管如此
-- #词性/conj  然而，不过
 ##### 例句
 - Most marriages fail after between five and nine years . Nevertheless , people continue to get married .
 	- 大部分婚姻在婚后第五至第九年间失败，然而，人们仍会选择结婚。

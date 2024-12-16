@@ -7,7 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/ðeə(r)/； 美：/ðer/
-- #词性/det  他们的；她们的；它们的；在提及性别不详的人时，用以代替his或her
+- #词性/det #词性/pron  他们的；她们的；它们的；在提及性别不详的人时，用以代替his或her
 ##### 例句
 - Their success is due in large part to their determination .
 	- 他们的成功在很大程度上应归功于他们的决心。

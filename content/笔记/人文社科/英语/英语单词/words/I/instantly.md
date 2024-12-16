@@ -8,7 +8,6 @@ tags:
 ##### 词义
 - 英：/ˈɪnstəntli/； 美：/ˈɪnstəntli/
 - #词性/adv  立即；立刻；马上
-- #词性/conj  一…就
 ##### 例句
 - I felt a little bump and I knew instantly what had happened
 	- 我感觉到一点儿轻微的碰撞，便立刻意识到发生了什么。

@@ -9,7 +9,6 @@ tags:
 - 英：/wɪˈðaʊt/； 美：/wɪˈðaʊt/
 - #词性/prep  不（做某事）；没有；不用；不带；缺乏；不拿；不和…在一起；无…相伴
 - #词性/adv  没有；缺乏
-- #词性/conj  如果不
 - #词性/n  外面
 ##### 例句
 - I 'd never have got through it all without you .

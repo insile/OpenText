@@ -10,7 +10,6 @@ tags:
 - #词性/v  保存；节省；储蓄；拯救；救；挽救；保留；避免，免得；收集；救助；攒钱；收藏；救球（阻碍对方得分）
 - #词性/n  (守门员的)救球
 - #词性/prep  除了；除…外
-- #词性/conj  除了
 ##### 例句
 - He dived in to save the dog at considerable risk to his own life .
 	- 他冒着相当大的生命危险跳到水里去救那只狗。

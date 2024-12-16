@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 ##### 词义
-- #词性/conj  更不用说，用于强调某个事物的重要性或显而易见的事实，通常用于列举事物时，表示某个事物更加突出或重要
+- #词性/prep  更不用说，用于强调某个事物的重要性或显而易见的事实，通常用于列举事物时，表示某个事物更加突出或重要
 ##### 例句
 - Wasted time is a drag on American's economic and-private lives, not to mention infuriating.
 	- 浪费了的时间拖累了美国人民的经济生活和私人生活，更不必说还令人愤怒了。

@@ -8,7 +8,6 @@ tags:
 ##### 词义
 - 英：/ɪkˈsept/； 美：/ɪkˈsept/
 - #词性/prep  除了；(用于所言不包括的人或事物前)除…之外
-- #词性/conj  除了；只是
 - #词性/vt  不包括；不计；把…除外
 ##### 例句
 - We don 't do much in the evenings except watch television .

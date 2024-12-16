@@ -8,7 +8,7 @@ tags:
 ##### 词义
 - 英：/ˈɡrɑːntɪd/； 美：/ˈɡræntɪd/
 - #词性/adv  (表示肯定属实，然后再作另一番表述)不错，的确
-- #词性/conj  因为
+- #词性/conj  诚然；的确
 - #词性/v  (尤指正式地或法律上)同意，准予，允许；(勉强)承认，同意
 ##### 例句
 - Granted , we are fully aware that the industry is falling down around us , global competition is killing us , and the internal politicking and fighting causes our work fiber to be full of holes .

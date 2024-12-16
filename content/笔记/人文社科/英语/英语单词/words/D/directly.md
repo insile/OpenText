@@ -8,7 +8,6 @@ tags:
 ##### 词义
 - 英：/dəˈrektli/； 美：/dəˈrektli/
 - #词性/adv  直接地；正；立即；立刻；恰好；坦率地；径直地；过一会儿；正好地
-- #词性/conj  一…就…
 ##### 例句
 - A : I told them directly – I don 't want to go to the meeting because I think it 's a waste of time ! B : Wow !
 	- “我很直接地告诉他们：我不想去开这个会，因为我认为这是浪费时间！”
