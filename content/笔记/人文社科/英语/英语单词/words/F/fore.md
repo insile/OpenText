@@ -13,7 +13,6 @@ tags:
 - #词性/adj  在(船、飞行器或动物)前部的，前面的
 - #词性/adv  在（或向）船头，在（或向）飞行器头部
 - #词性/int  前方注意，看球（打高尔夫球时警告前面球路中的人以免被击中）
-- #词性/prep  在…前
 ##### 例句
 - Over again , on the basis of fore theories we synthesize the main features which reasonable cognitive structure shows .
 	- 再者，在前面的理论基础之上，我们从学生解决问题的角度进行考察，给出了化学认知结构所表现出的主要特点。

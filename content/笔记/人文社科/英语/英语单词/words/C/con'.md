@@ -11,7 +11,6 @@ tags:
 - #词性/vt  (尤指为钱财或使人为自己做某事而)欺骗，哄骗，诈骗
 - #词性/v  指挥(操舵)；精读；蒙；指挥(船的)航路
 - #词性/adv  反对；从反面
-- #词性/prep  反对；用
 - #词性/adj  欺诈的
 ##### 例句
 - The so-called bargain was just a big con !

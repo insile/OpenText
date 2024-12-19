@@ -9,7 +9,6 @@ tags:
 ##### 词义
 - 英：/əˈlɒft/； 美：/əˈlɔːft/
 - #词性/adv #词性/adj  在空中；在高处；在桅顶 ( 或帆索高处 ) ( 的 ) 
-- #词性/prep  在…顶上, 在…之上
 ##### 例句
 - A small unmanned balloon set aloft to observe atmospheric conditions .
 	- 在高处观察气象现象的小的无人驾驶的气球。

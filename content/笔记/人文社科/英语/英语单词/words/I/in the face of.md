@@ -6,7 +6,7 @@ tags:
 模糊: false
 ---
 ##### 词义
-- #词性/adv  面对
+- #词性/prep  面对
 ##### 例句
 - She showed great courage in the face of danger.
 	- 面对危险她表现出了巨大的勇气。

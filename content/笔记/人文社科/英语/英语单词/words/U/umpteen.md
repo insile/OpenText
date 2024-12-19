@@ -7,7 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/ˌʌmpˈtiːn/； 美：/ˌʌmpˈtiːn/
-- #词性/det #词性/pron  很多；大量
+- #词性/det  很多；大量
 - #词性/adj  大量的；无数的
 ##### 例句
 - I 've told this story umpteen times .

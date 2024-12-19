@@ -6,6 +6,7 @@ https://opentext.net.cn/
 
 from pathlib import Path
 import pandas as pd
+from io import StringIO
 
 level = ["级别/小学", "级别/中考", "级别/高考四级", "级别/考研",
          "级别/六级", "级别/雅思", "级别/托福", "级别/GRE",
@@ -18,7 +19,9 @@ level = ["级别/小学", "级别/中考", "级别/高考四级", "级别/考研
 def main(current_dir):
     words_dir = current_dir / 'words'
     index_dir = current_dir / '索引'
+    word_page = current_dir / '英语单词.md'
 
+    nums = []
     datas = []
     words_path = words_dir.rglob('*.md')
     for word_path in words_path:
@@ -47,8 +50,10 @@ def main(current_dir):
             level_index_df = []
             if i == 0:
                 lif.write(f'##### {level_index_file.stem} {len(df)}\n')
+                nums.append(len(df))
             else:
                 lif.write(f'##### {level_index_file.stem} {len(df[df[columns[i]] == 1])}\n')
+                nums.append(len(df[df[columns[i]] == 1]))
 
             for j in range(ord('a'), ord('z') + 1):
                 word_file = level_index_dir / f'{level_index_dir.stem}.{chr(j).upper()}.md'
@@ -68,6 +73,17 @@ def main(current_dir):
 
             level_index_df = pd.DataFrame(level_index_df)
             lif.write(level_index_df.to_markdown(index=False))
+
+    with open(word_page, 'r', encoding='utf-8', newline="\n") as f:
+        text = f.read()
+        text = text.split('\n\n')[1]
+    df = pd.read_table(StringIO(text), sep=r'|')
+    df = df.dropna(axis=1, how='all')
+    df.loc[2] = pd.Series(nums, index=df.columns)
+    df = df.drop(index=0)
+    with open(word_page, 'w', encoding='utf-8', newline="\n") as f:
+        f.write("##### [[英语单词说明|英语单词]]\n\n" + df.to_markdown(index=False))
+    pass
 
 
 if __name__ == '__main__':

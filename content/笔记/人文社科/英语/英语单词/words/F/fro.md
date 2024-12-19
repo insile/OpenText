@@ -8,8 +8,6 @@ tags:
 ##### 词义
 - 英：/frəʊ/； 美：/froʊ/
 - #词性/adv  向那边；向后
-- #词性/n  〈美俚〉非洲发型= Afro
-- #词性/prep  〈英方〉同“from”，来自
 ##### 例句
 - The ship was rolling heavily to and fro .
 	- 轮船剧烈地颠簸着。

@@ -11,8 +11,6 @@ tags:
 - #词性/vt  使受挫折，挫败；反对, 阻挠，阻碍，阻止，对…构成阻力；<废> 穿过，穿越
 - #词性/n  （划艇上的）横坐板；划手座
 - #词性/adj  横放的，横着的，横贯的；执拗的，固执的
-- #词性/adv  <古> 横跨着，斜横地
-- #词性/prep  <古> 横过，横跨
 ##### 例句
 - The administration accepted the principle that fiscal policy should promote recovery , not thwart it .
 	- 政府接受了以下原则：即财政政策应该推动、而非阻碍经济复苏。

@@ -7,7 +7,7 @@ tags:
 ---
 ##### 词义
 - 美：/ ə ˈlɪtl bɪt /；
-- #词性/det #词性/adv  稍微；一点点；少量；有点
+- #词性/adv  稍微；一点点；少量；有点
 ##### 例句
 - The law here is a little bit murky.
 	- 该法律此处有点含糊不清。
