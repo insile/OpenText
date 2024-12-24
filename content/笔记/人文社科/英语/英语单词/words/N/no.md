@@ -17,7 +17,7 @@ tags:
 	- 你不必走。
 - That was by no means the end of the matter .
 	- 事情决不可能到此为止。
-- No one in their right mind would choose to work there .
-	- 任何一个精神正常的人都不会选择去那里工作。
+- This is no different from what we've been doing all along.
+	- 这与我们一直以来所做的没有什么不同。
 ##### 形态
 - #形态/word_pl noes
