@@ -7,7 +7,7 @@ tags:
 ---
 ##### 词义
 - 英：/ˈevriweə(r)/； 美：/ˈevriwer/
-- #词性/adv  到处；在所有地方；彻头彻尾地, 完完全全地
+- #词性/adv #词性/conj  到处；在所有地方；彻头彻尾地, 完完全全地
 - #词性/n #词性/pron  每个地方
 ##### 例句
 - The man is hated everywhere .
