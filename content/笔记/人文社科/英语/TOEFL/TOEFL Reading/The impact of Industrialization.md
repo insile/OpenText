@@ -3,7 +3,7 @@ tags:
   - English
   - TOEFL
 folderpath: "E: \\视频\\JiJiDownload\\【2023托福真题合集】这可能是全网最新最全的托福真题练习材料（听说读写）—托福听力真题_托福口语真题_托福阅读真题_托福写作真题\\"
-filename: 
+filename: 34.34.TOEFL Reading practice test 4, New(Av316971357,P34).mp4
 finished: true
 ---
 # Article
@@ -92,7 +92,6 @@ part of the paragraph?
 - [ ] b) Even though this process leads to a lot of economic growth and social progress, Labor displacement and increased inequality are the only important results. 
 - [ ] c) Even though thls process leads to a lot of economic growth and social progress, It Is not without negative outcomes, among which we can mention the increase of Inequality. 
 - [ ] d) This process completely prevents economic growth and societal advancement, since it causes the negative results such as the lowering of the number of jobs and the increase of inequality.
-
 ## Question10
 An introductory sentence for a brief summary of the lecture is provided below. 
 Chose three answer choices that express the most important ideas in the lecture. 
