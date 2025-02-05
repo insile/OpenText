@@ -13,7 +13,7 @@
 			- 只克隆指定的分支, 而不是整个仓库的所有分支
 	- 示例
 ```shell
-git clone https://github.com/insile/my-notes.git
+git clone https://github.com/insile/OpenText.git
 # 克隆本文档仓库
 ```
 
