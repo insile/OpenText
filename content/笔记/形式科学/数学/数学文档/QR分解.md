@@ -8,9 +8,9 @@
 
 >[!example]- $\begin{bmatrix}0&3&1\\0&4&-2\\2&1&1 \end{bmatrix}=\begin{bmatrix}0&0.6&0.8\\0&0.8&-0.6\\1&0&0 \end{bmatrix}\begin{bmatrix}2&1&1\\0&5&-1\\0&0&2\end{bmatrix}$
 > - 格拉姆-施密特方法并单位化
-> 	- $\pmb{v_1}=(0,0,1)$
-> 	- $\pmb{v_2}=(0.6,0.8,0)$
-> 	- $\pmb{v_3}=(0.8,-0.6,0)$
+> 	- $\mathbf{v_1}=(0,0,1)$
+> 	- $\mathbf{v_2}=(0.6,0.8,0)$
+> 	- $\mathbf{v_3}=(0.8,-0.6,0)$
 > - $Q=\begin{bmatrix}0&0.6&0.8\\0&0.8&-0.6\\1&0&0 \end{bmatrix}$
 > - $R=Q^*A=\begin{bmatrix}2&1&1\\0&5&-1\\0&0&2\end{bmatrix}$
 
