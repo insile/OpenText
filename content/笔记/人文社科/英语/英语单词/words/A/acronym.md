@@ -5,7 +5,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# acronym
 ##### 词义
 - 英：/ˈækrənɪm/； 美：/ˈækrənɪm/
 - #词性/n  缩略语；首字母缩略词(如Aids系由acquired immune deficiency syndrome的首字母组成)

@@ -5,7 +5,12 @@ tags:
   - 级别/托福
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# optometrist
 ##### 词义
 - 英：/ɒpˈtɒmətrɪst/； 美：/ɑːpˈtɑːmətrɪst/
 - #词性/n  验光师；眼镜商；同 optician

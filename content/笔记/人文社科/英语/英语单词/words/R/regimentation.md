@@ -5,7 +5,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# regimentation
 ##### 词义
 - 英：/ˌredʒɪmenˈteɪʃn/； 美：/ˌredʒɪmenˈteɪʃn/
 - #词性/n  严格控制；严格管理；严密组织

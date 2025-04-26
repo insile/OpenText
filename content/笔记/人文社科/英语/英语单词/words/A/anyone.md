@@ -4,7 +4,12 @@ tags:
   - 级别/中考
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# anyone
 ##### 词义
 - 英：/ˈeniwʌn/； 美：/ˈeniwʌn/
 - #词性/pron  重要人物；随便哪个人；(用于否定句、疑问句，也用于if或whether之后，或紧接prevent、forbid、avoid等动词，代替someone)任何人

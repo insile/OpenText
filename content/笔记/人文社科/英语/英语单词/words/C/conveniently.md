@@ -4,7 +4,12 @@ tags:
   - 级别/托福
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# conveniently
 ##### 词义
 - 英：/kən'viːniəntli/； 美：/kən'viniəntli/
 - #词性/adv  方便地；通常；便利地；顺利

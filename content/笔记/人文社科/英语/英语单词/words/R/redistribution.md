@@ -4,7 +4,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# redistribution
 ##### 词义
 - 英：/ˌri:dɪstrɪ'bju:ʃən/； 美：/ˌridɪstrɪ'bjuʃən/
 - #词性/n  再分配；重新分配；重新分布

@@ -4,7 +4,12 @@ tags:
   - 级别/雅思
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# synchronise
 ##### 词义
 - #词性/vi  同步；同时发生（synchronize 的英式拼写）
 - #词性/vt  使同步；使同时发生（synchronize 的英式拼写）

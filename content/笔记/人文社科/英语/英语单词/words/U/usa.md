@@ -4,7 +4,12 @@ tags:
   - 级别/小学
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# usa
 ##### 词义
 - 英：/ˌjuː es ˈeɪ/； 美：/ˌjuː es ˈeɪ/
 - #词性/abbr  美国；美利坚合众国（缩写自 United States of America）

@@ -5,7 +5,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# prescient
 ##### 词义
 - 英：/ˈpresiənt/； 美：/ˈpresiənt/
 - #词性/adj  预知的；先觉的

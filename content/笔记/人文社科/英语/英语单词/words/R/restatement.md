@@ -5,7 +5,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# restatement
 ##### 词义
 - 英：/ˌriːˈsteɪtmənt/； 美：/ˌriːˈsteɪtmənt/
 - #词性/n  重申;再次声明;重说

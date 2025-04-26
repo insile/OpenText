@@ -4,7 +4,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# temperamental
 ##### 词义
 - 英：/ˌtemprəˈmentl/； 美：/ˌtemprəˈmentl/
 - #词性/adj  气质的；喜怒无常的；性格的；性情的；反复无常的；容易激动的

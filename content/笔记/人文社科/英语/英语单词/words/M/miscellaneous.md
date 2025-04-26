@@ -5,7 +5,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# miscellaneous
 ##### 词义
 - 英：/ˌmɪsəˈleɪniəs/； 美：/ˌmɪsəˈleɪniəs/
 - #词性/adj  各种各样的；混杂的

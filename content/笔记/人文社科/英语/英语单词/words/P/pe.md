@@ -4,7 +4,12 @@ tags:
   - 级别/小学
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# pe
 ##### 词义
 - 英：/ˌpiː ˈiː/； 美：/ˌpiː ˈiː/
 - #词性/abbr  体育教育， 体育课（缩写自 physical education）；专业工程师（缩写自 Professional Engineer）；首席长老 （缩写自 Presiding Elder）；<统计>概差，可能误差（缩写自 probable error）

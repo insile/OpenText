@@ -4,7 +4,12 @@ tags:
   - 级别/高考四级
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# interdependence
 ##### 词义
 - 英：/ˌɪntədɪˈpendəns/； 美：/ˌɪntərdɪˈpendəns/
 - #词性/n  相互依存；相互依赖

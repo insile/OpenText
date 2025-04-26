@@ -5,7 +5,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# distasteful
 ##### 词义
 - 英：/dɪsˈteɪstfl/； 美：/dɪsˈteɪstfl/
 - #词性/adj  讨厌的；令人反感的；使人不愉快的

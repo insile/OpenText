@@ -4,7 +4,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# protuberance
 ##### 词义
 - 英：/prəˈtjuːbərəns/； 美：/proʊˈtuːbərəns/
 - #词性/n  突起；突出物；隆起部分

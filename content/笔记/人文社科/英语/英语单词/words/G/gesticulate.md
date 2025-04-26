@@ -4,7 +4,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# gesticulate
 ##### 词义
 - 英：/dʒeˈstɪkjuleɪt/； 美：/dʒeˈstɪkjuleɪt/
 - #词性/vi  做手势；用手势表达；用动作示意

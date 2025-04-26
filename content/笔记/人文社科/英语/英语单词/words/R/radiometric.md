@@ -4,7 +4,12 @@ tags:
   - 级别/托福
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# radiometric
 ##### 词义
 - 英：/ˌreɪdiəʊˈmetrɪk/； 美：/ˌreɪdioʊˈmetrɪk/
 - #词性/adj  辐射度测量的

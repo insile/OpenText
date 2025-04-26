@@ -4,7 +4,12 @@ tags:
   - 级别/高考四级
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# contemptible
 ##### 词义
 - 英：/kənˈtemptəbl/； 美：/kənˈtemptəbl/
 - #词性/adj  可鄙的；卑劣的；可轻蔑的

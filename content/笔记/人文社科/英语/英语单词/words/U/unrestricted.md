@@ -5,7 +5,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# unrestricted
 ##### 词义
 - 英：/ˌʌnrɪˈstrɪktɪd/； 美：/ˌʌnrɪˈstrɪktɪd/
 - #词性/adj  没有限制的

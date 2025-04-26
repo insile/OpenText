@@ -8,7 +8,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# duplicate
 ##### 词义
 - 英：/ˈdjuːplɪkeɪt , ˈdjuːplɪkət/； 美：/ˈduːplɪkeɪt , ˈduːplɪkət/
 - #词性/vt  (尤指不必要时)重复，再做一次；复制；复印；复写

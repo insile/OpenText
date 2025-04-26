@@ -4,7 +4,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# transcontinental
 ##### 词义
 - 英：/ˌtrænzˌkɒntɪˈnentl/； 美：/ˌtrænzˌkɑːntɪˈnentl/
 - #词性/adj  横贯大陆的，穿越大陆的；在大陆那一边的，在大陆另一端的

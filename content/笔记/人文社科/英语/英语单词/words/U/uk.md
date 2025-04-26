@@ -4,7 +4,12 @@ tags:
   - 级别/小学
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# uk
 ##### 词义
 - 英：/ˌjuː ˈkeɪ/； 美：/ˌjuː ˈkeɪ/
 - #词性/abbr  英国；大不列颠及北爱尔兰联合王国（缩写自 United Kingdom of Great Britain and Northern Ireland）

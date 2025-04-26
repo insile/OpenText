@@ -4,7 +4,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# protuberant
 ##### 词义
 - 英：/prəˈtjuːbərənt/； 美：/proʊˈtuːbərənt/
 - #词性/adj  突起的；凸起的；隆起的；鼓出的

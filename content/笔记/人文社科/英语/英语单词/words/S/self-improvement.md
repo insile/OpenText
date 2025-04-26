@@ -4,7 +4,12 @@ tags:
   - 级别/中考
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# self-improvement
 ##### 词义
 - 英：/ ˌself ɪmˈpruːvmənt /；美：/ ˌself ɪmˈpruːvmənt /；
 - #词性/n 自我改善；自我修养

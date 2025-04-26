@@ -4,7 +4,12 @@ tags:
   - 级别/高考四级
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# frequent
 ##### 词义
 - 英：/ˈfriːkwənt , friˈkwent/； 美：/ˈfriːkwənt , friˈkwent/
 - #词性/adj  频繁的；经常发生的

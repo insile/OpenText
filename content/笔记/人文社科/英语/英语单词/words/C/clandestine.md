@@ -4,7 +4,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# clandestine
 ##### 词义
 - 英：/klænˈdestɪn/； 美：/klænˈdestɪn/
 - #词性/adj  秘密的；保密的；暗中从事的

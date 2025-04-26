@@ -5,7 +5,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# complacent
 ##### 词义
 - 英：/kəmˈpleɪsnt/； 美：/kəmˈpleɪsnt/
 - #词性/adj  自满的；自鸣得意的

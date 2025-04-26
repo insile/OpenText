@@ -5,7 +5,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# interchangeable
 ##### 词义
 - 英：/ˌɪntəˈtʃeɪndʒəbl/； 美：/ˌɪntərˈtʃeɪndʒəbl/
 - #词性/adj  可互换的；可交换的；可交替的

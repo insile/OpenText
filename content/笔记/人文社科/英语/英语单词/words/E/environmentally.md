@@ -4,7 +4,12 @@ tags:
   - 级别/托福
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# environmentally
 ##### 词义
 - 英：/ɪnˌvaɪrən'ment(ə)li/； 美：/ɪnˌvaɪrənˈment(ə)li/
 - #词性/adv  与环境有关地；在环境方面地

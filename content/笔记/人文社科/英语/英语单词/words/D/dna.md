@@ -4,7 +4,12 @@ tags:
   - 级别/高考四级
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# dna
 ##### 词义
 - 英：/ˌdiː en ˈeɪ/； 美：/ˌdiː en ˈeɪ/
 - #词性/abbr  脱氧核糖核酸（缩写自 Deoxyribonucleic acid） 

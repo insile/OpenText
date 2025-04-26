@@ -4,7 +4,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# inconceivable
 ##### 词义
 - 英：/ˌɪnkənˈsiːvəbl/； 美：/ˌɪnkənˈsiːvəbl/
 - #词性/adj  难以想象的；无法相信的

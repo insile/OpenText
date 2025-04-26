@@ -4,7 +4,12 @@ tags:
   - 级别/雅思
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# redevelopment
 ##### 词义
 - 英：/ˌriːdɪˈveləpmənt/； 美：/ˌriːdɪˈveləpmənt/
 - #词性/n  重新开发;重新建设

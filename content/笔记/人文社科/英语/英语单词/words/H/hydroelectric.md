@@ -4,7 +4,12 @@ tags:
   - 级别/托福
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# hydroelectric
 ##### 词义
 - 英：/ˌhaɪdrəʊɪˈlektrɪk/； 美：/ˌhaɪdroʊɪˈlektrɪk/
 - #词性/adj  使用水力发电的；水力产生的

@@ -6,7 +6,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# complimentary
 ##### 词义
 - 英：/ˌkɒmplɪˈmentri/； 美：/ˌkɑːmplɪˈmentri/
 - #词性/adj  免费的；赠送的；赞美的；表示钦佩的

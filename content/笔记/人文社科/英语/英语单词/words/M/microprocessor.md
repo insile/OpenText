@@ -6,7 +6,12 @@ tags:
   - 级别/托福
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# microprocessor
 ##### 词义
 - 英：/ˌmaɪkrəʊˈprəʊsesə(r)/； 美：/ˌmaɪkroʊˈprɑːsesər/
 - #词性/n  微处理器；微处理机

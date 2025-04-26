@@ -4,7 +4,12 @@ tags:
   - 级别/高考四级
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# aids
 ##### 词义
 - 英：/eɪdz/； 美：/eɪdz/
 - #词性/n  艾滋病(全写为Acquired Immune Deficiency Syndrome，获得性免疫缺陷综合征)

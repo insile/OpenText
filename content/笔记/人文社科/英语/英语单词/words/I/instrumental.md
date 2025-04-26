@@ -7,7 +7,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# instrumental
 ##### 词义
 - 英：/ˌɪnstrəˈmentl/； 美：/ˌɪnstrəˈmentl/
 - #词性/adj  起重要作用；用乐器演奏的；为乐器谱写的

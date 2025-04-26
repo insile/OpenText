@@ -7,7 +7,12 @@ tags:
   - 级别/托福
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# transplant
 ##### 词义
 - 英：/trænsˈplɑːnt , ˈtrænsplɑːnt/； 美：/trænsˈplænt , ˈtrænsplænt/
 - #词性/vt  移植(器官、皮肤等)；移栽，移种；使迁移；使移居

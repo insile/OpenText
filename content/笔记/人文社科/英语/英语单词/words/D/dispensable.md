@@ -5,7 +5,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# dispensable
 ##### 词义
 - 英：/dɪˈspensəbl/； 美：/dɪˈspensəbl/
 - #词性/adj  可有可无；不必要；不重要

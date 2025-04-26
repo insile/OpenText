@@ -7,7 +7,12 @@ tags:
   - 级别/托福
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# tropic
 ##### 词义
 - 英：/ˈtrɒpɪk/； 美：/ˈtrɑːpɪk/
 - #词性/n  热带的；热带；热带地区；回归线(北回归线称作the Tropic of Cancer，南回归线称作the Tropic of Capricorn)

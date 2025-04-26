@@ -4,7 +4,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# short-sightedness
 ##### 词义
 - 英：/ʃɔːt ˈsaɪtɪdnəs/； 美：/ʃɔːrt ˈsaɪtɪdnəs/
 - #词性/n  近视；短视

@@ -4,7 +4,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# investigative
 ##### 词义
 - 英：/ɪnˈvestɪɡətɪv/； 美：/ɪnˈvestɪɡeɪtɪv/
 - #词性/adj  侦查的；调查研究的

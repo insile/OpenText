@@ -5,7 +5,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# counterclockwise
 ##### 词义
 - 英：/ˌkaʊntəˈklɒkwaɪz/； 美：/ˌkaʊntərˈklɑːkwaɪz/
 - #词性/adj  反时针方向的；逆时针方向的

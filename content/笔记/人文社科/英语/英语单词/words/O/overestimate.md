@@ -4,7 +4,12 @@ tags:
   - 级别/高考四级
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# overestimate
 ##### 词义
 - 英：/ˌəʊvərˈestɪmeɪt , ˌəʊvərˈestɪmət/； 美：/ˌoʊvərˈestɪmeɪt , ˌoʊvərˈestɪmət/
 - #词性/vt  高估

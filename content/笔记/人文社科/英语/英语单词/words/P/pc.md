@@ -4,7 +4,12 @@ tags:
   - 级别/高考四级
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# pc
 ##### 词义
 - 英：/ ˌpiː ˈsiː /；美：/ ˌpiː ˈsiː /；
 - #词性/abbr 个人电脑（缩写自 Personal Computer）；百分比（缩写自 percent）

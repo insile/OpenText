@@ -5,7 +5,12 @@ tags:
   - 级别/托福
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# subsequently
 ##### 词义
 - 英：/ˈsʌbsɪkwəntli/； 美：/ˈsʌbsɪkwəntli/
 - #词性/adv  随后；之后；接着；后来

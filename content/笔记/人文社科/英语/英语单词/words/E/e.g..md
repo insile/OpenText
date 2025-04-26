@@ -4,7 +4,12 @@ tags:
   - 级别/小学
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# e.g.
 ##### 词义
 - 英：/iː dʒiː/； 美：/iː dʒiː/
 - #词性/abbr  例如（缩写自拉丁语 exempli gratia）（等于 for example）

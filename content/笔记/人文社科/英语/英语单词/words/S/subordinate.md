@@ -8,7 +8,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# subordinate
 ##### 词义
 - 英：/səˈbɔːdɪnət , səˈbɔːdɪneɪt/； 美：/səˈbɔːrdɪnət , səˈbɔːrdɪneɪt/
 - #词性/n  下属；下级；部属

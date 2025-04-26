@@ -4,7 +4,12 @@ tags:
   - 级别/雅思
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# pronounceable
 ##### 词义
 - 英：/prəˈnaʊnsəbl/； 美：/prəˈnaʊnsəbl/
 - #词性/adj  发音的；读得出的

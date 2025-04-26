@@ -4,7 +4,12 @@ tags:
   - 级别/中考
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# olympic
 ##### 词义
 - 英：/əˈlɪmpɪk/； 美：/əˈlɪmpɪk/
 - #词性/n  奥林匹克；奥林匹克运动会比赛项目；[用复数][the Olympics] = Olympic Games

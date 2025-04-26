@@ -4,7 +4,12 @@ tags:
   - 级别/托福
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# paradoxically
 ##### 词义
 - 英：/ˌpærə'dɒksɪkli/； 美：/ˌperə'dɑksɪkli/
 - #词性/adv  似乎近于怪论

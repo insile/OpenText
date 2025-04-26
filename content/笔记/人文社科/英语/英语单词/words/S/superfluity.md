@@ -4,7 +4,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# superfluity
 ##### 词义
 - 英：/ˌsuːpəˈfluːəti/； 美：/ˌsuːpərˈfluːəti/
 - #词性/n  多余；过剩；冗余

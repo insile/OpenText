@@ -4,7 +4,12 @@ tags:
   - 级别/高考四级
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# comparative
 ##### 词义
 - 英：/kəmˈpærətɪv/； 美：/kəmˈpærətɪv/
 - #词性/adj  比较的；相比的；相对的；比较级的(如better、worse、slower和more difficult)；比较而言的

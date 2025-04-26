@@ -5,7 +5,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# insurmountable
 ##### 词义
 - 英：/ˌɪnsəˈmaʊntəbl/； 美：/ˌɪnsərˈmaʊntəbl/
 - #词性/adj  不可逾越的；无法克服的；难以解决的

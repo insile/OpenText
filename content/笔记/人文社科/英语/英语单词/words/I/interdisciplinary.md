@@ -4,7 +4,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# interdisciplinary
 ##### 词义
 - 英：/ˌɪntədɪsəˈplɪnəri/； 美：/ˌɪntərˈdɪsəplɪneri/
 - #词性/adj  跨学科的；多学科的

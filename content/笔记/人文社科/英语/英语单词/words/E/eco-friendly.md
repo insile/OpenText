@@ -4,7 +4,12 @@ tags:
   - 级别/雅思
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# eco-friendly
 ##### 词义
 - 英：/ˌiːkəʊ ˈfrendli/； 美：/ˌiːkoʊ ˈfrendli/
 - #词性/adj  环保的；对环境无害的

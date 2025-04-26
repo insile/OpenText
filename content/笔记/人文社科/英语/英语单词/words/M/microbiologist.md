@@ -4,7 +4,12 @@ tags:
   - 级别/托福
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# microbiologist
 ##### 词义
 - 英：/ˌmaɪkrəʊbaɪˈɒlədʒɪst/； 美：/ˌmaɪkroʊbaɪˈɑːlədʒɪst/
 - #词性/n  微生物学家

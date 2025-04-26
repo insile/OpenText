@@ -5,7 +5,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# lexicographer
 ##### 词义
 - 英：/ˌleksɪˈkɒɡrəfə(r)/； 美：/ˌleksɪˈkɑːɡrəfər/
 - #词性/n  词典编纂者

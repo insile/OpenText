@@ -4,7 +4,12 @@ tags:
   - 级别/高考四级
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# dvd
 ##### 词义
 - 英：/ˌdiː viː ˈdiː/； 美：/ˌdiː viː ˈdiː/
 - #词性/abbr  数字视频光盘（缩写自 digital video disk）；数字多功能光盘（缩写自 digital versatile disk）

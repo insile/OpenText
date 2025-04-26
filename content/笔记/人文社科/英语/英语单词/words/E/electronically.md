@@ -4,7 +4,12 @@ tags:
   - 级别/高考四级
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# electronically
 ##### 词义
 - 英：/ɪˌlekˈtrɒnɪkli/； 美：/ɪˌlekˈtrɑːnɪkli/
 - #词性/adv  用电子装置；用电子方法

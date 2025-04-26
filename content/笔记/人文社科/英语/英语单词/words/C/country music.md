@@ -4,7 +4,12 @@ tags:
   - 级别/中考
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# country music
 ##### 词义
 - 英：/ ˈkʌntri mjuːzɪk /；美：/ ˈkʌntri mjuːzɪk /；
 - #词性/n  乡村音乐

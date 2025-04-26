@@ -5,7 +5,12 @@ tags:
   - 级别/GRE
 掌握: false
 模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 25
+到期日: 2025-01-01
 ---
+# introspective
 ##### 词义
 - 英：/ˌɪntrəˈspektɪv/； 美：/ˌɪntrəˈspektɪv/
 - #词性/adj  好内省的；好反省的
