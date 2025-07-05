@@ -6,7 +6,6 @@
   以结构化的基础科学知识开放文本库为目标
 </h4>
 
-[![Page Views Count](https://badges.toozhao.com/badges/01JMEBA4P9VNMBCWZ71RDWTD85/green.svg)](https://badges.toozhao.com/stats/01JMEBA4P9VNMBCWZ71RDWTD85)
 ![GitHub Repo stars](https://img.shields.io/github/stars/insile/OpenText)
 
 - 网页: https://opentext.net.cn/
