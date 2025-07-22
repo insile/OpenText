@@ -7,6 +7,7 @@
 </h4>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/insile/OpenText)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Finsile%2FOpenText&label=Visitors&icon=github&color=%23cfe2ff&message=&style=flat&tz=Asia%2FShanghai)
 
 - 网页: https://opentext.net.cn/
 - 作者: [项阳](https://github.com/insile), [Cyletix](https://github.com/Cyletix) 
