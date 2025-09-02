@@ -1,0 +1,22 @@
+filters:
+  and:
+    - file.path.startsWith("笔记/人文社科/英语/英语单词/words/")
+views:
+  - type: table
+    name: 英语单词
+    order:
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 掌握
+      - 模糊
+      - 间隔
+      - 到期日
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.到期日: 209
+    imageAspectRatio: 0.95
+    cardSize: 250
