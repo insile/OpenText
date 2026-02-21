@@ -1,0 +1,327 @@
+
+filters:
+  and:
+    - file.folder.startsWith("笔记/人文社科/英语/英语单词/words")
+    - file.tags.contains("级别/高考四级")
+views:
+  - type: table
+    name: 高考四级
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.A
+    filters:
+      and:
+        - file.basename.startsWith("a")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.B
+    filters:
+      and:
+        - file.basename.startsWith("b")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.C
+    filters:
+      and:
+        - file.basename.startsWith("c")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.D
+    filters:
+      and:
+        - file.basename.startsWith("d")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.E
+    filters:
+      and:
+        - file.basename.startsWith("e")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.F
+    filters:
+      and:
+        - file.basename.startsWith("f")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.G
+    filters:
+      and:
+        - file.basename.startsWith("g")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.H
+    filters:
+      and:
+        - file.basename.startsWith("h")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.I
+    filters:
+      and:
+        - file.basename.startsWith("i")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.J
+    filters:
+      and:
+        - file.basename.startsWith("j")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.K
+    filters:
+      and:
+        - file.basename.startsWith("k")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.L
+    filters:
+      and:
+        - file.basename.startsWith("l")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.M
+    filters:
+      and:
+        - file.basename.startsWith("m")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.N
+    filters:
+      and:
+        - file.basename.startsWith("n")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.O
+    filters:
+      and:
+        - file.basename.startsWith("o")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.P
+    filters:
+      and:
+        - file.basename.startsWith("p")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.Q
+    filters:
+      and:
+        - file.basename.startsWith("q")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.R
+    filters:
+      and:
+        - file.basename.startsWith("r")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.S
+    filters:
+      and:
+        - file.basename.startsWith("s")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.T
+    filters:
+      and:
+        - file.basename.startsWith("t")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.U
+    filters:
+      and:
+        - file.basename.startsWith("u")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.V
+    filters:
+      and:
+        - file.basename.startsWith("v")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.W
+    filters:
+      and:
+        - file.basename.startsWith("w")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.X
+    filters:
+      and:
+        - file.basename.startsWith("x")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.Y
+    filters:
+      and:
+        - file.basename.startsWith("y")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 高考四级.Z
+    filters:
+      and:
+        - file.basename.startsWith("z")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日

@@ -1,0 +1,327 @@
+
+filters:
+  and:
+    - file.folder.startsWith("笔记/人文社科/英语/英语单词/words")
+    - file.tags.contains("级别/GRE")
+views:
+  - type: table
+    name: GRE
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.A
+    filters:
+      and:
+        - file.basename.startsWith("a")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.B
+    filters:
+      and:
+        - file.basename.startsWith("b")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.C
+    filters:
+      and:
+        - file.basename.startsWith("c")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.D
+    filters:
+      and:
+        - file.basename.startsWith("d")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.E
+    filters:
+      and:
+        - file.basename.startsWith("e")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.F
+    filters:
+      and:
+        - file.basename.startsWith("f")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.G
+    filters:
+      and:
+        - file.basename.startsWith("g")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.H
+    filters:
+      and:
+        - file.basename.startsWith("h")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.I
+    filters:
+      and:
+        - file.basename.startsWith("i")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.J
+    filters:
+      and:
+        - file.basename.startsWith("j")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.K
+    filters:
+      and:
+        - file.basename.startsWith("k")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.L
+    filters:
+      and:
+        - file.basename.startsWith("l")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.M
+    filters:
+      and:
+        - file.basename.startsWith("m")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.N
+    filters:
+      and:
+        - file.basename.startsWith("n")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.O
+    filters:
+      and:
+        - file.basename.startsWith("o")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.P
+    filters:
+      and:
+        - file.basename.startsWith("p")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.Q
+    filters:
+      and:
+        - file.basename.startsWith("q")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.R
+    filters:
+      and:
+        - file.basename.startsWith("r")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.S
+    filters:
+      and:
+        - file.basename.startsWith("s")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.T
+    filters:
+      and:
+        - file.basename.startsWith("t")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.U
+    filters:
+      and:
+        - file.basename.startsWith("u")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.V
+    filters:
+      and:
+        - file.basename.startsWith("v")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.W
+    filters:
+      and:
+        - file.basename.startsWith("w")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.X
+    filters:
+      and:
+        - file.basename.startsWith("x")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.Y
+    filters:
+      and:
+        - file.basename.startsWith("y")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: GRE.Z
+    filters:
+      and:
+        - file.basename.startsWith("z")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日

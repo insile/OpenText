@@ -1,0 +1,327 @@
+
+filters:
+  and:
+    - file.folder.startsWith("笔记/人文社科/英语/英语单词/words")
+    - file.tags.contains("级别/小学")
+views:
+  - type: table
+    name: 小学
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.A
+    filters:
+      and:
+        - file.basename.startsWith("a")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.B
+    filters:
+      and:
+        - file.basename.startsWith("b")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.C
+    filters:
+      and:
+        - file.basename.startsWith("c")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.D
+    filters:
+      and:
+        - file.basename.startsWith("d")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.E
+    filters:
+      and:
+        - file.basename.startsWith("e")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.F
+    filters:
+      and:
+        - file.basename.startsWith("f")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.G
+    filters:
+      and:
+        - file.basename.startsWith("g")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.H
+    filters:
+      and:
+        - file.basename.startsWith("h")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.I
+    filters:
+      and:
+        - file.basename.startsWith("i")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.J
+    filters:
+      and:
+        - file.basename.startsWith("j")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.K
+    filters:
+      and:
+        - file.basename.startsWith("k")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.L
+    filters:
+      and:
+        - file.basename.startsWith("l")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.M
+    filters:
+      and:
+        - file.basename.startsWith("m")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.N
+    filters:
+      and:
+        - file.basename.startsWith("n")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.O
+    filters:
+      and:
+        - file.basename.startsWith("o")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.P
+    filters:
+      and:
+        - file.basename.startsWith("p")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.Q
+    filters:
+      and:
+        - file.basename.startsWith("q")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.R
+    filters:
+      and:
+        - file.basename.startsWith("r")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.S
+    filters:
+      and:
+        - file.basename.startsWith("s")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.T
+    filters:
+      and:
+        - file.basename.startsWith("t")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.U
+    filters:
+      and:
+        - file.basename.startsWith("u")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.V
+    filters:
+      and:
+        - file.basename.startsWith("v")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.W
+    filters:
+      and:
+        - file.basename.startsWith("w")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.X
+    filters:
+      and:
+        - file.basename.startsWith("x")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.Y
+    filters:
+      and:
+        - file.basename.startsWith("y")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 小学.Z
+    filters:
+      and:
+        - file.basename.startsWith("z")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日

@@ -1,0 +1,327 @@
+
+filters:
+  and:
+    - file.folder.startsWith("笔记/人文社科/英语/英语单词/words")
+    - file.tags.contains("级别/中考")
+views:
+  - type: table
+    name: 中考
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.A
+    filters:
+      and:
+        - file.basename.startsWith("a")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.B
+    filters:
+      and:
+        - file.basename.startsWith("b")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.C
+    filters:
+      and:
+        - file.basename.startsWith("c")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.D
+    filters:
+      and:
+        - file.basename.startsWith("d")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.E
+    filters:
+      and:
+        - file.basename.startsWith("e")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.F
+    filters:
+      and:
+        - file.basename.startsWith("f")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.G
+    filters:
+      and:
+        - file.basename.startsWith("g")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.H
+    filters:
+      and:
+        - file.basename.startsWith("h")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.I
+    filters:
+      and:
+        - file.basename.startsWith("i")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.J
+    filters:
+      and:
+        - file.basename.startsWith("j")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.K
+    filters:
+      and:
+        - file.basename.startsWith("k")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.L
+    filters:
+      and:
+        - file.basename.startsWith("l")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.M
+    filters:
+      and:
+        - file.basename.startsWith("m")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.N
+    filters:
+      and:
+        - file.basename.startsWith("n")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.O
+    filters:
+      and:
+        - file.basename.startsWith("o")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.P
+    filters:
+      and:
+        - file.basename.startsWith("p")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.Q
+    filters:
+      and:
+        - file.basename.startsWith("q")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.R
+    filters:
+      and:
+        - file.basename.startsWith("r")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.S
+    filters:
+      and:
+        - file.basename.startsWith("s")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.T
+    filters:
+      and:
+        - file.basename.startsWith("t")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.U
+    filters:
+      and:
+        - file.basename.startsWith("u")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.V
+    filters:
+      and:
+        - file.basename.startsWith("v")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.W
+    filters:
+      and:
+        - file.basename.startsWith("w")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.X
+    filters:
+      and:
+        - file.basename.startsWith("x")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.Y
+    filters:
+      and:
+        - file.basename.startsWith("y")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
+  - type: table
+    name: 中考.Z
+    filters:
+      and:
+        - file.basename.startsWith("z")
+    order:
+      - 掌握
+      - file.name
+      - 易记因子
+      - 重复次数
+      - 间隔
+      - 到期日
