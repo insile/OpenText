@@ -1,7 +1,6 @@
-
 filters:
   and:
-    - file.folder.startsWith("笔记/人文社科/英语/英语单词/words")
+    - file.folder.startsWith("文档/人文社科/英语/英语单词/words")
     - file.tags.contains("级别/高考四级")
 views:
   - type: table
