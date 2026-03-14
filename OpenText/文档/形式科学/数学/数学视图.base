@@ -1,53 +1,51 @@
 filters:
   and:
-    - file.folder.startsWith("笔记/形式科学/数学")
+    - file.folder.startsWith("文档/形式科学/数学")
     - file.ext == "md"
 views:
   - type: table
-    name: 数学词条
-    filters:
-      and:
-        - 页面类型 == 1
-    order:
-      - file.name
-      - 创建时间
-      - 更新时间
-      - 页面类型
-      - 更新次数
-      - 准确率
-      - 完整度
-      - 阅读状态
-    sort:
-      - property: 准确率
-        direction: ASC
-  - type: table
     name: 数学视图
     order:
+      - 页面类型
       - file.name
       - 创建时间
       - 更新时间
-      - 页面类型
       - 更新次数
       - 准确率
       - 完整度
       - 阅读状态
     sort: []
     columnSize:
-      file.name: 198
       note.页面类型: 109
+      file.name: 198
       note.更新次数: 129
       note.准确率: 122
       note.完整度: 146
+  - type: table
+    name: 数学词条
+    filters:
+      and:
+        - 页面类型 == 1
+    order:
+      - 页面类型
+      - file.name
+      - 创建时间
+      - 更新时间
+      - 更新次数
+      - 准确率
+      - 完整度
+      - 阅读状态
+    sort: []
   - type: table
     name: 数学索引
     filters:
       and:
         - 页面类型 == 0
     order:
+      - 页面类型
       - file.name
       - 创建时间
       - 更新时间
-      - 页面类型
       - 更新次数
       - 准确率
       - 完整度
