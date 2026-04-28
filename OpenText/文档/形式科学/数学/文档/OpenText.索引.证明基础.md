@@ -1,0 +1,23 @@
+---
+创建时间: 2026-02-14
+更新时间: 2026-02-14
+页面类型: 0
+更新次数: 1
+准确率: 0
+完整度: 0
+阅读状态: 0
+---
+##### 证明基础 [^1][^2][^3][^4][^5]
+>[!cite] 学习各种证明方法, 通过逻辑推理和已知的公理, 定义, 定理验证某个命题或结论的正确性, 确保其在一定条件下必然成立
+- [[数学命题]] | [[数学定义]] | [[数学证明]] 
+- [[直接证明法]] | [[分类证明法]] | [[数学归纳法]] 
+- [[逆否证明法]] | [[归谬证明法]] | [[反例证明法]] 
+- [[存在性证明]] | [[唯一性证明]] 
+
+
+[^1]: _How to Prove It: A Structured Approach_, Daniel J. Velleman
+[^2]: _Book of Proof_, Richard Hammack
+[^3]: _Proofs_, Jay Cummings
+[^4]: _Mathematical Proofs: A Transition to Advanced Mathematics_, Gary Chartrand, Albert D. Polimeni, Ping Zhang
+[^5]: _The Art Of Proof_, Matthias Beck, Ross Geoghegan
+

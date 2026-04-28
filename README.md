@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="OpenText/文档/元文件/favicon.ico" alt="logo" width="200">
+  <img src="OpenText/文档/元文件/文档/OpenText.元文件.favicon.ico" alt="logo" width="200">
   <br>OpenText<br>
 </h1>
 <h4 align="center">

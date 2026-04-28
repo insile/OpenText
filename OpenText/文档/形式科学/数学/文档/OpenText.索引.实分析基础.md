@@ -1,0 +1,25 @@
+---
+创建时间: 2026-02-14
+更新时间: 2026-02-14
+页面类型: 0
+更新次数: 1
+准确率: 0
+完整度: 0
+阅读状态: 0
+---
+##### 实分析基础 [^1][^2][^3][^4][^5][^6][^7][^8]
+>[!cite] 分析实数与实函数
+- [[实数]] | [[欧氏空间]] 
+- [[序列]] | [[实函数]] 
+- [[微积分]] | [[微分方程]] 
+
+
+[^1]: _陶哲轩实分析_, 陶哲轩
+[^2]: _Thomas’ Calculus: Early Transcendentals_, George B. Thomas
+[^3]: _Advanced Calculus_, Lynn Loomis, Shlomo Sternberg
+[^4]: _Mathematical Analysis_, Vladimir A. Zorich
+[^5]: _Ordinary Differential Equations_, Morris Tenenbaum
+[^6]: _Ordinary Differential Equations_, V. I. Arnold
+[^7]: _Partial Differential Equations: An Introduction_, Walter A. Strauss
+[^8]: _Partial Differential Equations_, Lawrence C. Evans
+
