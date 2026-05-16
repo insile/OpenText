@@ -1,17 +1,24 @@
-<h1 align="center">
-  <img src="OpenText/文档/元文件/文档/OpenText.元文件.favicon.ico" alt="logo" width="200">
-  <br>OpenText<br>
-</h1>
-<h4 align="center">
-  以结构化的基础科学知识开放文本库为目标
-</h4>
+<div align="center" >
+  <h1 style="margin: 0em 0 1em; border: none;">
+    <img src="OpenText/文档/元文件/文档/OpenText.元文件.favicon.ico" width="200" style="display: block; margin: 0 auto;">
+    <br>OpenText<br>
+  </h1>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/insile/OpenText)
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Finsile%2FOpenText&label=Visitors&icon=github&color=%23cfe2ff&message=&style=flat&tz=Asia%2FShanghai)
+  <p style="text-align: center; margin: 0.6em 0 1.2em;">
+    <a href="https://opentext.net.cn/">网页</a> |
+    <a href="https://github.com/insile/OpenText">仓库</a> |
+    <a href="https://github.com/insile/OpenWords">插件</a> |
+    <a href="https://discord.gg/kgWPWqbPr5">联系</a>
+	<br>
+	<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 协议国际版</a>
+	<br>
+	作者 : <a href="https://github.com/insile">项阳</a> | <a href="https://github.com/Cyletix">Cyletix</a><br>
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/github/stars/insile/OpenText" alt="GitHub Repo stars">
+    <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Finsile%2FOpenText&label=Visitors&icon=github&color=%23cfe2ff&message=&style=flat&tz=Asia%2FShanghai" alt="Visitors Badge">
+  </p>
+</div>
 
-- 网页: https://opentext.net.cn/
-- 作者: [项阳](https://github.com/insile), [Cyletix](https://github.com/Cyletix) 
-- 许可: [知识共享署名-非商业性使用-相同方式共享 4.0 协议国际版](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
-- 插件: [OpenWords 单词管理](https://github.com/insile/OpenWords)
-- 联系: [Discord](https://discord.gg/kgWPWqbPr5) 
-- 说明: **OpenText** 是一个开放结构化的公共知识库, 文本文件位于本仓库 `OpenText` 目录, 下载或克隆后可用 [Obsidian](https://obsidian.md/) 作为仓库直接读取, 如果您第一次使用可参考其[帮助文档](https://publish.obsidian.md/help-zh/%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B). 文本内容目前由作者协作编写, 如果我们的内容帮助到了您, 欢迎点亮本仓库 `star`, 赠人玫瑰, 手有余香, 我们将尽力持续更新, 同时请注意, 受限于作者知识水平, 一定存在一些错误, 遗漏或不准确信息, 而且内容并不代表所有作者认同, 欢迎沟通交流提供反馈或参与协作. 最后我们希望看到更多的人以相同形式分享自己拥有的知识或信息, 这更有效率也是传递共享精神
+- **OpenText** 是一个开放结构化的公共知识库, 由一系列相互链接的文本文件构成. 文档文件位于项目 `OpenText` 目录, 下载后可用 `Obsidian` 作为仓库直接读取. 目前, 文档内容由作者协作编写维护, 如果这些内容对您有所帮助, 欢迎为本仓库点亮 `star`, 赠人玫瑰, 手有余香, 我们也将尽力持续更新. 同时请注意, 受限于作者的知识水平, 一定存在一些错误, 遗漏或不准确的信息, 而且文中的内容并不代表所有作者的共同立场, 欢迎沟通交流提供反馈或参与协作. 我们希望看到更多的人以相同形式分享自己拥有的知识或信息, 这更有效率也是传递共享精神. 在信息时代, 最值得也是最容易实现公有的, 不是工厂机器, 不是土地资源, 而是知识本身, 知识共产是真正实现共产主义的必要条件. 本文档以构建结构化的基础科学知识开放文本库为目标, 致力于降低知识门槛, 促进知识共建与共享. 当然我对人性不抱有任何理想化期待, 只将本文档视作一次探索, 既不奢望人类变得无私高尚, 也不愿容忍知识继续被权力与话语体系垄断污染. 另外, 我还想说的是, 就算人类穷尽世间所有规律又能如何, 依然无法回避生存, 意义, 情感与伦理等更深层次的问题. 我已经厌倦于将所有问题简化为生产力的发展逻辑, 厌倦于将当下具体的人不断推迟到一个假想的, 更为合理的未来之中. 由于文档内容具有一定敏感性, 公开传播可能会面临各种不可控的风险, 所以我只能在条件允许的情况下, 尽力记录并保留更多的内容
